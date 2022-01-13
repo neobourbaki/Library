@@ -1,0 +1,10 @@
+\begin{document}
+
+(Newton-Leibniz) Let $f: I\to \RR $ be a continuous function on 
+an interval $I\subseteq \RR$, and suppose $f$ is differentiable, 
+and $f'$ is continuous, on $(a,b)\subseteq I$. Then
+$$
+f(b) = f(a) + \int_a^b f'(x)\,dx
+$$
+
+\end{document}
