@@ -1,0 +1,24 @@
+\begin{document}
+
+\begin{proof}
+Assume $a<b$. Let $(a=a_0<a_1<a_2<\ldots <a_n=b) be a partition,
+and by the mean value theorem, we have on each $[a_i, a_{i+1}],
+$$
+f(a_{i+1})-f(a_i) = f'(c_i)\, (a_{i+1}-a_i)
+$$
+for some $c_i\in (a_i, a_{i+1})$. It follows that
+
+\begin{aligned}
+f(b)-f(a) &= \sum_{i=0}^{n-1} f(a_{i+1}) - f(a_i)
+&= \sum_{i=0}^{n-1} f'(c_i)\, (a_{i+1}-a_i)
+end{aligned}
+In the limit of the parition becoming finer, the right hand side
+approaches the integral
+$$
+\int_{a}^b f'(x)\,dx.
+$$
+by continuity of $f'$.
+
+\end{proof}
+
+\end{document}
