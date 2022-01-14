@@ -2,28 +2,28 @@
 
 \begin{proof}
 
-Consider the two sides of 
+Consider
 $$
-f(b) = f(a) + \int_a^b f'(x)\,dx 
+F(b) := f(b) - \int_a^b f'(x)\,dx 
 $$
-as functions of $b\in I$, with $a$ fixed.
+as a function of $b\in I$, with $a$ fixed. It is enough to 
+show that $F$ is constant on $I$, for then 
+$$
+F(b) = F(a) = f(a).
+$$
 
-To establish the equality of the two functions, we shall only 
-need that
-\begin{enumerate}
-\item they are equal at a single point;
-\item they are differentiable, and the derivatives are equal 
-for all $b$ in the interior of $I$;
-\end{enumerate}
-as a consequence of the mean value theorem.
-
-Indeed, (1) is immediate: the two sides are equal at $b=a$; 
-and (2) follows from 
+Indeed, by another version of the Fundamental Theorem of Calculus,
 $$
-\frac{d}{db}\int_a^b g(x)\,dx = g(b)
+F'(b) = f'(b) - \frac{d}{db}\int_a^n f'(x)\, dx = f'(b) - f'(b) = 0
 $$
-for any continuous function $g$, which is also known as 
-the Fundamental Theorem of Calculus.
+at any $b$ in the interior of $I$, while $F$ is continuous on all $I$. 
+Now, by the mean value theorem applied to the interval between any 
+two points $c<d$ in $I$, 
+there exists $\xi\in (c,d)$ such that
+$$
+F(d) - F(c) = F'(\xi)\, (d-c) = 0
+$$
+Therefore, $F$ is constant on $I$.
 
 \end{proof}
 
