@@ -1,0 +1,6 @@
+{
+    "formula": {
+        0: "\frac{d}{dx}\int_a^x f(t)\,dt = f(x)" 
+    },
+    "depends": []
+}

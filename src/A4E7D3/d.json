@@ -1,0 +1,9 @@
+{
+    "formula": {
+        0: "f(b) = f(a) + \int_a^b f'(x)\,dx",
+        1: "f(b) - f(a) = \int_a^b f'(x)\,dx",
+        2: "\int_a^b f'(x)\,dx = f(b) - f(a)"
+    },
+    "depends": []
+}
+
