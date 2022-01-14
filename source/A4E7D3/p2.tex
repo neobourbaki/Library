@@ -2,26 +2,28 @@
 
 \begin{proof}
 
-Let $y\in [a,b]$, and consider the more general statement
+Consider the two sides of 
 $$
-f(y) = f(a) + \int_a^y f'(x)\,dx 
+f(b) = f(a) + \int_a^b f'(x)\,dx 
 $$
-and regard both sides as functions of $y$, with $a$ fixed.
+as functions of $b\in I$, with $a$ fixed.
 
-To establish the equality for all $y$, we shall only need
+To establish the equality of the two functions, we shall only 
+need that
 \begin{enumerate}
-\item the two sides are equal at a single point;
+\item they are equal at a single point;
 \item they are differentiable, and the derivatives are equal 
-for all $y\in (a,b)$;
+for all $b$ in the interior of $I$;
 \end{enumerate}
 as a consequence of the mean value theorem.
 
-1) is immediate: the two sides are equal at $y=a$;
-
-2) is also known as the Fundamental Theorem of Calculus, namely
+Indeed, (1) is immediate: the two sides are equal at $b=a$; 
+and 2) follows from 
 $$
-\frac{d}{dy}\int_a^y f'(x)\,dx = f'(y)
+\frac{d}{db}\int_a^b g(x)\,dx = g(b)
 $$
+for any continuous function $g$, which is also known as 
+the Fundamental Theorem of Calculus.
 
 \end{proof}
 
