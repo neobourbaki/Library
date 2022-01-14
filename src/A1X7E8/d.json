@@ -1,4 +1,5 @@
 {
+    "name": "mean value theorem",
     "formula": {
         0: [
             "\frac{f(b)-f(a)}{b-a}=f'(\xi)",
