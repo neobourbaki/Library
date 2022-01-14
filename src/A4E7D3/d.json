@@ -1,9 +1,14 @@
 {
     "formula": {
-        0: "f(b) = f(a) + \int_a^b f'(x)\,dx",
-        1: "f(b) - f(a) = \int_a^b f'(x)\,dx",
-        2: "\int_a^b f'(x)\,dx = f(b) - f(a)"
+        0: [
+            "f(b) = f(a) + \int_a^b f'(x)\,dx",
+            "f(b) - f(a) = \int_a^b f'(x)\,dx",
+            "\int_a^b f'(x)\,dx = f(b) - f(a)"
+        ]
     },
-    "depends": []
+    "depends": [],
+    "proofs": {
+        "p1": [],
+        "p2": []
+    }
 }
-
