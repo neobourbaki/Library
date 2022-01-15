@@ -4,17 +4,17 @@
 
 Let 
 $$
-F(b) := f(b) - \int_a^b f'(x)\,dx 
+F(b) := f(b) - f(a) - \int_a^b f'(x)\,dx 
 $$
 as a function on $I$, with $a$ fixed. It is enough to 
-show that $F_a$ is constant on $I$, for then 
+show that $F$ is constant on $I$, for then 
 $$
-F(b) = F(a) = f(a).
+F(b) = F(a) = f(a) - f(a) = 0.
 $$
 
 Indeed, by another version of the Fundamental Theorem of Calculus,
 $$
-F'(b) = f'(b) - \frac{d}{db}\int_a^b f'(x)\, dx = f'(b) - f'(b) = 0
+F'(b) = f'(b) - \frac{d}{db}\int_a^b f'(x)\,dx = f'(b) - f'(b) = 0
 $$
 at any $b$ in the interior of $I$, while $F$ is continuous on all $I$. 
 Now, let $c<d$ be any two points of $I$, and the mean value theorem 
