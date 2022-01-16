@@ -1,13 +1,18 @@
 {
     "name": "mean value theorem",
     "formula": {
-        0: [
+        "0": [
             "\frac{f(b)-f(a)}{b-a}=f'(\xi)",
             "f(b)-f(a)=f'(\xi)\,(b-a)"
         ]
     },
     "depends": [],
     "proofs": {
-        
+        "p1": {
+            "1345342": "extreme value theorem"
+        },
+        "p2": {
+            "A4E7D3": "Fundamental Theorem of Calculus"
+        }
     }
 }

@@ -5,9 +5,22 @@
             "\left| f(b) - \sum_{k=0}^{n-1} \frac{f^{(k)}(a)}{k!}(b-a)^k | \leq \frac{M}{n!}|b-a|^n"
         ]
     },
-    "depends": [],
+    "depends": [
+        "12343": "real numbers",
+        "453212": "continuous function of real numbers",
+        "342341": "derivative of real functions"
+    ],
     "proofs": {
-        "p1": ["A3N8I1"],
-        "p2": ["A4E7D3"]
+        "p1": {
+            "A3N8I1": "Lagrange remainder"
+        },
+        "p2": {
+            "A4E7D3": "Fundamental Theorem of Calculus",
+            "34312": "integrals of real functions"
+        },
+        "p3": {
+            "A4E7D3": "Fundamental Theorem of Calculus",
+            "34312": "integrals of real functions"
+        }
     }
 }

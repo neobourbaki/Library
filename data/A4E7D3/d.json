@@ -1,7 +1,7 @@
 {
     "name": "Fundamental Theorem of Calculus",
     "formula": {
-        0: [
+        "0": [
             "f(b) = f(a) + \int_a^b f'(x)\,dx",
             "f(b) - f(a) = \int_a^b f'(x)\,dx",
             "\int_a^b f'(x)\,dx = f(b) - f(a)"
