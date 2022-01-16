@@ -1,0 +1,14 @@
+{
+    "name": "Taylor's theorem with Lagrange remainder",
+    "formula": {
+        "0": [
+            "f(b) = \sum_{k=0}^{n-1} \frac{f^{(k)}(a)}{k!}(b-a)^k + \frac{f^{(n)}(\xi)}{n!}(b-a)^n"
+        ]
+    },
+    "depends": [
+
+    ],
+    "proofs": {
+        "p1": ["A1X7E8"]
+    }
+}

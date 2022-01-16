@@ -1,0 +1,13 @@
+{
+    "name": "Taylor's theorem",
+    "formula": {
+        "0": [
+            "\left| f(b) - \sum_{k=0}^{n-1} \frac{f^{(k)}(a)}{k!}(b-a)^k | \leq \frac{M}{n!}|b-a|^n"
+        ]
+    },
+    "depends": [],
+    "proofs": {
+        "p1": ["A3N8I1"],
+        "p2": ["A4E7D3"]
+    }
+}
