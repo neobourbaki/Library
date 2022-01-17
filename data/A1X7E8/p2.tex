@@ -1,11 +1,18 @@
 \begin{document}
 
-\begin{proof} (Under the assumption that $f$ is continuously differentiable.)
-By the Fundamental Theorem of Calculus,
+\begin{proof} Assume in addition that $f'$ is continuous.
+With the Fundamental Theorem of Calculus,
 $$
 f(b)-f(a) = \int_a^b f'(x)\,dx = f'(\xi)\,(b-a)
 $$
-for some $\xi$, by the intermediate value theorem. Indeed,
+for some $\xi$, as a consequence of the intermediate 
+value theorem. Indeed, unless $f'$ is constant, in which case 
+$$
+f'(\xi)=\frac{1}{b-a}\int_a^b f'(t)\,dt
+$$
+for all $\xi$, it must assume a value more, and also another value less, 
+than this mean value, somewhere on the interval $(a,b)$.
+
 
 \end{proof}
 

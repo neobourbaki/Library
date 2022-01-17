@@ -1,10 +1,21 @@
 \begin{document}
 
 \begin{proof}
-First, the case that $f(a)=f(b)$ (known as Rolle's Theorem) 
+The case that $f(a)=f(b)$ (known as Rolle's Theorem) 
 is a consequence of the Extreme Value Theorem.
 
-Now, 
+In general, let $L:[a,b]\to\RR$ be a linear function 
+with $L(a)=f(a)$ and $L(b)=f(b)$, i.e.,
+$$
+L(x):=f(a) + \frac{f(b)-f(a)}{b-a}(x-a)
+$$
+Then the difference $h(x):=f(x)-L(x)$ satisfies the conditions 
+of Rolle's Theorem, so that there exists $\xi\in(a,b)$ such 
+that 
+$$
+0=h'(\xi)=f'(\xi)-\frac{f(b)-f(a)}{b-a}
+$$
+
 \end{proof}
 
 \end{document}
