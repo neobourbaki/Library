@@ -6,9 +6,9 @@
         ]
     },
     "depends": [
-        "12343": "real numbers",
-        "453212": "continuous function of real numbers",
-        "342341": "derivative of real functions"
+        "123434": "real numbers",
+        "453212": "continuous functions of real numbers",
+        "342341": "derivatives of real functions"
     ],
     "proofs": {
         "p1": {
@@ -16,7 +16,7 @@
         },
         "p2": {
             "A4E7D3": "Fundamental Theorem of Calculus",
-            "34312": "integrals of real functions"
+            "34312": "integrals of continuous functions"
         },
         "p3": {
             "A4E7D3": "Fundamental Theorem of Calculus",

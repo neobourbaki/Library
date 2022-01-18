@@ -6,10 +6,10 @@
         ]
     },
     "depends": {
-        "12343": "real numbers",
-        "453212": "continuous function of real numbers",
-        "342341": "derivative of real functions",
-        "34312": "integrals of real functions"
+        "123432": "real numbers",
+        "453212": "continuous function of a real variable",
+        "342341": "derivative // of function of a real variable",
+        "343123": "integrals // of continuous function of a real variable"
     },
     "proofs": {
         "p1": {},

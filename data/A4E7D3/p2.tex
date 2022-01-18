@@ -4,25 +4,24 @@
 
 Let 
 $$
-F(b) := f(b) - f(a) - \int_a^b f'(x)\,dx 
+g(x) := f(x) - \int_a^x f'(t)\,dt 
 $$
-as a function of $b\in I$, with $a$ fixed. It is enough to 
-show that $F$ is constant on $I$, for then 
+as a function of $x\in I$, with $a$ fixed. It is enough to 
+show that $g$ is constant on $I$, for then 
 $$
-F(b) = F(a) = f(a) - f(a) = 0.
+g(b) = g(a) = f(a) - 0.
 $$
 
 Indeed, by another version of the Fundamental Theorem of Calculus,
 $$
-F'(b) = f'(b) - \frac{d}{db}\int_a^b f'(x)\,dx = f'(b) - f'(b) = 0
+g'(x) = f'(x) - \frac{d}{dx}\int_a^x f'(t)\,dt = f'(x) - f'(x) = 0
 $$
-at any $b$ in the interior of $I$, while $F$ is continuous on all $I$. 
-Now, let $c<d$ be any two points of $I$, and the mean value theorem 
-implies that there exists $\xi\in (c,d)$ such that
+at any $x\in I$. Now, let $c<d$ be any two points of $I$, and the 
+mean value theorem implies that there exists $\xi\in (c,d)$ such that
 $$
-F(d) - F(c) = F'(\xi)\, (d-c) = 0
+g(d) - g(c) = g'(\xi)\, (d-c) = 0
 $$
-which means that $F$ is constant on $I$.
+which means that $g$ is constant on $I$.
 
 \end{proof}
 
