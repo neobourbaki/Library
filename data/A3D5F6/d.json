@@ -7,9 +7,9 @@
     },
     "depends": {
         "123432": "real numbers",
-        "453212": "continuous function of a real variable",
-        "342341": "derivative // of function of a real variable",
-        "343123": "integrals // of continuous function of a real variable"
+        "453212": "continuous function // of a real variable",
+        "342341": "derivative // of a function of a real variable",
+        "343123": "integral // of a continuous function of a real variable"
     },
     "proofs": {
         "p1": {},

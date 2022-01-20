@@ -1,0 +1,16 @@
+{
+    "name": "mean value theorem for integrals",
+    "formulas": {
+        "0": "\int_a^b f(x)\,dx = f(\xi)\,(b-a)"
+    },
+    "depends": {
+        "123434": "real numbers",
+        "453212": "continuous function // of a real variable",
+        "334324": "integral // of a continuous function of a real variable"
+    },
+    "proofs": {
+        "p1": {
+            "asdf": "intermediate value theorem"
+        }
+    }
+}

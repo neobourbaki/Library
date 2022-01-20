@@ -1,0 +1,25 @@
+\begin{document}
+
+\begin{proof}
+By definition of the derivative, we need to prove that 
+$$
+\int_x^{x+h} f(t)\,dt = f(x)\, h + o(h)
+$$
+as $h\to 0$. Indeed, by continuity of $f(t)$ (at $t=x$), for 
+any $\epsilon>0$ we may choose $\delta$ such that
+$$
+f(x)-\epsilon<f(t)<f(x)+\epsilon
+$$
+for $|t-x|<\delta$. Integrating $f(t)$ from $x$ to $x+h$, with 
+$0<h<\delta$, we have
+$$
+(f(x)-\epsilon)\, h < \int_x^{x+h} f(t)\,dt < (f(x)+\epsilon)\, h
+$$
+(and similarly for $-\delta<h<0$), which implies that 
+$$
+\int_x^{x+h} f(t)\,dt = f(x)\,h + o(h)
+$$
+
+\end{proof}
+
+\end{document}
