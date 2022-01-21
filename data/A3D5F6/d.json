@@ -12,7 +12,9 @@
         "343123": "integral // of a continuous function of a real variable"
     },
     "proofs": {
-        "p1": {},
+        "p1": {
+            "A0N8Y7": "epsilon-delta for continuity"
+        },
         "p2": {
             "A4E7D3": "Fundamental Theorem of Calculus"
         }
