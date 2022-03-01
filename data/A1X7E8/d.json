@@ -2,8 +2,8 @@
     "name": "mean value theorem",
     "formula": {
         "0": [
-            "\frac{f(b)-f(a)}{b-a}=f'(\xi)",
-            "f(b)-f(a)=f'(\xi)\,(b-a)"
+            "\\frac{f(b)-f(a)}{b-a}=f'(\\xi)",
+            "f(b)-f(a)=f'(\\xi)\\,(b-a)"
         ]
     },
     "depends": [],

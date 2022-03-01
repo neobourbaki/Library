@@ -3,7 +3,7 @@
 \begin{proof}
 By definition of the derivative, we need to prove that 
 $$
-\lim_{h\to 0} \left(\frac{1}{h}\int_x^{x+h} f(t)\,dt) = f(x)
+\lim_{h\to 0} \frac{1}{h}\int_x^{x+h} f(t)\,dt = f(x)
 $$
 
 Indeed, by continuity of $f(t)$ (at fixed $x$), for 
@@ -11,16 +11,16 @@ any $\epsilon>0$ we may choose $\delta$ such that
 $$
 f(x)-\epsilon<f(t)<f(x)+\epsilon
 $$
-for $|t-x|<\delta$. Integrating $f(t)$ from $x$ to $x+\delta$, we have
+for $|t-x|<\delta$. Integrating $f(t)$ from $x$ to $x+h$, $0<h<\delta$, we have
 $$
-(f(x)-\epsilon)\, \delta < \int_x^{x+\delta} f(t)\,dt < (f(x)+\epsilon)\, \delta
+(f(x)-\epsilon)\, h < \int_x^{x+h} f(t)\,dt < (f(x)+\epsilon)\, h
 $$
-, which implies that
+which implies that
 $$
-\left| \frac{1}{\delta}\int_x^{x+\delta} f(t)\,dt - f(x) \right| < \epsilon
+\left| \frac{1}{h}\int_x^{x+h} f(t)\,dt - f(x) \right| < \epsilon
 $$
-(and similarly for the integral to $x-\delta$). That is, the same $\epsilon$ establishes 
-the claimed limit.
+(and similarly for the integral from $x$ to $x-h$). That is, the same 
+$\delta$ establishes the claimed limit.
 
 \end{proof}
 

@@ -1,7 +1,7 @@
 {
     "name": "mean value theorem for integrals",
     "formulas": {
-        "0": "\int_a^b f(x)\,dx = f(\xi)\,(b-a)"
+        "0": "\\int_a^b f(x)\\,dx = f(\\xi)\\,(b-a)"
     },
     "depends": {
         "123434": "real numbers",
