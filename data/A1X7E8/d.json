@@ -6,7 +6,11 @@
             "f(b)-f(a)=f'(\\xi)\\,(b-a)"
         ]
     },
-    "depends": [],
+    "depends": {
+        "123432": "real numbers",
+        "453212": "continuous function // of a real variable",
+        "342341": "derivative // of a function of a real variable"
+    },
     "proofs": {
         "p1": {
             "1345342": "extreme value theorem"
