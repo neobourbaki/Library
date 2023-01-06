@@ -4,5 +4,5 @@ $\xi$ in between $a$ and $b$ such that
 
 $$
 f(b) = \sum_{k=0}^{n-1} \frac{f^{(k)}(a)}{k!}(b-a)^k + 
-\frac{f^{(n)}(\xi)}{n!}(b-a)^n
+\frac{f^{(n)}(\xi)}{n!}(b-a)^n .
 $$
