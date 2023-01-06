@@ -1,5 +1,5 @@
-Let $f:I\to\mathbb R$ be a function on an interval $I\subseteq \mathbb R$, 
-and that $f$ is continuous at $x_0\in I$, then for any $\epsilon>0$ 
+Let $f:I\to\mathbb R$ be a function on an interval $I\subseteq \mathbb R$. 
+Then $f$ is continuous at $x_0\in I$ if and only if for any $\epsilon>0$ 
 there exists $\delta>0$ (depending on $\epsilon$) such that 
 
 $$
