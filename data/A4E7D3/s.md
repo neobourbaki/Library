@@ -1,7 +1,8 @@
-Let $f: I\to \RR $ be a continuous function on 
-an interval $I\subseteq \RR$, and suppose that $f$ is differentiable 
-and that $f'$ is continuous on the interior of $\subseteq I$. Then
+Let $f: [a,b]\to \mathbb{R} $ be a function on 
+an interval $[a,b] \subset \mathbb{R}$. Suppose 
+that $f$ is differentiable on $[a,b]$ and that $f'$ is 
+continuous on $(a,b)$. Then
+
 $$
-f(b) = f(a) + \int_a^b f'(x)\,dx
+f(b) = f(a) + \int_a^b f'(x)\,dx.
 $$
-for any $a, b\in I$.
