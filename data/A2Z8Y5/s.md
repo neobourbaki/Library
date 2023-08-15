@@ -3,5 +3,5 @@ $[a,b] \subset \mathbb{R}$, then there exists $\xi\in (a,b)$
 such that 
 
 $$
-\int_a^b f(x)\,dx = f(\xi)\,(b-a).
+\int_a^b f(x)\\,dx = f(\xi)\\,(b-a).
 $$
