@@ -1,7 +1,7 @@
 The $n$-dimensional volume of the $n$-ball 
 
 $$
-B_r := \\{ (x_1,\ldots,x_n) \in \mathbb{R}^n\,:\, x_1^2 + \cdots + x_n^2 \leq r^2 \\}
+B_r := \\{ (x_1,\ldots,x_n) \in \mathbb{R}^n\\,:\\, x_1^2 + \cdots + x_n^2 \leq r^2 \\}
 $$
 
 of radius $r>0$ is given by 
