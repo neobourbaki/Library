@@ -1,6 +1,6 @@
-(Fundamental Theorem of Calculus) Let $f: I \to \mathbb{R}$ be a function on 
-an open interval $I \subset \mathbb{R}$. Suppose that $f$
-is differentiable with $f'$ continuous on $I$, then
+(Fundamental Theorem of Calculus) Let $f: I \to \mathbb{R}$ be
+continuously differentiable a function on an open interval
+$I \subset \mathbb{R}$. Then,
 
 $$
 f(b) = f(a) + \int_a^b f'(x)\\,dx
