@@ -1,5 +1,5 @@
 (Fundamental Theorem of Calculus) Let $f: I \to \mathbb{R}$ be
-continuously differentiable a function on an open interval
+a continuously differentiable function on an open interval
 $I \subset \mathbb{R}$. Then,
 
 $$
