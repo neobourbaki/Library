@@ -1,6 +1,7 @@
-Let $f: I\to\mathbb R$ be an $n$-times differentiable function on an open 
-interval $I\subseteq\mathbb R$, then for any $a,b\in I$, there exists 
-$\xi$ in between $a$ and $b$ such that
+Let $f: [a, b]\to\mathbb R$ be a function on a closed interval 
+$[a, b]\subset\mathbb R$, and suppose that $f', f'', \ldots, f^{(n-1)}$ exist
+and are continuous on $[a, b]$, and $f^{(n)}$ exists on $(a, b)$, then there exists 
+$\xi\in (a, b)$ such that
 
 $$
 f(b) = \sum_{k=0}^{n-1} \frac{f^{(k)}(a)}{k!}(b-a)^k + 
