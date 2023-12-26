@@ -14,7 +14,7 @@ $$
 and by evaluating the integrals of the constant terms, we obtain the identity
 
 $$
-f(b) = f(a) + f'(a) (b-a) + f''(a)\frac{(b-a)^2}{2} +  \int_a^b\! \int_{a}^{x_1}\!\! \int_{a}^{x_2} f'''(x_3)\\,dx_3 dx_2 dx_1
+f(b) = f(a) + f'(a) (b-a) + f''(a)\frac{(b-a)^2}{2} +  \int_a^b\\! \int_{a}^{x_1}\\!\\! \int_{a}^{x_2} f'''(x_3)\\,dx_3 dx_2 dx_1
 $$
 
 for $f \in C^3$.
@@ -31,7 +31,7 @@ as the volume of a (right-angled) tetrahedron.
 This works verbatim for $f \in C^{n}$ for any $n\geq 1$:
 
 $$
-f(b) = \sum_{k=0}^{n-1}\frac{f^{(k)}(a)}{k!} (b-a}^k +  \int_{a}^{b}\! \int_{a}^{x_1}\!\!\!\!\cdots\! \int_{a}^{x_{n-1}} f^{(n)}(x_n)\\,dx_n\cdots dx_2 dx_1
+f(b) = \sum_{k=0}^{n-1}\frac{f^{(k)}(a)}{k!} (b-a}^k +  \int_{a}^{b}\\! \int_{a}^{x_1}\\!\\!\\!\\!\cdots\\! \int_{a}^{x_{n-1}} f^{(n)}(x_n)\\,dx_n\cdots dx_2 dx_1
 $$
 
 where the $n$-fold iterated integral is simply bounded by
@@ -43,7 +43,7 @@ $$
 as claimed; the only calculation being that, for each $k=1,\ldots,n$,
 
 $$
-\int_{a}^{b}\! \int_{a}^{x_1}\!\!\!\cdots\! \int_{a}^{x_{k-1}} dx_k\cdots dx_2 dx_1 = \frac{(b-a)^k}{k!}
+\int_{a}^{b}\\! \int_{a}^{x_1}\\!\\!\\!\cdots\\! \int_{a}^{x_{k-1}} dx_k\cdots dx_2 dx_1 = \frac{(b-a)^k}{k!}
 $$
 
-which is the "volume" of a particular ${tex`${k}`}-simplex.
+which is the "volume" of a particular $k$-simplex.
