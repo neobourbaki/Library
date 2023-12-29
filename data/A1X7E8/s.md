@@ -4,5 +4,5 @@ that $f$ is differentiable on $(a,b)$, then there exists
 $\xi\in (a,b)$ such that
 
 $$
-\frac{f(b)-f(a)}{b-a}=f'(\xi).
+f(b) = f(a) + f'(\xi) (b - a).
 $$
