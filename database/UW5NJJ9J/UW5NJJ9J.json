@@ -4,10 +4,10 @@
   "dependencies": {
     "4E41D57C": "real numbers",
     "453212": "continuous function of a real variable",
-    "342341": "derivatives of a function of a real variable"
+    "342341": "derivative of a function of a real variable"
   },
   "statements": {
-    "UW5NJJ9J_a": {
+    "UW5NJJ9J_1": {
       "language": "en",
       "comment": "",
     }
@@ -26,14 +26,14 @@
       "language": "en",
       "dependencies": {
         "A4E7D3": "Fundamental Theorem of Calculus",
-        "34312": "integrals of continuous functions"
+        "34312": "integral of a continuous function"
       }
     },
     "UW5NJJ9J_c": {
       "language": "en",
       "dependencies": {
         "A4E7D3": "Fundamental Theorem of Calculus",
-        "34312": "integrals of continuous functions"
+        "34312": "integral of a continuous function"
       }
     }
   }
