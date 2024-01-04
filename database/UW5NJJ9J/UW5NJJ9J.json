@@ -1,0 +1,40 @@
+{
+  "id": "UW5NJJ9J",
+  "name": "Taylor's theorem",
+  "dependencies": {
+    "4E41D57C": "real numbers",
+    "453212": "continuous function of a real variable",
+    "342341": "derivatives of a function of a real variable"
+  },
+  "statements": {
+    "UW5NJJ9J_a": {
+      "language": "en",
+      "comment": "",
+    }
+  }
+  "formula": [
+      "\\left| f(b) - \\sum_{k=0}^{n-1} \frac{f^{(k)}(a)}{k!}(b-a)^k | \\leq \frac{M}{n!}|b-a|^n"
+    ],
+  "proofs": {
+    "UW5NJJ9J_a": {
+      "language": "en",
+      "dependencies": {
+        "A3N8I1": "Taylor's theorem with Lagrange remainder",
+      }
+    },
+    "UW5NJJ9J_b": {
+      "language": "en",
+      "dependencies": {
+        "A4E7D3": "Fundamental Theorem of Calculus",
+        "34312": "integrals of continuous functions"
+      }
+    },
+    "UW5NJJ9J_c": {
+      "language": "en",
+      "dependencies": {
+        "A4E7D3": "Fundamental Theorem of Calculus",
+        "34312": "integrals of continuous functions"
+      }
+    }
+  }
+}
