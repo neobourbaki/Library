@@ -1,0 +1,35 @@
+{
+    "id": "4E41D57C",
+    "name": "real numbers",
+    "definitions": [
+        {
+            "id": "4E41D57C_0",
+            "description": "real numbers by decimal expansions",
+            "file": "4E41D57C_0.md",
+            "language": "en",
+            "dependencies": []
+        },
+        {
+            "id": "4E41D57C_1",
+            "description": "real numbers as Dedekind cuts",
+            "file": "4E41D57C_1.md",
+            "language": "en",
+            "dependencies": [],
+        },
+        {
+            "id": "4E41D57C_2",
+            "description": "real numbers as Cauchy sequences",
+            "file": "4E41D57C_2.md",
+            "language": "en",
+            "dependencies": [],
+        },
+        {
+            "id": "4E41D57C_3",
+            "description": "real numbers as complete Archimedean ordered field",
+            "file": "4E41D57C_3.md",
+            "language": "en",
+            "dependencies": [],
+        }
+    ],
+    "equivalences": []
+}
