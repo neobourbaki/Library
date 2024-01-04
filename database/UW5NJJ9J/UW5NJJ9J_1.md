@@ -1,4 +1,4 @@
-(Taylor's Theorem) Let $f: I \to \mathbb{R}$ be an $n$-times continuously
+(Taylor's theorem) Let $f: I \to \mathbb{R}$ be an $n$-times continuously
 differentiable function on an open interval $I \subseteq \mathbb{R}$. 
 Suppose that 
 
