@@ -19,10 +19,10 @@ $$
 g(b) = g(a) + g'(\xi)\\, (b-a) = g(a).
 $$
 
-By definition of $g$, we have
+It follows that
 
 $$
 f(b) - \int_{a}^{b} f'(t)\\,dt = f(a)
 $$
 
-as claimed.
+by the definition of $g$.
