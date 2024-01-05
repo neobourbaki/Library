@@ -23,7 +23,7 @@ g(b) &= g(a) + g'(\xi)\\, (b-a) \\\\
 \end{align*}
 $$
 
-Using the definition of $g$, we have
+Using the definition of $g$, we thus have
 
 $$
 f(b) - \int_{a}^{b} f'(t)\\,dt = f(a).
