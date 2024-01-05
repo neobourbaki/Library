@@ -40,7 +40,7 @@ $$
 \frac{M}{n!}|b-a|^n
 $$
 
-as claimed; the only calculation being that, for $k=1,\ldots,n$,
+as claimed; the only calculation incolved is that, for $k=1,\ldots,n$,
 
 $$
 \int_{a}^{b}\\! \int_{a}^{x_1}\\!\\!\\!\cdots\\! \int_{a}^{x_{k-1}} dx_k\cdots dx_2 dx_1 = \frac{(b-a)^k}{k!}
