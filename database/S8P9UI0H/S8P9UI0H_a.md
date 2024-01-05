@@ -9,7 +9,7 @@ $$
 for some $\xi_i\in (a_i, a_{i+1})$. It follows then that
 
 $$
-f(b)-f(a) = \sum_{i=0}^{n-1} f(a_{i+1}) - f(a_i) = \sum_{i=0}^{n-1} f'(\xi_i)\\, (a_{i+1}-a_i)
+f(b)-f(a) = \sum_{i=0}^{n-1} f(a_{i+1}) - f(a_i) = \sum_{i=0}^{n-1} f'(\xi_i)\\, (a_{i+1}-a_i).
 $$
 
 In the limit of the partition becoming infinitely fine, the right-hand side
