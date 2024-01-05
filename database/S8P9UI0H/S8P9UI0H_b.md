@@ -16,7 +16,10 @@ at any $x\in I$. By the mean value theorem, there exists
 $\xi\in (a, b)$ such that
 
 $$
-g(b) = g(a) + g'(\xi)\\, (b-a) = g(a).
+\begin{align*}
+g(b) &= g(a) + g'(\xi)\\, (b-a) \\\\
+&= g(a).
+\end{align*}
 $$
 
 It follows that
