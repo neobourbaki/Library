@@ -19,4 +19,4 @@ $$
 \int_a^b f'(x)\\,dx
 $$
 
-by the continuity of $f'$.
+by Riemann's definition of the integral.
