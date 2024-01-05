@@ -18,14 +18,13 @@ $\xi\in (a, b)$ such that
 $$
 \begin{align*}
 g(b) &= g(a) + g'(\xi)\\, (b-a) \\\\
-&= g(a).
+&= g(a) \\\\
+&= f(a).
 \end{align*}
 $$
 
-It follows that
+Using the definition of $g$, we have
 
 $$
-f(b) - \int_{a}^{b} f'(t)\\,dt = f(a)
+f(b) - \int_{a}^{b} f'(t)\\,dt = f(a).
 $$
-
-by the definition of $g$.
