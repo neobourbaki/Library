@@ -19,11 +19,15 @@
     "S8P9UI0H_a": {
       "language": "en",
       "dependencies": {
+        "asdf": "mean value theorem",
+        "sdfg": "continuous functions are integrable",
       }
     },
     "S8P9UI0H_b": {
       "language": "en",
       "dependencies": {
+        "qwer": "Fundamental Theorem of Calculus",
+        "wert": "mean value theorem",
       }
     },
   }
