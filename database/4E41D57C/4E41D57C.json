@@ -3,7 +3,7 @@
     "name": "real numbers",
     "definitions": [
         {
-            "id": "4E41D57C_0",
+            "id": "4E41D57C_a",
             "description": "real numbers by decimal expansions",
             "language": "en",
             "dependencies": {
@@ -11,7 +11,7 @@
             }
         },
         {
-            "id": "4E41D57C_1",
+            "id": "4E41D57C_b",
             "description": "real numbers as Dedekind cuts",
             "language": "en",
             "dependencies": {
@@ -19,7 +19,7 @@
             },
         },
         {
-            "id": "4E41D57C_2",
+            "id": "4E41D57C_c",
             "description": "real numbers as Cauchy sequences",
             "language": "en",
             "dependencies": {
@@ -27,7 +27,7 @@
             },
         },
         {
-            "id": "4E41D57C_3",
+            "id": "4E41D57C_d",
             "description": "real numbers as complete Archimedean ordered field",
             "language": "en",
             "dependencies": {
