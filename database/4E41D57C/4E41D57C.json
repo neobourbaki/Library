@@ -7,7 +7,7 @@
             "description": "real numbers by decimal expansions",
             "language": "en",
             "dependencies": {
-                "1234": "sequences in a set",
+                "1234": "sequences of elements in a set",
             }
         },
         {
@@ -15,7 +15,7 @@
             "description": "real numbers as Dedekind cuts",
             "language": "en",
             "dependencies": {
-                "2345": "subset of an infinite set",
+                "2345": "arbitrary subset of an infinite set",
             },
         },
         {
