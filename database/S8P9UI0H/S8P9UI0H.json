@@ -14,7 +14,8 @@
     }
   }
   "formula": [
-    ],
+      "f(b) = f(a) + \\int_{a}^{b} f'(x)\\,dx"
+  ],
   "proofs": {
     "S8P9UI0H_a": {
       "language": "en",
