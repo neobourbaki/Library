@@ -5,30 +5,34 @@
         {
             "id": "4E41D57C_0",
             "description": "real numbers by decimal expansions",
-            "file": "4E41D57C_0.md",
             "language": "en",
-            "dependencies": []
+            "dependencies": {
+                "1234": "sequences in a set",
+            }
         },
         {
             "id": "4E41D57C_1",
             "description": "real numbers as Dedekind cuts",
-            "file": "4E41D57C_1.md",
             "language": "en",
-            "dependencies": [],
+            "dependencies": {
+                "2345": "subset of an infinite set",
+            },
         },
         {
             "id": "4E41D57C_2",
             "description": "real numbers as Cauchy sequences",
-            "file": "4E41D57C_2.md",
             "language": "en",
-            "dependencies": [],
+            "dependencies": {
+                "2345": "Cauchy sequences",
+            },
         },
         {
             "id": "4E41D57C_3",
             "description": "real numbers as complete Archimedean ordered field",
-            "file": "4E41D57C_3.md",
             "language": "en",
-            "dependencies": [],
+            "dependencies": {
+                "ASDF": "uniqueness of complete Archimedean ordered field"
+            },
         }
     ],
     "equivalences": []
