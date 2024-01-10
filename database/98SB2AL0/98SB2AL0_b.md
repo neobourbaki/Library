@@ -1,6 +1,6 @@
 A function $f: I \to \mathbb{R}$ on an interval $I \subseteq \mathbb{R}$ 
-is *differentiable at* $x_0 \in I$ if there exists a continuous function 
-$L:I\to\mathbb R$ such that
+is *differentiable at* $x_0 \in I$ if there exists a function 
+$L:I\to\mathbb R$, continuous at $x_0$, such that
 
 $$
 f(x) = f(x_0) + L(x) (x-x_0)
