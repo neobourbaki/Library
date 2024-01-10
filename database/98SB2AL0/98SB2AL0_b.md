@@ -1,0 +1,11 @@
+A function $f: I \to \mathbb{R}$ on an interval $I \subseteq \mathbb{R}$ 
+is *differentiable at* $x_0 \in I$ if there exists a continuous function 
+$L:I\to\mathbb R$ such that
+
+$$
+f(x) = f(x_0) + L(x) (x-x_0)
+$$
+
+The value $L(x_0)$ is called the *derivative of* $f$ *at* $x_0$. If $f$ is 
+differentiable at all $x_0\in I$, we say that $f$ is *differentiable* (on $I$),
+and the deritative is a function from $I$ to $\mathbb R$.
