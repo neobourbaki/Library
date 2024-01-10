@@ -1,5 +1,5 @@
 A function $f: I \to \mathbb{R}$ on an interval $I \subseteq \mathbb{R}$
-is *continuous at* $x_0 \in I$ if for $\epsilon > 0$, there 
+is *continuous at* $x_0 \in I$ if for any $\epsilon > 0$, there 
 exists $\delta$ such that
 
 $$
