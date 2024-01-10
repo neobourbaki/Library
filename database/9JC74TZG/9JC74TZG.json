@@ -1,0 +1,23 @@
+{
+  "id": "9JC74TZG",
+  "name": "continuous function",
+  "dependencies": {
+    "4E41D57C": "real numbers",
+  },
+  "definitions": {
+    "9JC74TZG_a": {
+      "language": "en",
+      "dependencies": {
+      },
+      "comment": "epsilon-delta definition",
+    },
+    "9JC74TZG_b": {
+      "language": "en",
+      "dependencies": {
+      },
+      "comment": "topological definition",
+    }
+  }
+  "equivalences": {
+  }
+}
