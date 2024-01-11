@@ -8,4 +8,4 @@ $$
 
 The value $L(x_0)$ is called the *derivative of* $f$ *at* $x_0$. If $f$ is 
 differentiable at all $x_0\in I$, we say that $f$ is *differentiable* (on $I$),
-and the derivative is a function from $I$ to $\mathbb R$.
+and the derivative is a function from $I$ to $\mathbb R$, denoted $f'$.
