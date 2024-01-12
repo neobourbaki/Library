@@ -1,6 +1,6 @@
 (Taylor's theorem) Let $f: I \to \mathbb{R}$ be an $n$-times continuously
-differentiable function on an open interval $I \subseteq \mathbb{R}$. 
-Suppose that 
+differentiable function on an open interval $I \subseteq \mathbb{R}$, and
+suppose that 
 
 $$
 \left| f^{(n)}(x) \right| \leq M
