@@ -6,16 +6,16 @@
     },
     "definitions": {
         "8A9M00AK_a": {
-        "language": "en",
-        "dependencies": {
-        },
-        "comment": "as pairs of real numbers",
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "as pairs of real numbers",
         },
         "8A9M00AK_b": {
-        "language": "en",
-        "dependencies": {
-        },
-        "comment": "as field extension",
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "as field extension",
         }
     }
     "equivalences": {
