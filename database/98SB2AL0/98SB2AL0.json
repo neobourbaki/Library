@@ -1,25 +1,25 @@
 {
-  "id": "98SB2AL0",
-  "name": "derivative of a function of a real variable",
-  "dependencies": {
-    "4E41D57C": "real numbers",
-  },
-  "definitions": {
-    "98SB2AL0_a": {
-      "language": "en",
-      "dependencies": {
-        "asdf": "limit",
-      },
-      "comment": "",
+    "id": "98SB2AL0",
+    "name": "derivative of a function of a real variable",
+    "dependencies": {
+        "4E41D57C": "real numbers",
     },
-    "98SB2AL0_b": {
-      "language": "en",
-      "dependencies": {
-        "9JC74TZG": "continuity",
-      },
-      "comment": "",
+    "definitions": {
+        "98SB2AL0_a": {
+            "language": "en",
+            "dependencies": {
+                "asdf": "limit",
+            },
+            "comment": "",
+        },
+        "98SB2AL0_b": {
+            "language": "en",
+            "dependencies": {
+                "9JC74TZG": "continuity",
+            },
+            "comment": "",
+        },
     }
-  }
-  "equivalences": {
-  }
+    "equivalences": {
+    }
 }
