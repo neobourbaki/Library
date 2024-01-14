@@ -19,4 +19,4 @@ $$
 \int_a^b f'(x)\\,dx
 $$
 
-by Riemann's definition of the integral.
+by definition of the Riemann integral.
