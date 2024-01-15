@@ -19,5 +19,5 @@ An LLM can be a great tool to
 1. take a LaTeX file of a mathematical paper or textbook, and render all the definitions
 and propositions into a graph of dependencies;
 
-1. rephrase a `definition` or `theorem` if any term is unfamiliar to the user, by replacing
-any mention of that term by (one of) its `definition`, as a coherent sentence.
+1. rephrase a `definition` or `theorem` or its proofs, if any term is unfamiliar to the user, by replacing
+any mention of that term by (one of) its `definition`, into a coherent definition or statement / proof.
