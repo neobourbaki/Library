@@ -1,23 +1,23 @@
 {
-  "id": "",
-  "name": "****",
-  "dependencies": {
-    "4E41D57C": "real numbers",
-  },
-  "definitions": {
-    "****_a": {
-      "language": "en",
-      "dependencies": {
-      },
-      "comment": "",
+    "id": "****",
+    "name": "",
+    "dependencies": {
+        "4E41D57C": "real numbers",
     },
-    "****_b": {
-      "language": "en",
-      "dependencies": {
-      },
-      "comment": "",
+    "definitions": {
+        "****_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "",
+        },
+        "****_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "",
+        }
     }
-  }
-  "equivalences": {
-  }
+    "equivalences": {
+    }
 }
