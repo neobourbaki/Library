@@ -24,5 +24,5 @@ $$
 \left| \frac{1}{h}\int_x^{x+h} f(t)\\,dt - f(x) \right| < \epsilon
 $$
 
-which established the claimed limit as $h\to 0$ from the right. A similar argument
-with $0 > h > -\delta$ works for the limit from the left.
+which establishes the claimed limit as $h\to 0$ from the right. A similar 
+argument with $-\delta < h < 0$ yields the limit from the left.
