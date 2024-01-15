@@ -15,9 +15,9 @@
             "language": "en",
             "dependencies": {
             },
-            "comment": "as field extension",
-        }
-    }
+            "comment": "by field extension",
+        },
+    },
     "equivalences": {
-    }
+    },
 }
