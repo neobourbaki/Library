@@ -1,40 +1,44 @@
 {
-  "id": "UW5NJJ9J",
-  "name": "Taylor's theorem",
-  "dependencies": {
-    "4E41D57C": "real numbers",
-    "9JC74TZG": "continuous function of a real variable",
-    "98SB2AL0": "derivative of a function of a real variable"
-  },
-  "statements": {
-    "UW5NJJ9J_1": {
-      "language": "en",
-      "comment": "",
+    "id": "UW5NJJ9J",
+    "name": "Taylor's theorem",
+    "dependencies": {
+        "4E41D57C": "real numbers",
+        "9JC74TZG": "continuous function of a real variable",
+        "98SB2AL0": "derivative of a function of a real variable"
+    },
+    "statements": {
+        "UW5NJJ9J_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "",
+        }
     }
-  }
-  "formula": [
-      "\\left| f(b) - \\sum_{k=0}^{n-1} \frac{f^{(k)}(a)}{k!}(b-a)^k | \\leq \frac{M}{n!}|b-a|^n"
+    "formula": [
+        "\\left| f(b) - \\sum_{k=0}^{n-1} \frac{f^{(k)}(a)}{k!}(b-a)^k | \\leq \frac{M}{n!}|b-a|^n"
     ],
-  "proofs": {
-    "UW5NJJ9J_a": {
-      "language": "en",
-      "dependencies": {
-        "A3N8I1": "Taylor's theorem with Lagrange remainder",
-      }
+    "proofs": {
+        "UW5NJJ9J_a": {
+            "language": "en",
+            "dependencies": {
+                "A3N8I1": "Taylor's theorem with Lagrange remainder",
+            }
+        },
+        "UW5NJJ9J_b": {
+            "language": "en",
+            "dependencies": {
+                "S8P9UI0H": "Fundamental Theorem of Calculus",
+                "1CNT5UVL": "integral of a continuous function"
+            },
+            "comment": "repeated application of FTC",
+        },
+        "UW5NJJ9J_c": {
+            "language": "en",
+            "dependencies": {
+                "S8P9UI0H": "Fundamental Theorem of Calculus",
+                "1CNT5UVL": "integral of a continuous function"
+            },
+            "comment": "",
+        },
     },
-    "UW5NJJ9J_b": {
-      "language": "en",
-      "dependencies": {
-        "S8P9UI0H": "Fundamental Theorem of Calculus",
-        "34312": "integral of a continuous function"
-      }
-    },
-    "UW5NJJ9J_c": {
-      "language": "en",
-      "dependencies": {
-        "S8P9UI0H": "Fundamental Theorem of Calculus",
-        "34312": "integral of a continuous function"
-      }
-    }
-  }
 }
