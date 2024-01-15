@@ -7,10 +7,10 @@ subject to the following restrictions:
 
 - Various definitions are bundled into one if they are referring to the same object (function, number, etc.) in the
 same generality, scope, etc.
-- Various statements are bundled into one theorem if they have the same hypothesis and conclusion. It's meant to 
-demonstrate the different proofs that employ different sets of `definition`s and `theorem`s.
+- Various statements are bundled into one theorem if they have the same hypothesis and conclusion; it's meant to 
+host different proofs that employ different sets of `definition`s and `theorem`s.
 
-A third type of nodes might be `example`s, but let's see if we could make use of `theorem`s as much as possible.
+A third type of nodes might be `example`s, but let's make use of `theorem`s as much as possible.
 
 ## Assitance by an LLM
 
