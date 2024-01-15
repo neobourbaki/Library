@@ -4,19 +4,20 @@
     "dependencies": {
         "1234": "complex numbers",
         "2345": "holomorphic functions",
-        "3456": "integral of a complex function along a loop",
+        "3456": "integral of a complex function along a path",
         "4566": "homotopic",
     },
     "statements": {
         "UW7HQDX4_1": {
             "language": "en",
-            "comments": "",
+            "comment": "",
         },
     "proofs": {
         "UW7HQDX4_a": {
             "language": "en",
             "dependencies": {
             },
+            "comment": "",
         },
     },
 }
