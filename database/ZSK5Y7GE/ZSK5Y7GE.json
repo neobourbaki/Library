@@ -1,24 +1,25 @@
 {
-  "id": "ZSK5Y7GE",
-  "name": "Fundamental Theorem of Calculus",
-  "dependencies": {
-    "4E41D57C": "real numbers",
-    "98SB2AL0": "derivative",
-    "1CNT5UVL": "integral",
-  },
-  "statements": {
-    "ZSK5Y7GE_1": {
-      "language": "en",
-      "comment": "",
-    }
-  }
-  "formula": [
-    ],
-  "proofs": {
-    "UW5NJJ9J_a": {
-      "language": "en",
-      "dependencies": {
-      }
+    "id": "ZSK5Y7GE",
+    "name": "Fundamental Theorem of Calculus",
+    "dependencies": {
+        "4E41D57C": "real numbers",
+        "98SB2AL0": "derivative",
+        "1CNT5UVL": "integral",
     },
-  }
+    "statements": {
+        "ZSK5Y7GE_1": {
+            "language": "en",
+            "comment": "",
+        },
+    },
+    "formula": [
+    ],
+    "proofs": {
+        "ZSK5Y7GE_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "",
+        },
+    },
 }
