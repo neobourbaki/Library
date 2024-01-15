@@ -1,35 +1,35 @@
 {
-  "id": "S8P9UI0H",
-  "name": "Fundamental Theorem of Calculus",
-  "dependencies": {
-    "4E41D57C": "real numbers",
-    "9JC74TZG": "continuous function of a real variable",
-    "98SB2AL0": "derivative of a function of a real variable",
-    "1CNT5UVL": "integral of a continuous function",
-  },
-  "statements": {
-    "S8P9UI0H_1": {
-      "language": "en",
-      "comment": "",
+    "id": "S8P9UI0H",
+    "name": "Fundamental Theorem of Calculus",
+    "dependencies": {
+        "4E41D57C": "real numbers",
+        "9JC74TZG": "continuous function of a real variable",
+        "98SB2AL0": "derivative of a function of a real variable",
+        "1CNT5UVL": "integral of a continuous function",
+    },
+    "statements": {
+        "S8P9UI0H_1": {
+            "language": "en",
+            "comment": "",
+        }
     }
-  }
-  "formula": [
-      "f(b) = f(a) + \\int_{a}^{b} f'(x)\\,dx"
-  ],
-  "proofs": {
-    "S8P9UI0H_a": {
-      "language": "en",
-      "dependencies": {
-        "asdf": "mean value theorem",
-        "sdfg": "Riemann sum approaches the integral",
-      }
-    },
-    "S8P9UI0H_b": {
-      "language": "en",
-      "dependencies": {
-        "ZSK5Y7GE": "Fundamental Theorem of Calculus",
-        "wert": "mean value theorem",
-      }
-    },
-  }
+    "formula": [
+        "f(b) = f(a) + \\int_{a}^{b} f'(x)\\,dx"
+    ],
+    "proofs": {
+        "S8P9UI0H_a": {
+            "language": "en",
+            "dependencies": {
+                "asdf": "mean value theorem",
+                "sdfg": "Riemann sum approaches the integral",
+            }
+        },
+        "S8P9UI0H_b": {
+            "language": "en",
+            "dependencies": {
+                "ZSK5Y7GE": "Fundamental Theorem of Calculus",
+                "wert": "mean value theorem",
+            }
+        },
+    }
 }
