@@ -11,7 +11,7 @@
             "language": "en",
             "dependencies": {
             },
-            "comment": "",
+            "comment": ""
         }
     },
     "formula": [
@@ -22,7 +22,8 @@
             "language": "en",
             "dependencies": {
                 "asdf": "Taylor's theorem with Lagrange remainder",
-            }
+            },
+            "comment": ""
         },
         "UW5NJJ9J_b": {
             "language": "en",
@@ -30,7 +31,7 @@
                 "S8P9UI0H": "Fundamental Theorem of Calculus",
                 "1CNT5UVL": "integral of a continuous function"
             },
-            "comment": "repeated application of FTC",
+            "comment": "repeated application of FTC"
         },
         "UW5NJJ9J_c": {
             "language": "en",
@@ -38,7 +39,7 @@
                 "S8P9UI0H": "Fundamental Theorem of Calculus",
                 "1CNT5UVL": "integral of a continuous function"
             },
-            "comment": "repeated application of FTC",
+            "comment": "repeated application of FTC"
         },
     },
 }
