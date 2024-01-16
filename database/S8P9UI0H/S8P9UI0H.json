@@ -17,7 +17,7 @@
     },
     "formula": [
         "f(b) = f(a) + \\int_{a}^{b} f'(x)\\,dx",
-        "\\int_{a}^{b} f'(x)\\,dx = f(b) - f(a)",
+        "\\int_{a}^{b} f'(x)\\,dx = f(b) - f(a)"
     ],
     "proofs": {
         "S8P9UI0H_a": {
