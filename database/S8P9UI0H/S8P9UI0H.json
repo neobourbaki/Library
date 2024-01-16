@@ -5,14 +5,16 @@
         "4E41D57C": "real numbers",
         "9JC74TZG": "continuous function of a real variable",
         "98SB2AL0": "derivative of a function of a real variable",
-        "1CNT5UVL": "integral of a continuous function",
+        "1CNT5UVL": "integral of a continuous function"
     },
     "statements": {
         "S8P9UI0H_1": {
             "language": "en",
-            "comment": "",
+            "dependencies": {
+            },
+            "comment": ""
         }
-    }
+    },
     "formula": [
         "f(b) = f(a) + \\int_{a}^{b} f'(x)\\,dx"
     ],
@@ -21,15 +23,17 @@
             "language": "en",
             "dependencies": {
                 "asdf": "mean value theorem",
-                "sdfg": "Riemann sum approaches the integral",
-            }
+                "sdfg": "Riemann sum approaches the integral"
+            },
+            "comment": ""
         },
         "S8P9UI0H_b": {
             "language": "en",
             "dependencies": {
                 "ZSK5Y7GE": "Fundamental Theorem of Calculus",
-                "wert": "mean value theorem",
-            }
-        },
+                "asdf": "mean value theorem"
+            },
+            "comment": ""
+        }
     }
 }
