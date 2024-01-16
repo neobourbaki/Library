@@ -2,22 +2,24 @@
     "id": "9JC74TZG",
     "name": "continuous function of a real variable",
     "dependencies": {
-        "4E41D57C": "real numbers",
+        "4E41D57C": "real numbers"
     },
     "definitions": {
         "9JC74TZG_a": {
             "language": "en",
             "dependencies": {
             },
-            "comment": "epsilon-delta definition",
+            "comment": "epsilon-delta definition"
         },
         "9JC74TZG_b": {
             "language": "en",
             "dependencies": {
+                "asdf": "standard topology",
+                "sdfg": "subspace topology"
             },
-            "comment": "topological definition",
+            "comment": "topological definition"
         }
-    }
+    },
     "equivalences": {
     }
 }
