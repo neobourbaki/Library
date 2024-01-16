@@ -21,7 +21,7 @@
         "UW5NJJ9J_a": {
             "language": "en",
             "dependencies": {
-                "asdf": "Taylor's theorem with Lagrange remainder",
+                "asdf": "Taylor's theorem with Lagrange remainder"
             },
             "comment": ""
         },
@@ -40,6 +40,6 @@
                 "1CNT5UVL": "integral of a continuous function"
             },
             "comment": "repeated application of FTC"
-        },
-    },
+        }
+    }
 }
