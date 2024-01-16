@@ -22,7 +22,7 @@
         "1DUN1Q71_c": {
             "language": "en",
             "dependencies": {
-                "4567": "Cauchy-Riemann operator",
+                "4567": "Cauchy-Riemann operator"
             },
             "comment": "satisfies the Cauchy-Riemann equation"
         }
