@@ -5,32 +5,32 @@
         "4E41D57C_a": {
             "language": "en",
             "dependencies": {
-                "1234": "sequences of elements in a set",
+                "1234": "sequences of elements in a set"
             },
-            "comment": "as decimal expansions",
+            "comment": "as decimal expansions"
         },
         "4E41D57C_b": {
             "language": "en",
             "dependencies": {
-                "2345": "arbitrary subset of an infinite set",
+                "2345": "arbitrary subset of an infinite set"
             },
-            "comment": "Dedekind cuts",
+            "comment": "Dedekind cuts"
         },
         "4E41D57C_c": {
             "language": "en",
             "dependencies": {
-                "2345": "Cauchy sequences",
+                "2345": "Cauchy sequence"
             },
-            "comment": "equivalence classes of Cauchy sequences",
+            "comment": "equivalence classes of Cauchy sequences"
         },
         "4E41D57C_d": {
             "language": "en",
             "dependencies": {
                 "ASDF": "uniqueness of complete Archimedean ordered field"
             },
-            "comment": "real numbers as complete Archimedean ordered field",
-        },
+            "comment": "real numbers as complete Archimedean ordered field"
+        }
     },
     "equivalences": {
-    },
+    }
 }
