@@ -4,19 +4,22 @@
     "dependencies": {
         "8A9M00AK": "complex numbers",
         "1DUN1Q71": "holomorphic function",
-        "1234": "accumulation point",
+        "1234": "accumulation point"
     },
     "statements": {
         "XF6GBLUB_1": {
-        "language": "en",
-        "comment": "",
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
         }
     },
     "proofs": {
         "XF6GBLUB_a": {
             "language": "en",
             "dependencies": {
-            }
-        },
+            },
+            "comment": ""
+        }
     }
 }
