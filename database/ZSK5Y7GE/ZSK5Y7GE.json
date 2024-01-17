@@ -3,8 +3,9 @@
     "name": "Fundamental Theorem of Calculus",
     "dependencies": {
         "4E41D57C": "real numbers",
-        "98SB2AL0": "derivative",
-        "1CNT5UVL": "integral",
+        "9JC74TZG": "continuous function of a real variable",
+        "1CNT5UVL": "integral of a continuous function"
+        "98SB2AL0": "derivative of a function of a real variable",
     },
     "statements": {
         "ZSK5Y7GE_1": {
@@ -13,13 +14,14 @@
         },
     },
     "formula": [
+        "\frac{d}{dx} \int_{a}{x} f(t)\\,dt = f(x)"
     ],
     "proofs": {
         "ZSK5Y7GE_a": {
             "language": "en",
             "dependencies": {
             },
-            "comment": "",
+            "comment": ""
         },
     },
 }
