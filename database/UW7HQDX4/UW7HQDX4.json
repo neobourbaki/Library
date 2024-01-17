@@ -2,22 +2,26 @@
     "id": "UW7HQDX4",
     "name": "Cauchy's Integral Theorem",
     "dependencies": {
-        "1234": "complex numbers",
-        "2345": "holomorphic functions",
+        "8A9M00AK": "complex numbers",
+        "1DUN1Q71": "holomorphic functions",
         "3456": "integral of a complex function along a path",
-        "4566": "homotopic",
+        "4566": "homotopic"
     },
     "statements": {
         "UW7HQDX4_1": {
             "language": "en",
             "comment": "",
-        },
+        }
+    }
+    "formula": [
+        " \\int_\\gamma f(z)\\,dz = 0 ''
+    ],
     "proofs": {
         "UW7HQDX4_a": {
             "language": "en",
             "dependencies": {
             },
             "comment": "",
-        },
-    },
+        }
+    }
 }
