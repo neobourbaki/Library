@@ -14,7 +14,7 @@
         }
     },
     "formula": [
-        " \\int_\\gamma f(z)\\,dz = 0 ''
+        "\\int_\\gamma f(z)\\,dz = 0"
     ],
     "proofs": {
         "UW7HQDX4_a": {
