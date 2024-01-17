@@ -13,10 +13,10 @@ $$
 at any $x\in I$. By the mean value theorem, there exists $\xi\in (a, b)$ such that
 
 $$
-\begin{align*}
+\begin{aligned}
 g(b) &= g(a) + g'(\xi)\\, (b-a) \\\\
 &= g(a).
-\end{align*}
+\end{aligned}
 $$
 
 With the definition of $g$, we thus have
