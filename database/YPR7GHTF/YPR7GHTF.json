@@ -1,0 +1,32 @@
+{
+    "id": "YPR7GHTF",
+    "name": "",
+    "dependencies": {
+        "8A9M00AK": "complex numbers",
+        "1234": "sine as a complex function",
+        "1DUN1Q71": "holomorphic / analytic function of a complex variable"
+    },
+    "statements": {
+        "YPR7GHTF_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "YPR7GHTF_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "YPR7GHTF_b": {
+            "language": "en",
+            "dependencies": {
+                "XF6GBLUB": "principle of analytic continuation",
+            },
+            "comment": ""
+        }
+    }
+}
