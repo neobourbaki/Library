@@ -12,7 +12,7 @@
             "language": "en",
             "comment": "",
         }
-    }
+    },
     "formula": [
         " \\int_\\gamma f(z)\\,dz = 0 ''
     ],
