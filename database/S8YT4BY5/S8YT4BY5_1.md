@@ -4,4 +4,4 @@ $$
 f(z) = \sum_{n=0}^\infty \frac{f^{(n)}(z_0)}{n!}(z - z_0)^n
 $$
 
-for all $z$ with $$|z - z_0| < R$$, where $R > 0$ satisfies $D(z_0, R) \subseteq U$.
+for all $z$ with $|z - z_0| < R$, with $R > 0$ satisfying $D(z_0, R) \subseteq U$.
