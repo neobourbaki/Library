@@ -6,4 +6,4 @@ $$
 \frac{d}{dx}\int_a^x f(t)\\,dt = f(x)
 $$
 
-on $I$.
+for all $x \in I$.
