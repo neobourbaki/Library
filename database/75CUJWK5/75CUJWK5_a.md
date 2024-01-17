@@ -1,0 +1,1 @@
+A function $f: U \to \mathbb{C}$ on a domain $U \subseteq \mathbb{C}$ is *meromorphic* if there is a discrete set $Z \subset U$ such that $f$ is holomorphic on $U \setminus Z$, and $f$ has a pole at each point $z_0 \in Z$.
