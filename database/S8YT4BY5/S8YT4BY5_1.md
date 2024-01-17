@@ -1,7 +1,7 @@
-The Taylor series of a holomorphic function $f: U \to \mathbb{C}$ at any $z_0 \in U$ converges to $f$ in any disk centered at $z_0$ that is contained in $U$, i.e.,
+Let $f: U \to \mathbb{C}$ be a holomorphic function on a domain $U \subseteq \mathbb{C}$, and $z_0 \in U$ and $R > 0$ is such that the disk $D(z_0, R)$ is contained in $U$. Then the Taylor series of $f$ at $z_0$ converges to $f$ on $D(z_0, R)$, i.e.,
 
 $$
 f(z) = \sum_{n=0}^\infty \frac{f^{(n)}(z_0)}{n!}(z - z_0)^n
 $$
 
-for all $z$ with $|z - z_0| < R$, with $R > 0$ satisfying $D(z_0, R) \subseteq U$.
+for all $z \in D(z_0, R)$.
