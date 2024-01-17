@@ -1,0 +1,24 @@
+{
+    "id": "S8YT4BY5",
+    "name": "Taylor's theorem for holomorphic functions",
+    "dependencies": {
+        "8A9M00AK": "complex numbers",
+        "1DUN1Q71": "holomorphic / analytic function of a complex variable"
+    },
+    "statements": {
+        "S8YT4BY5_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "S8YT4BY5_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}
