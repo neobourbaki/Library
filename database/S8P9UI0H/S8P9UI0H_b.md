@@ -14,7 +14,8 @@ at any $x\in I$. By the mean value theorem, there exists $\xi\in (a, b)$ such th
 
 $$
 \begin{aligned}
-g(b) &= g(a) + g'(\xi)\\, (b-a) \\\\
+g(b) &= g(a) + \underbrace{g'(\xi)} \\, (b-a) \\\\
+& \qquad\qquad\quad\\, 0 \\\\
 &= g(a).
 \end{aligned}
 $$
