@@ -5,13 +5,15 @@
         "4E41D57C": "real numbers",
         "9JC74TZG": "continuous function of a real variable",
         "1CNT5UVL": "integral of a continuous function"
-        "98SB2AL0": "derivative of a function of a real variable",
+        "98SB2AL0": "derivative of a function of a real variable"
     },
     "statements": {
         "ZSK5Y7GE_1": {
             "language": "en",
-            "comment": "",
-        },
+            "dependencies": {
+            },
+            "comment": ""
+        }
     },
     "formula": [
         "\\frac{d}{dx} \\int_{a}{x} f(t)\\,dt = f(x)"
@@ -22,6 +24,6 @@
             "dependencies": {
             },
             "comment": ""
-        },
-    },
+        }
+    }
 }
