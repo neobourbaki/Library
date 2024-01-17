@@ -1,0 +1,33 @@
+{
+    "id": "75CUJWK5",
+    "name": "meromorphic function of a complex variable",
+    "dependencies": {
+        "8A9M00AK": "complex numbers"
+    },
+    "statements": {
+        "75CUJWK5_a": {
+            "language": "en",
+            "dependencies": {
+                "1DUN1Q71": "holomorphic / analytic function of a complex variable",
+                "1234": "pole"
+            },
+            "comment": "holomorphic except poles"
+        },
+        "75CUJWK5_b": {
+            "language": "en",
+            "dependencies": {
+                "2345": "Laurent series"
+            },
+            "comment": "finite Laurent series"
+        },
+        "75CUJWK5_a": {
+            "language": "en",
+            "dependencies": {
+                "1DUN1Q71": "holomorphic / analytic function of a complex variable"
+            },
+            "comment": "quotient of holomorphic functions"
+        }
+    },
+    "equivalences": {
+    }
+}
