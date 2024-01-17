@@ -1,0 +1,1 @@
+A function $f: U \to \mathbb{C}$ on a domain $U \subseteq \mathbb{C}$ if it is the quotient of two holomorphic functions, i.e., there exist holomorphic functions $g, h: U \to \mathbb{C}$ such that $f = g / h$.
