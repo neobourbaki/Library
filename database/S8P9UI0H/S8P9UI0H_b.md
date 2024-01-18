@@ -10,8 +10,4 @@ $$
 g'(x) = f'(x) - \frac{d}{dx}\int_a^x f'(t)\\,dt = f'(x) - f'(x) = 0
 $$
 
-at any $x\in I$. By the mean value theorem, there exists $\xi\in (a, b)$ such that
-
-$$
-g(b) = g(a) + g'(\xi) \\, (b-a) =  g(a).
-$$
+at any $x\in I$. It follows that $g$ is constant, by an application of the mean value theorem.
