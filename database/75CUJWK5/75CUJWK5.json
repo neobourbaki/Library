@@ -18,7 +18,7 @@
             "dependencies": {
                 "2345": "Laurent series"
             },
-            "comment": "finite Laurent series"
+            "comment": "locally represented by Laurent series"
         },
         "75CUJWK5_a": {
             "language": "en",
@@ -26,6 +26,14 @@
                 "1DUN1Q71": "holomorphic / analytic function of a complex variable"
             },
             "comment": "quotient of holomorphic functions"
+        },
+        "75CUJWK5_a": {
+            "language": "en",
+            "dependencies": {
+                "1234": "Riemann sphere",
+                "1DUN1Q71": "holomorphic map"
+            },
+            "comment": "holomorphic map to the Riemann sphere"
         }
     },
     "equivalences": {
