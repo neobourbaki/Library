@@ -1,4 +1,4 @@
-The *exponential function* $e^x$ is defined as follows:
+The *exponential function* $e^x$, for $x \in \mathbb{R}$, is defined as follows:
 
 - For $n \in \mathbb{N}$, $e^n := e \times \cdots \times e$ (n times), and $e^0 = 0$;
 - For $n \in \mathbb{Z}_{<0}$, $e^n := 1 / e^{-n}$;
