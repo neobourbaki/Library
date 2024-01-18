@@ -1,4 +1,4 @@
-The Euler's identity
+(Euler's identity)
 
 $$
 e^{ix} = \cos x + i \sin x
