@@ -7,7 +7,7 @@ $$
 \begin{aligned}
 f(b)=f(a)+\int_a^b & \underbrace{f'(x_1)} \\,dx_1 \\\\
  &  f'(a) + \int_a^{x_1} \underbrace{f''(x_2)}\\,dx_2 \\\\
- & \qquad\qquad\qquad f''(a)+ \int_a^{x_2} \underbrace{f'''(x_3)}_{\vdots}\\,dx_3
+ & \qquad\qquad\quad\\; f''(a)+ \int_a^{x_2} \underbrace{f'''(x_3)}_{\vdots}\\,dx_3
 \end{aligned}
 $$
 
