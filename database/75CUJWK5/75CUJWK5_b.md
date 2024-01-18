@@ -1,4 +1,4 @@
-A function $f: U \to \mathbb{C}$ on a domain $U \subseteq \mathbb{C}$ is *meromorphic* if it is locally represented by a Laurent series, i.e. for each $z_0 \in U$, there exist $n_0 \in \mathbb{Z}$ and $a_n \in \mathbb C$ for $n \geq n_0$, such that
+A function $f: U \to \mathbb{C} \cup \\{\infty\\}$ on a domain $U \subseteq \mathbb{C}$ is *meromorphic* if it is locally represented by a Laurent series, i.e. for each $z_0 \in U$, there exist $n_0 \in \mathbb{Z}$ and $a_n \in \mathbb C$ for $n \geq n_0$, such that
 
 $$
 f(z) = \sum_{n = n_0}^\infty a_n (z-z_0)^n
