@@ -19,7 +19,7 @@ $$
 
 for $f \in C^3$, for the sake of definiteness.
 
-Now, with the bound $|f'''(x)|\leq M$ on the interval $(a, b)$, the triple integral is bounded by
+Now, with the bound $|f'''(x)|\leq M$ on the interval $[a, b]$, the triple integral is bounded by
 
 $$
 \left| \iiint f'''(x_3)\\,dx_3 dx_2 dx_1 \right| \leq M \left| \iiint dx_3 dx_2 dx_1 \right| = M\frac{|b-a|^3}{3!}
