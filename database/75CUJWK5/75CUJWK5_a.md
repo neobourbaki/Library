@@ -1,1 +1,1 @@
-A *meromorphic* function on a domain $U \subseteq \mathbb{C}$ is a holomorphic function $f: U \setminus Z \to \mathbb{C}$ for a discrete set $Z \subset U$ such that $f$ has a pole at each point $z_0 \in Z$.
+A *meromorphic* function on a domain $U \subseteq \mathbb{C}$ is a holomorphic function $f: U \setminus Z \to \mathbb{C}$ for a discrete set $Z \subset U$ such that $f$ has a pole at each point $z_0 \in Z$. ($Z = \emptyset$ is permitted.)
