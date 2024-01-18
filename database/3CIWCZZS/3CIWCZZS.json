@@ -1,0 +1,37 @@
+{
+    "id": "3CIWCZZS",
+    "name": "number pi",
+    "dependencies": {
+        "4E41D57C": "real numbers"
+    },
+    "definitions": {
+        "3CIWCZZS_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "circumference of circle"
+        },
+        "3CIWCZZS_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "area of circle"
+        },
+        "3CIWCZZS_c": {
+            "language": "en",
+            "dependencies": {
+                "1CNT5UVL": "integral of a continuous function of a real variable",
+            },
+            "comment": "integral"
+        },
+        "3CIWCZZS_a": {
+            "language": "en",
+            "dependencies": {
+                "1234": "sine"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
