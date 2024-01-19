@@ -1,0 +1,27 @@
+{
+    "id": "UW49S1KS",
+    "name": "spectral theorem",
+    "dependencies": {
+        "8A9M00AK": "complex numbers",
+        "1234": "Hermitian matrix",
+        "2345": "eigenvalue and eigenvector"
+    },
+    "statements": {
+        "UW49S1KS_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment"
+        }
+    },
+    "proofs": {
+        "UW49S1KS_a": {
+            "language": "en",
+            "dependencies": {
+                "asdf": "Fundamental Theorem of Algebra"
+            },
+            "comment": ""
+        }
+    }
+}
+        
