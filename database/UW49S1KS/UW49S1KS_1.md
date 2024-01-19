@@ -1,4 +1,4 @@
-(spectral theorem) Let $A$ be an $n\times n$ Hermitian matrix. Then all the eigenvalues of $A$ are real, and moreover, there exist $n$ orthonormal eigenvectors $v_i \in \mathbb{C}^n$, i.e.,
+(Spectral theorem) Let $A$ be an $n\times n$ Hermitian matrix. Then all the eigenvalues of $A$ are real, and moreover, there exist $n$ orthonormal eigenvectors $v_i \in \mathbb{C}^n$, i.e.,
 
 $$
 A v_i = \lambda_i v_i \\;, \qquad i=1,\ldots,n
