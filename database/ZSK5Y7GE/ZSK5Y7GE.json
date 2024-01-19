@@ -23,7 +23,7 @@
             "language": "en",
             "dependencies": {
             },
-            "comment": ""
+            "comment": "epsilon-delta proof; works over QQ"
         }
     }
 }
