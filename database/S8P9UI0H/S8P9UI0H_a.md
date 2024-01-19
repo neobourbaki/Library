@@ -4,7 +4,7 @@ $$
 f(a_{i+1})-f(a_i) = f'(\xi_i)\\, (a_{i+1}-a_i)
 $$
 
-for some $\xi_i\in (a_i, a_{i+1})$. It follows that
+for some $\xi_i\in (a_i, a_{i+1})$, and it follows that
 
 $$
 f(b)-f(a) = \sum_{i=0}^{n-1} f(a_{i+1}) - f(a_i) = \sum_{i=0}^{n-1} f'(\xi_i)\\, (a_{i+1}-a_i).
