@@ -1,6 +1,6 @@
 The eigenvalues of $A$ are the roots of the characteristic polynomial $p_A(\lambda) = \det(\lambda I - A)$, and since $\mathbb{C}$ is algebraically closed, there are exactly $n$ complex roots, counted with multiplicity.
 
-Let $\lambda$ be an eigenvalue of $A$, and $v$ be any (nonzero) eigenvector for $\lambda$, i.e. $Av = \lambda v$. Since $A$ is Hermitian,
+Let $\lambda$ be an eigenvalue of $A$, and $v$ be any (nonzero) eigenvector for $\lambda$, i.e., $Av = \lambda v$. Since $A$ is Hermitian,
 
 $$
 \begin{aligned}
@@ -9,13 +9,13 @@ $$
 \end{aligned}
 $$
 
-and by sequilinearity,
+and by sesquilinearity,
 
 $$
-\lambda \langle v, v\rangle = \bar{\lambda} \langle v, v\rangle
+\bar{\lambda} \langle v, v\rangle = \lambda \langle v, v\rangle
 $$
 
-which implies that $\lambda = \bar{\lambda}$, i.e., $\lambda$ is real.
+which implies that $\bar{\lambda} = \lambda$, i.e., $\lambda$ is real.
 
 Suppose that all the $n$ eigenvalues $\lambda_i$ are distinct, so that there is a (nonzero) eigenvector $v_i$ associated to each $\lambda_i$. By the same argument, for each pair $i \neq j$,
 
@@ -26,7 +26,7 @@ $$
 \end{aligned}
 $$
 
-and (since $\lambda_j$ is real),
+and (since $\lambda_i$ is real),
 
 $$
 \lambda_i \langle v_i, v_j\rangle = \lambda_j \langle v_i, v_j\rangle
