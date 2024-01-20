@@ -1,4 +1,4 @@
-(Spectral theorem) Let $A=(a_{ij})$ be an $n\times n$ Hermitian matrix, i.e., $a_{ij} = \overline{a_{ji}}$ for all $1 \leq i, j \leq n$. Then all the eigenvalues of $A$ are real, and there exist $n$ orthonormal eigenvectors $v_i \in \mathbb{C}^n$, i.e.,
+(Spectral theorem) Let $A=(a_{ij})$ be an $n\times n$ Hermitian matrix, i.e., $a_{ij} = \overline{a_{ji}}$ for all $1 \leq i, j \leq n$. Then all the eigenvalues of $A$ are real, and there exist $n$ orthonormal eigenvectors $v_1, \ldots, v_n \in \mathbb{C}^n$, i.e.,
 
 $$
 A v_i = \lambda_i v_i \\;, \qquad i=1,\ldots,n
