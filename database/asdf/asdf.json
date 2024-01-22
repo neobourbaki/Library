@@ -1,0 +1,25 @@
+{
+    "id": "",
+    "name": "",
+    "dependencies": {
+        "1CNT5UVL": "integral of a continuous function",
+        "3CIWCZZS": "number pi"
+    },
+    "statements": {
+        "_1": {
+            "language": "none",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "_a": {
+            "language": "en",
+            "dependencies": {
+                "S8P9UI0H": "Fundamental Theorem of Calculus"
+            },
+            "comment": ""
+        }
+    }
+}
