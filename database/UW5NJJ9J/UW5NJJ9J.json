@@ -31,7 +31,7 @@
                 "S8P9UI0H": "Fundamental Theorem of Calculus",
                 "1CNT5UVL": "integral of a continuous function"
             },
-            "comment": "repeated application of FTC"
+            "comment": "repeated application of FTC, yielding an exact expression of the reminader as an iterated integral"
         },
         "UW5NJJ9J_c": {
             "language": "en",
