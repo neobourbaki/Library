@@ -6,7 +6,7 @@
         "3CIWCZZS": "number pi"
     },
     "statements": {
-        "_1": {
+        "WH6AVUDH_1": {
             "language": "none",
             "dependencies": {
             },
@@ -14,7 +14,7 @@
         }
     },
     "proofs": {
-        "_a": {
+        "WH6AVUDH_a": {
             "language": "en",
             "dependencies": {
                 "S8P9UI0H": "Fundamental Theorem of Calculus"
