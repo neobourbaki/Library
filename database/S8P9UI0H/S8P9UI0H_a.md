@@ -17,3 +17,5 @@ $$
 $$
 
 by continuity of $f'$.
+
+In the case that $f'$ fails to exist at either $x=a$ or $x=b$, we may use a continuity argument.
