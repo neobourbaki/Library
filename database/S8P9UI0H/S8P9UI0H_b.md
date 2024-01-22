@@ -11,3 +11,5 @@ g'(x) = f'(x) - \frac{d}{dx}\int_a^x f'(t)\\,dt = f'(x) - f'(x) = 0
 $$
 
 at any $x\in I$. It follows that $g$ is constant, by an application of the mean value theorem.
+
+In the case that $f'$ fails to exist at either $x=a$ or $x=b$, we may use a continuity argument.
