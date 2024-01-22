@@ -32,6 +32,6 @@ $$
 \lambda_i \langle v_i, v_j\rangle = \lambda_j \langle v_i, v_j\rangle
 $$
 
-which implies that $\langle v_i, v_j\rangle = 0$. To make $v_i$'s orthonormal, we simply normalize each eigenvector $v_i$, i.e., divide by its norm $\sqrt{\langle v_i, v_i\rangle}$.
+which implies that $\langle v_i, v_j\rangle = 0$. To make the $v_i$'s orthonormal, we simply normalize each $v_i$, i.e., divide by its norm $\sqrt{\langle v_i, v_i\rangle}$.
 
 For full generality (when some of the eigenvalues have multiplicity $> 1$), we may use a continuity argument.
