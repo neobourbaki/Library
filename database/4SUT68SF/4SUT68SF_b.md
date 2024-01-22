@@ -1,7 +1,7 @@
 The *exponential function* $\exp: \mathbb{C} \to \mathbb{C}$ is given by
 
 $$
-\exp(x+iy) := e^{r} \frac{x + iy}{r}
+\exp(x+iy) := e^{x} (\cos y + i \sin y).
 $$
 
-where $r := \sqrt{x^2 + y^2}$. The value $\exp(z)$ is also denoted by $e^z$.
+The value $\exp(z)$ is also denoted by $e^z$.
