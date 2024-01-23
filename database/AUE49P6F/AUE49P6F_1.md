@@ -7,7 +7,7 @@ $$
 where
 
 - $W$ is the Weyl group;
-- $\Delta^+$ is the set of positive roots of the root system $\Delta$;
-- $\rho$ is the half of the sum of the positive roots;
-- $\lambda$ is the highest weight of the irreducible representation $V$;
+- $\Delta^+$ is a set of positive roots of the root system $\Delta \subset \mathfrak{h}^*$;
+- $\rho$ is half of the sum of the positive roots;
+- $\lambda \in \mathfrak{h}^*$ is the highest weight of the irreducible representation $V$;
 - $\varepsilon: W \to \\{\pm 1\\}$ is the sign, given by $(-1)^{\ell(w)}$ where $\ell(w)$ is the (smallest) number of simple reflections in $w$.
