@@ -15,7 +15,7 @@ same hypothesis and conclusion, at the same level of generality; it's meant to s
 that employ rather different sets of concepts (`definition`s) and tools (`theorem`s).
 
 A third type of nodes might be `example`s, but let's make use of `theorem`s as much as possible. Other dedicated sites
-that are built specific for a certain type of objects, such as the (L-functions and Modular Forms Database)[https://www.lmfdb.org/].
+that are built specific for a certain type of objects, such as the [L-functions and Modular Forms Database](https://www.lmfdb.org/).
 We could also model on wikipedia, which provides customizable templates.
 
 ## Assitance by an LLM
