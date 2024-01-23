@@ -1,7 +1,7 @@
 (Weyl's character formula) Let $(V, \pi)$ be a finite-dimensional irreducible representation of a complex semisimple Lie algebra $\mathfrak{g}$, and let $\mathfrak{h}$ be a Cartan subalgebra of $\mathfrak{g}$. The character $\chi_V: \mathfrak{h} \to \mathbb{C}$ of the representation is given by
 
 $$
-\chi_V(H) = \frac{\sum_{w\in W} \varepsilon(w) e^{w(\lambda+\rho)(H)}}{\prod_{\alpha\in\Delta^+} e^{\alpha(H)/2} - e^{-\alpha(H)/2}}
+\chi_V(X) = \frac{\sum_{w\in W} \varepsilon(w) e^{\langle w(\lambda+\rho), X\rangle}}{\prod_{\alpha\in\Delta^+} e^{\langle \alpha, X \rangle/2} - e^{-\langle \alpha, X\rangle/2}}
 $$
 
 where
