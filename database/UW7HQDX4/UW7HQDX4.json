@@ -1,6 +1,6 @@
 {
     "id": "UW7HQDX4",
-    "name": "Cauchy's Integral Theorem",
+    "name": "Cauchy's integral theorem",
     "dependencies": {
         "8A9M00AK": "complex numbers",
         "1DUN1Q71": "holomorphic functions",
