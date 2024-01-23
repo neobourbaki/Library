@@ -1,0 +1,28 @@
+{
+    "id": "AUE49P6F",
+    "name": "Weyl's character formula",
+    "dependencies": {
+        "1234": "complex semisimple Lie algebra",
+        "2345": "finite dimensional representation of complex semisimple Lie algebra",
+        "3456": "Cartan subalgebra of a semisimple Lie algebra",
+        "4567": "character of a Lie algebra representation",
+        "5678": "Weyl group of a semisimple Lie algebra",
+        "6789": "root system of a semisimple Lie algebra"
+    },
+    "statements": {
+        "AUE49P6F_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "AUE49P6F_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}
