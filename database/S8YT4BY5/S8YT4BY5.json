@@ -17,6 +17,7 @@
         "S8YT4BY5_a": {
             "language": "en",
             "dependencies": {
+                "GNDCE4MC": "Cauchy's integral formula"
             },
             "comment": ""
         }
