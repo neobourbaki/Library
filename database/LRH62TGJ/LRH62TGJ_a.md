@@ -10,7 +10,7 @@ $$
 \int_{-\pi}^{\pi} \frac{dx}{\alpha+\sin x} = 2 \int_{-\pi/2}^{\pi/2} \frac{dx}{\alpha+\sin x} = 2 \int_{-\infty}^{\infty} \frac{2dt}{\alpha(1+t^2)+2t}.
 $$
 
-Now, the integrand is a rational function of $t$, so that the primitive can be found by the method of partial fractions. In this case, the denominator is quadratic with no real roots, we should turn it into the form of the derivative of $\tan^{-1}$, to wit,
+Now, the integrand is a rational function of $t$, so that the primitive can be found by the method of partial fractions. In this case, the denominator is quadratic with no real roots, and we shall turn it into the form of the derivative of $\tan^{-1}$, to wit,
 
 $$
 \frac{1}{\alpha + 2t + \alpha t^2} = \frac{\alpha^{-1}}{(t+\alpha^{-1})^2+1-\alpha^{-2}} = \frac{1}{\alpha\beta^2}\frac{1}{(t/\beta+(\alpha\beta)^{-1})^2 + 1}
