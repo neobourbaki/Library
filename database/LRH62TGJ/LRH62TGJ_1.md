@@ -1,5 +1,5 @@
-For $a > 1$,
+For $\alpha > 1$,
 
 $$
-\int_{-\pi}^{\pi} \frac{dx}{a+\sin x} = \frac{2\pi}{\sqrt{a^2 - 1}}.
+\int_{-\pi}^{\pi} \frac{dx}{\alpha+\sin x} = \frac{2\pi}{\sqrt{\alpha^2 - 1}}.
 $$
