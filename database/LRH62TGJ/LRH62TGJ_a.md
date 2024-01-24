@@ -19,11 +19,11 @@ $$
 where $\beta=\sqrt{1-\alpha^{-2}}$. This is seen to be the derivative of 
 
 $$
-\frac{1}{\alpha\beta}\tan^{-1}\left(\frac{t}{\beta} + \frac{1}{\alpha\beta} \right),
+\frac{1}{\alpha\beta}\tan^{-1}\left(\frac{t}{\beta} + \frac{1}{\alpha\beta} \right) = \frac{1}{\sqrt{\alpha^2 - 1}} \tan^{-1} \left(\frac{\alpha t + 1}{\sqrt{\alpha^2 - 1}}\right),
 $$
 
 so that we have at last
 
 $$
-\int_{-\infty}^{\infty} \frac{2 \\, dt}{\alpha(1+t^2)+2t} = \frac{2}{\alpha\beta} \left.\tan^{-1}\left(\frac{t}{\beta} + \frac{1}{\alpha\beta}\right)\right|_{-\infty}^{\infty} = \frac{2\pi}{\alpha\beta} = \frac{2\pi}{\sqrt{\alpha^2 - 1}}.
+\int_{-\infty}^{\infty} \frac{2 \\, dt}{\alpha(1+t^2)+2t} = \frac{2}{\sqrt{\alpha^2 - 1}} \left.\tan^{-1}\left(\frac{\alpha t + 1}{\sqrt{\alpha^2 - 1}} \right)\right|_{-\infty}^{\infty} = \frac{2\pi}{\sqrt{\alpha^2 - 1}}.
 $$
