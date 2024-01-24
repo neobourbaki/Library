@@ -19,11 +19,11 @@ $$
 where $\beta=\sqrt{1-\alpha^{-2}}$. This is seen to be the derivative of 
 
 $$
-\frac{1}{\alpha\beta}\tan^{-1}\left(\frac{t}{\beta} + \frac{1}{\alpha\beta} \right)
+\frac{1}{\alpha\beta}\tan^{-1}\left(\frac{t}{\beta} + \frac{1}{\alpha\beta} \right),
 $$
 
-so that we have at last
+so that at last the integral becomes
 
 $$
-\frac{4}{\alpha\beta} \left.\tan^{-1}\left(\frac{t}{\beta} + \frac{1}{\alpha\beta}\right)\right|_{-\infty}^{\infty} = \frac{4\pi}{\alpha\beta}
+\frac{4}{\alpha\beta} \left.\tan^{-1}\left(\frac{t}{\beta} + \frac{1}{\alpha\beta}\right)\right|_{-\infty}^{\infty} = \frac{4\pi}{\alpha\beta} = \frac{4\pi}{\sqrt(\alpha^2 - 1)}.
 $$
