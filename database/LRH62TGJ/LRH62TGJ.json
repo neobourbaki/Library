@@ -8,7 +8,7 @@
     },
     "statements": {
         "LRH62TGJ_1": {
-            "language": "en"
+            "language": "en",
             "dependencies": {
             },
             "comment": ""
@@ -16,14 +16,14 @@
     },
     "proofs": {
         "LRH62TGJ_a": {
-            "language": "en"
+            "language": "en",
             "dependencies": {
                 "ZSK5Y7GE": "Fundamental Theorem of Calculus"
             },
             "comment": ""
         },
         "LRH62TGJ_b": {
-            "language": "en"
+            "language": "en",
             "dependencies": {
                 "H82NMNG3": "Euler's identity",
                 "GCUZL9W8": "residue theorem"
