@@ -25,5 +25,5 @@ $$
 so that at last the integral becomes
 
 $$
-\frac{4}{\alpha\beta} \left.\tan^{-1}\left(\frac{t}{\beta} + \frac{1}{\alpha\beta}\right)\right|_{-\infty}^{\infty} = \frac{4\pi}{\alpha\beta} = \frac{4\pi}{\sqrt(\alpha^2 - 1)}.
+\frac{4}{\alpha\beta} \left.\tan^{-1}\left(\frac{t}{\beta} + \frac{1}{\alpha\beta}\right)\right|_{-\infty}^{\infty} = \frac{4\pi}{\alpha\beta} = \frac{4\pi}{\sqrt{\alpha^2 - 1}}.
 $$
