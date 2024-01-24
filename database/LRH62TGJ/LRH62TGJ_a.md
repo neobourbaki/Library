@@ -1,4 +1,4 @@
-The integrand is a rational function of $\sin x$ and $\cos x$, so we may proceed by making use of the rational parametrization of the circle: let $t = \tan(x/2)$, namely 
+The integrand is a rational function of $\sin x$ and $\cos x$, so we may proceed by making use of the rational parametrization of the circle: let $t = \tan(x/2)$, so that 
 
 $$
 \sin x = \frac{2t}{1+t^2} \qquad dx = \frac{2 \\, dt}{1+t^2}
