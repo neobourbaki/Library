@@ -7,7 +7,7 @@ $$
 where
 
 - $W$ is the Weyl group;
-- $\Delta^+$ is a set of positive roots of the root system $\Delta \subset \mathfrak{h}^*$;
+- $\Delta^+$ is the set of positive roots of the root system $\Delta \subset \mathfrak{h}^*$;
 - $\rho$ is half of the sum of the positive roots;
 - $\lambda \in \mathfrak{h}^*$ is the highest weight of the representation;
 - $\varepsilon: W \to \\{\pm 1\\}$ is the sign homomorphism, given by $\varepsilon(s_\alpha)=-1$ for simple roots $\alpha\in\Delta^+$.
