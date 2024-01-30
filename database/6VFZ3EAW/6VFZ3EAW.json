@@ -3,7 +3,7 @@
     "name": "matrix group",
     "dependencies": {
         "1234": "general linear group",
-        "2345": "closed subgroup"
+        "2345": "closed subset --of R^n"
     },
     "statements": {
         "6VFZ3EAW_a": {
