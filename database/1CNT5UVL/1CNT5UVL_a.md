@@ -11,4 +11,4 @@ $$
 \lim_{n\to\infty} \sum_{i=0}^{n-1} f(a_i) \frac{b-a}{n}
 $$
 
-where $a_i := a + i (b - a) / n$.
+where $a_i := a + (2i + 1)(b - a)/(2n)$.
