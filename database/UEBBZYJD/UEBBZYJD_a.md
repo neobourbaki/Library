@@ -1,7 +1,1 @@
-The group $SL(n,\mathbb{C})$ is defined as $\\{M \in GL(n, \mathbb{C})\\;:\\; \det M = 1 \\}$. For an $n\times n$ matrix $X$ to be in the Lie algebra, it is necessary that
-
-$$
-\det e^X = 1.
-$$
-
-By the identity that $\det e^X = e^{\mathrm{Tr}(X)}$, we see that $\mathrm{Tr}(X)=0$.
+The group $SL(n,\mathbb{C})$ consists of matrices with determinant $1$. Thus, an $n\times n$ matrix $X$ is in the Lie algebra of $SL(n,\mathbb{C})$ if and only if $\det e^X = 1$. By the identity that $\det e^X = e^{\mathrm{Tr}(X)}$, it follows that $\mathrm{Tr}(X)=0$.
