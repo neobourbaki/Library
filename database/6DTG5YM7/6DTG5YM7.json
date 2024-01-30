@@ -1,0 +1,17 @@
+{
+    "id": "6DTG5YM7",
+    "name": "representation of a Lie algebra",
+    "dependencies": {
+        "1234": "Lie algebra"
+    },
+    "statements": {
+        "6DTG5YM7_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
