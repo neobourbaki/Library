@@ -8,7 +8,7 @@ $$
 is the limit
 
 $$
-\lim_{n\to\infty} \sum_{i=0}^{n-1} f(a_i) \frac{b-a}{n}
+\lim_{n\to\infty} \sum_{i=0}^{n-1} f(\xi_i) \frac{b-a}{n}
 $$
 
-where $a_i := a + (2i + 1)(b - a)/(2n)$.
+where $\xi_i := a + (2i + 1)(b - a)/(2n)$.
