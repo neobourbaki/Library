@@ -1,0 +1,23 @@
+{
+    "id": "UEBBZYJD",
+    "name": "",
+    "dependencies": {
+        "175GH983": "Lie algebra of a matrix group"
+    },
+    "statements": {
+        "UEBBZYJD_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "UEBBZYJD_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}            
