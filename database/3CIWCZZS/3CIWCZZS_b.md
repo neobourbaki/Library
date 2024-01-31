@@ -1,4 +1,4 @@
-The real number $\pi$ is the area of the circle to the square of the radius, i.e., 
+The real number $\pi$ is the ratio of the area of the circle to the square of the radius, i.e., 
 
 $$
 A = \pi r^2
