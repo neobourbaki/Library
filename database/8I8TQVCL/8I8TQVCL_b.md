@@ -2,6 +2,6 @@ A finite-dimensional Lie algebra over the field of complex numbers is *simple* i
 
 - ($A_n$) $\mathfrak{sl}_{n+1}(\mathbb{C})$, $n \geq 1$
 - ($B_n$) $\mathfrak{so}_{2n+1}(\mathbb{C})$, $n \geq 2$
-- ($C_n$) $\mathfrak{sp}_{2n}(\mathbb{C})$, $n \geq 2$
+- ($C_n$) $\mathfrak{sp}_{2n}(\mathbb{C})$, $n \geq 3$
 - ($D_n$) $\mathfrak{so}_{2n}(\mathbb{C})$, $n \geq 4$
-- One of the exceptional Lie algebras corresponding to root systems $E_6$, $E_7$, $E_8$, $F_4$, and $G_2$.
+- One of the exceptional Lie algebras with root systems $E_6$, $E_7$, $E_8$, $F_4$, and $G_2$.
