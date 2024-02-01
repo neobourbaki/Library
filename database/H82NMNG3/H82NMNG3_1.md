@@ -4,4 +4,4 @@ $$
 e^{ix} = \cos x + i \sin x
 $$
 
-holds for all $x \in \mathbb{R}$.
+for all $x \in \mathbb{R}$.
