@@ -1,7 +1,7 @@
 Assume that $A$ is diagonalizable, i.e., $A = SDS^{-1}$ for some invertible matrix $S$ and diagonal matrix $D$. Then,
 
 $$
-e^A = \sum_{k=0}^{\infty} \frac{1}{k!} (SDS^{-1})^n = \sum_{k=0}^{\infty} \frac{1}{k!} SD^n S^{-1} = S e^D S^{-1}
+e^A = \sum_{k=0}^{\infty} \frac{1}{k!} (SDS^{-1})^k = \sum_{k=0}^{\infty} \frac{1}{k!} SD^k S^{-1} = S e^D S^{-1}
 $$
 
 where $e^D$ is the diagonal matrix where the $i$-th diagonal entry is $e^{\lambda_i}$, $\lambda_i$ being the $i$-th diagonal entry of $D$. It follows that 
