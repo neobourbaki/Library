@@ -5,7 +5,7 @@
         "1234": "group",
         "2345": "representation of a group"
     },
-    "statements": {
+    "definitions": {
         "02I3P6L0_a": {
             "language": "en",
             "dependencies": {
