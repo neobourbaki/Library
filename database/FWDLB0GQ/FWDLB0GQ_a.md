@@ -12,4 +12,4 @@ $$
 
 On the other hand, the trace of $A$ is the trace of $D$, which is $\sum_i \lambda_i$.
 
-For the general case, $D$ is not diagonal but upper triangular (say in the Jordan canonical form of $A$), and the proof is the identical.
+For the general case, $D$ is not diagonal but upper triangular (say in the Jordan canonical form of $A$), and the proof is identical.
