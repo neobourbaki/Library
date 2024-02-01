@@ -1,5 +1,5 @@
-$$
-\mathop{\mathrm{Tr}}(AB) = \mathop{\mathrm{Tr}}(BA)
-$$
+For any $m\times n$ matrix $A$ and $n\times m$ matrix $B$ over a field or a commutative ring $k$,
 
-for any $m\times n$ matrix $A$ and $n\times m$ matrix $B$.
+$$
+\mathop{\mathrm{tr}}(AB) = \mathop{\mathrm{tr}}(BA).
+$$
