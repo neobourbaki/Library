@@ -1,0 +1,23 @@
+{
+    "id": "R8TLHPKX",
+    "name": "",
+    "dependencies": {
+        "1234": "Lie algebra sl_n"
+    },
+    "statements": {
+        "R8TLHPKX_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "R8TLHPKX_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "direct computation"
+        }
+    }
+}
