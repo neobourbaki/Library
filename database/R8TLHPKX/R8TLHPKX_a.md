@@ -1,4 +1,4 @@
-It is a direct computation.
+It is a direct computation. To facilitate computation, we shall use $\partial_i$ to denote the operator $\frac{\partial}{\partial x_i}$, and juxtaposition means composition of operators.
 
 $$
 \begin{aligned}
