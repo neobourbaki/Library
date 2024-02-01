@@ -1,0 +1,17 @@
+{
+    "id": "3EFEFC0N",
+    "name": "abelian Lie algebra",
+    "dependencies": {
+        "3H8N6TE0": "Lie algebra",
+    },
+    "statements": {
+        "3EFEFC0N": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
