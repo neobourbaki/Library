@@ -1,0 +1,24 @@
+{
+    "id": "XPCLVNG4",
+    "name": "",
+    "dependencies": {
+        "1234": "trace of a matrix",
+        "2345": "matrix multiplication"
+    },
+    "statements": {
+        "XPCLVNG4_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "XPCLVNG4_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}
