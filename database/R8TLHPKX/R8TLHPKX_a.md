@@ -28,7 +28,7 @@ $$
 [E, Q] = \sum_i [ x_i \partial_i, x_i^2] = \sum_i 2 x_i^2 = 2 Q
 $$
 
-thus, we can identify $H \mapsto \frac{1}{2} E$, $X \mapsto \frac{1}{2}Q$, and $Y \mapsto \frac{1}{2}\Delta$, where $H, X, Y$ are the standard basis 
+thus, we can identify $H \mapsto E$, $X \mapsto \frac{1}{2}Q$, and $Y \mapsto \frac{1}{2}\Delta$, where $H, X, Y$ are the standard basis 
 
 $$
 H = \begin{pmatrix} 1 & \\\\ & -1 \end{pmatrix} \qquad X = \begin{pmatrix} & 1 \\\\ 0 & \end{pmatrix} \qquad Y = \begin{pmatrix} & 0 \\\\ 1 & \end{pmatrix}
