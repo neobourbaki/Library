@@ -1,0 +1,1 @@
+The Laplacian operator $\Delta = \sum_i \partial_i^2$ on $\mathbb{R}^n$ and the multiplication operator $\sum_i x_i^2$ generate a Lie algebra over $K=\mathbb{R}$ or $\mathbb{C}$ that is isomorphic to $\mathfrak{sl}_2(K)$.
