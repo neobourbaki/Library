@@ -33,7 +33,7 @@ $$
 H = \begin{pmatrix} 1 & \\\\ & -1 \end{pmatrix} \qquad X = \begin{pmatrix} & 1 \\\\ 0 & \end{pmatrix} \qquad Y = \begin{pmatrix} & 0 \\\\ 1 & \end{pmatrix}
 $$
 
-which satisfy the relations
+satisfying the relations
 
 $$
 [H, X] = 2X \qquad [H, Y] = -2Y \qquad [X, Y] = H
