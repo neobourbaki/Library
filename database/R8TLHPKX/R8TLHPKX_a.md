@@ -12,7 +12,7 @@ $$
 \end{aligned}
 $$
 
-where the operator $E$ (shifted Euler operator) is defined by
+where the operator $E$ (Euler operator with a shift) is defined by
 
 $$
 E = \sum_i x_i \partial_i + \frac{n}{2}.
