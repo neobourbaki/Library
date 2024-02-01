@@ -3,8 +3,8 @@
     "name": "",
     "dependencies": {
         "4VRQIJ31": "exponential of a matrix",
-        "1234": "determinant of a matrix",
-        "2345": "trace of a matrix"
+        "4HNSRY62": "determinant of a matrix",
+        "1LTQ58M1": "trace of a matrix"
     },
     "statements": {
         "FWDLB0GQ_1": {
@@ -18,6 +18,7 @@
         "FWDLB0GQ_a": {
             "language": "en",
             "dependencies": {
+                "asdf": "Jordan canonical form"
             },
             "comment": ""
         }
