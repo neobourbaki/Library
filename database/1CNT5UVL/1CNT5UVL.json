@@ -11,7 +11,7 @@
             "dependencies": {
                 "62D5M55S": "limit of a sequence",
             },
-            "comment": "midpoint Riemann sum",
+            "comment": "left Riemann sum",
         },
         "1CNT5UVL_b": {
             "language": "en",
