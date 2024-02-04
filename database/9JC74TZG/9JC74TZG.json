@@ -19,6 +19,13 @@
                 "sdfg": "subspace topology"
             },
             "comment": "topological definition"
+        },
+        "9JC74TZG_c": {
+            "language": "en",
+            "dependencies": {
+                "dfgh": "limit of a function"
+            },
+            "comment": "limit definition"
         }
     },
     "equivalences": {
