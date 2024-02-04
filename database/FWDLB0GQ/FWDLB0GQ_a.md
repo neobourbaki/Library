@@ -4,7 +4,7 @@ $$
 e^A = \sum_{k=0}^{\infty} \frac{1}{k!} (SDS^{-1})^k = \sum_{k=0}^{\infty} \frac{1}{k!} SD^k S^{-1} = S e^D S^{-1}
 $$
 
-where $e^D$ is the diagonal matrix where the $i$-th diagonal entry is $e^{\lambda_i}$. It follows that 
+where $e^D$ is the diagonal matrix $\mathop{\mathrm{diag}}(e^{\lambda_1}, \ldots, e^{\lambda_n}). It follows that 
 
 $$
 \det (e^A) = \det (e^D) = \prod_i e^{\lambda_i} = e^{\sum_i \lambda_i}.
