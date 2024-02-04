@@ -1,6 +1,7 @@
 {
     "id": "1IYIAGFB",
     "name": "semisimple Lie algebra",
+    "type": "definition",
     "dependencies": {
         "1234": "Lie algebra"
     },
