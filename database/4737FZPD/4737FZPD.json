@@ -1,6 +1,7 @@
 {
     "id": "4737FZPD",
     "name": "curve / path",
+    "type": "definition",
     "dependencies": {
         "1234": "continuous map",
         "4E41D57C": "real numbers"
