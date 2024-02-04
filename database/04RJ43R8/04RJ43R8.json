@@ -1,6 +1,7 @@
 {
     "id": "04RJ43R8",
     "name": "integral of a piecewise continuous function",
+    "type": "definition",
     "dependencies": {
         "1CNT5UVL": "integral of a continuous function --of a real variable"
     },
