@@ -1,6 +1,7 @@
 {
     "id": "HABG2D70",
     "name": "",
+    "type": "theorem",
     "dependencies": {
         "3KPRPA7U": "Cartan subalgebra --of a complex semisimple Lie algebra",
         "350YVP4C": "Weyl group --of a semisimple Lie algebra"
