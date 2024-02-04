@@ -1,6 +1,7 @@
 {
     "id": "H82NMNG3",
     "name": "Euler's identity",
+    "type": "theorem",
     "dependencies": {
         "4E41D57C": "real numbers",
         "8A9M00AK": "complex numbers",
