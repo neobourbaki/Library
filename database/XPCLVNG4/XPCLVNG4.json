@@ -1,6 +1,7 @@
 {
     "id": "XPCLVNG4",
     "name": "",
+    "type": "theorem",
     "dependencies": {
         "1234": "trace of a matrix",
         "2345": "matrix multiplication"
