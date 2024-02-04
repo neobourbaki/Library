@@ -1,6 +1,7 @@
 {
     "id": "XF6GBLUB",
     "name": "principle of analytic continuation",
+    "type": "theorem",
     "dependencies": {
         "8A9M00AK": "complex numbers",
         "1DUN1Q71": "holomorphic function",
