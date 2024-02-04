@@ -4,6 +4,7 @@
     "dependencies": {
         "1234": "Lie algebra sl_n"
     },
+    "type": "theorem",
     "statements": {
         "R8TLHPKX_1": {
             "language": "en",
