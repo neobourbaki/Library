@@ -1,6 +1,7 @@
 {
     "id": "8I8TQVCL",
     "name": "simple Lie algebra",
+    "type": "definition",
     "dependencies": {
         "1234": "Lie algebra"
     },
