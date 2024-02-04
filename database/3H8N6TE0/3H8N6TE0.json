@@ -1,6 +1,7 @@
 {
     "id": "3H8N6TE0",
     "name": "Lie algebra",
+    "type": "definition",
     "dependencies": {
         "1234": "vector space over a field",
         "2345": "bilinear"
