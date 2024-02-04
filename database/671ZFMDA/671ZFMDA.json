@@ -1,6 +1,7 @@
 {
     "id": "671ZFMDA",
     "name": "exponential function of a real variable",
+    "type": "definition",
     "dependencies": {
         "4E41D57C": "real numbers"
     },
