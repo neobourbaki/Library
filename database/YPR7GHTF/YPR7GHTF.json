@@ -1,6 +1,7 @@
 {
     "id": "YPR7GHTF",
     "name": "",
+    "type": "theorem",
     "dependencies": {
         "8A9M00AK": "complex numbers",
         "1234": "sine as a complex function",
