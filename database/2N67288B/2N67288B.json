@@ -1,6 +1,7 @@
 {
     "id": "2N67288B",
     "name": "integral of a complex function along a path",
+    "type": "definition",
     "dependencies": {
         "8A9M00AK": "complex numbers",
         "1234": "continuous function of a complex variable",
