@@ -1,6 +1,7 @@
 {
     "id": "4VRQIJ31",
     "name": "exponential of a matrix",
+    "type": "definition",
     "dependencies": {
         "1234": "matrix"
     },
