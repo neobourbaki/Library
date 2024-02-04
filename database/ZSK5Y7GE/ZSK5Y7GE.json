@@ -1,6 +1,7 @@
 {
     "id": "ZSK5Y7GE",
     "name": "Fundamental Theorem of Calculus",
+    "type": "theorem",
     "dependencies": {
         "4E41D57C": "real numbers",
         "9JC74TZG": "continuous function of a real variable",
