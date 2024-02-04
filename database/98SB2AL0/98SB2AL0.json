@@ -1,6 +1,7 @@
 {
     "id": "98SB2AL0",
-    "name": "differentiable function / derivative --of a real variable",
+    "name": "differentiability / derivative of a function --of a real variable",
+    "type": "definition",
     "dependencies": {
         "4E41D57C": "real numbers"
     },
