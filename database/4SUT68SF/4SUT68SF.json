@@ -1,6 +1,7 @@
 {
     "id": "4SUT68SF",
     "name": "exponential function of a complex variable",
+    "type": "definition",
     "dependencies": {
         "8A9M00AK": "complex numbers"
     },
