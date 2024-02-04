@@ -1,6 +1,7 @@
 {
     "id": "350YVP4C",
     "name": "Weyl group --of a semisimple Lie algebra",
+    "type": "definition",
     "dependencies": {
         "1234": "semisimple Lie algebra",
         "2345": "Cartan subalgebra"
