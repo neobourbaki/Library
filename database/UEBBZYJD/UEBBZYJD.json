@@ -1,6 +1,7 @@
 {
     "id": "UEBBZYJD",
     "name": "",
+    "type": "theorem",
     "dependencies": {
         "175GH983": "Lie algebra of a matrix group"
     },
