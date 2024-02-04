@@ -1,6 +1,7 @@
 {
     "id": "175GH983",
     "name": "Lie algebra --of a matrix group",
+    "type": "definition",
     "dependencies": {
         "1234": "matrix group"
     },
