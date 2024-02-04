@@ -1,6 +1,7 @@
 {
     "id": "7RG754YE",
     "name": "matrix multiplication",
+    "type": "definition",
     "dependencies": {
         "1234": "matrix",
         "2345": "field"
