@@ -1,1 +1,1 @@
-The Lie algebra $\mathfrak{sl}_n(k)$ over a field $k$ is the set of $n\times n$ matrices with zero trace, equipped with the usual operation of commutator $[X, Y] = XY - YX$.
+The Lie algebra $\mathfrak{sl}_n(K)$ over $K=\mathbb{R}$ or $\mathbb{C}$ is the set of $n\times n$ matrices over $K$ with zero trace, equipped with the usual operation of commutator $[X, Y] = XY - YX$.
