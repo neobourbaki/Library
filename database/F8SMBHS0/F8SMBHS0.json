@@ -1,9 +1,10 @@
 {
     "id": "F8SMBHS0",
     "name": "",
+    "type": "theorem",
     "dependencies": {
         "8A9M00AK": "complex numbers",
-        "1234": "integral of a complex function along a path"
+        "2N67288B": "integral of a complex function along a path"
     },
     "statements": {
         "F8SMBHS0_1": {
