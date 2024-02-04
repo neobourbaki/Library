@@ -1,4 +1,4 @@
-A *representation* of a Lie algebra $\mathfrak{g}$ over a field $k$ is a $k$-vector space $V$, together with a Lie algebra homomorphism $\pi: \mathfrak{g} \to \mathop{\mathrm{End}}(V)$, i.e., a $k$-linear map such that
+A *representation* of a Lie algebra $\mathfrak{g}$ over a field $k$ is a $k$-vector space $V$, together with a Lie algebra homomorphism $\pi: \mathfrak{g} \to \mathfrak{gl}(V) = \mathop{\mathrm{End}}(V)_{L} $, i.e., a $k$-linear map such that
 
 $$
 \pi([X, Y]) = \pi(X)\pi(Y) - \pi(Y)\pi(X)
