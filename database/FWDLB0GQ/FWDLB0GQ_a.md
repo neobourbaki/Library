@@ -10,6 +10,6 @@ $$
 \det (e^A) = \det (e^D) = \prod_i e^{\lambda_i} = e^{\sum_i \lambda_i}.
 $$
 
-On the other hand, the trace of $A$ is the trace of $D$, which is $\sum_i \lambda_i$.
+On the other hand, the trace of $A$ is the trace of $D$, which is $\sum_i \lambda_i$. The identity follows.
 
 For the general case, $D$ is not diagonal but can be made upper triangular (working over $\mathbb{C}$ if necessary), and the proof is identical.
