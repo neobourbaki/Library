@@ -1,6 +1,7 @@
 {
     "id": "75CUJWK5",
     "name": "meromorphic function of a complex variable",
+    "type": "definition",
     "dependencies": {
         "8A9M00AK": "complex numbers"
     },
