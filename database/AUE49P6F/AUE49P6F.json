@@ -1,6 +1,7 @@
 {
     "id": "AUE49P6F",
     "name": "Weyl's character formula",
+    "type": "theorem",
     "dependencies": {
         "1234": "complex semisimple Lie algebras",
         "2345": "representation of a complex semisimple Lie algebra",
