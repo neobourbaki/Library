@@ -1,6 +1,7 @@
 {
     "id": "1DUN1Q71",
     "name": "holomorphic / analytic function of a complex variable",
+    "type": "definition",
     "dependencies": {
         "8A9M00AK": "complex numbers"
     },
