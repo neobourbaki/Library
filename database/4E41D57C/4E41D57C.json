@@ -1,6 +1,7 @@
 {
     "id": "4E41D57C",
     "name": "real numbers",
+    "type": "definition",
     "dependencies": {
     },
     "definitions": {
