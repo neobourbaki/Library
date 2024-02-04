@@ -1,6 +1,7 @@
 {
     "id": "62DKJFVQ",
     "name": "character of a representation --of a complex semisimple Lie algebra",
+    "type": "definition",
     "dependencies": {
         "1234": "representation of a Lie algebra",
         "2345": "semisimple Lie algebra"
