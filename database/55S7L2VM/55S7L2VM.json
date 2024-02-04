@@ -1,6 +1,7 @@
 {
     "id": "55S7L2VM",
     "name": "number e",
+    "type": "definition",
     "dependencies": {
         "4E41D57C": "real numbers"
     },
