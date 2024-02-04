@@ -1,6 +1,7 @@
 {
     "id": "LRH62TGJ",
     "name": "",
+    "type": "theorem",
     "dependencies": {
         "4E41D57C": "real numbers",
         "1CNT5UVL": "integral of a continuous function of a real variable",
