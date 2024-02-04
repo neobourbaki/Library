@@ -1,25 +1,25 @@
 {
     "id": "1CNT5UVL",
-    "name": "integral of a continuous function of a real variable",
+    "name": "integral of a continuous function --of a real variable",
     "dependencies": {
         "4E41D57C": "real numbers",
-        "9JC74TZG": "continuous function of a real variable",
+        "9JC74TZG": "continuous function of a real variable"
     },
     "definitions": {
         "1CNT5UVL_a": {
             "language": "en",
             "dependencies": {
-                "62D5M55S": "limit of a sequence",
+                "62D5M55S": "limit of a sequence of real numbers",
             },
-            "comment": "left Riemann sum",
+            "comment": "left Riemann sum"
         },
         "1CNT5UVL_b": {
             "language": "en",
             "dependencies": {
             },
-            "comment": "Lebesgue integral",
+            "comment": "Lebesgue integral"
         }
-    }
+    },
     "equivalences": {
     }
 }
