@@ -2,7 +2,7 @@
     "id": "1IRBEAFN",
     "name": "Lie algebra sl_n",
     "dependencies": {
-        "3H8N6TE0": "Lie algebra",
+        "3H8N6TE0": "Lie algebra"
     },
     "statements": {
         "1IRBEAFN_a": {
@@ -20,7 +20,7 @@
                 "28F9A81A": "Lie group SL_n",
                 "175GH983": "Lie algebra of a classical group"
             },
-            "comment": "",
+            "comment": ""
         }
     },
     "equivalences": {
