@@ -4,4 +4,4 @@ $$
 AB = BA = I
 $$
 
-(the identity matrix of order $n$), and $B$ is known as the *inverse matrix* of $A$, denoted $A^{-1}$.
+($I$ being the identity matrix of order $n$), and $B$ is known as the *inverse matrix* of $A$, denoted $A^{-1}$.
