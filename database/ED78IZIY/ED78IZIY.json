@@ -1,0 +1,26 @@
+{
+    "id": "ED78IZIY",
+    "name": "commutator has zero trace",
+    "type": "theorem",
+    "dependencies": {
+        "1LTQ58M1": "trace of a matrix"
+    },
+    "statements": {
+        "ED78IZIY_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "ED78IZIY_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
