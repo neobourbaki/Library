@@ -1,0 +1,26 @@
+{
+    "id": "N4XIN5SW",
+    "name": "special linear group",
+    "type": "theorem",
+    "dependencies": {
+        "4HNSRY62": "determinant of a matrix",
+        "7RG754YE": "matrix multiplication",
+        "1234": "group"
+    },
+    "statements": {
+        "N4XIN5SW_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "N4XIN5SW_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}
