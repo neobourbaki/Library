@@ -1,0 +1,18 @@
+{
+    "id": "28F9A81A",
+    "name": "Lie group SL_n",
+    "type": "definition",
+    "dependencies": {
+        "1234": "Lie group"
+    },
+    "statements": {
+        "28F9A81A_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
