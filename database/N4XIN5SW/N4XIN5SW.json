@@ -19,6 +19,7 @@
         "N4XIN5SW_a": {
             "language": "en",
             "dependencies": {
+                "0CLV6SL7": "inverse matrix"
             },
             "comment": ""
         }
