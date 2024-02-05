@@ -1,7 +1,7 @@
-Let $A$ be an $n\times n$ matrix over a field $k$. The *inverse matrix* of $A$ is a matrix $B$ such that
+An $n\times n$ matrix $A$ over a field $k$ is *invertible* if there exists a matrix $B$ such that
 
 $$
 AB = BA = I
 $$
 
-(the identity matrix), and it is denoted $A^{-1}$.
+(the identity matrix of order $n$), and $B$ is known as the *inverse matrix* of $A$, denoted $A^{-1}$.
