@@ -1,6 +1,6 @@
 {
     "id": "FWDLB0GQ",
-    "name": "",
+    "name": "determinant-trace identity",
     "type": "theorem",
     "dependencies": {
         "4VRQIJ31": "exponential of a matrix",
