@@ -1,8 +1,8 @@
 {
     "id": "R8TLHPKX",
-    "name": "",
+    "name": "sl_2 triple of differential operators",
     "dependencies": {
-        "1234": "Lie algebra sl_n"
+        "1IRBEAFN": "Lie algebra sl_n"
     },
     "type": "theorem",
     "statements": {
