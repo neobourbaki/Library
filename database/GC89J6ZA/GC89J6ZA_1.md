@@ -4,4 +4,4 @@ $$
 [x, y] := x \cdot y - y \cdot x.
 $$
 
-Then $(A, [\cdot, \cdot])$ is a Lie algebra over $k$, and is sometimes denoted $A_L$.
+Then $(A, [\\;, \\;])$ is a Lie algebra over $k$, and is sometimes denoted $A_L$.
