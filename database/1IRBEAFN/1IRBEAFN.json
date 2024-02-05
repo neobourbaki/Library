@@ -9,14 +9,15 @@
             "language": "en",
             "dependencies": {
                 "1LTQ58M1": "trace of a matrix",
-                "ED78IZIY": "commutator has zero trace"
+                "ED78IZIY": "commutator has zero trace",
+                "GC89J6ZA": "Lie algebra from associative algebra"
             },
             "comment": "works over any field or commutative ring"
         },
         "1IRBEAFN_b": {
             "language": "en",
             "dependencies": {
-                "1LTQ58M1": "trace of a matrix"
+                "1234": "Lie group SL_n"
             },
             "comment": "",
         }
