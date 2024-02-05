@@ -17,7 +17,8 @@
         "1IRBEAFN_b": {
             "language": "en",
             "dependencies": {
-                "1234": "Lie group SL_n"
+                "1234": "Lie group SL_n",
+                "175GH983": "Lie algebra of a classical group"
             },
             "comment": "",
         }
