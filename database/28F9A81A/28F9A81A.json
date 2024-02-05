@@ -1,9 +1,11 @@
 {
     "id": "28F9A81A",
-    "name": "Lie group SL_n",
+    "name": "special linear group",
     "type": "definition",
     "dependencies": {
-        "1234": "Lie group"
+        "1234": "matrix",
+        "4HNSRY62": "determinant of a matrix",
+        "2345": "group"
     },
     "statements": {
         "28F9A81A_a": {
