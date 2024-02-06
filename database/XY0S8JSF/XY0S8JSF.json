@@ -1,0 +1,25 @@
+{
+    "id": "XY0S8JSF",
+    "name": "det(AB) = det(A)det(B)",
+    "type": "theorem",
+    "dependencies": {
+        "4HNSRY62": "determinant of a matrix",
+        "7RG754YE": "matrix multiplication"
+    },
+    "statements": {
+        "XY0S8JSF_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "XY0S8JSF_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}
