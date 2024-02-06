@@ -24,8 +24,8 @@
         "S8P9UI0H_a": {
             "language": "en",
             "dependencies": {
-                "asdf": "mean value theorem",
-                "sdfg": "Riemann sum approaches the integral"
+                "KJWDUNKD": "mean value theorem",
+                "asdf": "Riemann sum approaches the integral"
             },
             "comment": ""
         },
@@ -33,7 +33,7 @@
             "language": "en",
             "dependencies": {
                 "ZSK5Y7GE": "Fundamental Theorem of Calculus",
-                "asdf": "mean value theorem"
+                "KJWDUNKD": "mean value theorem"
             },
             "comment": ""
         }
