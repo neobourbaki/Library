@@ -17,6 +17,7 @@
         "UEBBZYJD_a": {
             "language": "en",
             "dependencies": {
+                "FWDLB0GQ": "determinant-trace identity"
             },
             "comment": ""
         }
