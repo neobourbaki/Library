@@ -3,11 +3,11 @@
     "name": "Weyl's character formula",
     "type": "theorem",
     "dependencies": {
-        "1234": "complex semisimple Lie algebras",
-        "2345": "representation of a complex semisimple Lie algebra",
-        "3456": "Cartan subalgebra --of a semisimple Lie algebra",
-        "4567": "character of a Lie algebra representation",
-        "5678": "Weyl group --of a semisimple Lie algebra",
+        "1IYIAGFB": "semisimple Lie algebra --over complex numbers",
+        "6DTG5YM7": "representation of a Lie algebra",
+        "3KPRPA7U": "Cartan subalgebra --of a complex semisimple Lie algebra",
+        "62DKJFVQ": "character --of a Lie algebra representation",
+        "350YVP4C": "Weyl group --of a semisimple Lie algebra",
         "6789": "root system --of a semisimple Lie algebra"
     },
     "statements": {
