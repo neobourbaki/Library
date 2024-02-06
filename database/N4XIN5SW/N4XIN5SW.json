@@ -19,7 +19,8 @@
         "N4XIN5SW_a": {
             "language": "en",
             "dependencies": {
-                "0CLV6SL7": "inverse matrix"
+                "0CLV6SL7": "inverse matrix",
+                "XY0S8JSF": "det(AB) = det(A)det(B)"
             },
             "comment": ""
         }
