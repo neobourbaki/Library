@@ -3,8 +3,7 @@
     "name": "",
     "type": "theorem",
     "dependencies": {
-        "3KPRPA7U": "Cartan subalgebra --of a complex semisimple Lie algebra",
-        "350YVP4C": "Weyl group --of a semisimple Lie algebra"
+        "3KPRPA7U": "Cartan subalgebra --of a complex semisimple Lie algebra"
     },
     "statements": {
         "HABG2D70_1": {
