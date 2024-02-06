@@ -22,14 +22,13 @@
         "4E41D57C_c": {
             "language": "en",
             "dependencies": {
-                "2345": "Cauchy sequence"
+                "3456": "Cauchy sequence"
             },
             "comment": "equivalence classes of Cauchy sequences"
         },
         "4E41D57C_d": {
             "language": "en",
             "dependencies": {
-                "ASDF": "uniqueness of complete Archimedean ordered field"
             },
             "comment": "real numbers as complete Archimedean ordered field"
         }
