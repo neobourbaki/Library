@@ -3,7 +3,9 @@
     "name": "",
     "type": "theorem",
     "dependencies": {
-        "3KPRPA7U": "Cartan subalgebra --of a complex semisimple Lie algebra"
+        "3H8N6TE0": "Lie algebra",
+        "3KPRPA7U": "Cartan subalgebra",
+        "2D5F8K66": "root system"
     },
     "statements": {
         "HABG2D70_1": {
