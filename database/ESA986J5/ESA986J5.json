@@ -1,0 +1,26 @@
+{
+    "id": "ESA986J5",
+    "name": "Liouville's theorem",
+    "type": "theorem",
+    "dependencies": {
+        "8A9M00AK": "complex numbers",
+        "1DUN1Q71": "holomorphic function"
+    },
+    "statements": {
+        "ESA986J5_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "ESA986J5_1": {
+            "language": "en",
+            "dependencies": {
+                "S8YT4BY5": "Taylor's theorem",
+            },
+            "comment": ""
+        }
+    }
+}
