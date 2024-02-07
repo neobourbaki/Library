@@ -3,6 +3,7 @@
     "name": "trace of a matrix",
     "type": "definition",
     "dependencies": {
+        "8M6CAY2R": "matrix"
     },
     "definitions": {
         "1LTQ58M1_a": {
