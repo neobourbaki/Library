@@ -1,0 +1,25 @@
+{
+    "id": "SPUL8UCS",
+    "name": "Fundamental Theorem of Algebra",
+    "type": "theorem",
+    "dependencies": {
+        "8A9M00AK": "complex numbers"
+    },
+    "statements": {
+        "SPUL8UCS_1": {
+            "language": "en",
+            "dependencies" {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "SPUL8UCS_a": {
+            "language": "en",
+            "dependencies" {
+                "asdf": "Liouville's theorem"
+            },
+            "comment": ""
+        }
+    }
+}
