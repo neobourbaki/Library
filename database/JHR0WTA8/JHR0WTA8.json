@@ -3,8 +3,8 @@
     "name": "Taylor's theorem with Lagrange remainder",
     "type": "theorem",
     "dependencies": {
-        "98SB2AL0": "differentiable / derivative --of a function of a real variable"
-    }
+        "98SB2AL0": "derivative"
+    },
     "statements": {
         "JHR0WTA8_1": {
             "language": "en",
