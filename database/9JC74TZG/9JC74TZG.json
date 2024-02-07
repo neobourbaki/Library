@@ -15,15 +15,15 @@
         "9JC74TZG_b": {
             "language": "en",
             "dependencies": {
-                "asdf": "standard topology",
-                "sdfg": "subspace topology"
+                "1234": "standard topology",
+                "2345": "subspace topology"
             },
             "comment": "topological definition"
         },
         "9JC74TZG_c": {
             "language": "en",
             "dependencies": {
-                "dfgh": "limit of a function"
+                "1GY90UBE": "limit of a function"
             },
             "comment": "limit definition"
         }
