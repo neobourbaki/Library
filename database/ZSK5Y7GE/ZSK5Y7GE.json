@@ -3,10 +3,9 @@
     "name": "Fundamental Theorem of Calculus",
     "type": "theorem",
     "dependencies": {
-        "4E41D57C": "real numbers",
-        "9JC74TZG": "continuous function of a real variable",
+        "9JC74TZG": "continuous function",
         "1CNT5UVL": "integral of a continuous function",
-        "98SB2AL0": "derivative of a function of a real variable"
+        "98SB2AL0": "derivative"
     },
     "statements": {
         "ZSK5Y7GE_1": {
@@ -24,7 +23,7 @@
             "language": "en",
             "dependencies": {
             },
-            "comment": "epsilon-delta proof; works over QQ"
+            "comment": "epsilon-delta proof; works over other fields like QQ"
         }
     }
 }
