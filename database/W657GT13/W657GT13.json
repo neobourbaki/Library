@@ -3,7 +3,9 @@
     "name": "Weyl group of sl_n",
     "type": "theorem",
     "dependencies": {
-        "3KPRPA7U": "Cartan subalgebra --of a complex semisimple Lie algebra"
+        "1IRBEAFN": "Lie algebra sl_n",
+        "3KPRPA7U": "Cartan subalgebra"
+        "350YVP4C": "Weyl group"
     },
     "statements": {
         "W657GT13_1": {
