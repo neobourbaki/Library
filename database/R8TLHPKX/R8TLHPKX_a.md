@@ -11,13 +11,13 @@ $$
 \end{aligned}
 $$
 
-where the operator $E$ (Euler operator with a shift) is defined by
+where
 
 $$
 E := \sum_i x_i \partial_i + \frac{n}{2}.
 $$
 
-Next,
+is the (shifted) Euler operator. Next,
 
 $$
 [E, Q] = \sum_i [ x_i \partial_i, x_i^2] = \sum_i 2 x_i^2 = 2 Q
