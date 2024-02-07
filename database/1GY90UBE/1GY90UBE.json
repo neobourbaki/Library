@@ -1,0 +1,18 @@
+{
+    "id": "1GY90UBE",
+    "name": "limit of function",
+    "type": "definition",
+    "dependencies": {
+        "1234": "metric space"
+    },
+    "definitions": {
+        "1GY90UBE_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
