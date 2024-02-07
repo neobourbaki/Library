@@ -4,7 +4,7 @@
     "type": "theorem",
     "dependencies": {
         "1IRBEAFN": "Lie algebra sl_n",
-        "3KPRPA7U": "Cartan subalgebra"
+        "3KPRPA7U": "Cartan subalgebra",
         "350YVP4C": "Weyl group"
     },
     "statements": {
