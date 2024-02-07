@@ -3,7 +3,7 @@
     "name": "",
     "type": "theorem",
     "dependencies": {
-        "3H8N6TE0": "Lie algebra",
+        "1IRBEAFN": "Lie algebra sl_n",
         "3KPRPA7U": "Cartan subalgebra",
         "2D5F8K66": "root system"
     },
