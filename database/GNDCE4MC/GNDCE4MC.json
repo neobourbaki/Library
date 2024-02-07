@@ -3,8 +3,7 @@
     "name": "Cauchy's integral formula",
     "type": "theorem",
     "dependencies": {
-        "8A9M00AK": "complex numbers",
-        "1DUN1Q71": "holomorphic / analytic function of a complex variable",
+        "1DUN1Q71": "holomorphic / analytic function",
         "1234": "winding number"
     },
     "statements": {
