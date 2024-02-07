@@ -4,11 +4,11 @@
     "type": "theorem",
     "dependencies": {
         "1IYIAGFB": "semisimple Lie algebra --over complex numbers",
-        "6DTG5YM7": "representation of a Lie algebra",
-        "3KPRPA7U": "Cartan subalgebra --of a complex semisimple Lie algebra",
+        "6DTG5YM7": "representation --of a Lie algebra",
+        "3KPRPA7U": "Cartan subalgebra",
         "62DKJFVQ": "character --of a Lie algebra representation",
-        "350YVP4C": "Weyl group --of a semisimple Lie algebra",
-        "2D5F8K66": "root system --of a semisimple Lie algebra"
+        "350YVP4C": "Weyl group",
+        "2D5F8K66": "root system"
     },
     "statements": {
         "AUE49P6F_1": {
