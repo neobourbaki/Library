@@ -19,7 +19,8 @@
         "UW49S1KS_a": {
             "language": "en",
             "dependencies": {
-                "asdf": "Fundamental Theorem of Algebra"
+                "SPUL8UCS": "Fundamental Theorem of Algebra",
+                "3456": "Hermitian form"
             },
             "comment": ""
         }
