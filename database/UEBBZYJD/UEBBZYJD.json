@@ -3,7 +3,8 @@
     "name": "",
     "type": "theorem",
     "dependencies": {
-        "175GH983": "Lie algebra of a matrix group"
+        "175GH983": "Lie algebra of a matrix group",
+        "1LTQ58M1": "trace of a matrix"
     },
     "statements": {
         "UEBBZYJD_1": {
