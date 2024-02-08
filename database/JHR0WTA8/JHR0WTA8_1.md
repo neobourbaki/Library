@@ -1,4 +1,4 @@
-Let $f\in I\to \mathbb{R}$ be an $n$-times differentiable function on $I \subseteq \mathbb{R}$. Then for any $a, b\in I$,
+Let $f: I \to \mathbb{R}$ be an $n$-times differentiable function on $I \subseteq \mathbb{R}$. Then for any $a, b\in I$,
 
 $$
 f(b) = \sum_{k=0}^{n-1} \frac{f^{(k)}(a)}{k!}(b-a)^k + \frac{f^{(n)}(\xi)}{n!}(b-a)^n
