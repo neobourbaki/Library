@@ -17,6 +17,7 @@
         "8I8TQVCL_b": {
             "language": "en",
             "dependencies": {
+                "1IRBEAFN": "Lie algebra sl_n",
                 "2D5F8K66": "root systems"
             },
             "comment": "classification"
