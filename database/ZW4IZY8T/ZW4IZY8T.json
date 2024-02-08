@@ -1,0 +1,25 @@
+{
+    "id": "ZW4IZY8T",
+    "name": "matrix multiplication is associative",
+    "type": "theorem",
+    "dependencies": {
+        "8M6CAY2R": "matrix",
+        "7RG754YE": "matrix multiplication"
+    },
+    "statements": {
+        "ZW4IZY8T_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "ZW4IZY8T_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}
