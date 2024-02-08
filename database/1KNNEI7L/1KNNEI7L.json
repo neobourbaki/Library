@@ -1,0 +1,23 @@
+{
+    "id": "1KNNEI7L",
+    "name": "topological space",
+    "type": "definition",
+    "dependencies": {
+    },
+    "definitions": {
+        "1KNNEI7L_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "by open sets"
+        },
+        "1KNNEI7L_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "by closed sets"
+        }
+    },
+    "equivalences": {
+    }
+}
