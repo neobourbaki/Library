@@ -1,0 +1,23 @@
+{
+    "id": "5PGIN6X2",
+    "name": "group",
+    "type": "definition",
+    "dependencies": {
+    },
+    "definitions": {
+        "5PGIN6X2_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "abstract"
+        },
+        "5PGIN6X2_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "as transformations on a set"
+        }
+    },
+    "equivalences": {
+    }
+}
