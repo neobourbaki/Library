@@ -8,7 +8,7 @@
     "statements": {
         "SPUL8UCS_1": {
             "language": "en",
-            "dependencies" {
+            "dependencies": {
             },
             "comment": ""
         }
