@@ -1,0 +1,25 @@
+{
+    "id": "2G8ZNB7E",
+    "name": "open subset --of Euclidean space",
+    "type": "definition",
+    "dependencies": {
+    },
+    "definitions": {
+        "2G8ZNB7E_a": {
+            "language": "en",
+            "dependencies": {
+                "1234": "open ball"
+            },
+            "comment": ""
+        },
+        "2G8ZNB7E_a": {
+            "language": "en",
+            "dependencies": {
+                "2345": "standard topology of Euclidean space"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
