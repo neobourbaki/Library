@@ -4,4 +4,4 @@ $$
 \lim_{z\to z_0} \frac{f(z) - f(z_0)}{z - z_0}
 $$
 
-exists (in $\mathbb{C}$), and the limit is called the *derivative of* $f$ at $z_0$, denoted $f'(z_0)$. We say $f$ is *differentiable* if it is differentiable at all $z_0 \in U$, and the *derivative* $f$ is a function $U \to \mathbb{C}$.
+exists (in $\mathbb{C}$), and the limit is called the *derivative of* $f$ at $z_0$, denoted $f'(z_0)$. We say $f$ is *differentiable* if it is differentiable at all $z_0 \in U$, and the *derivative* $f'$ is a function $U \to \mathbb{C}$.
