@@ -1,6 +1,6 @@
 {
     "id": "S8YT4BY5",
-    "name": "Taylor's theorem for holomorphic functions",
+    "name": "Taylor's theorem --for holomorphic functions",
     "type": "theorem",
     "dependencies": {
         "8A9M00AK": "complex numbers",
