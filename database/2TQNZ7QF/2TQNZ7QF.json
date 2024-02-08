@@ -1,0 +1,20 @@
+{
+    "id": "2TQNZ7QF",
+    "name": "general linear group",
+    "type": "definition",
+    "dependencies": {
+        "8M6CAY2R": "matrix",
+        "7RG754YE": "matrix multiplication",
+        "4HNSRY62": "determinant of a matrix"
+    },
+    "definitions": {
+        "2TQNZ7QF_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
