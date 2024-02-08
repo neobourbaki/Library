@@ -1,0 +1,18 @@
+{
+    "id": "3DJ3FN4S",
+    "name": "standard topology --of Euclidean space",
+    "type": "theorem",
+    "dependencies": {
+    },
+    "definitions": {
+        "3DJ3FN4S_a": {
+            "language": "en",
+            "dependencies": {
+                "2G8ZNB7E": "open subset --of Euclidean space"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
