@@ -3,10 +3,10 @@
     "name": "Weyl's character formula",
     "type": "theorem",
     "dependencies": {
-        "1IYIAGFB": "semisimple Lie algebra --over complex numbers",
+        "1IYIAGFB": "semisimple Lie algebra",
         "6DTG5YM7": "representation --of a Lie algebra",
         "3KPRPA7U": "Cartan subalgebra",
-        "62DKJFVQ": "character --of a Lie algebra representation",
+        "62DKJFVQ": "character --of a representation",
         "350YVP4C": "Weyl group",
         "2D5F8K66": "root system"
     },
