@@ -1,0 +1,17 @@
+{
+    "id": "3WYKN5SB",
+    "name": "complex differentiable",
+    "type": "definition",
+    "dependencies": {
+        "8A9M00AK": "complex numbers"
+    },
+    "definitions": {
+        "3WYKN5SB_a": {
+            "language": "en",
+            "dependencies": {
+                "1GY90UBE": "limit of a function"
+            },
+            "comment": ""
+        }
+    }
+}
