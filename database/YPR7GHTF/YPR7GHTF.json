@@ -4,7 +4,7 @@
     "type": "theorem",
     "dependencies": {
         "8A9M00AK": "complex numbers",
-        "1234": "sine as a complex function",
+        "1234": "sin(z)",
         "1DUN1Q71": "holomorphic / analytic function of a complex variable"
     },
     "statements": {
