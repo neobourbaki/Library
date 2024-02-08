@@ -4,13 +4,13 @@
     "type": "definition",
     "dependencies": {
         "4E41D57C": "real numbers",
-        "9JC74TZG": "continuous function of a real variable"
+        "9JC74TZG": "continuous function"
     },
     "definitions": {
         "1CNT5UVL_a": {
             "language": "en",
             "dependencies": {
-                "62D5M55S": "limit of a sequence of real numbers"
+                "62D5M55S": "limit of a sequence --of real numbers"
             },
             "comment": "left Riemann sum"
         },
