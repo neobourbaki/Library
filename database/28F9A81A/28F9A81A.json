@@ -4,8 +4,9 @@
     "type": "definition",
     "dependencies": {
         "8M6CAY2R": "matrix",
-        "ZW4IZY8T": "matrix multiplication is associative",
+        "7RG754YE": "matrix multiplication",
         "4HNSRY62": "determinant of a matrix",
+        "ZW4IZY8T": "matrix multiplication is associative",
         "2345": "group"
     },
     "statements": {
