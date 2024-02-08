@@ -5,7 +5,8 @@
     "dependencies": {
         "4VRQIJ31": "exponential of a matrix",
         "4HNSRY62": "determinant of a matrix",
-        "1LTQ58M1": "trace of a matrix"
+        "1LTQ58M1": "trace of a matrix",
+        "4SUT68SF": "exponential of a number"
     },
     "statements": {
         "FWDLB0GQ_1": {
