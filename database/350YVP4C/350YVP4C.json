@@ -10,17 +10,8 @@
         "350YVP4C_a": {
             "language": "en",
             "dependencies": {
-                "2D5F8K66": "root system",
-                "4567": "coroot"
+                "2D5F8K66": "root system"
             },
-            "comment": ""
-        },
-        "350YVP4C_b": {
-            "language": "en",
-            "dependencies": {
-                "2D5F8K66": "root system",
-                "4567": "coroot"
-            }
             "comment": ""
         }
     },
