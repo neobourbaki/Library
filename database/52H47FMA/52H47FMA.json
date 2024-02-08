@@ -1,0 +1,19 @@
+{
+    "id": "52H47FMA",
+    "name": "standard topology of Euclidean space",
+    "type": "definition",
+    "dependencies": {
+        "1KNNEI7L": "topological space",
+        "2G8ZNB7E": "open subset --of Euclidean space"
+    },
+    "statements": {
+        "52H47FMA_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
