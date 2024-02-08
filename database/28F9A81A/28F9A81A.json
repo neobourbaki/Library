@@ -3,7 +3,8 @@
     "name": "special linear group",
     "type": "definition",
     "dependencies": {
-        "1234": "matrix",
+        "8M6CAY2R": "matrix",
+        "ZW4IZY8T": "matrix multiplication is associative",
         "4HNSRY62": "determinant of a matrix",
         "2345": "group"
     },
