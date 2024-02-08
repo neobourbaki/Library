@@ -16,7 +16,7 @@
     "proofs": {
         "SPUL8UCS_a": {
             "language": "en",
-            "dependencies" {
+            "dependencies": {
                 "ESA986J5": "Liouville's theorem"
             },
             "comment": ""
