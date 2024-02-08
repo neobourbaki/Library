@@ -4,4 +4,4 @@ $$
 e^A = \sum_{k=0}^{\infty} \frac{1}{k!} A^k,
 $$
 
-i.e., each entry of the $n\times n$ matrix $e^A$ is given by an infinite series in $K$.
+i.e., each entry of $e^A$ is given by a power series (in $K$) of the corresponding entries on the right.
