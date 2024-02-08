@@ -4,7 +4,7 @@
     "type": "definition",
     "dependencies": {
         "1234": "general linear group",
-        "2345": "closed subset --of R^n"
+        "2345": "closed subset --of Euclidean space"
     },
     "statements": {
         "6VFZ3EAW_a": {
