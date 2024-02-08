@@ -1,6 +1,6 @@
 {
     "id": "ED78IZIY",
-    "name": "commutator has zero trace",
+    "name": "tr[A, B] = 0",
     "type": "theorem",
     "dependencies": {
         "1LTQ58M1": "trace of a matrix"
