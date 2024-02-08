@@ -1,4 +1,4 @@
-Let $A$ be an $n\times n$ matrix over a field $k$, and $\det(A) \neq 0$. The *inverse matrix* of $A$ is the matrix $A^{-1}$ whose entries are given by
+An $n\times n$ matrix $A$ over a field $k$ is *invertible* if $\det(A) \neq 0$, and the *inverse matrix* of $A$, denoted $A^{-1}$, is given by
 
 $$
 (A^{-1})_{ij} = \frac{1}{\det(A)} (-1)^{i+j} \det(M_{ji})
