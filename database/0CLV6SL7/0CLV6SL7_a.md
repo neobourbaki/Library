@@ -1,4 +1,4 @@
-An $n\times n$ matrix $A$ over a field $k$ is *invertible* if there exists a matrix $B$ such that
+An $n\times n$ matrix $A$ over a commutative ring $k$ is *invertible* if there exists a matrix $B$ over $k$ such that
 
 $$
 AB = BA = I
