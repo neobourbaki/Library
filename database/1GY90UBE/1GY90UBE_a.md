@@ -10,4 +10,4 @@ $$
 |f(x) - L| < \epsilon
 $$
 
-for all $x \in X$ such that $x \neq x_0$, and $|x - x_0| < \delta$.
+for all $x \in B(x_0, \delta) := \\{ x \in X \\; : \\; |x - x_0| < \delta \\}$ and $x \neq x_0$.
