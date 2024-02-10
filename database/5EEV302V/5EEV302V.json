@@ -1,0 +1,26 @@
+{
+    "id": "5EEV302V",
+    "name": "representation of a group",
+    "type": "definition",
+    "dependencies": {
+        "5PGIN6X2": "group",
+        "1234": "vector field over a field"
+    },
+    "definitions": {
+        "5EEV302V_a": {
+            "language": "en",
+            "dependencies": {
+                "2345": "GL(V)"
+            },
+            "comment": ""
+        },
+        "5EEV302V_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
