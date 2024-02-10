@@ -1,10 +1,10 @@
 {
     "id": "2D5F8K66",
-    "name": "root system of a semisimple Lie algebra",
+    "name": "root system of a complex semisimple Lie algebra",
     "type": "definition",
     "dependencies": {
         "1IYIAGFB": "semisimple Lie algebra --over complex numbers",
-        "3KPRPA7U": "Cartan subalgebra --of a complex semisimple Lie algebra"
+        "3KPRPA7U": "Cartan subalgebra"
     },
     "statements": {
         "2D5F8K66_a": {
