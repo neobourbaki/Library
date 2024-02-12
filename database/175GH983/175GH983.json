@@ -9,6 +9,13 @@
         "175GH983_a": {
             "language": "en",
             "dependencies": {
+                "4VRQIJ31": "exponential of a matrix",
+            },
+            "comment": ""
+        },
+        "175GH983_b": {
+            "language": "en",
+            "dependencies": {
             },
             "comment": ""
         }
