@@ -1,1 +1,1 @@
-Let $k$ be a field or a commutative ring. The set of $n\times n$ matrices over $k$ with determinant 1 is a group under matrix multiplication, and is known as the special linear group $\mathop{\mathrm{SL}}_n(k)$.
+Let $k$ be a commutative ring. The set of $n\times n$ matrices over $k$ with determinant 1 form a group under matrix multiplication, and is known as the special linear group $\mathop{\mathrm{SL}}_n(k)$.
