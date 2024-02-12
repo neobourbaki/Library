@@ -4,10 +4,10 @@
     "type": "theorem",
     "dependencies": {
         "8A9M00AK": "complex numbers",
-        "1DUN1Q71": "holomorphic / analytic function of a complex variable",
+        "1DUN1Q71": "holomorphic / analytic function --of a complex variable",
         "2N67288B": "integral of a complex function along a path",
         "1234": "residue",
-        "2345": "winding number"
+        "2D1XWRF2": "winding number"
     },
     "statements": {
         "GCUZL9W8_1": {
