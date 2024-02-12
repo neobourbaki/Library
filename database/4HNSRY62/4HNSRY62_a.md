@@ -1,4 +1,4 @@
-The *determinant* of an $n\times n$ matrix $A$ over a field or a commutative ring $k$ is given by
+The *determinant* of an $n\times n$ matrix $A$ over a commutative ring $k$ is given by
 
 $$
 \det A = \sum_{\sigma \in S_n} \varepsilon(\sigma) A_{1,\sigma(1)} A_{2,\sigma(2)} \cdots A_{n,\sigma(n)}
