@@ -9,7 +9,8 @@
         "1IYIAGFB_a": {
             "language": "en",
             "dependencies": {
-                "3EFEFC0N": "abelian Lie algebra"
+                "3EFEFC0N": "abelian Lie algebra",
+                "4VVA9RFS": "normal subalgebra"
             },
             "comment": ""
         },
