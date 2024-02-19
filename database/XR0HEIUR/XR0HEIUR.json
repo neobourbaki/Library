@@ -10,7 +10,13 @@
             "language": "en",
             "dependencies": {
             },
-            "comment": ""
+            "comment": "least upper bound"
+        },
+        "XR0HEIUR_2": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "greatest lower bound"
         }
     },
     "proofs": {
