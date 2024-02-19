@@ -1,1 +1,1 @@
-The *Lie algebra* of a Lie group $G$ over the field $\mathbf{K}=\mathbb{R}$ or $\mathbb{C}$ is a Lie algebra $\mathfrak{g}$ over $\mathbf{K}$ consisting of left-invariant vector fields $X \in \mathcal{X}(G)$, under the Lie bracket $[X, Y] = XY - YX$.
+The *Lie algebra* of a Lie group $G$ over the field $\mathbf{K}=\mathbb{R}$ or $\mathbb{C}$ is the $\mathbf{K}$-vector space $\mathfrak{g}$ of left-invariant vector fields $X \in \mathcal{X}(G)$, under the Lie bracket $[X, Y] = XY - YX$.
