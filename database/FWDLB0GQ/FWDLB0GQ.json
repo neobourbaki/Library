@@ -21,6 +21,7 @@
             "language": "en",
             "dependencies": {
                 "XY0S8JSF": "det(AB) = det(A)det(B)",
+                "Y1J6MSUW": "e^(x+y) = e^x e^y",
                 "XPCLVNG4": "tr(AB) = tr(BA)"
             },
             "comment": ""
