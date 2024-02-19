@@ -4,4 +4,4 @@ $$
 (A^{-1})_{ij} = \det(A)^{-1} (-1)^{i+j} \det(M_{ji})
 $$
 
-where $M_{ij}$ is the $(n-1)\times (n-1)$ matrix obtained by deleting the $i$-th row and $j$-th column from matrix $A$.
+where $M_{ij}$ is the $(n-1)\times (n-1)$ matrix obtained by deleting the $i$-th row and the $j$-th column from the matrix $A$.
