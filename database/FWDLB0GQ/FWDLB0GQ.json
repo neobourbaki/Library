@@ -20,6 +20,8 @@
         "FWDLB0GQ_a": {
             "language": "en",
             "dependencies": {
+                "XY0S8JSF": "det(AB) = det(A)det(B)",
+                "XPCLVNG4": "tr(AB) = tr(BA)"
             },
             "comment": ""
         }
