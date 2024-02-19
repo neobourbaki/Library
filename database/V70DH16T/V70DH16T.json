@@ -1,0 +1,25 @@
+{
+    "id": "V70DH16T",
+    "name": "",
+    "type": "theorem",
+    "dependencies": {
+        "4VRQIJ31": "exponential of a matrix",
+        "1234": "convergence"
+    },
+    "statements": {
+        "V70DH16T_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "V70DH16T_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}       
