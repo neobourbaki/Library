@@ -24,8 +24,7 @@
         "S8P9UI0H_a": {
             "language": "en",
             "dependencies": {
-                "KJWDUNKD": "mean value theorem",
-                "asdf": "Riemann sum approaches the integral"
+                "KJWDUNKD": "mean value theorem"
             },
             "comment": ""
         },
