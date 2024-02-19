@@ -1,6 +1,6 @@
 {
     "id": "XPCLVNG4",
-    "name": "tr AB = tr BA",
+    "name": "tr(AB) = tr(BA)",
     "type": "theorem",
     "dependencies": {
         "1LTQ58M1": "trace of a matrix",
