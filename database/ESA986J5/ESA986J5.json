@@ -15,7 +15,7 @@
         }
     },
     "proofs": {
-        "ESA986J5_1": {
+        "ESA986J5_a": {
             "language": "en",
             "dependencies": {
                 "S8YT4BY5": "Taylor's theorem"
