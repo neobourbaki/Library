@@ -1,0 +1,25 @@
+{
+    "id": "MSGKA9CL",
+    "name": "extreme value theorem",
+    "type": "theorem",
+    "dependencies": {
+        "4E41D57C": "real numbers"
+    },
+    "statements": {
+        "MSGKA9CL_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "MSGKA9CL_a": {
+            "language": "en",
+            "dependencies": {
+                "XR0HEIUR": "completeness of real numbers"
+            },
+            "comment": ""
+        }
+    }
+}
