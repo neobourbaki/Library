@@ -3,12 +3,14 @@
     "name": "exponential of a matrix",
     "type": "definition",
     "dependencies": {
-        "8M6CAY2R": "matrix"
+        "8M6CAY2R": "matrix",
+        "7RG754YE": "matrix multiplication"
     },
     "statements": {
         "4VRQIJ31_a": {
             "language": "en",
             "dependencies": {
+                "V70DH16T": "series converges"
             },
             "comment": ""
         }
