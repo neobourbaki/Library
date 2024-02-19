@@ -1,6 +1,6 @@
 {
     "id": "ZW4IZY8T",
-    "name": "matrix multiplication is associative",
+    "name": "associativity --of matrix multiplication",
     "type": "theorem",
     "dependencies": {
         "8M6CAY2R": "matrix",
