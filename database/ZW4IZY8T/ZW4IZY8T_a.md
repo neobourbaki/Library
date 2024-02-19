@@ -4,7 +4,7 @@ $$
 (f \circ g) \circ h = f \circ (g \circ h).
 $$
 
-Indeed, let $v$ be any vector （of the appropriate size), and
+Indeed, let $v$ be any vector (of appropriate size), and
 
 $$
 ((AB)v)_i = \sum_{j} (AB)_{ij} v_j = \sum_{j} \sum_{k} A_{ik}B_{kj} v_j = \sum_{k} A_{ik} (Bv)_k = (A(Bv))_i
