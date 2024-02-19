@@ -1,4 +1,4 @@
-Assume that $A$ is diagonalizable, i.e., $A = SDS^{-1}$ for some invertible matrix $S$ and diagonal matrix $D=\mathop{\mathrm{diag}}(\lambda_1, \ldots, \lambda_n)$, $\lambda_i \in \mathbb{C}$. Then,
+Assume that $A$ is diagonalizable, i.e., $A = SDS^{-1}$ for some invertible matrix $S$ and diagonal matrix $D=\mathop{\mathrm{diag}}(\lambda_1, \ldots, \lambda_n)$ over $\mathbb{C}$. Then,
 
 $$
 e^A = \sum_{k=0}^{\infty} \frac{1}{k!} (SDS^{-1})^k = \sum_{k=0}^{\infty} \frac{1}{k!} SD^k S^{-1} = S e^D S^{-1}
