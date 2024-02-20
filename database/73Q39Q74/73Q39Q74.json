@@ -1,0 +1,18 @@
+{
+    "id": "73Q39Q74",
+    "name": "eigenvalue / eigenvector --of a matrix",
+    "type": "definition",
+    "dependencies": {
+        "8M6CAY2R": "matrix"
+    },
+    "definitions": {
+        "73Q39Q74_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
