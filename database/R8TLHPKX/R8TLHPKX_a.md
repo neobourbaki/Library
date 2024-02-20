@@ -27,7 +27,7 @@ $$
 [E, \Delta] = \sum_i [ x_i \partial_i, \partial_i^2] = \sum_i -2\partial_i^2 = -2 \Delta
 $$
 
-and they don't generate anything new. Thus, we can identify $H \mapsto E$, $X \mapsto \frac{1}{2}Q$, and $Y \mapsto \frac{1}{2}\Delta$, where $\\{H, X, Y\\}$ is the standard basis of $\mathfrak{sl}_2(K)$:
+and they don't generate anything new. Thus, we can identify $H \mapsto E$, $X \mapsto \frac{1}{2}Q$, and $Y \mapsto \frac{1}{2}\Delta$, where $\\{H, X, Y\\}$ is the standard basis of $\mathfrak{sl}_2(\mathbf{K})$:
 
 $$
 H = \begin{pmatrix} 1 & \\\\ & -1 \end{pmatrix} \qquad X = \begin{pmatrix} & 1 \\\\ 0 & \end{pmatrix} \qquad Y = \begin{pmatrix} & 0 \\\\ 1 & \end{pmatrix}
