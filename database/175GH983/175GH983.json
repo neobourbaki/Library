@@ -3,7 +3,8 @@
     "name": "Lie algebra --of a matrix group",
     "type": "definition",
     "dependencies": {
-        "6VFZ3EAW": "matrix group"
+        "6VFZ3EAW": "matrix group",
+        "3H8N6TE0": "Lie algebra"
     },
     "definitions": {
         "175GH983_a": {
