@@ -1,6 +1,6 @@
 {
     "id": "671ZFMDA",
-    "name": "exponential function of a real variable",
+    "name": "exponential function --of a real variable",
     "type": "definition",
     "dependencies": {
         "4E41D57C": "real numbers"
@@ -10,7 +10,7 @@
             "language": "en",
             "dependencies": {
                 "1234": "inverse function",
-                "1CNT5UVL": "integral of a continuous function of a real variable"
+                "1CNT5UVL": "integral of a continuous function"
             },
             "comment": "inverse to log"
         },
@@ -24,7 +24,7 @@
         "671ZFMDA_a": {
             "language": "en",
             "dependencies": {
-                "asdf": "existence and uniquess of solution to ODE"
+                "asdf": "existence and uniquess --of solution to ODE"
             },
             "comment": "solution to f'=f"
         }
