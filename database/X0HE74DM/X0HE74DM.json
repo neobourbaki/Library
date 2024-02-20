@@ -1,0 +1,27 @@
+{
+    "id": "X0HE74DM",
+    "name": "",
+    "type": "theorem",
+    "dependencies": {
+        "9TPP1VUX": "trace of a linear map"
+    },
+    "statements": {
+        "X0HE74DM_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "X0HE74DM_a": {
+            "language": "en",
+            "dependencies": {
+                "1234": "matrix of a linear map",
+                "ABCD": "change of basis",
+                "XPCLVNG4": "tr(AB) = tr(BA)"
+            },
+            "comment": ""
+        }
+    }
+}
