@@ -1,0 +1,21 @@
+{
+    "id": "1NSFWKTN",
+    "name": "matrix of a linear map",
+    "type": "definition",
+    "dependencies": {
+        "1234": "linear map",
+        "2345": "basis",
+        "8M6CAY2R": "matrix"
+    },
+    "definitions": {
+        "1NSFWKTN_a": {
+            "language": "en",
+            "dependencies": {
+                "ABCD": "vector in a basis"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
