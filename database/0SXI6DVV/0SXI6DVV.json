@@ -1,0 +1,30 @@
+{
+    "id": "0SXI6DVV",
+    "name": "identity matrix",
+    "type": "definition",
+    "dependencies": {
+        "8M6CAY2R": "matrix"
+    },
+    "definitions": {
+        "0SXI6DVV_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "0SXI6DVV_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "0SXI6DVV_c": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
