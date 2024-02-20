@@ -4,4 +4,4 @@ $$
 AI = IA = A
 $$
 
-for all $n\times n$ matrix $A$.
+for all $n\times n$ matrices $A$.
