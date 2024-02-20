@@ -1,4 +1,4 @@
-The matrices of a linear map $L: V \to V$ with respect of two bases of $V$ are related by an automorphism, i.e.,
+The matrices of a linear map $L: V \to V$ with respect of two bases of $V$ are related by conjugation, i.e.,
 
 $$
 A = SBS^{-1}
