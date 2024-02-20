@@ -9,7 +9,8 @@
         "9TPP1VUX_a": {
             "language": "en",
             "dependencies": {
-                "2345": "matrix of a linear map"
+                "2345": "matrix of a linear map",
+                "X0HE74DM": "independence of basis"
             },
             "comment": ""
         }
