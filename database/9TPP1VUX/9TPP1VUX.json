@@ -1,0 +1,19 @@
+{
+    "id": "9TPP1VUX",
+    "name": "trace of a linear map",
+    "type": "definition",
+    "dependencies": {
+        "1234": "linear map"
+    },
+    "definitions": {
+        "9TPP1VUX_a": {
+            "language": "en",
+            "dependencies": {
+                "2345": "matrix of a linear map"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
