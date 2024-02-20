@@ -1,0 +1,18 @@
+{
+    "id": "5BDJ54RG",
+    "name": "linear map --of vector spaces",
+    "type": "definition",
+    "dependencies": {
+        "2GM7AN7T": "vector space --over a field"
+    },
+    "definitions": {
+        "5BDJ54RG_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
