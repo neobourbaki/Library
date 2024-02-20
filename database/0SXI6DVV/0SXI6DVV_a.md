@@ -1,4 +1,4 @@
-The $n\times n$ identity matrix over a commutative ring $k$ is 
+The $n\times n$ *identity matrix* over a commutative ring $k$ is 
 
 $$
 I = \begin{pmatrix}
