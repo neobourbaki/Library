@@ -4,4 +4,4 @@ $$
 \pi([X, Y]) = \pi(X)\pi(Y) - \pi(Y)\pi(X)
 $$
 
-for all $X, Y \in \mathfrak{g}$. By abuse of notation, one may write $Xv$ for the vector $\pi(X)v \in V$ for $X\in\mathfrak{g}$ and $v\in V$.
+for all $X, Y \in \mathfrak{g}$. If there is no confusion, one may write $Xv$ for the vector $\pi(X)v \in V$ for $X\in\mathfrak{g}$ and $v\in V$.
