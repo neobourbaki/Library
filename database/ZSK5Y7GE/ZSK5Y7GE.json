@@ -3,9 +3,9 @@
     "name": "Fundamental Theorem of Calculus",
     "type": "theorem",
     "dependencies": {
-        "9JC74TZG": "continuous function",
+        "9JC74TZG": "continuity",
         "1CNT5UVL": "integral of a continuous function",
-        "98SB2AL0": "derivative"
+        "98SB2AL0": "differentiability / derivative"
     },
     "statements": {
         "ZSK5Y7GE_1": {
