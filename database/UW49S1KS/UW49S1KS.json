@@ -4,7 +4,7 @@
     "type": "theorem",
     "dependencies": {
         "8A9M00AK": "complex numbers",
-        "1234": "Hermitian matrix",
+        "4SK5GQ9I": "Hermitian matrix",
         "2345": "eigenvalue and eigenvector"
     },
     "statements": {
