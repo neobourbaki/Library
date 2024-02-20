@@ -19,7 +19,7 @@
             "language": "en",
             "dependencies": {
                 "28F9A81A": "Lie group SL_n",
-                "175GH983": "Lie algebra of a classical group"
+                "175GH983": "Lie algebra of a matrix group"
             },
             "comment": ""
         }
