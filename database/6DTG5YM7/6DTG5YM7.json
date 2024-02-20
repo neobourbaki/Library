@@ -3,7 +3,8 @@
     "name": "representation of a Lie algebra",
     "type": "definition",
     "dependencies": {
-        "3H8N6TE0": "Lie algebra"
+        "3H8N6TE0": "Lie algebra",
+        "2GM7AN7T": "vector space --over a field"
     },
     "statements": {
         "6DTG5YM7_a": {
