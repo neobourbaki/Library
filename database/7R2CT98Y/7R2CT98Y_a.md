@@ -1,4 +1,4 @@
-A *ring* is an abelian group $(R, +)$, together with a binary operation $R \times R \to R$, $(r, s) \mapsto rs$ (called multiplication) satisfying
+A *ring* is an abelian group $(R, +)$, together with a binary operation $R \times R \to R$, $(r, s) \mapsto rs$ (called *multiplication*) satisfying
 
 - $(rs)t = r(st)$
 - $(r+s)t = rt+st$ 
