@@ -1,10 +1,10 @@
 {
     "id": "2N67288B",
-    "name": "integral of a complex function along a path",
+    "name": "integral of a complex function --over a path",
     "type": "definition",
     "dependencies": {
         "8A9M00AK": "complex numbers",
-        "1234": "continuous function of a complex variable",
+        "1234": "continuous function --of a complex variable",
         "4737FZPD": "piecewise C^1 path",
         "04RJ43R8": "integral of a piecewise continuous function"
     },
