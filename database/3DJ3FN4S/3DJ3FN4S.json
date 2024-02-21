@@ -3,6 +3,8 @@
     "name": "standard topology --of Euclidean space",
     "type": "theorem",
     "dependencies": {
+        "1KNNEI7L": "topological space",
+        "1234": "Euclidean space"
     },
     "definitions": {
         "3DJ3FN4S_a": {
