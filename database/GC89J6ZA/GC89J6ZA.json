@@ -1,6 +1,6 @@
 {
     "id": "GC89J6ZA",
-    "name": "Lie algebra from associative algebra",
+    "name": "Lie algebra --of an associative algebra",
     "type": "theorem",
     "dependencies": {
         "1234": "associative algebra",
