@@ -3,13 +3,13 @@
     "name": "vector space --over a field",
     "type": "definition",
     "dependencies": {
-        "1234": "field"
+        "4BCNPPIX": "field"
     },
     "definitions": {
         "2GM7AN7T_a": {
             "language": "en",
             "dependencies": {
-                "2345": "abelian group"
+                "53J4N2KC": "abelian group"
             },
             "comment": ""
         },
