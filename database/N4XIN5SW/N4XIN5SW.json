@@ -5,7 +5,6 @@
     "dependencies": {
         "4HNSRY62": "determinant of a matrix",
         "7RG754YE": "matrix multiplication",
-        "0SXI6DVV": "identity matrix",
         "5PGIN6X2": "group"
     },
     "statements": {
@@ -20,8 +19,9 @@
         "N4XIN5SW_a": {
             "language": "en",
             "dependencies": {
-                "0CLV6SL7": "inverse matrix",
-                "XY0S8JSF": "det(AB) = det(A)det(B)"
+                "XY0S8JSF": "det(AB) = det(A)det(B)",
+                "0SXI6DVV": "identity matrix",
+                "0CLV6SL7": "inverse matrix"
             },
             "comment": ""
         }
