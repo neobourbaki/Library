@@ -1,0 +1,18 @@
+{
+    "id": "4BCNPPIX",
+    "name": "field",
+    "type": "definition",
+    "dependencies": {
+    },
+    "definitions": {
+        "4BCNPPIX_a": {
+            "language": "en",
+            "dependencies": {
+                "67IMWPW4": "commutative ring"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
