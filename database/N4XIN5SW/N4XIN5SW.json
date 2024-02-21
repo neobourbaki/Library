@@ -3,6 +3,8 @@
     "name": "special linear group",
     "type": "theorem",
     "dependencies": {
+        "67IMWPW4": "commutative ring",
+        "8M6CAY2R": "matrix",
         "4HNSRY62": "determinant of a matrix",
         "7RG754YE": "matrix multiplication",
         "5PGIN6X2": "group"
