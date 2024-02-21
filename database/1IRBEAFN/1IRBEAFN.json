@@ -10,7 +10,7 @@
         "1IRBEAFN_a": {
             "language": "en",
             "dependencies": {
-                "XPCLVNG4": "tr(AB)=tr(BA)",
+                "XPCLVNG4": "tr(AB) = tr(BA)",
                 "GC89J6ZA": "Lie algebra --of an associative algebra"
             },
             "comment": "works over any field or commutative ring"
