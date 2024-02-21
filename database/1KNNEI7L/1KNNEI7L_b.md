@@ -1,7 +1,7 @@
-A *topology* on a set $S$ is a set $\mathcal{C}$ of subsets of $S$ satisfying
+A *topology* on a set $X$ is a set $\mathcal{C}$ of subsets of $X$ satisfying
 
-- the empty set $\emptyset$ and $S$ are members of $\mathcal{C}$;
+- the empty set $\emptyset$ and $X$ are members of $\mathcal{C}$;
 - any finite union of members of $\mathcal{C}$ is a member of $\mathcal{C}$;
 - any intersection of members of $\mathcal{C}$ is a member of $\mathcal{C}$.
 
-A set $S$ with a topology $\mathcal{C}$ on $S$ is known as a *topological space*. A subset of $S$ is *closed* if it is a member of $\mathcal{C}$, and *open* if its complement is a member of $\mathcal{C}$.
+A set $X$ with a topology $\mathcal{C}$ on $S$ is known as a *topological space*. A subset of $X$ is *closed* if it is a member of $\mathcal{C}$, and *open* if its complement is a member of $\mathcal{C}$.
