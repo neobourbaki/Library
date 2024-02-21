@@ -1,0 +1,18 @@
+{
+    "id": "1Y3LK90K",
+    "name": "standard sesquilinear form --on C^n",
+    "type": "definition",
+    "dependencies": {
+        "9GN39VRH": "sesquilinear form"
+    },
+    "definitions": {
+        "1Y3LK90K_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
