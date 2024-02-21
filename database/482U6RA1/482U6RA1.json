@@ -1,0 +1,18 @@
+{
+    "id": "482U6RA1",
+    "name": "algebra --over a field",
+    "type": "definition",
+    "dependencies": {
+        "4BCNPPIX": "field"
+    },
+    "definitions": {
+        "482U6RA1_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
