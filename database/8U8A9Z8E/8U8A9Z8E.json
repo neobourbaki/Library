@@ -1,0 +1,18 @@
+{
+    "id": "8U8A9Z8E",
+    "name": "continuous map --of topological spaces",
+    "type": "definition",
+    "dependencies": {
+        "1KNNEI7L": "topological space"
+    },
+    "definitions": {
+        "8U8A9Z8E_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
