@@ -11,7 +11,7 @@
             "language": "en",
             "dependencies": {
                 "XPCLVNG4": "tr(AB)=tr(BA)",
-                "GC89J6ZA": "Lie algebra from associative algebra"
+                "GC89J6ZA": "Lie algebra --of an associative algebra"
             },
             "comment": "works over any field or commutative ring"
         },
