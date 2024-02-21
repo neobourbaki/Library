@@ -3,6 +3,7 @@
     "name": "standard sesquilinear form --on C^n",
     "type": "definition",
     "dependencies": {
+        "8A9M00AK": "complex numbers",
         "9GN39VRH": "sesquilinear form"
     },
     "definitions": {
