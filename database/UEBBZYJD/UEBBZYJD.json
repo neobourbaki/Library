@@ -3,7 +3,7 @@
     "name": "",
     "type": "theorem",
     "dependencies": {
-        "175GH983": "Lie algebra of a matrix group",
+        "175GH983": "Lie algebra --of a matrix group",
         "1LTQ58M1": "trace of a matrix"
     },
     "statements": {
@@ -18,7 +18,7 @@
         "UEBBZYJD_a": {
             "language": "en",
             "dependencies": {
-                "FWDLB0GQ": "determinant-trace identity"
+                "FWDLB0GQ": "det(e^X) = e^tr(X)"
             },
             "comment": ""
         }
