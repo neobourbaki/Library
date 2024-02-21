@@ -10,7 +10,14 @@
             "dependencies": {
                 "1234": "abelian group"
             },
-            "comment": "requires existence of 1"
+            "comment": ""
+        }，
+        "67IMWPW4_a": {
+            "language": "en",
+            "dependencies": {
+                "7R2CT98Y": "ring"
+            },
+            "comment": ""
         }
     },
     "equivalences": {
