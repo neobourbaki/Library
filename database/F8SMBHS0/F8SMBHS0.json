@@ -4,7 +4,7 @@
     "type": "theorem",
     "dependencies": {
         "8A9M00AK": "complex numbers",
-        "2N67288B": "integral of a complex function along a path"
+        "2N67288B": "integral of a complex function --over a path"
     },
     "statements": {
         "F8SMBHS0_1": {
