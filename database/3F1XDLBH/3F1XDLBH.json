@@ -1,0 +1,20 @@
+{
+    "id": "3F1XDLBH",
+    "name": "homotopy of paths",
+    "type": "definition",
+    "dependencies": {
+        "4737FZPD": "curve / path",
+        "1KNNEI7L": "topological space"
+    },
+    "definitions": {
+        "3F1XDLBH_a": {
+            "language": "en",
+            "dependencies": {
+                "8U8A9Z8E": "continuous map"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
