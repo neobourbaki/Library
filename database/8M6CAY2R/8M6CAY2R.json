@@ -1,0 +1,18 @@
+{
+    "id": "8M6CAY2R",
+    "name": "matrix --over a commutative ring",
+    "type": "definition",
+    "dependencies": {
+        "67IMWPW4": "commutative ring"
+    },
+    "definitions": {
+        "8M6CAY2R_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
