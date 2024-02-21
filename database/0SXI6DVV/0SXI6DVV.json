@@ -15,6 +15,7 @@
         "0SXI6DVV_b": {
             "language": "en",
             "dependencies": {
+                "7RG754YE": "matrix multiplication"
             },
             "comment": ""
         },
