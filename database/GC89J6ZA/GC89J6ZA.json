@@ -3,7 +3,8 @@
     "name": "Lie algebra --of an associative algebra",
     "type": "theorem",
     "dependencies": {
-        "1234": "associative algebra",
+        "482U6RA1": "associative algebra",
+        "4BCNPPIX": "field",
         "3H8N6TE0": "Lie algebra"
     },
     "statements": {
