@@ -22,7 +22,7 @@
         "2G8ZNB7E_c": {
             "language": "en",
             "dependencies": {
-                "3DJ3FN4S": "standard topology of Euclidean space"
+                "3DJ3FN4S": "standard topology --of Euclidean space"
             },
             "comment": ""
         }
