@@ -3,7 +3,9 @@
     "name": "",
     "type": "theorem",
     "dependencies": {
-        "9TPP1VUX": "trace of a linear map"
+        "1LTQ58M1": "trace of a matrix",
+        "5BDJ54RG": "linear map --of vector spaces",
+        "5QCVZP8Y": "basis --of a vector spaces"
     },
     "statements": {
         "X0HE74DM_1": {
