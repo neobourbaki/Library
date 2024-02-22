@@ -1,0 +1,18 @@
+{
+    "id": "6Y9W1VMN",
+    "name": "series",
+    "type": "definition",
+    "dependencies": {
+        "8A9M00AK": "complex numbers"
+    },
+    "definitions": {
+        "6Y9W1VMN_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
