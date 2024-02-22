@@ -21,7 +21,7 @@
         "3CIWCZZS_c": {
             "language": "en",
             "dependencies": {
-                "1CNT5UVL": "integral of a continuous function of a real variable",
+                "1CNT5UVL": "integral of a continuous function"
             },
             "comment": "integral"
         },
