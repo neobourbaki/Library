@@ -4,4 +4,4 @@ $$
 \lim_{N\to\infty} \sum_{n \leq N} x_n
 $$
 
-exists, and the limit is said to be the *sum* of the series.
+exists, and the limit is said to be the *sum* of the series; and *diverges* if the limit does not exist.
