@@ -3,8 +3,8 @@
     "name": "",
     "type": "theorem",
     "dependencies": {
-        "4VRQIJ31": "exponential of a matrix",
-        "1234": "convergence"
+        "7RG754YE": "matrix multiplication",
+        "1234": "series"
     },
     "statements": {
         "V70DH16T_1": {
