@@ -1,0 +1,18 @@
+{
+    "id": "6Y14D2JD",
+    "name": "convergence",
+    "type": "definition",
+    "dependencies": {
+    },
+    "definitions": {
+        "6Y14D2JD_a": {
+            "language": "en",
+            "dependencies": {
+                "62D5M55S": "limit of a sequence of real numbers"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
