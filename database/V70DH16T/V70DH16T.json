@@ -4,7 +4,8 @@
     "type": "theorem",
     "dependencies": {
         "7RG754YE": "matrix multiplication",
-        "1234": "series"
+        "1234": "series",
+        "2345": "convergence"
     },
     "statements": {
         "V70DH16T_1": {
