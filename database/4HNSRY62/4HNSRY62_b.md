@@ -1,5 +1,5 @@
-Let $V_i \cong k^n$ be the vector space of the $i$-th column of the $n\times n$ matrices over a field $k$. The determinant is a map $\det: V_1 \times \cdots \times V_n\to k$ such that
+Let $V_i \cong k^n$ be the vector space of the $i$-th column of the $n\times n$ matrices over a field $k$, and identify the ring of $n\times n$ matrices $M_n(k)$ with $V_1 \times \cdots \times V_n$. The *determinant* is a map $\det: M_n(k)\to k$ such that
 
-- it is multilinear, i.e., it is linear in each factor;
-- it is antisymmetric in any two columns $V_i, V_j$;
+- it is multilinear, i.e., it is linear in each $V_i$;
+- it is antisymmetric in any two factors;
 - $\det(I) = 1$.
