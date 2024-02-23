@@ -15,8 +15,7 @@
         "9JC74TZG_b": {
             "language": "en",
             "dependencies": {
-                "52H47FMA": "standard topology",
-                "2345": "subspace topology"
+                "8U8A9Z8E": "continuous map --of topological spaces"
             },
             "comment": "topological definition"
         },
