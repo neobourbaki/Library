@@ -1,6 +1,6 @@
 {
     "id": "UW49S1KS",
-    "name": "spectral theorem --for Hermitian matrices",
+    "name": "spectral theorem --for Hermitian matrix",
     "type": "theorem",
     "dependencies": {
         "8A9M00AK": "complex numbers",
