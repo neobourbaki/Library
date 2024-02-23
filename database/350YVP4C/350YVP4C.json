@@ -4,7 +4,7 @@
     "type": "definition",
     "dependencies": {
         "1IYIAGFB": "semisimple Lie algebra",
-        "3KPRPA7U": "Cartan subalgebra"
+        "3KPRPA7U": "Cartan subalgebra --of a semisimple Lie algebra"
     },
     "definitions": {
         "350YVP4C_a": {
