@@ -3,10 +3,9 @@
     "name": "Cauchy's integral theorem",
     "type": "theorem",
     "dependencies": {
-        "8A9M00AK": "complex numbers",
         "1DUN1Q71": "holomorphic functions",
         "2N67288B": "integral of a complex function --over a path",
-        "4566": "closed path homotopic to a point"
+        "28KGMW3P": "homotopy of loops"
     },
     "statements": {
         "UW7HQDX4_1": {
