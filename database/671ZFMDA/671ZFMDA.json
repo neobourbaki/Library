@@ -24,7 +24,7 @@
         "671ZFMDA_a": {
             "language": "en",
             "dependencies": {
-                "asdf": "existence and uniquess --of solution to ODE"
+                "asdf": "existence and uniqueness --of solution to ODE"
             },
             "comment": "solution to f'=f"
         }
