@@ -9,6 +9,7 @@
         "03LC586U_a": {
             "language": "en",
             "dependencies": {
+                "5BDJ54RG": "linearity"
             },
             "comment": ""
         }
