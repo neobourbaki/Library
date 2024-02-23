@@ -4,4 +4,4 @@ $$
 B(x, r) = \\{ y \in \mathbb{R}^n \\; : \\; |y - x| < r \\}
 $$
 
-where $x$ is the *center*, and $r > 0$ is the radius, of the open ball.
+where $x$ is called the *center*, and $r > 0$ the *radius*, of the open ball.
