@@ -1,4 +1,4 @@
-An *open ball* in the Euclidean space $\mathbb{R}^n$ is a set of the form
+An *open ball* in the Euclidean space $\mathbb{R}^n$ is a subset of the form
 
 $$
 B(x, r) = \\{ y \in \mathbb{R}^n \\; : \\; |y - x| < r \\}
