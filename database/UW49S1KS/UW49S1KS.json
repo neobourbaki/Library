@@ -5,7 +5,8 @@
     "dependencies": {
         "8A9M00AK": "complex numbers",
         "4SK5GQ9I": "Hermitian matrix",
-        "73Q39Q74": "eigenvalue / eigenvector"
+        "73Q39Q74": "eigenvalue / eigenvector",
+        "1Y3LK90K": "standard sesquilinear form"
     },
     "statements": {
         "UW49S1KS_1": {
