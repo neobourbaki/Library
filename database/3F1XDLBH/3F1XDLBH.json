@@ -1,6 +1,6 @@
 {
     "id": "3F1XDLBH",
-    "name": "homotopy of paths",
+    "name": "homotopy",
     "type": "definition",
     "dependencies": {
         "1KNNEI7L": "topological space",
