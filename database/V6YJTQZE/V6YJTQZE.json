@@ -4,7 +4,7 @@
     "type": "theorem",
     "dependencies": {
         "4SK5GQ9I": "Hermitian matrix",
-        "9GN39VRH": "sesquilinear form"
+        "1Y3LK90K": "standard sesquilinear form"
     },
     "statements": {
         "V6YJTQZE_1": {
