@@ -1,0 +1,25 @@
+{
+    "id": "X7QS6U6A",
+    "name": "",
+    "type": "theorem",
+    "dependencies": {
+        "2GM7AN7T": "vector space --over a field",
+        "5QCVZP8Y": "basis"
+    },
+    "statements": {
+        "X7QS6U6A_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "X7QS6U6A_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}
