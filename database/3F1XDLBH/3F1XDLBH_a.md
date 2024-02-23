@@ -1,1 +1,1 @@
-A *homotopy* of two paths $\gamma_1, \gamma_2$ in a topological space $S$ is a continuous map $H: [0, 1] \times [0, 1] \to S$ such that $H(t, 0)$ is a parametrization for $\gamma_1$ and $H(t, 1)$ is a parametrization for $\gamma_2$. If a homotopy exists between two paths, we say $\gamma_1$ is *homotopic to* $\gamma_2$.
+A *homotopy* of continuous maps $f_1, f_2: S \to X$ in a topological space $X$ is a continuous map $H: S \times [0, 1] \to S$ such that $H(s, 0) = f_1(s)$ and $H(s, 1) = f_2(s)$. If a homotopy exists for $f_1$ and $f_2$, we say $f_1$ is *homotopic to* $f_2$.
