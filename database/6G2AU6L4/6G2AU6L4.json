@@ -1,6 +1,6 @@
 {
     "id": "6G2AU6L4",
-    "name": "open ball",
+    "name": "open ball --in Euclidean space",
     "type": "definition",
     "dependencies": {
         "4ZL3GXH5": "Euclidean space"
