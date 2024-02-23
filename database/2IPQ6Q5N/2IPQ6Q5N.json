@@ -1,0 +1,27 @@
+{
+    "id": "2IPQ6Q5N",
+    "name": "closed path / loop",
+    "type": "definition",
+    "dependencies": {
+        "1KNNEI7L": "topological space"
+    },
+    "definitions": {
+        "2IPQ6Q5N_a": {
+            "language": "en",
+            "dependencies": {
+                "4737FZPD": "curve / path"
+            },
+            "comment": ""
+        },
+        "2IPQ6Q5N_b": {
+            "language": "en",
+            "dependencies": {
+                "8U8A9Z8E": "continuous map",
+                "3F1XDLBH": "homotopy"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
