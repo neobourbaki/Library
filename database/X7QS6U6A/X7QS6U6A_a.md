@@ -12,7 +12,7 @@ $$
 
 Since $S = \\{ v_i \\}$ is linearly independent, it follows that $a_i - b_i = 0$ for all $i \in I$, as claimed.
 
-Now, if $v$ is in $S$, then the existence of $\\{a_i\\}$ is evident. Suppose now that $v$ is not in $S$, then $S \cup \\{ v \\}$ is linearly dependent by maximality of $S$, i.e., there exist nonzero $c_i$ (all but finitely many are zero) and $d$ such that
+Now, if $v$ is in $S$, then the existence of $\\{a_i\\}$ is evident. Suppose now that $v$ is not in $S$, then $S \cup \\{ v \\}$ is linearly dependent by maximality of $S$, i.e., there exist nonzero $c_i$, $i \in I$, and $d$ (all but finitely many are zero) such that
 
 $$
 \sum_{i \in I} c_i v_i + d v = 0.
