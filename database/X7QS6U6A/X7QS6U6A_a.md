@@ -1,4 +1,4 @@
-First, we prove uniqueness. Let $\\{a_i\\}$ and $\\{b_i\\}$ be two sets of coefficients, all but finitely many of which are zero, such that
+First, we show uniqueness. Let $\\{a_i\\}$ and $\\{b_i\\}$ be two sets of coefficients, all but finitely many of which are zero, such that
 
 $$
 v = \sum_{i \in I} a_i v_i = \sum_{i \in I} b_i v_i,
