@@ -1,0 +1,19 @@
+{
+    "id": "77TC3F5G",
+    "name": "semisimple representation --of a Lie algebra",
+    "type": "definition",
+    "dependencies": {
+        "6DTG5YM7": "representation --of a Lie algebra"
+    },
+    "definitions": {
+        "77TC3F5G_a": {
+            "language": "en",
+            "dependencies": {
+                "7RPDKE5L": "direct sum --of Lie algebra representations",
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
