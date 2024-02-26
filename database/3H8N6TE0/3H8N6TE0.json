@@ -3,13 +3,14 @@
     "name": "Lie algebra",
     "type": "definition",
     "dependencies": {
-        "2GM7AN7T": "vector space over a field",
-        "03LC586U": "bilinear"
+        "4BCNPPIX": "field"
     },
     "definitions": {
         "3H8N6TE0_a": {
             "language": "en",
             "dependencies": {
+                "2GM7AN7T": "vector space over a field",
+                "03LC586U": "bilinear"
             },
             "comment": ""
         }
