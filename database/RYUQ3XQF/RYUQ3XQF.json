@@ -1,0 +1,19 @@
+{
+    "id": "RYUQ3XQF",
+    "name": "",
+    "type": "theorem",
+    "dependencies": {
+        "62DKJFVQ": "character --of a Lie algebra representation",
+        "18ACACHZ": "group algebra"
+    },
+    "statements": {
+        "RYUQ3XQF_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+    }
+}
