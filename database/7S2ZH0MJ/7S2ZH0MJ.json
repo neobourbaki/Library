@@ -1,0 +1,18 @@
+{
+    "id": "7S2ZH0MJ",
+    "name": "irreducible representation --of a Lie algebra",
+    "type": "definition",
+    "dependencies": {
+        "6DTG5YM7": "representation of a Lie algebra"
+    },
+    "definitions": {
+        "7S2ZH0MJ_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
