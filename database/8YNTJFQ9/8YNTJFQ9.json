@@ -1,0 +1,19 @@
+{
+    "id": "8YNTJFQ9",
+    "name": "dimension --of a vector space",
+    "type": "definition",
+    "dependencies": {
+        "2GM7AN7T": "vector space"
+    },
+    "definitions": {
+        "8YNTJFQ9_a": {
+            "language": "en",
+            "dependencies": {
+                "5QCVZP8Y": "basis"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
