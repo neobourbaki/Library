@@ -5,10 +5,7 @@
     "dependencies": {
         "1IYIAGFB": "semisimple Lie algebra",
         "7S2ZH0MJ": "irreducible representation --of a Lie algebra",
-        "3KPRPA7U": "Cartan subalgebra",
-        "62DKJFVQ": "character --of a representation",
-        "350YVP4C": "Weyl group",
-        "2D5F8K66": "root system"
+        "62DKJFVQ": "character --of a representation"
     },
     "statements": {
         "AUE49P6F_1": {
