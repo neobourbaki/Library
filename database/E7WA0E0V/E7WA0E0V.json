@@ -1,0 +1,24 @@
+{
+    "id": "E7WA0E0V",
+    "name": "Weyl's theorem on complete reducibility",
+    "type": "theorem",
+    "dependencies": {
+        "1IYIAGFB": "semisimple Lie algebra --over complex numbers"
+    },
+    "statements": {
+        "E7WA0E0V_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "E7WA0E0V_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "Weyl's unitarian trick"
+        }
+    }
+}
