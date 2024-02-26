@@ -1,0 +1,18 @@
+{
+    "id": "4L3L79QX",
+    "name": "direct sum --of vector spaces",
+    "type": "definition",
+    "dependencies": {
+        "2GM7AN7T": "vector space --over a field"
+    },
+    "definitions": {
+        "4L3L79QX_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
