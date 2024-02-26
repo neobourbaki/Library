@@ -1,0 +1,19 @@
+{
+    "id": "2XSYP2D5",
+    "name": "tensor product --of Lie algebra representations",
+    "type": "definition",
+    "dependencies": {
+        "6DTG5YM7": "representation of a Lie algebra"
+    },
+    "definitions": {
+        "2XSYP2D5_a": {
+            "language": "en",
+            "dependencies": {
+                "6UUA82LQ": "tensor product --of vector spaces"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
