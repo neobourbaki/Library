@@ -1,0 +1,18 @@
+{
+    "id": "7RPDKE5L",
+    "name": "direct sum --of Lie algebra representations",
+    "type": "definition",
+    "dependencies": {
+        "6DTG5YM7": "representation --of a Lie algebra"
+    },
+    "definitions": {
+        "7RPDKE5L_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}       
