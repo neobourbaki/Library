@@ -1,0 +1,19 @@
+{
+    "id": "8UBME7WQ",
+    "name": "module --over a commutative ring",
+    "type": "definition",
+    "dependencies": {
+        "67IMWPW4": "commutative ring"
+    },
+    "definitions": {
+        "8UBME7WQ_a": {
+            "language": "en",
+            "dependencies": {
+                "53J4N2KC": "abelian group"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
