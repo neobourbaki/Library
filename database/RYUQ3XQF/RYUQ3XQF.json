@@ -4,7 +4,8 @@
     "type": "theorem",
     "dependencies": {
         "62DKJFVQ": "character --of a Lie algebra representation",
-        "18ACACHZ": "group algebra"
+        "18ACACHZ": "group algebra",
+        "2XSYP2D5": "tensor product --of representations"
     },
     "statements": {
         "RYUQ3XQF_1": {
