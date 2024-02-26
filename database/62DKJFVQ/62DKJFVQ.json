@@ -10,14 +10,16 @@
         "62DKJFVQ_a": {
             "language": "en",
             "dependencies": {
-                "9EVZZ8HR": "dual vector space"
+                "9EVZZ8HR": "dual vector space",
+                "8YNTJFQ9": "dimension --of a vector space"
             },
             "comment": ""
         },
         "62DKJFVQ_b": {
             "language": "en",
             "dependencies": {
-                "18ACACHZ": "group algebra"
+                "18ACACHZ": "group algebra",
+                "8YNTJFQ9": "dimension --of a vector space"
             },
             "comment": ""
         }
