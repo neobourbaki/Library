@@ -1,0 +1,25 @@
+{
+    "id": "18ACACHZ",
+    "name": "group algebra",
+    "type": "definition",
+    "dependencies": {
+        "5PGIN6X2": "group",
+        "482U6RA1": "algebra --over a field"
+    },
+    "definitions": {
+        "18ACACHZ_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "18ACACHZ_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
