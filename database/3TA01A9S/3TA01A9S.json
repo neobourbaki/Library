@@ -1,0 +1,26 @@
+{
+    "id": "3TA01A9S",
+    "name": "homomorphism of modules --over a ring",
+    "type": "definition",
+    "dependencies": {
+        "67IMWPW4": "commutative ring"
+    },
+    "definitions": {
+        "3TA01A9S_a": {
+            "language": "en",
+            "dependencies": {
+                "8UBME7WQ": "module --over a ring"
+            },
+            "comment": ""
+        },
+        "3TA01A9S_a": {
+            "language": "en",
+            "dependencies": {
+                "44VYKHU7": "category of modules over a ring"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
