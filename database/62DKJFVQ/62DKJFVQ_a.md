@@ -1,4 +1,4 @@
-Let $(V, \pi)$ be a representation of a complex semisimple Lie algebra $\mathfrak{g}$, and $\mathfrak{h}$ be a Cartan subalgebra. The *character* of the representation is the map $\chi_{V}: \mathfrak{h} \to \mathbb{C}$ given by
+Let $(V, \pi)$ be a representation of a semisimple Lie algebra $\mathfrak{g}$ over the field $\mathbb{C}$, and $\mathfrak{h} \subset \mathfrak{g}$ be a Cartan subalgebra. The *character* of the representation is the map $\chi_{V}: \mathfrak{h} \to \mathbb{C}$ given by
 
 $$
 \chi_V(X) = \sum_{\mu \in \mathfrak{h}^*} \dim(V_{\mu}) \\, e^{\langle \mu, X\rangle}
