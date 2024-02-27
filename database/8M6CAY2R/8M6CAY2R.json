@@ -3,7 +3,7 @@
     "name": "matrix --over a commutative ring",
     "type": "definition",
     "dependencies": {
-        "67IMWPW4": "commutative ring"
+        "4BCNPPIX": "field"
     },
     "definitions": {
         "8M6CAY2R_a": {
