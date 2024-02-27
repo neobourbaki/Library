@@ -1,0 +1,18 @@
+{
+    "id": "6JD5HWKL",
+    "name": "sub-object --in a category",
+    "type": "definition",
+    "dependencies": {
+        "7AQ7Q586": "category"
+    },
+    "definitions": {
+        "6JD5HWKL_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
