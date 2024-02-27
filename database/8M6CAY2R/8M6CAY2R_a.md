@@ -1,4 +1,4 @@
-An $m\times n$ matrix over a commutative ring $k$ consists of $m \times n$ elements $a_{ij} \in k$ (called *entries* of $A$), often arranged as
+An $m\times n$ matrix over a field $k$ consists of $m \times n$ elements $a_{ij} \in k$ (called *entries* of $A$), indexed by $1 \leq i \leq m$ and $1 \leq j \leq n$, typically arranged as
 
 $$
 A = \begin{pmatrix} 
