@@ -4,4 +4,4 @@ $$
 A = [[a_{11}, a_{12}, \ldots a_{1n}], [a_{21}, a_{22}, \ldots a_{2n}], \ldots, [a_{m1}, a_{m2}, \ldots a_{mn}]].
 $$
 
-More generally, a *tensor* of size $n_1 \times n_2 \times \cdots \times n_r$ is an element of $\prod_{n_1} \prod_{n_2} \cdots \prod_{n_r} R$, i.e., an $n_1$-tuple of $n_2$-tuple of ... of $n_r$ tuple of elements of $R$.
+More generally, a *tensor* of size $n_1 \times n_2 \times \cdots \times n_r$ is an element of $\prod_{n_1} \prod_{n_2} \cdots \prod_{n_r} R$, i.e., an $n_1$-tuple of $n_2$-tuples of ... of $n_r$ tuples of elements of $R$.
