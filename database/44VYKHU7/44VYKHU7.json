@@ -3,7 +3,8 @@
     "name": "category of modules over a ring",
     "type": "definition",
     "dependencies": {
-        "7AQ7Q586": "category"
+        "7AQ7Q586": "category",
+        "67IMWPW4": "commutative ring"
     },
     "definitions": {
         "44VYKHU7_a": {
