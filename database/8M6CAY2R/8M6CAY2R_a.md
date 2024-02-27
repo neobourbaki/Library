@@ -9,4 +9,4 @@ A = \begin{pmatrix}
 \end{pmatrix}.
 $$
 
-The $i$-th *row* of the matrix is the vector $[a_{i1}, a_{i2}, \ldots a_{in}] \in R^n$, and the $j$-th *column* is the vector $[a_{1j}, a_{2j}, \ldots, a_{mj}] \in R^m$.
+The $i$-th *row* of the matrix is the $n$-tuple $[a_{i1}, a_{i2}, \ldots a_{in}] \in R^n$, and the $j$-th *column* is the $m$-tuple $[a_{1j}, a_{2j}, \ldots, a_{mj}] \in R^m$.
