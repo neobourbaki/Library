@@ -1,4 +1,4 @@
-An $m\times n$ matrix over a commutative ring $R$ is a tuple of of $mn$ elements $a_{ij} \in R$ (called the *entries* of $A$), indexed by $1 \leq i \leq m$ and $1 \leq j \leq n$, typically arranged as
+An $m\times n$ *matrix* over a commutative ring $R$ is a tuple of of $mn$ elements $a_{ij} \in R$ (called the *entries* of $A$) indexed by $1 \leq i \leq m$ and $1 \leq j \leq n$, typically arranged as
 
 $$
 A = \begin{pmatrix} 
@@ -10,3 +10,5 @@ A = \begin{pmatrix}
 $$
 
 The $i$-th *row* of the matrix is the $n$-tuple $[a_{i1}, a_{i2}, \ldots a_{in}] \in R^n$, and the $j$-th *column* is the $m$-tuple $[a_{1j}, a_{2j}, \ldots, a_{mj}] \in R^m$.
+
+More generally, a *tensor* of size $n_1 \times n_2 \times \cdots \times n_r$ is a tuple of $\prod_i n_i$ elements $a_{i_1 i_2 \cdots i_r}$ indexed by $1 \leq i_k \leq n_k$.
