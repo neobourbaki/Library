@@ -1,4 +1,4 @@
-An $m \times n$ matrix over a field $k$ is an element of $k^n \times \cdots \times k^n$ ($m$ times), i.e., an $m$-tuple of $n$-tuples of elements of $k$:
+An $m \times n$ matrix over a commutative ring $R$ is an element of $R^n \times \cdots \times R^n$ ($m$ times), i.e., an $m$-tuple of $n$-tuples of elements of $R$:
 
 $$
 A = [[a_{11}, a_{12}, \ldots a_{1n}], [a_{21}, a_{22}, \ldots a_{2n}], \ldots, [a_{n1}, a_{n2}, \ldots a_{nn}]].
