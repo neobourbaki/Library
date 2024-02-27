@@ -22,6 +22,21 @@
                 "8YNTJFQ9": "dimension --of a vector space"
             },
             "comment": ""
+        },
+        "62DKJFVQ_c": {
+            "language": "en",
+            "dependencies": {
+                "18ACACHZ": "group algebra",
+                "8YNTJFQ9": "dimension --of a vector space"
+            },
+            "comment": ""
+        },
+        "62DKJFVQ_d": {
+            "language": "en",
+            "dependencies": {
+                "02I3P6L0": "character --of a group representation"
+            },
+            "comment": ""
         }
     },
     "equivalences": {
