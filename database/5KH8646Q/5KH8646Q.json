@@ -1,0 +1,18 @@
+{
+    "id": "5KH8646Q",
+    "name": "equivalence relation",
+    "type": "definition",
+    "dependencies": {
+        "1234": "relation"
+    },
+    "definitions": {
+        "5KH8646Q_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
