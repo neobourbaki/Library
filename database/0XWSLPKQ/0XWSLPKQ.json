@@ -1,0 +1,18 @@
+{
+    "id": "0XWSLPKQ",
+    "name": "partial order",
+    "type": "definition",
+    "dependencies": {
+        "1234": "relation"
+    },
+    "definitions": {
+        "0XWSLPKQ": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
