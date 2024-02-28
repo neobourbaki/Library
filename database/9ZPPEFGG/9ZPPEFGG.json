@@ -1,0 +1,18 @@
+{
+    "id": "9ZPPEFGG",
+    "name": "total order",
+    "type": "definition",
+    "dependencies": {
+    },
+    "definitions": {
+        "9ZPPEFGG_a": {
+            "language": "en",
+            "dependencies": {
+                "0XWSLPKQ": "partial order"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
