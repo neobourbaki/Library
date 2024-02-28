@@ -15,7 +15,7 @@
         "9JC74TZG_b": {
             "language": "en",
             "dependencies": {
-                "720SVHKZ": "continuous function --of several real variables"
+                "720SVHKZ": "continuous map --of metric spaces"
             },
             "comment": "topological definition"
         },
