@@ -1,0 +1,25 @@
+{
+    "id": "MLNETN0Q",
+    "name": "Fermat's little theorem",
+    "type": "theorem",
+    "dependencies": {
+    },
+    "statements": {
+        "MLNETN0Q_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "MLNETN0Q_a": {
+            "language": "en",
+            "dependencies": {
+                "1D4V1VDG": "multiplicative group",
+                "ABCD": "Lagrange's theorem"
+            },
+            "comment": ""
+        }
+    }
+}
