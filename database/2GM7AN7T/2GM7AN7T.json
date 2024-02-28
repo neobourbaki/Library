@@ -16,7 +16,7 @@
         "2GM7AN7T_b": {
             "language": "en",
             "dependencies": {
-                "8UBME7WQ": "module --over a commutative ring"
+                "8UBME7WQ": "module --over a ring"
             },
             "comment": ""
         }
