@@ -1,1 +1,1 @@
-The *category* $\mathcal{Mod}_{R}$ *of modules over a* (commutative) *ring* $R$ is a category with modules over $R$ as the objects, and homomorphisms of modules as the morphisms.
+The *category* $\mathcal{Mod}_{R}$ *of modules over a* (commutative) *ring* $R$ is a category with $R$-modules as the objects, and homomorphisms of $R$-modules as the morphisms.
