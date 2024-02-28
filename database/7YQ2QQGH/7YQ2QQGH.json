@@ -1,0 +1,19 @@
+{
+    "id": "7YQ2QQGH",
+    "name": "ordered field",
+    "type": "definition",
+    "dependencies": {
+        "4BCNPPIX": "field",
+        "1234": "total order"
+    },
+    "definitions": {
+        "7YQ2QQGH_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
