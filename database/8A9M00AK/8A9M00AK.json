@@ -16,7 +16,7 @@
         "8A9M00AK_b": {
             "language": "en",
             "dependencies": {
-                "1234": "polynomial ring",
+                "3GIVL4Y8": "polynomial ring",
                 "2345": "quotient ring"
             },
             "comment": "by field extension"
