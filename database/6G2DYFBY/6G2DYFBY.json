@@ -3,7 +3,6 @@
     "name": "metric space",
     "type": "definition",
     "dependencies": {
-        "4E41D57C": "real numbers"
     },
     "definitions": {
         "6G2DYFBY_a": {
