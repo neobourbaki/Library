@@ -1,0 +1,17 @@
+{
+    "id": "5STJYVG4",
+    "name": "tensor product --of modules",
+    "type": "definition",
+    "dependencies": {
+        "8UBME7WQ": "module --over a commutative ring"
+    },
+    "definitions": {
+        "5STJYVG4_a": {
+            "language": "en",
+            "dependencies": {
+                "03LC586U": "bilinear"
+            },
+            "comment": ""
+        }
+    }
+}
