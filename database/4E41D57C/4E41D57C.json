@@ -23,6 +23,7 @@
         "4E41D57C_c": {
             "language": "en",
             "dependencies": {
+                "5KH8646Q": "equivalence relation",
                 "3456": "Cauchy sequence"
             },
             "comment": "equivalence classes of Cauchy sequences"
