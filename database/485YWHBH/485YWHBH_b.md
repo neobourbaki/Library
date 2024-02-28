@@ -1,1 +1,1 @@
-The *quotient ring* of a commutative ring $R$ by an ideal $I \subseteq R$ is the quotient module $R / I$ as $R$-modules.
+Let $R$ be a commutative ring, and $I \subset R$ an ideal. The *quotient ring* is the quotient module $R / I$ as $R$-modules, together with the natural multiplication.
