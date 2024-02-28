@@ -16,8 +16,7 @@
         "2IPQ6Q5N_b": {
             "language": "en",
             "dependencies": {
-                "8U8A9Z8E": "continuous map",
-                "3F1XDLBH": "homotopy"
+                "8U8A9Z8E": "continuous map"
             },
             "comment": ""
         }
