@@ -1,0 +1,20 @@
+{
+    "id": "521SC6P0",
+    "name": "weight / weight space --of a Lie algebra representation",
+    "type": "definition",
+    "dependencies": {
+        "1IYIAGFB": "semisimple Lie algebra --over complex numbers",
+        "6DTG5YM7": "representation of a Lie algebra",
+        "3KPRPA7U": "Cartan subalgebra"
+    },
+    "definitions": {
+        "521SC6P0_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
