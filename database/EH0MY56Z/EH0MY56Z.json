@@ -3,8 +3,8 @@
     "name": "Fundamental Theorem of Algebra",
     "type": "theorem",
     "dependencies": {
+        "26S3FKEF": "polynomial",
         "8A9M00AK": "complex numbers",
-        "1234": "polynomial"
     },
     "statements": {
         "EH0MY56Z_1": {
