@@ -1,0 +1,18 @@
+{
+    "id": "1139FRZX",
+    "name": "homomorphism --of rings",
+    "type": "definition",
+    "dependencies": {
+        "67IMWPW4": "commutative ring"
+    },
+    "definitions": {
+        "1139FRZX_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
