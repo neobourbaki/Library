@@ -4,7 +4,7 @@
     "type": "theorem",
     "dependencies": {
         "1DUN1Q71": "holomorphic functions",
-        "2N67288B": "integral of a complex function --over a path",
+        "2N67288B": "integral of a complex function --over a piecewise C^1 loop",
         "28KGMW3P": "homotopy of loops"
     },
     "statements": {
