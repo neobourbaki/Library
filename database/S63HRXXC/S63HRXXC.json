@@ -1,0 +1,27 @@
+{
+    "id": "S63HRXXC",
+    "name": "matrix algebra",
+    "type": "theorem",
+    "dependencies": {
+        "8M6CAY2R": "matrix --over a commutative ring",
+        "7RG754YE": "matrix multiplication",
+        "482U6RA1": "algebra --over a field"
+    },
+    "statements": {
+        "S63HRXXC_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+    "proofs": {
+        "S63HRXXC_a": {
+            "language": "en",
+            "dependencies": {
+                "ZW4IZY8T": "associativity"
+            },
+            "comment": ""
+        }
+    }
+        
