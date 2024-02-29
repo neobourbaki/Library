@@ -1,0 +1,17 @@
+{
+    "id": "7XM484KI",
+    "name": "subset --of a set",
+    "type": "definition",
+    "dependencies": {
+    },
+    "definitions": {
+        "7XM484KI_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
