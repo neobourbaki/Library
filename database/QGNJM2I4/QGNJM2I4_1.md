@@ -1,4 +1,4 @@
-Let $(M, d)$ be a metric space with distance function $d: M \times M \to k$, for an ordered field $k$. Then the subsets
+Let $M$ be a metric space with a distance function $d: M \times M \to k_{\geq 0}$, where $k$ is an ordered field. Then the subsets
 
 $$
 B(x, r) := \\{ y \in M \\; : \\; d(y, x) < r \\}
