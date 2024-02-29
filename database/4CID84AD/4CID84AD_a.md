@@ -1,0 +1,1 @@
+A *map* of sets $S$ and $T$ is a subset $f$ of $S \times T$ such that for every $s \in S$, there exists a unique $t \in T$ such that $(s, t) \in f$, and the element $t$ is denoted $f(s)$ or sometimes $s.f$.
