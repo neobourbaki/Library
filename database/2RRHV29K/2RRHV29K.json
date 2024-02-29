@@ -1,0 +1,19 @@
+{
+    "id": "2RRHV29K",
+    "name": "rational numbers",
+    "type": "definition",
+    "dependencies": {
+        "1234": "integers"
+    },
+    "definitions": {
+        "2RRHV29K_a": {
+            "language": "en",
+            "dependencies": {
+                "041XA0HK": "field of fractions --of an integral domain",
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}       
