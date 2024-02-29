@@ -1,0 +1,18 @@
+{
+    "id": "46G4T8KT",
+    "name": "isomorphism --in a category",
+    "type": "definition",
+    "dependencies": {
+        "7AQ7Q586": "category"
+    },
+    "definitions": {
+        "46G4T8KT_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
