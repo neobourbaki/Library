@@ -1,0 +1,20 @@
+{
+    "id": "0EG3ZRQD",
+    "name": "Cauchy sequence",
+    "type": "definition",
+    "dependencies": {
+        "68VSQXWU": "sequence --in a set",
+        "6G2DYFBY": "metric space"
+    },
+    "definitions": {
+        "0EG3ZRQD_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
+    
