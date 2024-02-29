@@ -3,13 +3,16 @@
     "name": "matrix group",
     "type": "definition",
     "dependencies": {
-        "2TQNZ7QF": "general linear group",
-        "8WS9NG7U": "closed subset --of Euclidean space"
+        "4E41D57C": "real numbers",
+        "8A9M00AK": "complex numbers"
     },
     "statements": {
         "6VFZ3EAW_a": {
             "language": "en",
             "dependencies": {
+                "2TQNZ7QF": "general linear group",
+                "1IH0JM2A": "subgroup",
+                "8WS9NG7U": "closed subset --of Euclidean space"
             },
             "comment": ""
         }
