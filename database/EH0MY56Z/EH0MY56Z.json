@@ -18,7 +18,8 @@
         "EH0MY56Z_a": {
             "language": "en",
             "dependencies": {
-                "SPUL8UCS": "Fundamental Theorem of Algebra"
+                "SPUL8UCS": "Fundamental Theorem of Algebra",
+                "P0ERZM47": "factor theorem"
             },
             "comment": ""
         }
