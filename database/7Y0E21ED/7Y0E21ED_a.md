@@ -1,7 +1,7 @@
-A map $f: G_1 \to G_2$ of groups $G_1$ and $G_2$ is a *homomorphism* if
+A map $f: G \to H$ of groups $G$ and $H$ is a *homomorphism* if
 
 $$
-f(g h) = f(g) f(h)
+f(g_1 g_2) = f(g_1) f(g_2)
 $$
 
-for all $g, h \in G_1$.
+for all $g_1, g_2 \in G$.
