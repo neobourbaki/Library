@@ -1,0 +1,17 @@
+{
+    "id": "7CLVUDVP",
+    "name": "product --of sets",
+    "type": "definition",
+    "dependencies": {
+    },
+    "definitions": {
+        "7CLVUDVP_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
