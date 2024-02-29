@@ -13,6 +13,14 @@
                 "03LC586U": "bilinear"
             },
             "comment": ""
+        },
+        "482U6RA1_b": {
+            "language": "en",
+            "dependencies": {
+                "8UBME7WQ": "module --over a commutative ring",
+                "03LC586U": "bilinear"
+            },
+            "comment": ""
         }
     },
     "equivalences": {
