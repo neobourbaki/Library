@@ -1,0 +1,25 @@
+{
+    "id": "4P80ZG3D",
+    "name": "general linear group GL(V)",
+    "type": "theorem",
+    "dependencies": {
+        "2GM7AN7T": "vector space --over a field",
+        "5PGIN6X2": "group"
+    },
+    "definitions": {
+        "4P80ZG3D_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "RDL85FLK_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+    "equivalences": {
+    }
+}
