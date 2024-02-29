@@ -1,1 +1,1 @@
-The *spectrum* of a ring $R$ is the set $\mathrm{Spec}(R)$ of all prime ideals $I \neq R$, together with the (Zariski) topology on $\mathrm{Spec}(R)$ with the closed sets $V(S)$ of prime ideals containing $S \subset R$.
+The *spectrum* of a ring $R$ is the set $\mathrm{Spec}(R)$ of all prime ideals $I \neq R$, together with the (Zariski) topology on $\mathrm{Spec}(R)$ with the closed sets $V(S)$ of prime ideals containing a subset $S \subset R$.
