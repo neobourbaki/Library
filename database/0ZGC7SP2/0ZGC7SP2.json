@@ -1,0 +1,18 @@
+{
+    "id": "0ZGC7SP2",
+    "name": "opposite category",
+    "type": "definition",
+    "dependencies": {
+        "7AQ7Q586": "category"
+    },
+    "definitions": {
+        "0ZGC7SP2_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
