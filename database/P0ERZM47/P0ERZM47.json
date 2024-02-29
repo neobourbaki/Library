@@ -3,7 +3,7 @@
     "name": "factor theorem",
     "type": "theorem",
     "dependencies": {
-        "26S3FKEF": "polynomial --over a field"
+        "26S3FKEF": "polynomial --over a commutative ring"
     },
     "statements": {
         "P0ERZM47_1": {
