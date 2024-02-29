@@ -1,0 +1,18 @@
+{
+    "id": "7Y0E21ED",
+    "name": "homomorphism of groups",
+    "type": "definition",
+    "dependencies": {
+        "5PGIN6X2": "group"
+    },
+    "definitions": {
+        "7Y0E21ED_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
