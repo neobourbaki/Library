@@ -8,7 +8,8 @@
         "75BT39WI": {
             "language": "en",
             "dependencies": {
-                "7AQ7Q586": "category"
+                "7AQ7Q586": "category",
+                "46G4T8KT": "isomorphism"
             },
             "comment": ""
         }
