@@ -1,0 +1,27 @@
+{
+    "id": "1DC1LBYT",
+    "name": "submodule --of a module over a ring",
+    "type": "definition",
+    "dependencies": {
+        "8UBME7WQ": "module --over a ring"
+    },
+    "definitions": {
+        "1DC1LBYT_a": {
+            "language": "en",
+            "dependencies": {
+                "1234": "subgroup"
+            },
+            "comment": ""
+        },
+        "1DC1LBYT_b": {
+            "language": "en",
+            "dependencies": {
+                "6JD5HWKL": "sub-object --in a category",
+                "44VYKHU7": "category of modules over a ring"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
