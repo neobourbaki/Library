@@ -1,1 +1,1 @@
-A *matrix group* over the field $K=\mathbb{R}$ or $\mathbb{C}$ is a closed subgroup of $\mathop{\mathrm{GL}}(n, K)$.
+A *matrix group* over the field $\mathbf{K}=\mathbb{R}$ or $\mathbb{C}$ is a closed subgroup of $\mathrm{GL}(n, \mathbf{K})$.
