@@ -1,0 +1,26 @@
+{
+    "id": "3GNTTUR1",
+    "name": "prime ideal",
+    "type": "definition",
+    "dependencies": {
+        "5DPZ7F9Z": "ideal --of a ring"
+    },
+    "definitions": {
+        "3GNTTUR1_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "3GNTTUR1_b": {
+            "language": "en",
+            "dependencies": {
+                "1139FRZX": "homomorphism of rings",
+                "854XXMYM": "integral domain"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
