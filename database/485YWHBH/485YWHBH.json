@@ -3,12 +3,14 @@
     "name": "quotient ring",
     "type": "definition",
     "dependencies": {
-        "67IMWPW4": "commutative ring"
+        "67IMWPW4": "commutative ring",
+        "5DPZ7F9Z": "ideal"
     },
     "definitions": {
         "485YWHBH_a": {
             "language": "en",
             "dependencies": {
+                "5KH8646Q": "equivalence relation"
             },
             "comment": ""
         },
