@@ -1,0 +1,18 @@
+{
+    "id": "0U6RUNIW",
+    "name": "inverse path",
+    "type": "definition",
+    "dependencies": {
+        "4737FZPD": "path"
+    },
+    "definition": {
+        "0U6RUNIW_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
