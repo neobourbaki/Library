@@ -1,0 +1,18 @@
+{
+    "id": "68VSQXWU",
+    "name": "sequence --in a set",
+    "type": "definition",
+    "dependencies": {
+        "4CID84AD": "map --of sets"
+    },
+    "definitions": {
+        "68VSQXWU_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
