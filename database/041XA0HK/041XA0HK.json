@@ -1,0 +1,18 @@
+{
+    "id": "041XA0HK",
+    "name": "field of fractions --of an integral domain",
+    "type": "definition",
+    "dependencies": {
+        "854XXMYM": "integral domain"
+    },
+    "definitions": {
+        "041XA0HK_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
