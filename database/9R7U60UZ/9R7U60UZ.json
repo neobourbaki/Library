@@ -1,0 +1,20 @@
+{
+    "id": "9R7U60UZ",
+    "name": "category of rings",
+    "type": "definition",
+    "dependencies": {
+        "7AQ7Q586": "category"
+    },
+    "definitions": {
+        "9R7U60UZ_a": {
+            "language": "en",
+            "dependencies": {
+                "7R2CT98Y": "ring",
+                "1139FRZX": "homomorphism of rings"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
