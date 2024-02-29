@@ -1,0 +1,26 @@
+{
+    "id": "H1Z78HZD",
+    "name": "homotopy of paths is a groupoid",
+    "type": "theorem",
+    "dependencies": {
+        "1KNNEI7L": "topological space",
+        "75BT39WI": "groupoid"
+    },
+    "statements": {
+        "H1Z78HZD_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "H1Z78HZD_a": {
+            "language": "en",
+            "dependencies": {
+                "0U6RUNIW": "inverse of path",
+            },
+            "comment": ""
+        }
+    }
+}
