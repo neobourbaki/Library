@@ -12,13 +12,6 @@
                 "8UBME7WQ": "module --over a ring"
             },
             "comment": ""
-        },
-        "3TA01A9S_a": {
-            "language": "en",
-            "dependencies": {
-                "44VYKHU7": "category of modules --over a ring"
-            },
-            "comment": ""
         }
     },
     "equivalences": {
