@@ -1,0 +1,26 @@
+{
+    "id": "1IH0JM2A",
+    "name": "subgroup --of a group",
+    "type": "definition",
+    "dependencies": {
+        "5PGIN6X2": "group"
+    },
+    "definitions": {
+        "1IH0JM2A_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "1IH0JM2A_b": {
+            "language": "en",
+            "dependencies": {
+                "6JD5HWKL": "sub-object --in a category",
+                "7642ZFGI": "category of groups"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
