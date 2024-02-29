@@ -3,7 +3,7 @@
     "name": "general linear group",
     "type": "definition",
     "dependencies": {
-        "8M6CAY2R": "matrix",
+        "8M6CAY2R": "matrix --over a ring",
         "7RG754YE": "matrix multiplication",
         "5PGIN6X2": "group"
     },
@@ -11,7 +11,7 @@
         "2TQNZ7QF_a": {
             "language": "en",
             "dependencies": {
-                "0CLV6SL7": "invertible"
+                "0CLV6SL7": "invertible matrix"
             },
             "comment": ""
         },
