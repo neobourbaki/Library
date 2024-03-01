@@ -4,4 +4,4 @@ $$
 v = \sum_{i \in I} a_i v_i
 $$
 
-for a unique set of $a_i$'s, all but finitely many of which are zero.
+for a unique set of $a_i \in k$, all but finitely many of which are zero.
