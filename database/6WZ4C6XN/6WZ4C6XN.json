@@ -1,0 +1,17 @@
+{
+    "id": "6WZ4C6XN",
+    "name": "set",
+    "type": "definition",
+    "dependencies": {
+    },
+    "definitions": {
+        "6WZ4C6XN_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
