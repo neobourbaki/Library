@@ -1,4 +1,4 @@
-The *integral* of a continuous function $f: [a, b] \to \mathbb{R}^n$  on a closed interval $[a, b] \subset \mathbb{R}$, denoted 
+The *integral* of a continuous function $f: [a, b] \to \mathbb{R}$  on a closed interval $[a, b] \subset \mathbb{R}$, denoted 
 
 $$
 \int_{a}^{b} f(x)\\, dx,
