@@ -1,1 +1,1 @@
-A *set* is an (unordered) collection $S = \\{a, b, \ldots \\}$ of objects. We say an object $a$ is an *element* of $S$, denoted $a \in S$ if $a$ is a member of $S$.
+A *set* is an (unordered) collection $S = \\{a, b, \ldots \\}$ of objects, for which it makes sense to say that an object $a$ is an *element* of $S$ (denoted $a \in S$), or is *not an element* of $S$ (denoted $a \notin S$).
