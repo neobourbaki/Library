@@ -8,6 +8,7 @@
         "5PGIN6X2_a": {
             "language": "en",
             "dependencies": {
+                "16AXGFEV": "binary operation"
             },
             "comment": "abstract"
         },
