@@ -1,0 +1,20 @@
+{
+    "id": "16AXGFEV",
+    "name": "binrary operation",
+    "type": "definition",
+    "dependencies": {
+        "1234": "set"
+    },
+    "definitions": {
+        "16AXGFEV_a": {
+            "language": "en",
+            "dependencies": {
+                "4CID84AD": "map --of sets",
+                "7CLVUDVP": "product --of sets"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
