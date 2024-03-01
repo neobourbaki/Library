@@ -3,12 +3,13 @@
     "name": "integral of a piecewise continuous function",
     "type": "definition",
     "dependencies": {
-        "1CNT5UVL": "integral of a continuous function --of a real variable"
+        "4ZL3GXH5": "Euclidean space"
     },
     "definitions": {
         "04RJ43R8_a": {
             "language": "en",
             "dependencies": {
+                "1CNT5UVL": "integral of a continuous function --of a real variable"
             },
             "comment": {}
         }
