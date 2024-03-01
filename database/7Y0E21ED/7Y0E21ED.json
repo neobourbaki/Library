@@ -9,6 +9,7 @@
         "7Y0E21ED_a": {
             "language": "en",
             "dependencies": {
+                "4CID84AD": "map --of sets"
             },
             "comment": ""
         }
