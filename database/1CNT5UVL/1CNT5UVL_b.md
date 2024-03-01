@@ -1,1 +1,1 @@
-Let $f: [a, b] \to \mathbb{R}$ be a continuous function on a closed interval $[a, b] \subset \mathbb{R}$. Then the *integral* of $f$ is the supremum of the integrals of simple functions on $[a, b]$ that are bounded by $f$ from above.
+Let $f: [a, b] \to \mathbb{R}^n$ be a continuous function on a closed interval $[a, b] \subset \mathbb{R}$. Then the *integral* of $f$ is the supremum of the integrals of simple functions $[a, b] \to \mathbb{R}^n$ that are bounded by $f$ from above.
