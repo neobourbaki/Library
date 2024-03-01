@@ -8,6 +8,8 @@
         "7AQ7Q586_a": {
             "language": "en",
             "dependencies": {
+                "6WZ4C6XN": "set",
+                "4CID84AD": "map --of sets"
             },
             "comment": ""
         }
