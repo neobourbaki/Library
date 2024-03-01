@@ -5,6 +5,9 @@
     "dependencies": {
         "4BCNPPIX": "field"
     },
+    "super": {
+        "8UBME7WQ": "module --over a ring"
+    }
     "definitions": {
         "2GM7AN7T_a": {
             "language": "en",
