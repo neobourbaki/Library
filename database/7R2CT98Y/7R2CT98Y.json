@@ -8,7 +8,8 @@
         "7R2CT98Y_a": {
             "language": "en",
             "dependencies": {
-                "53J4N2KC": "abelian group"
+                "53J4N2KC": "abelian group",
+                "16AXGFEV": "binary operation"
             },
             "comment": ""
         }
