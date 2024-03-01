@@ -3,6 +3,7 @@
     "name": "sequence --in a set",
     "type": "definition",
     "dependencies": {
+        "6WZ4C6XN": "set"
     },
     "definitions": {
         "68VSQXWU_a": {
