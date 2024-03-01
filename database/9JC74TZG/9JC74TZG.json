@@ -5,6 +5,9 @@
     "dependencies": {
         "4E41D57C": "real numbers"
     },
+    "super": {
+        "720SVHKZ": "continuous function --of metric spaces"
+    },
     "definitions": {
         "9JC74TZG_a": {
             "language": "en",
