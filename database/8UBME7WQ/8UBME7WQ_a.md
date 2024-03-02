@@ -5,4 +5,4 @@ A *module* over a commutative ring $R$ is an abelian group $M$, together with a 
 - $(rs)m = r(sm)$
 - $1m = m$
 
-for all $r, s \in R$, $m, n \in M$.
+for all $r, s \in R$, $m, n \in M$. One may say that $R$ *acts* on $M$ for the map $r \mapsto (m \mapsto rm)$.
