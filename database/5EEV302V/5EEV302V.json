@@ -10,6 +10,7 @@
         "5EEV302V_a": {
             "language": "en",
             "dependencies": {
+                "7Y0E21ED": "homomorphism of groups",
                 "4P80ZG3D": "general linear group GL(V)"
             },
             "comment": ""
