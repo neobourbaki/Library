@@ -1,0 +1,18 @@
+{
+    "id": "6B2A4HQ9",
+    "name": "residue --of a meromorphic function",
+    "type": "definition",
+    "dependencies": {
+        "75CUJWK5": "meromorphic function"
+    },
+    "definitions": {
+        "6B2A4HQ9": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
