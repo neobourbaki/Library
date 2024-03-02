@@ -10,7 +10,7 @@
         "5EEV302V_a": {
             "language": "en",
             "dependencies": {
-                "4P80ZG3D": "GL(V)"
+                "4P80ZG3D": "general linear group GL(V)"
             },
             "comment": ""
         },
