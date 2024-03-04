@@ -6,3 +6,5 @@ $$
 (r, s) \cdot (r', s') &= (rr', ss')
 \end{aligned}
 $$
+
+The pair $(r, s)$ is often denoted by $s^{-1}r$ or $\frac{r}{s}$.
