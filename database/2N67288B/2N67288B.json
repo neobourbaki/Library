@@ -5,13 +5,13 @@
     "dependencies": {
         "8A9M00AK": "complex numbers",
         "8U8A9Z8E": "continuous function",
-        "1LN0176U": "piecewise C^1 path",
-        "1CNT5UVL": "integral of a continuous function --of a real variable"
+        "1LN0176U": "piecewise C^1 path"
     },
     "definitions": {
         "2N67288B_a": {
             "language": "en",
             "dependencies": {
+                "1CNT5UVL": "integral of a continuous function --of a real variable"
             },
             "comment": ""
         }
