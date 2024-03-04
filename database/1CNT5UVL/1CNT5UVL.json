@@ -16,7 +16,8 @@
         "1CNT5UVL_b": {
             "language": "en",
             "dependencies": {
-                "51BAGP0Y": "supremum"
+                "51BAGP0Y": "supremum",
+                "1234": "integral of step function"
             },
             "comment": "Lebesgue integral"
         }
