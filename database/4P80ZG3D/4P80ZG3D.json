@@ -16,7 +16,8 @@
         "RDL85FLK_b": {
             "language": "en",
             "dependencies": {
-                "4CPNB8RQ": "automorphism group --in a category"
+                "4CPNB8RQ": "automorphism group --in a category",
+                "44VYKHU7": "category of modules --over a ring"
             },
             "comment": ""
         }
