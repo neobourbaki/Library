@@ -14,6 +14,15 @@
                 "0SXI6DVV": "identity matrix"
             },
             "comment": ""
+        },
+        "3HU92TKM_b": {
+            "language": "en",
+            "dependencies": {
+                "8UBME7WQ": "module",
+                "7RG754YE": "matrix multiplication",
+                "0SXI6DVV": "identity matrix"
+            },
+            "comment": ""
         }
     },
     "equivalences": {
