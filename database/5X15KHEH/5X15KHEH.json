@@ -3,7 +3,8 @@
     "name": "homology --of a topological space",
     "type": "definition",
     "dependencies": {
-        "1KNNEI7L": "topological space"
+        "1KNNEI7L": "topological space",
+        "53J4N2KC": "abelian group"
     },
     "definitions": {
         "5X15KHEH_a": {
