@@ -3,19 +3,20 @@
     "name": "completeness of real numbers",
     "type": "theorem",
     "dependencies": {
-        "4E41D57C": "real numbers",
-        "51BAGP0Y": "supremum / infimum"
+        "4E41D57C": "real numbers"
     },
     "statements": {
         "XR0HEIUR_1": {
             "language": "en",
             "dependencies": {
+                "51BAGP0Y": "supremum"
             },
             "comment": "least upper bound"
         },
         "XR0HEIUR_2": {
             "language": "en",
             "dependencies": {
+                "51BAGP0Y": "infimum"
             },
             "comment": "greatest lower bound"
         }
