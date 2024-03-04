@@ -1,4 +1,4 @@
-The characters of finite-dimensional representations of a Lie algebra $\mathfrak{g}$ over the field $\mathbb{C}$ with respect to a Cartan subalgebra $\mathfrak{h} \subset \mathfrak{g}$ satisfy
+Let $\mathfrak{g}$ be a semisimple Lie algebra over the field $\mathbb{C}$, and  $\mathfrak{h} \subset \mathfrak{g}$ a Cartan subalgebra. Then the characters of finite-dimensional representations of $\mathfrak{g}$ with respect to $\mathfrak{h}$ satisfy
 
 - $\chi_{V \oplus W} = \chi_V + \chi_W$
 - $\chi_{V \otimes W} = \chi_V \chi_W$
