@@ -1,6 +1,6 @@
 {
     "id": "04RJ43R8",
-    "name": "integral of a piecewise continuous function",
+    "name": "integral of a vector-valued function --of a real variable",
     "type": "definition",
     "dependencies": {
         "4ZL3GXH5": "Euclidean space"
