@@ -1,0 +1,19 @@
+{
+    "id": "32L43CYA",
+    "name": "spectrum of a ring",
+    "type": "definition",
+    "dependencies": {
+        "67IMWPW4": "commutative ring"
+    },
+    "definitions": {
+        "32L43CYA_a": {
+            "language": "en",
+            "dependencies": {
+                "3GNTTUR1": "prime ideal"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
