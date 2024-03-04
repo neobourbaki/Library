@@ -1,0 +1,1 @@
+The *category of matrices* over a ring $R$ consist of the numbers $n \in \mathbb{N}$ as the objects, and morphisms from $m$ to $n$ as the set of all $m \times n$ matrices over $R$, with matrix multiplicatin as the composition.
