@@ -1,7 +1,7 @@
-Let $X$ be a topological space. The (singular) *homology* of $X$ with coefficient in an abelian group $A$ is the quotient group
+Let $X$ be a topological space. The (singular) *homology* of $X$ with coefficients in an abelian group $A$ is the quotient group
 
 $$
-H_n(X, \mathbb{Z}) := \mathrm{Ker}(\partial_n: C_{n} \to C_{n-1}) / \mathrm{Im}(\partial_{n+1}: C_{n+1} \to C_{n})
+H_n(X, A) := \mathrm{Ker}(\partial_n: C_{n} \to C_{n-1}) / \mathrm{Im}(\partial_{n+1}: C_{n+1} \to C_{n})
 $$
 
 where 
