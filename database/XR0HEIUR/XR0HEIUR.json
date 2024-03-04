@@ -3,7 +3,8 @@
     "name": "completeness of real numbers",
     "type": "theorem",
     "dependencies": {
-        "4E41D57C": "real numbers"
+        "4E41D57C": "real numbers",
+        "51BAGP0Y": "supremum / infimum"
     },
     "statements": {
         "XR0HEIUR_1": {
