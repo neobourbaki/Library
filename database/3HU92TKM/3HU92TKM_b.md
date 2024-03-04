@@ -1,1 +1,1 @@
-The *category of matrices* over a ring $R$ consist of the free $R$-modules $R^n$ for $n \in \mathbb{N}$ as the objects, and morphisms from $m$ to $n$ as the set of all $m \times n$ matrices over $R$, with matrix multiplicatin as the composition.
+The *category of matrices* over a ring $R$ consist of the free $R$-modules $R^n$ for $n \in \mathbb{N}$ as the objects, and morphisms from $m$ to $n$ as the set of all $m \times n$ matrices over $R$, with matrix multiplication as the composition.
