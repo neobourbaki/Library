@@ -13,3 +13,5 @@ where
 $$
 \partial_n(\sigma) = \sum_{i=0}^n (-1)^i \sigma(x_0, \ldots, \hat{x}_i, \ldots, x_n)
 $$
+
+(where a $\hat$ means that coordinate is ommited).
