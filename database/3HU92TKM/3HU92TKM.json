@@ -1,0 +1,21 @@
+{
+    "id": "3HU92TKM",
+    "name": "category of matrices",
+    "type": "definition",
+    "dependencies": {
+        "67IMWPW4": "commutative ring",
+        "7AQ7Q586": "category"
+    },
+    "definitions": {
+        "3HU92TKM_a": {
+            "language": "en",
+            "dependencies": {
+                "7RG754YE": "matrix multiplication",
+                "0SXI6DVV": "identity matrix"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
