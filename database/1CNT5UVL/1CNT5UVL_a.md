@@ -6,4 +6,4 @@ $$
 
 where $\xi_i := a + i (b - a)/n$ is the left endpoint of the $i$-th subinterval.
 
-If the function $f$ is piecewise continuous, then the *integral* of $f$ is defined as the sum of the integrals over the pieces.
+If the function $f$ is piecewise continuous, then the *integral* of $f$ is the sum of the integrals over the pieces.
