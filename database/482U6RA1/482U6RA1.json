@@ -10,7 +10,7 @@
             "language": "en",
             "dependencies": {
                 "2GM7AN7T": "vector space",
-                "16AXGFEV": "binary operation",
+                "7R2CT98Y": "ring",
                 "03LC586U": "bilinear"
             },
             "comment": ""
@@ -19,7 +19,7 @@
             "language": "en",
             "dependencies": {
                 "8UBME7WQ": "module --over a commutative ring",
-                "16AXGFEV": "binary operation",
+                "7R2CT98Y": "ring",
                 "03LC586U": "bilinear"
             },
             "comment": ""
