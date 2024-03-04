@@ -1,0 +1,18 @@
+{
+    "id": "51BAGP0Y",
+    "name": "supremum / infimum",
+    "type": "definition",
+    "dependencies": {
+        "9ZPPEFGG": "total order"
+    },
+    "definitions": {
+        "51BAGP0Y_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
