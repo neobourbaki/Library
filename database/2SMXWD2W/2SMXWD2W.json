@@ -1,0 +1,19 @@
+{
+    "id": "2SMXWD2W",
+    "name": "cohomology --of a topological space",
+    "type": "definition",
+    "dependencies": {
+        "1KNNEI7L": "topological space",
+        "8UBME7WQ": "module --over a ring"
+    },
+    "definitions": {
+        "2SMXWD2W_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "singular cohomology"
+        }
+    },
+    "equivalences": {
+    }
+}
