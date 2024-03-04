@@ -3,7 +3,8 @@
     "name": "holomorphic / analytic function of a complex variable",
     "type": "definition",
     "dependencies": {
-        "8A9M00AK": "complex numbers"
+        "8A9M00AK": "complex numbers",
+        "7J61CJRC": "domain --in the complex plane"
     },
     "definitions": {
         "1DUN1Q71_a": {
