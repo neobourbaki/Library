@@ -1,4 +1,4 @@
-Let $X$ be a topological space. The (singular) *homology* of $X$ with coefficients in a ring $R$ is the quotient group
+Let $X$ be a topological space. The (singular) *homology* of $X$ with coefficients in a ring $R$ is the quotient $R$-module
 
 $$
 H_n(X, R) := \mathrm{Ker}(\partial_n: C_{n} \to C_{n-1}) / \mathrm{Im}(\partial_{n+1}: C_{n+1} \to C_{n})
