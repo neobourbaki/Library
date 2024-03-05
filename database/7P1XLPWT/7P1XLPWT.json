@@ -16,7 +16,8 @@
         "7P1XLPWT_b": {
             "language": "en",
             "dependencies": {
-                "1BLAGBTU": "free object --in a category"
+                "1BLAGBTU": "free object --in a category",
+                "44VYKHU7": "category of modules over a ring"
             },
             "comment": ""
         }
