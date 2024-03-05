@@ -4,4 +4,4 @@ $$
 \sum_{i \in I} a_i e_i
 $$
 
-where $a_i \in R$, all but finitely many of which are zero. A $R$-module is *free* if it is isomorphic to $R^{\oplus I}$ for some set $I$.
+where $a_i \in R$, all but finitely many of which are zero. It is a $R$-module with obvious addition and multiplication by elements of $R$. A $R$-module is *free* if it is isomorphic to $R^{\oplus I}$ for some set $I$.
