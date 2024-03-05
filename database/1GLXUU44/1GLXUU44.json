@@ -1,0 +1,20 @@
+{
+    "id": "1GLXUU44",
+    "name": "quotient module --over a ring",
+    "type": "definition",
+    "dependencies": {
+        "8UBME7WQ": "module",
+        "1DC1LBYT": "submodule"
+    },
+    "definitions": {
+        "1GLXUU44_a": {
+            "language": "en",
+            "dependencies": {
+                "5KH8646Q": "equivalence relation"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
