@@ -1,0 +1,27 @@
+{
+    "id": "Y3K6XPH9",
+    "name": "Poincaré duality",
+    "type": "definition",
+    "dependencies": {
+        "1234": "manifold",
+        "2345": "orientation",
+        "5X15KHEH": "homology",
+        "2SMXWD2W": "cohomology"
+    },
+    "statements": {
+        "Y3K6XPH9_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "Y3K6XPH9_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}
