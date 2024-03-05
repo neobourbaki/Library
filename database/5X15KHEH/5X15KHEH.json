@@ -4,14 +4,15 @@
     "type": "definition",
     "dependencies": {
         "1KNNEI7L": "topological space",
-        "53J4N2KC": "abelian group"
+        "67IMWPW4": "commutative ring"
     },
     "definitions": {
         "5X15KHEH_a": {
             "language": "en",
             "dependencies": {
                 "8U8A9Z8E": "continuous map",
-                "7P1XLPWT": "free module --over a ring"
+                "7P1XLPWT": "free module --over a ring",
+                "1GLXUU44": "quotient module"
             },
             "comment": ""
         }
