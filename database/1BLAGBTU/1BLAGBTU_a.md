@@ -2,7 +2,7 @@ Let $\mathcal{C}$ be a category with a faithful functor $U: \mathcal{C} \to \mat
 
 - For any object $B$ in $\mathcal{C}$ and any map $g: A \to U(B)$ of sets, there exists a unique morphism $f: F_A \to B$ in $\mathcal{C}$ such that $g = U(f) \circ i$.
 
-In other words, there exists a bijection
+In other words, there is a bijection
 
 $$
 \mathrm{Mor}_{\mathcal{C}}(F_A, B) \cong \mathrm{Mor}_{\mathcal{Set}}(A, U(B))
