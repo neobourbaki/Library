@@ -4,6 +4,7 @@
     "type": "theorem",
     "dependencies": {
         "1KNNEI7L": "topological space",
+        "5KH8646Q": "equivalence relation",
         "3F1XDLBH": "homotopy",
         "4737FZPD": "path",
         "75BT39WI": "groupoid"
