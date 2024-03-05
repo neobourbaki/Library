@@ -1,0 +1,19 @@
+{
+    "id": "7S6XSJVY",
+    "name": "dual of a homomorphism of modules",
+    "type": "definition",
+    "dependencies": {
+        "3TA01A9S": "homomorphism of modules --over a ring",
+        "9EVZZ8HR": "dual vector space"
+    },
+    "definitions": {
+        "7S6XSJVY_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
