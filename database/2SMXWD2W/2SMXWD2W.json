@@ -10,6 +10,9 @@
         "2SMXWD2W_a": {
             "language": "en",
             "dependencies": {
+                "3TA01A9S": "homomorphism of modules",
+                "7P1XLPWT": "free module --over a ring",
+                "8U8A9Z8E": "continuous map"
             },
             "comment": "singular cohomology"
         }
