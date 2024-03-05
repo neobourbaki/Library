@@ -1,7 +1,7 @@
 Let $X$ be a topological space, and $A$ a module over a ring $R$. The $n$-*th* (singular) *cohomology* of $X$ with coefficients in $A$ is the quotient $R$-module
 
 $$
-H^n(X, A) := \mathrm{Ker}(d_{n+1}: C^{n} \to C^{n+1}) / \mathrm{Im}(d_{n}: C^{n-1} \to C^{n})
+H^n(X, A) := \mathrm{ker}(d_{n+1}: C^{n} \to C^{n+1}) / \mathrm{im}(d_{n}: C^{n-1} \to C^{n})
 $$
 
 where 
