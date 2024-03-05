@@ -1,4 +1,4 @@
-Let $X$ be a topological space, and $A$ a module over a ring $R$. The $n$-*th* (singular) *homology group* of $X$ with coefficients in $A$ is the quotient $R$-module
+Let $X$ be a topological space, and $A$ a module over a ring $R$. The $n$-*th* (singular) *homology* of $X$ with coefficients in $A$ is the quotient $R$-module
 
 $$
 H_n(X, A) := \mathrm{Ker}(\partial_n: C_{n} \to C_{n-1}) / \mathrm{Im}(\partial_{n+1}: C_{n+1} \to C_{n})
@@ -17,4 +17,4 @@ $$
 
 for each $\sigma: \Delta_n \to X$ (where $\hat{x}_i$ means the coordinate $x_i$ is ommited).
 
-For $A = \mathbb{Z}$ (as a module over itself), one simply denote $H_n(X, A)$ as $H_n(X)$.
+For $A = \mathbb{Z}$ (as a module over itself), $H_n(X, \mathbb{Z})$ is known as the $n$-*th* (singular) *homology group* of $X$, and is simply denoted $H_n(X)$.
