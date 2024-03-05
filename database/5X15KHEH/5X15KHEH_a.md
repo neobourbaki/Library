@@ -1,7 +1,7 @@
 Let $X$ be a topological space, and $A$ an abelian group. The $n$-*th* (singular) *homology group* of $X$ with coefficients in $A$ is the quotient abelian group
 
 $$
-H_n(X, R) := \mathrm{Ker}(\partial_n: C_{n} \to C_{n-1}) / \mathrm{Im}(\partial_{n+1}: C_{n+1} \to C_{n})
+H_n(X, A) := \mathrm{Ker}(\partial_n: C_{n} \to C_{n-1}) / \mathrm{Im}(\partial_{n+1}: C_{n+1} \to C_{n})
 $$
 
 where 
