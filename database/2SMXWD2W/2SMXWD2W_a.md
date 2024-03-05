@@ -16,4 +16,4 @@ $$
 \partial_n(\sigma) = \sum_{i=0}^n (-1)^i \sigma(x_0, \ldots, \hat{x}_i, \ldots, x_n)
 $$
 
-for each $\sigma: \Delta_n \to X$ (where $\hat{x}_i$ means the coordinate $x_i$ is ommited).
+for each $\sigma: \Delta_n \to X$ (where $\hat{x}_i$ means that the coordinate $x_i$ is omitted).
