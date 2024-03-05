@@ -3,13 +3,14 @@
     "name": "tensor product --of modules",
     "type": "definition",
     "dependencies": {
-        "8UBME7WQ": "module --over a commutative ring"
+        "8UBME7WQ": "module"
     },
     "definitions": {
         "5STJYVG4_a": {
             "language": "en",
             "dependencies": {
-                "03LC586U": "bilinear"
+                "03LC586U": "bilinear",
+                "3TA01A9S": "linear"
             },
             "comment": ""
         }
