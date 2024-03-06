@@ -10,4 +10,4 @@ $$
 \sum_{n = n_0}^\infty x_n = L.
 $$
 
-The series *diverges* if the limit does not exist. A series in $\mathbb{R}^n$ or $\mathbb{C}^n$ *converges* if the series of each component converges.
+The series *diverges* if it does not converge. A series in $\mathbb{R}^n$ or $\mathbb{C}^n$ *converges* if the series of each component converges, and *diverges* otherwise.
