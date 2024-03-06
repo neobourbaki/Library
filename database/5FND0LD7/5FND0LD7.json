@@ -1,0 +1,18 @@
+{
+    "id": "5FND0LD7",
+    "name": "subspace --of a topological space",
+    "type": "definition",
+    "dependencies": {
+        "1KNNEI7L": "topological space"
+    },
+    "definitions": {
+        "5FND0LD7_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
