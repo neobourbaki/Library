@@ -4,4 +4,4 @@ $$
 B(x, r) := \\{ y \in M \\; : \\; d(y, x) < r \\}
 $$
 
-for all $x \in M$ and $r \in k_{> 0}$ generate a topology on $M$.
+for $x \in M$ and $r \in k_{> 0}$ generate a topology on $M$.
