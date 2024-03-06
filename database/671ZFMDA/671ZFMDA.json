@@ -17,14 +17,14 @@
         "671ZFMDA_b": {
             "language": "en",
             "dependencies": {
-                "1234": "power series"
+                "8B9KJ77W": "power series"
             },
             "comment": "power series"
         },
         "671ZFMDA_a": {
             "language": "en",
             "dependencies": {
-                "asdf": "existence and uniqueness --of solution to ODE"
+                "ASDF": "existence and uniqueness --of solution to ODE"
             },
             "comment": "solution to f'=f"
         }
