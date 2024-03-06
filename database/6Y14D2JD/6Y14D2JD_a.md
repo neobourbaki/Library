@@ -7,7 +7,7 @@ $$
 exists, and we say the series *converges* or *sums* to the limit $L$, and simply write
 
 $$
-\sum_{n = 1}^\infty x_n = L.
+\sum_{n = n_0}^\infty x_n = L.
 $$
 
 The series *diverges* if the limit does not exist. A series in $\mathbb{R}^n$ or $\mathbb{C}^n$ *converges* if the series of each component converges.
