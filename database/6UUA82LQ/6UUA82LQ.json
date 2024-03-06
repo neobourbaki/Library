@@ -1,0 +1,25 @@
+{
+    "id": "6UUA82LQ",
+    "name": "tensor product --of vector spaces",
+    "type": "definition",
+    "dependencies": {
+        "2GM7AN7T": "vector space --over a field"
+    },
+    "definitions": {
+        "6UUA82LQ_a": {
+            "language": "en",
+            "dependencies": {
+                "5STJYVG4": "tensor product --of modules",
+            },
+            "comment": ""
+        },
+        "6UUA82LQ_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
