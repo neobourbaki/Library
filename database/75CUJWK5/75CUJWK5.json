@@ -17,7 +17,8 @@
         "75CUJWK5_b": {
             "language": "en",
             "dependencies": {
-                "2345": "Laurent series"
+                "627VC4TI": "Laurent series",
+                "6Y14D2JD": "convergence"
             },
             "comment": "locally represented by Laurent series"
         },
