@@ -1,6 +1,6 @@
 {
     "id": "H1Z78HZD",
-    "name": "homotopy of paths is a groupoid",
+    "name": "homotopy classes of paths --form a groupoid",
     "type": "theorem",
     "dependencies": {
         "1KNNEI7L": "topological space",
