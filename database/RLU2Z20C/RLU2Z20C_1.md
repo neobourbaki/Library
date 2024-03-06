@@ -1,0 +1,1 @@
+(Fundamental Theorem of Algebra) Let $p(x) \in \mathbb{R}[x]$ be a polynomial with real coefficients. Then $p(x)$ can be factored into a product of linear polynomials and quadratic polynomials with no real roots.
