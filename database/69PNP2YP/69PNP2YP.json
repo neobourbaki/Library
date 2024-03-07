@@ -1,0 +1,18 @@
+{
+    "id": "69PNP2YP",
+    "name": "full subcategory",
+    "type": "definition",
+    "dependencies": {
+        "7AQ7Q586": "category"
+    },
+    "definitions": {
+        "69PNP2YP_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
