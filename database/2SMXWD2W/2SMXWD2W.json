@@ -15,8 +15,9 @@
                 "41P2BRMI": "image --of a homomorphism of modules",
                 "3TA01A9S": "homomorphism of modules",
                 "7P1XLPWT": "free module --over a ring",
-                "7S6XSJVY": "dual of a linear map",
-                "8U8A9Z8E": "continuous map"
+                "7S6XSJVY": "dual of a homomorphism of modules",
+                "8U8A9Z8E": "continuous map",
+                "9M97T5II": "n-simplex"
             },
             "comment": "singular cohomology"
         }
