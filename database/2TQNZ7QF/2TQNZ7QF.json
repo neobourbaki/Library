@@ -21,6 +21,14 @@
                 "4HNSRY62": "determinant of a matrix"
             },
             "comment": ""
+        },
+        "2TQNZ7QF_c": {
+            "language": "en",
+            "dependencies": {
+                "4CPNB8RQ": "automorphism group --in a category",
+                "3HU92TKM": "category of matrices"
+            },
+            "comment": ""
         }
     },
     "equivalences": {
