@@ -1,4 +1,4 @@
-Each matrix can be realized as a linear map between two vector spaces, and associativity follows from the associativity of composition of functions:
+Each matrix can be realized as a linear map of vector spaces, and associativity follows from the associativity of composition of maps:
 
 $$
 (f \circ g) \circ h = f \circ (g \circ h).
