@@ -1,6 +1,6 @@
 {
     "id": "2TQNZ7QF",
-    "name": "general linear group",
+    "name": "general linear group GL_n",
     "type": "definition",
     "dependencies": {
         "8M6CAY2R": "matrix --over a ring",
