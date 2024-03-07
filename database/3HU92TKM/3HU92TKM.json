@@ -19,17 +19,9 @@
         "3HU92TKM_b": {
             "language": "en",
             "dependencies": {
-                "8UBME7WQ": "module",
-                "7RG754YE": "matrix multiplication",
-                "0SXI6DVV": "identity matrix"
-            },
-            "comment": ""
-        },
-        "3HU92TKM_c": {
-            "language": "en",
-            "dependencies": {
                 "69PNP2YP": "full subcategory",
-                "44VYKHU7": "category of modules over a ring"
+                "7P1XLPWT": "free module",
+                "44VYKHU7": "category of modules --over a ring"
             },
             "comment": ""
         }
