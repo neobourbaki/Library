@@ -23,6 +23,14 @@
                 "0SXI6DVV": "identity matrix"
             },
             "comment": ""
+        },
+        "3HU92TKM_c": {
+            "language": "en",
+            "dependencies": {
+                "69PNP2YP": "full subcategory",
+                "44VYKHU7": "category of modules over a ring"
+            },
+            "comment": ""
         }
     },
     "equivalences": {
