@@ -1,0 +1,19 @@
+{
+    "id": "6DURJW4B",
+    "name": "real projective plane",
+    "type": "definition",
+    "dependencies": {
+        "1234": "Euclidean geometry"
+    },
+    "definitions": {
+        "6DURJW4B_a": {
+            "language": "en":,
+            "dependencies": {
+                "2345": "incidence relation --on Euclidean plane"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
