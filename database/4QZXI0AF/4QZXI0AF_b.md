@@ -1,0 +1,1 @@
+A (topological) *manifold* of dimension $n$ is a subset $M$ of $\mathbb{R}^N$ such that at each point $x \in X$, there exists an open neighborhood $U \subset \mathbb{R}^N$, an open set $V \subset \mathbb{R}^n$, and a continuous map $\phi: \mathbb{R}^n \to \mathbb{R}^N$ such that $U \cap M$ is the image of $V$ under $\phi$.
