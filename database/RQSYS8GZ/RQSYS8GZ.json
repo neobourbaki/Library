@@ -3,7 +3,10 @@
     "name": "module over a field is free",
     "type": "theorem",
     "dependencies": {
-        "8UBME7WQ": "module --over a ring",
+        "8UBME7WQ": {
+            "name": "module --over {1}",
+            "4BCNPPIX": "field"
+        },
         "7P1XLPWT": "free module"
     },
     "statements": {
