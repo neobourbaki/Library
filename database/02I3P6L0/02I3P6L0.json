@@ -9,9 +9,11 @@
         }
     },
     "type": {
-        "name": "function from {1} to {2}",
-        "5PGIN6X2": "group",
-        "4BCNPPIX": "field"
+        "4CID84AD": {
+            "name": "function from {1} to {2}",
+            "5PGIN6X2": "group",
+            "4BCNPPIX": "field"
+        }
     },
     "definitions": {
         "02I3P6L0_a": {
