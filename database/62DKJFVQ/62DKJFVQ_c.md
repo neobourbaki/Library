@@ -1,4 +1,4 @@
-Let $(V, \pi)$ be a representation of a semisimple Lie algebra $\mathfrak{g}$ over the field $\mathbb{C}$, and $\mathfrak{h} \subset \mathfrak{g}$ a Cartan subalgebra. The *character* $\chi_{V}$ of the representation is the element of the group algebra $\mathbb{C}P$ (with basis $e^{\mu}$, $\mu \in P$) of the weight lattice $P \subset \mathfrak{h}^*$ (as an additive group) given by
+Let $(V, \pi)$ be a representation of a semisimple Lie algebra $\mathfrak{g}$ over the field $\mathbb{C}$, and $\mathfrak{h} \subset \mathfrak{g}$ a Cartan subalgebra. The *character* $\chi_{V}$ of the representation is an element of the group algebra $\mathbb{C}P$ of the weight lattice $P \subset \mathfrak{h}^*$ (as an additive group) given by
 
 $$
 \chi_V = \sum_{\mu \in P} \dim(V_{\mu}) \\, e^{\mu} 
