@@ -1,10 +1,17 @@
 {
     "id": "02I3P6L0",
     "name": "character --of a group representation",
-    "type": "definition",
     "dependencies": {
+        "5EEV302V": {
+            "name": "representation of a {1} over a {2}",
+            "5PGIN6X2": "group",
+            "4BCNPPIX": "field"
+        }
+    },
+    "type": {
+        "name": "function from {1} to {2}",
         "5PGIN6X2": "group",
-        "5EEV302V": "representation of a group"
+        "4BCNPPIX": "field"
     },
     "definitions": {
         "02I3P6L0_a": {
