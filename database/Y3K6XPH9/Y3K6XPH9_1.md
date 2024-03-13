@@ -1,4 +1,4 @@
-(Poincaré duality) Let $M$ be a compact orientable manifold of dimension $n$. Then there is an isomorphism of the $k$-th cohomology group with the $(n-k)$-th homology group of $M$ with coefficients in any abelian group $\mathbb{A}$,
+(Poincaré duality) Let $M$ be a compact orientable manifold of dimension $n$. Then there is an isomorphism of the $k$-th cohomology group with the $(n-k)$-th homology group of $M$ with coefficients in any abelian group $A$:
 
 $$
 H^{k}(M, A) \cong H_{n-k}(M, A)
