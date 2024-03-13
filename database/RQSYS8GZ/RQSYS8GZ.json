@@ -7,7 +7,10 @@
             "name": "module --over {1}",
             "4BCNPPIX": "field"
         },
-        "7P1XLPWT": "free module"
+        "7P1XLPWT": {
+            "name": "free module",
+            "4BCNPPIX": "field"
+        }
     },
     "statements": {
         "RQSYS8GZ_1": {
