@@ -3,17 +3,13 @@
     "name": "character --of a group representation",
     "dependencies": {
         "5EEV302V": {
-            "name": "representation of a {1} over a {2}",
+            "name": "representation of {1} over {2}",
             "5PGIN6X2": "group",
             "4BCNPPIX": "field"
         }
     },
     "type": {
-        "4CID84AD": {
-            "name": "function from {1} to {2}",
-            "5PGIN6X2": "group",
-            "4BCNPPIX": "field"
-        }
+        "4CID84AD": "function from {1} to {2}"
     },
     "definitions": {
         "02I3P6L0_a": {
