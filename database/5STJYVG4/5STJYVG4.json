@@ -3,7 +3,7 @@
     "name": "tensor product --of modules",
     "type": "definition",
     "dependencies": {
-        "8UBME7WQ": "module"
+        "8UBME7WQ": "module --over a commutative ring"
     },
     "definitions": {
         "5STJYVG4_a": {
