@@ -1,9 +1,11 @@
 {
     "id": "18ACACHZ",
     "name": "group algebra",
-    "type": "definition",
     "dependencies": {
         "5PGIN6X2": "group",
+        "4BCNPPIX": "field"
+    },
+    "type": {
         "482U6RA1": "algebra --over a field"
     },
     "definitions": {
