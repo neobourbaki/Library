@@ -1,4 +1,4 @@
-A right module over a ring $R$ is an abelian group $M$, together with a map $M \times R \to M$, $(m, r) \mapsto mr$ such that 
+A *right module* over a ring $R$ is an abelian group $M$, together with a map $M \times R \to M$, $(m, r) \mapsto mr$ such that 
 
 - $(m+n)r = mr + nr$
 - $m(r+s) = mr + ms$
