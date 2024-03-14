@@ -1,4 +1,4 @@
-A *module* over a commutative ring $R$ is an abelian group $M$, together with a map $R \times M \to M$, $(r, m) \mapsto rm$ satisfying
+A (left) *module* over a ring $R$ is an abelian group $M$, together with a map $R \times M \to M$, $(r, m) \mapsto rm$ satisfying
 
 - $r(m+n) = rm + rn$
 - $(r+s) m = rm + sm$
