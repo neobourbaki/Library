@@ -1,0 +1,18 @@
+{
+    "id": "70Z23N31",
+    "name": "semisimple module --over a ring",
+    "type": "definition",
+    "dependencies": {
+        "8TZK9FIS": "left module --over a ring"
+    },
+    "definitions": {
+        "70Z23N31_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
