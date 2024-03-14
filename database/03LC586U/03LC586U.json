@@ -3,8 +3,8 @@
     "name": "bilinear / multilinear",
     "type": "definition",
     "dependencies": {
-        "2GM7AN7T": "vector space --over a field",
-        "8UBME7WQ": "module --over a commutative ring"
+        "67IMWPW4": "commutative ring",
+        "8UBME7WQ": "module --over {0}"
     },
     "definitions": {
         "03LC586U_a": {
@@ -12,14 +12,14 @@
             "dependencies": {
                 "5BDJ54RG": "linearity"
             },
-            "comment": "vector spaces"
+            "comment": "expressed as vector spaces"
         },
         "03LC586U_b": {
             "language": "en",
             "dependencies": {
                 "5BDJ54RG": "linearity"
             },
-            "comment": "modules"
+            "comment": "expressed as modules"
         }
     },
     "equivalences": {
