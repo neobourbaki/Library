@@ -6,7 +6,7 @@
         "4BCNPPIX": "field"
     },
     "type": {
-        "482U6RA1": "algebra --over a field"
+        "482U6RA1": "algebra --over {1}"
     },
     "definitions": {
         "18ACACHZ_a": {
@@ -18,7 +18,7 @@
         "18ACACHZ_b": {
             "language": "en",
             "dependencies": {
-                "7P1XLPWT": "free module --over a ring"
+                "7P1XLPWT": "free module --over {1}"
             },
             "comment": ""
         }
