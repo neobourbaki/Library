@@ -19,6 +19,7 @@
             "language": "en",
             "dependencies": {
                 "18ACACHZ": "group algebra",
+                "1234": "weight lattice",
                 "8YNTJFQ9": "dimension --of a vector space"
             },
             "comment": ""
