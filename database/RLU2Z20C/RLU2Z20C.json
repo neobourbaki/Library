@@ -3,8 +3,10 @@
     "name": "Fundamental Theorem of Algebra",
     "type": "theorem",
     "dependencies": {
-        "26S3FKEF": "polynomial",
-        "4E41D57C": "real numbers"
+        "26S3FKEF": {
+            "name": "polynomial over {1}",
+            "4E41D57C": "real numbers"
+        }
     },
     "statements": {
         "RLU2Z20C_1": {
