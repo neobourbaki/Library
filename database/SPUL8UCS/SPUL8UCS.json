@@ -1,11 +1,11 @@
 {
     "id": "SPUL8UCS",
     "name": "Fundamental Theorem of Algebra",
-    "type": "theorem",
     "dependencies": {
-        "26S3FKEF": "polynomial",
-        "8A9M00AK": "complex numbers"
+        "8A9M00AK": "complex numbers",
+        "26S3FKEF": "polynomial over {0}"
     },
+    "type": "theorem",
     "statements": {
         "SPUL8UCS_1": {
             "language": "en",
