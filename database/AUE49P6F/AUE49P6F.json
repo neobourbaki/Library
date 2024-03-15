@@ -21,6 +21,13 @@
             "dependencies": {
             },
             "comment": ""
+        },
+        "AUE49P6F_a": {
+            "language": "en",
+            "dependencies": {
+                "LTQZ81LP": "BGG resolution"
+            },
+            "comment": ""
         }
     }
 }
