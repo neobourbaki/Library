@@ -1,0 +1,22 @@
+{
+    "id": "40VXD1B0",
+    "name": "extension of scalars",
+    "dependencies": {
+        "7R2CT98Y": "ring",
+        "8UBME7WQ": "module over {0}"
+    },
+    "type": {
+        "8UBME7WQ": "module over {0}"
+    },
+    "definitions": {
+        "40VXD1B0_a": {
+            "language": "en",
+            "dependencies": {
+                "8NTXUGXG": "tensor product --of right and left modules"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
