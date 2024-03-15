@@ -4,4 +4,4 @@ $$
 \pi([X, Y]) = [\pi(X), \pi(Y)]
 $$
 
-for all $X, Y \in \mathfrak{g}$. One may simply write $Xv$ for the vector $\pi(X)v \in V$, if there is no confusion, for $X\in\mathfrak{g}$ and $v\in V$.
+for all $X, Y \in \mathfrak{g}$. One may simply write $Xv$ for the vector $\pi(X)v \in V$ for $X\in\mathfrak{g}$ and $v\in V$ if there is no ambiguity of the map $\pi$.
