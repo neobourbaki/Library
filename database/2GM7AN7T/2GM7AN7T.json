@@ -4,9 +4,7 @@
     "dependencies": {
         "4BCNPPIX": "field"
     },
-    "type": {
-        "53J4N2KC": "abelian group"
-    },
+    "type": "definition",
     "definitions": {
         "2GM7AN7T_a": {
             "language": "en",
@@ -18,6 +16,8 @@
         "2GM7AN7T_b": {
             "language": "en",
             "dependencies": {
+            },
+            "type": {
                 "8UBME7WQ": "module over {0}"
             },
             "comment": ""
