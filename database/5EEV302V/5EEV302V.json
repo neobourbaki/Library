@@ -1,10 +1,12 @@
 {
     "id": "5EEV302V",
     "name": "representation of a group",
-    "type": "definition",
     "dependencies": {
         "5PGIN6X2": "group",
-        "2GM7AN7T": "vector space --over a field"
+        "4BCNPPIX": "field",
+    },
+    "type": {
+        "2GM7AN7T": "vector space --over {1}"
     },
     "definitions": {
         "5EEV302V_a": {
