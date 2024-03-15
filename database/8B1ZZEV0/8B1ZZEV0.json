@@ -1,0 +1,25 @@
+{
+    "id": "8B1ZZEV0",
+    "name": "Verma module",
+    "dependencies": {
+        "8A9M00AK": "complex numbers",
+        "1IYIAGFB": "semisimple Lie algebra --over {0}",
+        "3KPRPA7U": "Cartan subalgebra --of {1}",
+        "5FE9DKX2": "Borel subalgebra --of {2}"
+    },
+    "type": {
+        "6DTG5YM7": "representation of {1}"
+    },
+    "definitions": {
+        "8B1ZZEV0_a": {
+            "language": "en",
+            "dependencies": {
+                "7Z3IL1Y2": "universal enveloping algebra of {1}",
+                "40VXD1B0": "extension of scalars"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
