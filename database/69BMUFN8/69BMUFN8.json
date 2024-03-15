@@ -1,0 +1,20 @@
+{
+    "id": "69BMUFN8",
+    "name": "homomorphism of Lie algebras",
+    "dependencies": {
+        "4BCNPPIX": "field",
+        "3H8N6TE0": "Lie algebra --over {0}"
+    },
+    "type": "definition",
+    "definitions": {
+        "69BMUFN8_a": {
+            "language": "en",
+            "dependencies": {
+                "5BDJ54RG": "linear map --of vector spaces"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
