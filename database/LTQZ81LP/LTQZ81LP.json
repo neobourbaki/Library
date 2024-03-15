@@ -5,9 +5,9 @@
     "dependencies": {
         "8A9M00AK": "complex numbers",
         "1IYIAGFB": "semisimple Lie algebra over complex numbers",
-        "3KPRPA7U": "Cartan subalgebra",
+        "3KPRPA7U": "Cartan subalgebra of {1}",
         "2D5F8K66": "root system",
-        "7S2ZH0MJ": "irreducible representation --of a Lie algebra"
+        "7S2ZH0MJ": "irreducible representation of {1}"
     },
     "statements": {
         "LTQZ81LP_a": {
