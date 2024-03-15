@@ -1,4 +1,4 @@
-Let $M$ be a right module and $N$ a left module over a ring $R$. Then a map $f: M \times N \to L$ of abelian groups is $R$-*balanced* if
+Let $M$ be a right module, $N$ a left module over a ring $R$, and $L$ an abelian group. Then a map $f: M \times N \to L$ is $R$-*balanced* if
 
 - $f(m, n + n') = f(m, n) + f(m, n')$
 - $f(m + m', n) = f(m, n) + f(m' + n)$
