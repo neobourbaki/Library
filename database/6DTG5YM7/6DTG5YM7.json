@@ -10,7 +10,8 @@
         "6DTG5YM7_a": {
             "language": "en",
             "dependencies": {
-                "2GM7AN7T": "vector space --over {1}"
+                "2GM7AN7T": "vector space --over {1}",
+                "69BMUFN8": "homomorphism of Lie algebras"
             },
             "comment": ""
         }
