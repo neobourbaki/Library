@@ -6,7 +6,7 @@ $$
 
 where
 
-- $M_{\lambda}$ is the Verma module associated with weight $\lambda \in \mathfrak{h}^*$;
+- $M_{\lambda}$ is the Verma module associated to weight $\lambda \in \mathfrak{h}^*$;
 - $W$ is the Weyl group, acting on $\mathfrak{h}^*$;
 - $w . \lambda := w(\lambda + \rho) - \rho$
 - $\rho$ is the half of the sum of the positive roots.
