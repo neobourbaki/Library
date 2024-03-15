@@ -1,0 +1,1 @@
+A *representation* of a Lie algebra $\mathfrak{g}$ over a field $k$ is a (left) module over the universal enveloping algebra $U(\mathfrak{g})$. One sometimes calls a $U(\mathfrak{g})$-module simply a $\mathfrak{g}$-module.
