@@ -25,8 +25,8 @@
         "6DTG5YM7_a": {
             "language": "en",
             "dependencies": {
-                "7Z3IL1Y2": "universal enveloping algebra of {1}"
-                "8UBME7WQ": "left module over {2}",
+                "7Z3IL1Y2": "universal enveloping algebra of {1}",
+                "8UBME7WQ": "left module over {2}"
             },
             "comment": ""
         }
