@@ -5,4 +5,4 @@ A *vector space* over a field $k$ is an abelian group $(V, +)$, together with a 
 - $(\alpha\beta) v = \alpha (\beta v)$
 - $1 v = v$
 
-for all $v, w \in W$, $\alpha, \beta \in k$. Elements in $V$ are called *vectors*, and elements in $k$ are known as *scalars*.
+for all $v, w \in W$, $\alpha, \beta \in k$. Elements of $V$ are called *vectors*, and elements of $k$ are *scalars*.
