@@ -1,12 +1,11 @@
 {
     "id": "2GM7AN7T",
     "name": "vector space --over a field",
-    "type": "definition",
     "dependencies": {
         "4BCNPPIX": "field"
     },
-    "super": {
-        "8UBME7WQ": "module --over a ring"
+    "type": {
+        "53J4N2KC": "abelian group"
     },
     "definitions": {
         "2GM7AN7T_a": {
