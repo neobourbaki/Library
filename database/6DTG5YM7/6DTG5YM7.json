@@ -10,8 +10,23 @@
         "6DTG5YM7_a": {
             "language": "en",
             "dependencies": {
-                "2GM7AN7T": "vector space --over {1}",
+                "2GM7AN7T": "vector space --over {0}",
                 "69BMUFN8": "homomorphism of Lie algebras"
+            },
+            "comment": ""
+        },
+        "6DTG5YM7_b": {
+            "language": "en",
+            "dependencies": {
+                "2GM7AN7T": "vector space --over {0}"
+            },
+            "comment": ""
+        },
+        "6DTG5YM7_a": {
+            "language": "en",
+            "dependencies": {
+                "7Z3IL1Y2": "universal enveloping algebra of {1}"
+                "8UBME7WQ": "left module over {2}",
             },
             "comment": ""
         }
