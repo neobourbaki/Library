@@ -1,0 +1,1 @@
+A *Cartan subalgebra* of the Lie algebra $\mathfrak{g}$ of a matrix group $G \subset \mathrm{GL}_n(K)$ over the field $K = \mathbb{R}$ or $\mathbb{C}$ is a Cartan subalgebra of $\mathfrak{g}$ as a Lie algebra.
