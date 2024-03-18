@@ -1,0 +1,25 @@
+{
+    "id": "2SMUHNVL",
+    "name": "Cartan subalgebra --of a matrix algebra",
+    "dependencies": {
+        "6VFZ3EAW": "matrix group",
+        "175GH983": "Lie algebra of a matrix group"
+    },
+    "type": "definition",
+    "definitions": {
+        "2SMUHNVL_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "2SMUHNVL_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
