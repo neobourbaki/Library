@@ -1,1 +1,1 @@
-An *ideal* of a commutative ring $R$ is a submodule of $R$ over itself.
+A (left) *ideal* of a ring $R$ is a (left) submodule of $R$ over itself.
