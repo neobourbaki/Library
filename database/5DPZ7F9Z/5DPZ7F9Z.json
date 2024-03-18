@@ -1,10 +1,10 @@
 {
     "id": "5DPZ7F9Z",
-    "name": "ideal --of a ring",
-    "type": "definition",
+    "name": "ideal --of a commutative ring",
     "dependencies": {
-        "7R2CT98Y": "ring"
+        "67IMWPW4": "commutative ring"
     },
+    "type": "definition",
     "definitions": {
         "5DPZ7F9Z_a": {
             "language": "en",
