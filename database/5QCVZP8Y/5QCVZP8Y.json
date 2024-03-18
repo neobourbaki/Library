@@ -9,7 +9,8 @@
         "5QCVZP8Y_a": {
             "language": "en",
             "dependencies": {
-                "3B4QPTQD": "linear independence"
+                "3B4QPTQD": "linear independence",
+                "0X1W2BDY": "maximal"
             },
             "comment": ""
         },
