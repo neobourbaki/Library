@@ -1,9 +1,10 @@
 {
     "id": "1D4V1VDG",
     "name": "multiplicative group --of a commutative ring",
-    "type": "definition",
     "dependencies": {
-        "67IMWPW4": "commutative ring",
+        "67IMWPW4": "commutative ring"
+    },
+    "type": {
         "5PGIN6X2": "group"
     },
     "definitions": {
