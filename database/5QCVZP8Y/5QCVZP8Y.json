@@ -3,7 +3,8 @@
     "name": "basis of a vector field",
     "type": "definition",
     "dependencies": {
-        "2GM7AN7T": "vector space --over a field"
+        "4BCNPPIX": "field",
+        "2GM7AN7T": "vector space --over {0}"
     },
     "definitions": {
         "5QCVZP8Y_a": {
@@ -17,6 +18,13 @@
         "5QCVZP8Y_b": {
             "language": "en",
             "dependencies": {
+            },
+            "comment": ""
+        },
+        "5QCVZP8Y_c": {
+            "language": "en",
+            "dependencies": {
+                "7P1XLPWT": "free module --over {0}",
             },
             "comment": ""
         }
