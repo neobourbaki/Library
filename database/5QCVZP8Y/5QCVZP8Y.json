@@ -1,6 +1,6 @@
 {
     "id": "5QCVZP8Y",
-    "name": "basis of a vector field",
+    "name": "basis of a vector space",
     "type": "definition",
     "dependencies": {
         "4BCNPPIX": "field",
