@@ -1,6 +1,4 @@
-Let $M$ be a module over a ring $R$, and $N$ be a submodule of $M$. Then the *quotient module* $M/N$ is the equivalence classes of $m \in M$, under the relation $m \sim m'$ if $m - m' \in N$. On the equivalence classes $m + N$, the addition and multiplication by elements of $R$ are defined by
+Let $N$ be a submodule of a module $M$ over a ring $R$. Then the *quotient module* $M/N$ is a $R$-module consisting of the equivalence classes $[m]$ of $m \in M$, under the relation $m \sim m'$ if $m - m' \in N$, on which the addition and multiplication by elements of $R$ are defined by
 
-- $(m + N) + (m' + N) = (m + m' + N)$
-- $r(m + N) = (rm + N)$
-
-making $M/N$ a $R$-module.
+- $[m] + [m'] = [m + m']$;
+- $r[m] = [rm]$.
