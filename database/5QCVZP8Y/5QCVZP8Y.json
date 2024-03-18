@@ -28,6 +28,14 @@
             },
             "comment": ""
         }
+        "5QCVZP8Y_d": {
+            "language": "en",
+            "dependencies": {
+                "3B4QPTQD": "linear independence",
+                "2NQXZL7L": "linear span"
+            },
+            "comment": ""
+        }
     },
     "equivalences": {
     }
