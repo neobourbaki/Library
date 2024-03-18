@@ -9,7 +9,9 @@
         "3KPRPA7U_a": {
             "language": "en",
             "dependencies": {
-                "3EFEFC0N": "abelian Lie algebra"
+                "3EFEFC0N": "abelian Lie algebra",
+                "0X1W2BDY": "maximal",
+                "2KC0FK3Z": "adjoint representation"
             },
             "comment": ""
         },
