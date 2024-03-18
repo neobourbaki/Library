@@ -1,9 +1,13 @@
 {
     "id": "8KYIDPJ9",
     "name": "kernel --of a homomorphism of modules --over a ring",
-    "type": "definition",
     "dependencies": {
-        "3TA01A9S": "homomorphism of modules"
+        "7R2CT98Y": "ring",
+        "8UBME7WQ": "module --over {0}",
+        "3TA01A9S": "homomorphism of {1}"
+    },
+    "type": {
+        "1DC1LBYT": "submodule --of {1}"
     },
     "definitions": {
         "8KYIDPJ9_a": {
