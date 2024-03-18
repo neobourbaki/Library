@@ -1,8 +1,10 @@
 {
     "id": "2NQXZL7L",
     "name": "linear span",
-    "type": "definition",
     "dependencies": {
+        "2GM7AN7T": "vector space --over a field"
+    },
+    "type": {
         "2GM7AN7T": "vector space --over a field"
     },
     "definitions": {
