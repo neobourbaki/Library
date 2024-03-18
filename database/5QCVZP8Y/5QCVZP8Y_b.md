@@ -4,4 +4,4 @@ $$
 v = \sum_{v_i \in S} \alpha_i v_i 
 $$
 
-where $\alpha_i \in k$, all but finitely many of which are zero.
+for a unique set of $\alpha_i \in k$, all but finitely many of which are zero.
