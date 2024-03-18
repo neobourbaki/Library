@@ -1,4 +1,4 @@
-An $m\times n$ *matrix* over a commutative ring $R$ is a tuple of $mn$ elements $a_{ij} \in R$ (called the *entries* of $A$) indexed by $1 \leq i \leq m$ and $1 \leq j \leq n$, typically arranged as
+A $m\times n$ *matrix* over a commutative ring $R$ is a tuple of $mn$ elements $a_{ij} \in R$ (called the *entries* of $A$) indexed by $1 \leq i \leq m$ and $1 \leq j \leq n$, typically arranged as
 
 $$
 A = \begin{pmatrix} 
