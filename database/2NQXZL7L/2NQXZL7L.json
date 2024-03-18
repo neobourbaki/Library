@@ -2,10 +2,11 @@
     "id": "2NQXZL7L",
     "name": "linear span",
     "dependencies": {
-        "2GM7AN7T": "vector space --over a field"
+        "4BCNPPIX": "field",
+        "2GM7AN7T": "vector space --over {0}"
     },
     "type": {
-        "2GM7AN7T": "vector space --over a field"
+        "2GM7AN7T": "vector space --over {0}"
     },
     "definitions": {
         "2NQXZL7L_a": {
@@ -17,7 +18,7 @@
         "2NQXZL7L_b": {
             "language": "en",
             "dependencies": {
-                "7P1XLPWT": "free module"
+                "7P1XLPWT": "free module --over {0}"
             },
             "comment": ""
         }
