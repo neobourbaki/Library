@@ -2,7 +2,7 @@
     "id": "7P1XLPWT",
     "name": "free module --over a ring",
     "dependencies": {
-        "67IMWPW4": "commutative ring"
+        "7R2CT98Y": "ring"
     },
     "type": {
         "8UBME7WQ": "module over {0}"
