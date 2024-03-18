@@ -1,1 +1,1 @@
-A *Cartan subalgebra* of a semisimple Lie algebra is a maximal abelian subalgebra.
+A *Cartan subalgebra* of a semisimple Lie algebra $\mathfrak{g}$ over the field $\mathbb{C}$ is a maximal abelian subalgebra $\mathfrak{h}$ such that for all $X \in \mathfrak{h}$, $\mathrm{ad}_{X}: \mathfrak{g} \to \mathfrak{g}$ is semisimple.
