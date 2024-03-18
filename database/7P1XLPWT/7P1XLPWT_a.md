@@ -4,6 +4,6 @@ $$
 \sum_{i \in I} a_i e_i
 $$
 
-where $a_i \in R$, all but finitely many of which are zero. It is a $R$-module under the natural addition and multiplication by elements of $R$. 
+where $a_i \in R$, all but finitely many of which are zero. It is a $R$-module under the natural addition and multiplication by elements of $R$ (from the left). 
 
 A $R$-module is *free* if it is isomorphic to $R^{\oplus I}$ for some set $I$.
