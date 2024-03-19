@@ -1,0 +1,27 @@
+{
+    "id": "LTFI8WQJ",
+    "name": "Theorem of highest weight",
+    "dependencies": {
+        "1IYIAGFB": "semisimple Lie algebra --over C",
+        "3KPRPA7U": "Cartan subalgebra --of {0}",
+        "2D5F8K66": "root system of {0}",
+        "7S2ZH0MJ": "irreducible representation --of {0}"
+    },
+    "type": "theorem",
+    "statements": {
+        "LTFI8WQJ_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "LTFI8WQJ_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}
