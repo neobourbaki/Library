@@ -22,6 +22,12 @@
                 "P0ERZM47": "factor theorem"
             },
             "comment": ""
+        },
+        "EH0MY56Z_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "topological proof"
         }
     }
 }
