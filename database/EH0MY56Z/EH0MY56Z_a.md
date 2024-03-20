@@ -4,7 +4,7 @@ $$
 p(x) = (x - \alpha_1) p_1(x)
 $$
 
-for some polynomial $p_1(x) \in \mathbb{C}[x]$ of degree $n-1$. We can than apply the Fundamental Theorem of Algebra again, and obtain a root of $p_1$, i.e., 
+for some polynomial $p_1(x) \in \mathbb{C}[x]$ of degree $n-1$. We can then apply the Fundamental Theorem of Algebra again, and obtain a root of $p_1$; in other words, we have
 
 $$
 p(x) = (x - \alpha_1) (x - \alpha_2) p_2(x)
