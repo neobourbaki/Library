@@ -10,7 +10,7 @@ $$
 p(x) = (x - \alpha_1) (x - \alpha_2) p_2(x)
 $$
 
-for some $\alpha_2 \in \mathbb{C}$ and some polynomial $p_2$ of degree $n - 2$. Eventually, we have
+for some $\alpha_2 \in \mathbb{C}$ and some polynomial $p_2$ of degree $n - 2$. Continuing this process, we eventually have
 
 $$
 p(x) = (x - \alpha_1) (x - \alpha_2) \cdots (x - \alpha_n) p_n(x)
