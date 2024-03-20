@@ -12,23 +12,23 @@
         "2TQNZ7QF_a": {
             "language": "en",
             "dependencies": {
-                "0CLV6SL7": "invertible matrix",
-                "7RG754YE": "matrix multiplication"
+                "0CLV6SL7": "invertible {1}",
+                "7RG754YE": "matrix multiplication --of {1}"
             },
             "comment": ""
         },
         "2TQNZ7QF_b": {
             "language": "en",
             "dependencies": {
-                "4HNSRY62": "determinant of a matrix",
-                "7RG754YE": "matrix multiplication"
+                "4HNSRY62": "determinant of {1}",
+                "7RG754YE": "matrix multiplication --of {1}"
             },
             "comment": ""
         },
         "2TQNZ7QF_c": {
             "language": "en",
             "dependencies": {
-                "3HU92TKM": "category of matrices",
+                "3HU92TKM": "category of {1}",
                 "4CPNB8RQ": "automorphism group --in {2}"
             },
             "comment": ""
