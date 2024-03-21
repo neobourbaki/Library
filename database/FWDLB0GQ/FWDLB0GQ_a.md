@@ -13,7 +13,7 @@ $$
 On the other hand, 
 
 $$
-\mathop{\mathrm{tr}}(A) = \mathop{\mathrm{tr}}(SDS^{-1}) = \mathop{\mathrm{tr}}(DS^{-1}S) = \mathop{\mathrm{tr}}(D) = \lambda_1 + \cdots + \lamnda_n
+\mathop{\mathrm{tr}}(A) = \mathop{\mathrm{tr}}(SDS^{-1}) = \mathop{\mathrm{tr}}(DS^{-1}S) = \mathop{\mathrm{tr}}(D) = \lambda_1 + \cdots + \lambda_n
 $$
 
 and the identity follows.
