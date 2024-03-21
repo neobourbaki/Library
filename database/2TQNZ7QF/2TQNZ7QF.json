@@ -2,8 +2,8 @@
     "id": "2TQNZ7QF",
     "name": "general linear group GL_n",
     "dependencies": {
-        "67IMWPW4": "commutative ring"
-        "8M6CAY2R": "matrix --over {0}",
+        "67IMWPW4": "commutative ring",
+        "8M6CAY2R": "matrix --over {0}"
     },
     "type": {
         "5PGIN6X2": "group"
