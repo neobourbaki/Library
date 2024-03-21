@@ -1,0 +1,18 @@
+{
+    "id": "63AS5IGZ",
+    "name": "natural numbers",
+    "dependencies": {
+    },
+    "type": {
+    },
+    "definitions": {
+        "63AS5IGZ_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
