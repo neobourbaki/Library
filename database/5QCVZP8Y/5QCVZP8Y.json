@@ -24,7 +24,7 @@
         "5QCVZP8Y_c": {
             "language": "en",
             "dependencies": {
-                "7P1XLPWT": "free module --over {0}",
+                "7P1XLPWT": "free module --over {0}"
             },
             "comment": ""
         }
