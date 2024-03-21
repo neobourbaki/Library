@@ -28,8 +28,8 @@
         "RDL85FLK_c": {
             "language": "en",
             "dependencies": {
-                "4CPNB8RQ": "automorphism group --in a category",
-                "44VYKHU7": "category of modules --over a ring"
+                "44VYKHU7": "category of vector spaces --over {0}",
+                "4CPNB8RQ": "automorphism group --in {2}"
             },
             "comment": ""
         }
