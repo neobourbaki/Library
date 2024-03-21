@@ -1,6 +1,6 @@
 {
     "id": "5DPZ7F9Z",
-    "name": "left ideal --of a commutative ring",
+    "name": "ideal --of a commutative ring",
     "dependencies": {
         "67IMWPW4": "commutative ring"
     },
