@@ -1,13 +1,15 @@
 {
     "id": "FWDLB0GQ",
     "name": "determinant-trace identity",
-    "type": "theorem",
     "dependencies": {
-        "4VRQIJ31": "exponential of a matrix",
-        "4HNSRY62": "determinant of a matrix",
-        "1LTQ58M1": "trace of a matrix",
-        "4SUT68SF": "exponential of a number"
+        "8A9M00AK": "complex numbers",
+        "8M6CAY2R": "matrix --over {0}",
+        "4VRQIJ31": "exponential of {1}",
+        "4HNSRY62": "determinant of {1}",
+        "1LTQ58M1": "trace of {1}",
+        "4SUT68SF": "exponential of {0}"
     },
+    "type": "theorem",
     "statements": {
         "FWDLB0GQ_1": {
             "language": "en",
@@ -20,7 +22,7 @@
         "FWDLB0GQ_a": {
             "language": "en",
             "dependencies": {
-                "XY0S8JSF": "det(AB) = det(A)det(B)",
+                "XY0S8JSF": "det(AB) = det(A) det(B)",
                 "Y1J6MSUW": "e^(x+y) = e^x e^y",
                 "XPCLVNG4": "tr(AB) = tr(BA)"
             },
