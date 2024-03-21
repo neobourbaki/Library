@@ -11,6 +11,14 @@
             "dependencies": {
             },
             "comment": ""
+        },
+        "3HLCRTQW_b": {
+            "language": "en",
+            "dependencies": {
+                "1234": "injective",
+                "2345": "surjective"
+            },
+            "comment": ""
         }
     },
     "equivalences": {
