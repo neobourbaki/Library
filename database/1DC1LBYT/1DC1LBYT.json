@@ -19,8 +19,8 @@
         "1DC1LBYT_b": {
             "language": "en",
             "dependencies": {
-                "44VYKHU7": "category of modules --over {0}"
-                "6JD5HWKL": "sub-object --in category {2}",
+                "44VYKHU7": "category of modules --over {0}",
+                "6JD5HWKL": "sub-object --in category {2}"
             },
             "comment": ""
         }
