@@ -17,6 +17,13 @@
             "dependencies": {
             },
             "comment": "as transformations on a set"
+        },
+        "5PGIN6X2_b": {
+            "language": "en",
+            "dependencies": {
+                "4LUFWJMP": "monoid"
+            },
+            "comment": "as a monoid"
         }
     },
     "equivalences": {
