@@ -1,1 +1,1 @@
-The natural numbers $\\{0, 1, 2, \ldots \\}$, together their negative numbers $\\{-1, -2, \ldots \\}$, are known as *integers*.
+The natural numbers $\\{0, 1, 2, \ldots \\}$, together their negative numbers $\\{-1, -2, \ldots \\}$, are known as *integers*. The set of integers is a group under addition, and a commutative ring under addition and multiplication.
