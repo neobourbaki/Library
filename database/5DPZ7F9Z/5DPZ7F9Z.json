@@ -1,8 +1,8 @@
 {
     "id": "5DPZ7F9Z",
-    "name": "left ideal --of a ring",
+    "name": "left ideal --of a commutative ring",
     "dependencies": {
-        "7R2CT98Y": "ring"
+        "67IMWPW4": "commutative ring"
     },
     "type": "definition",
     "definitions": {
@@ -15,14 +15,14 @@
         "5DPZ7F9Z_b": {
             "language": "en",
             "dependencies": {
-                "1139FRZX": "homomorphism of rings"
+                "1139FRZX": "homomorphism of {0}"
             },
             "comment": ""
         },
         "5DPZ7F9Z_c": {
             "language": "en",
             "dependencies": {
-                "1DC1LBYT": "submodule"
+                "1DC1LBYT": "submodule of a module over {0}"
             },
             "comment": ""
         }
