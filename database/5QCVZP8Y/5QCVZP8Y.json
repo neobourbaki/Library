@@ -1,11 +1,11 @@
 {
     "id": "5QCVZP8Y",
-    "name": "basis of a vector space",
-    "type": "definition",
+    "name": "basis --of a vector space",
     "dependencies": {
         "4BCNPPIX": "field",
         "2GM7AN7T": "vector space --over {0}"
     },
+    "type": "definition",
     "definitions": {
         "5QCVZP8Y_a": {
             "language": "en",
