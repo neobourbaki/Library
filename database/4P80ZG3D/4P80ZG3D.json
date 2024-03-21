@@ -12,7 +12,7 @@
         "4P80ZG3D_a": {
             "language": "en",
             "dependencies": {
-                "5BDJ54RG": "linear map --of {1}",
+                "5BDJ54RG": "linear map --of {1} → {1}",
                 "0CLV6SL7": "inverse matrix"
             },
             "comment": ""
