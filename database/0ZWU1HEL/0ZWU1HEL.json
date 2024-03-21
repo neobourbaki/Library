@@ -3,7 +3,10 @@
     "name": "integers",
     "dependencies": {
     },
-    "type": "definition",
+    "type": {
+        "53J4N2KC": "abelian group",
+        "67IMWPW4": "commutative ring"
+    },
     "definitions": {
         "0ZWU1HEL_a": {
             "language": "en",
