@@ -1,0 +1,17 @@
+{
+    "id": "4LUFWJMP",
+    "name": "monoid",
+    "dependencies": {
+    },
+    "type": "defintion",
+    "definitions": {
+        "4LUFWJMP_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
