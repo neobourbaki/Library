@@ -1,6 +1,6 @@
 {
     "id": "3HLCRTQW",
-    "name": "invertible map",
+    "name": "bijective / invertible map",
     "dependencies": {
         "4CID84AD": "map --of sets"
     },
