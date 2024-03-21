@@ -18,4 +18,4 @@ $$
 
 and the identity follows.
 
-For the general case, $D$ is not diagonal but can be made upper triangular, and the proof is identical.
+For the general case, $\Lambda$ is not diagonal but can be made upper triangular (i.e., $\Lambda_{ij} = 0$ for $i > j$), and the proof is identical.
