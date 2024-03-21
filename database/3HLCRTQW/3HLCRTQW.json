@@ -1,0 +1,18 @@
+{
+    "id": "3HLCRTQW",
+    "name": "invertible map",
+    "dependencies": {
+        "4CID84AD": "map --of sets"
+    },
+    "type": "definition",
+    "definitions": {
+        "3HLCRTQW_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
