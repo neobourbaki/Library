@@ -18,4 +18,4 @@ $$
 
 and the identity follows.
 
-For the general case, $D$ is not diagonal but can be made upper triangular (working over $\mathbb{C}$ if necessary), and the proof is identical.
+For the general case, $D$ is not diagonal but can be made upper triangular, and the proof is identical.
