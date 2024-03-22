@@ -1,6 +1,6 @@
 {
     "id": "5STJYVG4",
-    "name": "tensor product --of modules",
+    "name": "tensor product --of modules over a commutative ring",
     "dependencies": {
         "R": "67IMWPW4:commutative ring",
         "M": "8UBME7WQ:module --over {R}",
