@@ -4,10 +4,10 @@
     "dependencies": {
         "ℂ": "8A9M00AK:complex numbers",
         "A": "8M6CAY2R:matrix --over {ℂ}",
-        "4VRQIJ31": "exponential of {A}",
-        "4HNSRY62": "determinant of {A}",
-        "1LTQ58M1": "trace of {A}",
-        "4SUT68SF": "exponential of {ℂ}"
+        "exp": "4VRQIJ31:exponential of a matrix",
+        "det": "4HNSRY62:determinant",
+        "tr": "1LTQ58M1:trace",
+        "e^": "4SUT68SF:exponential of complex numbers"
     },
     "type": "theorem",
     "statements": {
