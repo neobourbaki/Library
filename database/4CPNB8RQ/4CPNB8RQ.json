@@ -1,9 +1,10 @@
 {
     "id": "4CPNB8RQ",
     "name": "automorphism group --in a category",
-    "type": "definition",
     "dependencies": {
-        "7AQ7Q586": "category",
+        "C": "7AQ7Q586:category"
+    },
+    "type": {
         "5PGIN6X2": "group"
     },
     "definitions": {
