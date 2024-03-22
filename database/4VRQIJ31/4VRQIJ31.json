@@ -2,18 +2,18 @@
     "id": "4VRQIJ31",
     "name": "exponential of a matrix",
     "dependencies": {
-        "ℂ": "8A9M00AK:complex numbers",
-        "A": "8M6CAY2R:matrix --over {ℂ}",
+        "k": "4BCNPPIX:field",
+        "A": "8M6CAY2R:matrix --over {k}",
         "7RG754YE": "matrix multiplication"
     },
     "type": {
-        "8M6CAY2R": "matrix --over {ℂ}",
+        "8M6CAY2R": "matrix --over {k}",
     },
     "definitions": {
         "4VRQIJ31_a": {
             "language": "en",
             "dependencies": {
-                "6Y14D2JD": "convergence in {ℂ}"
+                "6Y14D2JD": "convergence in {k}"
             },
             "comment": ""
         }
