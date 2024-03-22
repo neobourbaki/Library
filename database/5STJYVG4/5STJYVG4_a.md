@@ -4,9 +4,9 @@ The *tensor product* of modules $M$ and $N$ over a commutative ring $R$ is a $R$
 
 $$
 \begin{array}{ccc}
- & & U \\
+ & & L \\
  & f \nearrow & \uparrow{\tilde{f}} \\
-V \times W & \xrightarrow{\phi} & V \otimes W \\
+M \times N & \xrightarrow{\phi} & M \otimes N \\
 \end{array}
 $$
 
