@@ -1,0 +1,20 @@
+{
+    "id": "4P37BYJ5",
+    "name": "symmetric group",
+    "dependencies": {
+    },
+    "type": {
+        "5PGIN6X2": "group"
+    },
+    "definitions": {
+        "4P37BYJ5_a": {
+            "language": "en",
+            "dependencies": {
+                "3HLCRTQW": "bijective map"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
