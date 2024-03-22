@@ -9,6 +9,7 @@
         "68VSQXWU_a": {
             "language": "en",
             "dependencies": {
+                "63AS5IGZ": "natural numbers",
                 "4CID84AD": "map --of sets"
             },
             "comment": ""
