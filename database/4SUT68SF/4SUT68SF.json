@@ -1,9 +1,11 @@
 {
     "id": "4SUT68SF",
     "name": "exponential function of a complex variable",
-    "type": "definition",
     "dependencies": {
-        "8A9M00AK": "complex numbers"
+        "ℂ": "8A9M00AK:complex numbers"
+    },
+    "type": {
+        "4CID84AD": "function {ℂ}→{ℂ}"
     },
     "definitions": {
         "4SUT68SF_a": {
