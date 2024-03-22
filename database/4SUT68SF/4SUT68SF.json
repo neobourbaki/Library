@@ -2,10 +2,10 @@
     "id": "4SUT68SF",
     "name": "exponential function of a complex variable",
     "dependencies": {
-        "8A9M00AK:complex numbers"
+        "8A9M00AK": "complex numbers"
     },
     "type": {
-        "8A9M00AK:complex numbers"
+        "8A9M00AK": "complex numbers"
     },
     "definitions": {
         "4SUT68SF_a": {
