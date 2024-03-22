@@ -1,6 +1,6 @@
 {
     "id": "0CLV6SL7",
-    "name": "inverse matrix",
+    "name": "invertible / inverse matrix",
     "dependencies": {
         "8M6CAY2R": "matrix"
     },
