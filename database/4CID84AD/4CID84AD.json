@@ -3,13 +3,15 @@
     "name": "map --of sets",
     "type": "definition",
     "dependencies": {
-        "7CLVUDVP": "product --of sets",
-        "7XM484KI": "subset --of a set"
+        "X": "6WZ4C6XN:set",
+        "Y": "6WZ4C6XN:set"
     },
     "definitions": {
         "4CID84AD": {
             "language": "en",
             "dependencies": {
+                "X×Y": "7CLVUDVP:product of {X} and {Y}",
+                "7XM484KI": "subset of {X×Y}"
             },
             "comment": ""
         }
