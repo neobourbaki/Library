@@ -1,16 +1,16 @@
 {
     "id": "68VSQXWU",
     "name": "sequence --in a set",
-    "type": "definition",
     "dependencies": {
-        "6WZ4C6XN": "set"
+        "S": "6WZ4C6XN:set"
     },
+    "type": "definition",
     "definitions": {
         "68VSQXWU_a": {
             "language": "en",
             "dependencies": {
-                "63AS5IGZ": "natural numbers",
-                "4CID84AD": "map --of sets"
+                "ℕ": "63AS5IGZ:natural numbers",
+                "4CID84AD": "map {ℕ}→{S}"
             },
             "comment": ""
         }
