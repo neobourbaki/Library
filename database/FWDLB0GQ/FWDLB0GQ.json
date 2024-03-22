@@ -2,12 +2,12 @@
     "id": "FWDLB0GQ",
     "name": "determinant-trace identity",
     "dependencies": {
-        "8A9M00AK": "complex numbers",
-        "8M6CAY2R": "matrix --over {0}",
-        "4VRQIJ31": "exponential of {1}",
-        "4HNSRY62": "determinant of {1}",
-        "1LTQ58M1": "trace of {1}",
-        "4SUT68SF": "exponential of {0}"
+        "ℂ": "8A9M00AK:complex numbers",
+        "A": "8M6CAY2R:matrix --over {ℂ}",
+        "4VRQIJ31": "exponential of {A}",
+        "4HNSRY62": "determinant of {A}",
+        "1LTQ58M1": "trace of {A}",
+        "4SUT68SF": "exponential of {ℂ}"
     },
     "type": "theorem",
     "statements": {
