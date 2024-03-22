@@ -12,7 +12,7 @@
         "9EVZZ8HR_a": {
             "language": "en",
             "dependencies": {
-                "5BDJ54RG": "linear map --of vector spaces"
+                "5BDJ54RG": "linear map {V}→{k}"
             },
             "comment": ""
         }
