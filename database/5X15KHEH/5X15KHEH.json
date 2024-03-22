@@ -1,10 +1,13 @@
 {
     "id": "5X15KHEH",
     "name": "homology --of a topological space",
-    "type": "definition",
     "dependencies": {
-        "1KNNEI7L": "topological space",
-        "67IMWPW4": "commutative ring"
+        "X": "1KNNEI7L:topological space",
+        "R": "67IMWPW4:commutative ring",
+        "A": "8UBME7WQ:module over {R}"
+    },
+    "type": {
+        "8UBME7WQ": "module over {R}"
     },
     "definitions": {
         "5X15KHEH_a": {
