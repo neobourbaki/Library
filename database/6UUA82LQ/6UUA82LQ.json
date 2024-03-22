@@ -2,11 +2,12 @@
     "id": "6UUA82LQ",
     "name": "tensor product --of vector spaces",
     "dependencies": {
-        "4BCNPPIX": "field",
-        "2GM7AN7T": "vector space over {0}"
+        "k": "4BCNPPIX:field",
+        "V": "2GM7AN7T:vector space --over {k}",
+        "W": "2GM7AN7T:vector space --over {k}"
     },
     "type": {
-        "2GM7AN7T": "vector space over {0}"
+        "VW": "2GM7AN7T:vector space --over {k}"
     },
     "definitions": {
         "6UUA82LQ_a": {
