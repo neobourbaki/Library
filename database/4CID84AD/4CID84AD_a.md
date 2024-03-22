@@ -1,1 +1,1 @@
-A *map* of sets $S$ and $T$ is a subset $f$ of $S \times T$ such that for every $s \in S$, there exists a unique $t \in T$ such that $(s, t) \in f$, and the element $t$ is denoted $f(s)$ or sometimes $s.f$.
+A *map* $f: X \to Y$ of sets $X$ and $Y$ is a subset $G_f \subset X \times Y$ such that for every $x \in X$, there exists a unique $y \in Y$ such that $(x, y) \in G_f$. The set $G_f$ is known as the *graph* of $f$, and the element $y$ is denoted $f(s)$ or sometimes $s.f$.
