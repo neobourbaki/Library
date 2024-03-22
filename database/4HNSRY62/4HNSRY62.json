@@ -12,7 +12,7 @@
         "4HNSRY62_a": {
             "language": "en",
             "dependencies": {
-                "2345": "permutation on a finite set",
+                "4P37BYJ5": "symmetric group",
                 "3456": "sign of a permutation"
             },
             "comment": ""
