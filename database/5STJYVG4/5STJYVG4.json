@@ -1,9 +1,14 @@
 {
     "id": "5STJYVG4",
     "name": "tensor product --of modules",
-    "type": "definition",
     "dependencies": {
-        "8UBME7WQ": "module --over a commutative ring"
+        "k": "67IMWPW4:commutative ring",
+        "V": "8UBME7WQ:module --over {k}",
+        "W": "8UBME7WQ:module --over {k}"
+    },
+    "type": {
+        "V⊗W": "8UBME7WQ:module --over {k}",
+        "phi": "03LC586U:bilinear map from {V}×{W}→{V⊗W}"
     },
     "definitions": {
         "5STJYVG4_a": {
