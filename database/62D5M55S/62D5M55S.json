@@ -3,7 +3,8 @@
     "name": "limit of a sequence --of real numbers",
     "type": "definition",
     "dependencies": {
-        "4E41D57C": "real numbers"
+        "k": "7YQ2QQGH:ordered field",
+        "68VSQXWU": "sequence --in {k}",
     },
     "statements": {
         "62D5M55S_a": {
