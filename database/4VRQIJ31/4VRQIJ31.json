@@ -9,11 +9,11 @@
     "type": {
         "8M6CAY2R": "matrix --over {ℂ}",
     },
-    "statements": {
+    "definitions": {
         "4VRQIJ31_a": {
             "language": "en",
             "dependencies": {
-                "V70DH16T": "convergence of series in {ℂ}"
+                "6Y14D2JD": "convergence in {ℂ}"
             },
             "comment": ""
         }
