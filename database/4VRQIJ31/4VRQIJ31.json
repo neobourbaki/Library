@@ -3,14 +3,15 @@
     "name": "exponential of a matrix",
     "type": "definition",
     "dependencies": {
-        "8M6CAY2R": "matrix",
+        "ℂ": "8A9M00AK:complex numbers",
+        "A": "8M6CAY2R:matrix --over {ℂ}",
         "7RG754YE": "matrix multiplication"
     },
     "statements": {
         "4VRQIJ31_a": {
             "language": "en",
             "dependencies": {
-                "V70DH16T": "series converges"
+                "V70DH16T": "convergence of series in {ℂ}"
             },
             "comment": ""
         }
