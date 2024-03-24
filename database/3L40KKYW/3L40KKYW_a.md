@@ -7,4 +7,4 @@ G \times G &\to G \\\\
 \end{aligned}
 $$
 
-with an identity element $e \in G$, and each $g \in G$ has an inverse $g^{-1}$, such that the maps $(g, h) \mapsto gh^{-1}$ and $g \mapsto g^{-1}$ are smooth.
+with an identity element $e \in G$, and each $g \in G$ has an inverse $g^{-1}$, such that the maps $(g, h) \mapsto gh$ and $g \mapsto g^{-1}$ are smooth.
