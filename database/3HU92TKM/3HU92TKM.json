@@ -21,7 +21,7 @@
             "language": "en",
             "dependencies": {
                 "Mod_R": "44VYKHU7:category of modules over {R}",
-                "7P1XLPWT": "free module",
+                "7P1XLPWT": "free module over {R}",
                 "69PNP2YP": "full subcategory of {Mod_R}"
             },
             "comment": ""
