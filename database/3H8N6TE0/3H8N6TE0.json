@@ -1,15 +1,15 @@
 {
     "id": "3H8N6TE0",
     "name": "Lie algebra",
-    "type": "definition",
     "dependencies": {
-        "4BCNPPIX": "field"
+        "k": "4BCNPPIX:field"
     },
+    "type": "definition",
     "definitions": {
         "3H8N6TE0_a": {
             "language": "en",
             "dependencies": {
-                "2GM7AN7T": "vector space --over a field",
+                "2GM7AN7T": "vector space over {0}",
                 "16AXGFEV": "binary operation",
                 "03LC586U": "bilinear"
             },
