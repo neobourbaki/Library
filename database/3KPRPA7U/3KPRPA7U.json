@@ -1,10 +1,11 @@
 {
     "id": "3KPRPA7U",
     "name": "Cartan subalgebra --of a semisimple Lie algebra",
-    "type": "definition",
     "dependencies": {
-        "1IYIAGFB": "semisimple Lie algebra"
+        "ℂ": "8A9M00AK:complex numbers",
+        "g": "1IYIAGFB:semisimple Lie algebra over {ℂ}"
     },
+    "type": "definition",
     "definitions": {
         "3KPRPA7U_a": {
             "language": "en",
