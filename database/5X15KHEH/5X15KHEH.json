@@ -13,12 +13,12 @@
         "5X15KHEH_a": {
             "language": "en",
             "dependencies": {
-                "1GLXUU44": "quotient module",
+                "9M97T5II": "n-simplex",
+                "8U8A9Z8E": "continuous map",
+                "7P1XLPWT": "free module --over a ring",
                 "8KYIDPJ9": "kernel",
                 "41P2BRMI": "image",
-                "7P1XLPWT": "free module --over a ring",
-                "8U8A9Z8E": "continuous map",
-                "9M97T5II": "n-simplex"
+                "1GLXUU44": "quotient module"
             },
             "comment": ""
         }
