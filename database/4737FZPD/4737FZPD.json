@@ -1,11 +1,11 @@
 {
     "id": "4737FZPD",
     "name": "curve / path",
-    "type": "definition",
     "dependencies": {
         "1KNNEI7L": "topological space",
         "4E41D57C": "real numbers"
     },
+    "type": "definition",
     "definitions": {
         "4737FZPD_a": {
             "language": "en",
