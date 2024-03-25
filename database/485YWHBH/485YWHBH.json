@@ -1,10 +1,12 @@
 {
     "id": "485YWHBH",
     "name": "quotient ring",
-    "type": "definition",
     "dependencies": {
-        "67IMWPW4": "commutative ring",
-        "5DPZ7F9Z": "ideal"
+        "R": "67IMWPW4:commutative ring",
+        "I": "5DPZ7F9Z:ideal"
+    },
+    "type": {
+        "R/I": "67IMWPW4:commutative ring"
     },
     "definitions": {
         "485YWHBH_a": {
