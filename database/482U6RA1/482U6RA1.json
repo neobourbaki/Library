@@ -10,8 +10,8 @@
             "language": "en",
             "dependencies": {
                 "8UBME7WQ": "module over {R}",
-                "7R2CT98Y": "ring",
-                "03LC586U": "bilinear"
+                "03LC586U": "bilinear",
+                "7R2CT98Y": "ring"
             },
             "comment": ""
         },
