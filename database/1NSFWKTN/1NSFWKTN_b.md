@@ -3,7 +3,7 @@ The *matrix* of a linear map $L: V \to W$ of finite-dimensional vector spaces $V
 $$
 \begin{array}{ccc}
 V & \xrightarrow{L} & W \\
-\uparrow & & \uparrow \\
-k^n & \xRightarrow{A} & k^m
+\downarrow & & \downarrow \\
+k^n & \xrightarrow{A} & k^m
 \end{array}
 $$
