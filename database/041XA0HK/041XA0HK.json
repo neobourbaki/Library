@@ -2,10 +2,10 @@
     "id": "041XA0HK",
     "name": "field of fractions --of an integral domain",
     "dependencies": {
-        "0": "854XXMYM:integral domain"
+        "R": "854XXMYM:integral domain"
     },
     "type": {
-        "0": "4BCNPPIX:field"
+        "4BCNPPIX": "field"
     },
     "definitions": {
         "041XA0HK_a": {
