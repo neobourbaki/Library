@@ -3,7 +3,8 @@
     "name": "trace of a linear map",
     "dependencies": {
         "k": "4BCNPPIX:field",
-        "5BDJ54RG": "linear map"
+        "V": "2GM7AN7T:vector space over {k}",
+        "5BDJ54RG": "linear map {V}→{V}"
     },
     "type": {
         "477289UH": "element of {k}"
