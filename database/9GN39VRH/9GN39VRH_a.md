@@ -4,4 +4,4 @@ $$
 B(\alpha v, w) = \overline{\alpha} B(v, w)
 $$
 
-for all $v, w \in V$ and all $\alpha \in \mathbb{C}$.
+(with $\overline{\alpha}$ instead of $\alpha$) for all $v, w \in V$ and all $\alpha \in \mathbb{C}$.
