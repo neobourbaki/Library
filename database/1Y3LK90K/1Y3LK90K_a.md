@@ -4,4 +4,4 @@ $$
 \langle u, v \rangle = \sum_{i=1}^{n} \overline{u_i} v_i
 $$
 
-for all $u, v \in \mathbb{C}^n$.
+for $u, v \in \mathbb{C}^n$.
