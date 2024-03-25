@@ -1,10 +1,14 @@
 {
     "id": "1NSFWKTN",
     "name": "matrix of a linear map",
-    "type": "definition",
     "dependencies": {
-        "5BDJ54RG": "linear map",
-        "5QCVZP8Y": "basis",
+        "k": "4BCNPPIX:field",
+        "V": "2GM7AN7T:vector space over {k}",
+        "W": "2GM7AN7T:vector space over {k}",
+        "5BDJ54RG": "linear map {V}→{W}",
+        "5QCVZP8Y": "basis"
+    },
+    "type": {
         "8M6CAY2R": "matrix"
     },
     "definitions": {
