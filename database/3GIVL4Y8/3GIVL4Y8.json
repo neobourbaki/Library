@@ -3,13 +3,13 @@
     "name": "polynomial ring",
     "type": "definition",
     "dependencies": {
-        "67IMWPW4": "commutative ring"
+        "R": "67IMWPW4:commutative ring"
     },
     "definitions": {
         "3GIVL4Y8_a": {
             "language": "en",
             "dependencies": {
-                "26S3FKEF": "polynomial over a ring"
+                "26S3FKEF": "polynomial over {R}"
             },
             "comment": ""
         },
