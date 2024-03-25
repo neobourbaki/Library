@@ -2,14 +2,14 @@
     "id": "482U6RA1",
     "name": "algebra --over a field",
     "dependencies": {
-        "k": "4BCNPPIX:field"
+        "R": "4BCNPPIX:field"
     },
     "type": "definition",
     "definitions": {
         "482U6RA1_a": {
             "language": "en",
             "dependencies": {
-                "2GM7AN7T": "vector space over {k}",
+                "8UBME7WQ": "module over {R}",
                 "7R2CT98Y": "ring",
                 "03LC586U": "bilinear"
             },
@@ -18,9 +18,8 @@
         "482U6RA1_b": {
             "language": "en",
             "dependencies": {
-                "8UBME7WQ": "module over {k}",
-                "7R2CT98Y": "ring",
-                "03LC586U": "bilinear"
+                "A": "7R2CT98Y:ring",
+                "1139FRZX": "homomorphism {R}→{A} of rings"
             },
             "comment": ""
         }
