@@ -3,10 +3,10 @@
     "name": "dual vector space",
     "dependencies": {
         "k": "4BCNPPIX:field",
-        "V": "2GM7AN7T:vector space --over {k}"
+        "V": "2GM7AN7T:vector space over {k}"
     },
     "type": {
-        "V^*": "2GM7AN7T:vector space --over {k}"
+        "2GM7AN7T": "vector space over {k}"
     },
     "statements": {
         "9EVZZ8HR_a": {
