@@ -2,11 +2,7 @@
     "id": "28F9A81A",
     "name": "special linear group",
     "dependencies": {
-        "k": "67IMWPW4:commutative ring",
-        "8M6CAY2R": "matrix over {k}",
-        "7RG754YE": "matrix multiplication",
-        "4HNSRY62": "determinant of a matrix",
-        "ZW4IZY8T": "associativity"
+        "k": "67IMWPW4:commutative ring"
     },
     "type": {
         "5PGIN6X2": "group"
@@ -15,6 +11,10 @@
         "28F9A81A_a": {
             "language": "en",
             "dependencies": {
+                "8M6CAY2R": "matrix over {k}",
+                "7RG754YE": "matrix multiplication",
+                "4HNSRY62": "determinant of a matrix",
+                "ZW4IZY8T": "associativity"
             },
             "comment": ""
         }
