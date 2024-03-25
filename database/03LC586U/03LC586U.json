@@ -3,8 +3,8 @@
     "name": "bilinear / multilinear",
     "type": "definition",
     "dependencies": {
-        "0": "67IMWPW4:commutative ring",
-        "1": "8UBME7WQ:module --over {0}"
+        "R": "67IMWPW4:commutative ring",
+        "8UBME7WQ": "module over {R}"
     },
     "definitions": {
         "03LC586U_a": {
