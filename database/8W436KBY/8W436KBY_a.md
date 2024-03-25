@@ -5,5 +5,5 @@ A *root system* is a subset $R \subset \mathbb{R}^n$ of an inner product space $
 - $s_{\alpha}(\beta) \in R$ for $\alpha, \beta \in R$, where $s_\alpha: \mathbb{R}^n \to \mathbb{R}^n$ given by
 
 $$
-s_{\alpha}(x) = x - 2\frac{(\alpha, x}{(\alpha, \alpha)}
+s_{\alpha}(x) = x - 2\frac{(\alpha, x)}{(\alpha, \alpha)}
 $$
