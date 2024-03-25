@@ -1,6 +1,9 @@
 {
     "id": "477289UH",
     "name": "element of a set",
+    "dependencies": {
+        "6WZ4C6XN": "set"
+    },
     "type": "undefined",
     "definitions": {
         "477289UH_a": {
