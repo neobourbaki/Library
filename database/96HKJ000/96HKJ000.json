@@ -1,9 +1,10 @@
 {
     "id": "96HKJ000",
     "name": "category of algebras --over a ring",
-    "type": "definition",
     "dependencies": {
-        "67IMWPW4": "commutative ring",
+        "k": "67IMWPW4:commutative ring"
+    },
+    "type": {
         "7AQ7Q586": "category"
     },
     "definitions": {
