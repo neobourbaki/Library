@@ -3,13 +3,20 @@
     "name": "dimension --of a vector space",
     "type": "definition",
     "dependencies": {
-        "2GM7AN7T": "vector space"
+        "k": "4BCNPPIX:field",
+        "V": "2GM7AN7T:vector space over {k}"
     },
     "definitions": {
         "8YNTJFQ9_a": {
             "language": "en",
             "dependencies": {
-                "5QCVZP8Y": "basis"
+                "5QCVZP8Y": "basis of {V}"
+            },
+            "comment": ""
+        },
+        "8YNTJFQ9_b": {
+            "language": "en",
+            "dependencies": {
             },
             "comment": ""
         }
