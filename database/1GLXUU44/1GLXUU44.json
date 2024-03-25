@@ -1,13 +1,13 @@
 {
     "id": "1GLXUU44",
-    "name": "quotient module --of a submodule",
+    "name": "quotient of a module by a submodule",
     "dependencies": {
         "R": "7R2CT98Y:ring",
         "M": "8UBME7WQ:module over {R}",
         "N": "1DC1LBYT:submodule of {M}"
     },
     "type": {
-        "8UBME7WQ": "module --over {0}"
+        "8UBME7WQ": "module --over {R}"
     },
     "definitions": {
         "1GLXUU44_a": {
