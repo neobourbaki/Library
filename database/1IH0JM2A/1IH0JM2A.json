@@ -1,23 +1,23 @@
 {
     "id": "1IH0JM2A",
     "name": "subgroup --of a group",
-    "type": "definition",
     "dependencies": {
         "5PGIN6X2": "group"
     },
+    "type": "definition",
     "definitions": {
         "1IH0JM2A_a": {
             "language": "en",
             "dependencies": {
-                "7XM484KI": "subset --of a set"
+                "7XM484KI": "subset"
             },
             "comment": ""
         },
         "1IH0JM2A_b": {
             "language": "en",
             "dependencies": {
-                "6JD5HWKL": "sub-object --in a category",
-                "7642ZFGI": "category of groups"
+                "Grp": "7642ZFGI:category of groups",
+                "6JD5HWKL": "sub-object --in {Grp}"
             },
             "comment": ""
         }
