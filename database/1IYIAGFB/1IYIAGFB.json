@@ -1,10 +1,10 @@
 {
     "id": "1IYIAGFB",
     "name": "semisimple Lie algebra",
-    "type": "definition",
     "dependencies": {
         "3H8N6TE0": "Lie algebra"
     },
+    "type": "definition",
     "definitions": {
         "1IYIAGFB_a": {
             "language": "en",
