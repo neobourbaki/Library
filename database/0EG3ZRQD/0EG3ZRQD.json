@@ -3,7 +3,7 @@
     "name": "Cauchy sequence",
     "type": "definition",
     "dependencies": {
-        "M": "6G2DYFBY:metric space"
+        "M": "6G2DYFBY:metric space",
         "68VSQXWU": "sequence in {M}"
     },
     "definitions": {
