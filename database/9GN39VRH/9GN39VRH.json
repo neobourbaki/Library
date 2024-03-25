@@ -10,6 +10,7 @@
         "9GN39VRH_a": {
             "language": "en",
             "dependencies": {
+                "03LC586U": "bilinear"
             },
             "comment": ""
         }
