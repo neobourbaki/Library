@@ -1,10 +1,10 @@
 {
     "id": "477289UH",
-    "name": "element of a set",
+    "name": "element of an object in a category",
     "dependencies": {
-        "6WZ4C6XN": "set"
+        "7AQ7Q586": "category"
     },
-    "type": "undefined",
+    "type": "definition",
     "definitions": {
         "477289UH_a": {
             "language": "en",
