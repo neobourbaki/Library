@@ -1,9 +1,12 @@
 {
     "id": "9TPP1VUX",
     "name": "trace of a linear map",
-    "type": "definition",
     "dependencies": {
+        "k": "4BCNPPIX:field",
         "5BDJ54RG": "linear map"
+    },
+    "type": {
+        "477289UH": "element of {k}"
     },
     "definitions": {
         "9TPP1VUX_a": {
