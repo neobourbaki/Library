@@ -21,8 +21,8 @@
         "1IRBEAFN_b": {
             "language": "en",
             "dependencies": {
-                "28F9A81A": "Lie group SL_n",
-                "175GH983": "Lie algebra of a matrix group"
+                "28F9A81A": "algebraic group SL_n over {k}",
+                "1234": "Lie algebra of algebraic group"
             },
             "comment": ""
         }
