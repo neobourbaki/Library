@@ -1,1 +1,1 @@
-Let $R$ be a commutative ring, and $I$ be an ideal in $R$. Then the *quotient ring* of $R$ by $I$ is the set of equivalence classes of elements of $R$, where $r \sim s$ if $r - s \in I$. Addition and multiplication on the equivalence classes are defined by representatives, making it a ring.
+Let $R$ be a commutative ring, and $I$ be an ideal in $R$. Then the *quotient ring* of $R$ by $I$ is the ring of equivalence classes of elements of $R$, where $r \sim s$ if $r - s \in I$, with addition and multiplication via representatives.
