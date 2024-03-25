@@ -1,8 +1,9 @@
 {
     "id": "9R7U60UZ",
     "name": "category of rings",
-    "type": "definition",
     "dependencies": {
+    },
+    "type": {
         "7AQ7Q586": "category"
     },
     "definitions": {
