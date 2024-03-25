@@ -3,8 +3,8 @@
     "name": "Cauchy sequence",
     "type": "definition",
     "dependencies": {
-        "68VSQXWU": "sequence --in a set",
-        "6G2DYFBY": "metric space"
+        "M": "6G2DYFBY:metric space"
+        "68VSQXWU": "sequence in {M}"
     },
     "definitions": {
         "0EG3ZRQD_a": {
