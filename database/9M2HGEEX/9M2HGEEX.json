@@ -2,7 +2,7 @@
     "id": "9M2HGEEX",
     "name": "compact set --of Euclidean space",
     "dependencies": {
-        "4ZL3GXH5": "Euclidean space"
+        "E": "4ZL3GXH5:Euclidean space"
     },
     "type": "definition",
     "definitions": {
@@ -16,8 +16,8 @@
         "9M2HGEEX_b": {
             "language": "en",
             "dependencies": {
-                "3DJ3FN4S": "standard topology --of {0}",
-                "3M0FUVI4": "compactness in {1}"
+                "3DJ3FN4S": "standard topology --of {E}",
+                "3M0FUVI4": "compactness in {E}"
             },
             "comment": ""
         }
