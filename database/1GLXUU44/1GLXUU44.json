@@ -4,7 +4,7 @@
     "dependencies": {
         "R": "7R2CT98Y:ring",
         "M": "8UBME7WQ:module over {R}",
-        "N"： "1DC1LBYT：submodule of {M}"
+        "N": "1DC1LBYT:submodule of {M}"
     },
     "type": {
         "8UBME7WQ": "module --over {0}"
