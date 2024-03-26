@@ -2,7 +2,7 @@
     "id": "2GM7AN7T",
     "name": "vector space --over a field",
     "dependencies": {
-        "4BCNPPIX": "field"
+        "k": "4BCNPPIX:field"
     },
     "type": "definition",
     "definitions": {
@@ -18,7 +18,7 @@
             "dependencies": {
             },
             "type": {
-                "8UBME7WQ": "module over {0}"
+                "8UBME7WQ": "module over {k}"
             },
             "comment": ""
         }
