@@ -1,0 +1,1 @@
+Suppose the contrary, and list the primes as $p_1, p_2, \ldots, p_n$. Let $N = p_1 p_2 \cdots p_n + 1$, and as $N$ is larger than all the primes, it must have a factorization in terms of these primes, in particular, some $p_i$ must divide $N$. That implies that $p_i$ divides $1$, which is impossible.
