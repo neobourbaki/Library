@@ -10,24 +10,24 @@
         "4E41D57C_a": {
             "language": "en",
             "dependencies": {
-                "68VSQXWU": "sequence --in a set"
+                "68VSQXWU": "sequence in a set"
             },
             "comment": "as decimal expansions"
         },
         "4E41D57C_b": {
             "language": "en",
             "dependencies": {
-                "7XM484KI": "subset --of a set",
-                "2RRHV29K": "rational numbers"
+                "ℚ": "2RRHV29K": "rational numbers",
+                "7XM484KI": "subset of {ℚ}"
             },
             "comment": "Dedekind cuts"
         },
         "4E41D57C_c": {
             "language": "en",
             "dependencies": {
-                "5KH8646Q": "equivalence relation",
-                "0EG3ZRQD": "Cauchy sequence",
-                "2RRHV29K": "rational numbers"
+                "ℚ": "2RRHV29K": "rational numbers",
+                "0EG3ZRQD": "Cauchy sequence in {ℚ}",
+                "5KH8646Q": "equivalence relation"
             },
             "comment": "equivalence classes of Cauchy sequences"
         },
