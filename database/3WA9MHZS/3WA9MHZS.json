@@ -1,0 +1,17 @@
+{
+    "id": "3WA9MHZS",
+    "name": "prime number",
+    "dependencies": {
+    },
+    "type": "definition",
+    "definitions": {
+        "3WA9MHZS_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
