@@ -4,4 +4,4 @@ $$
 \sum_{i \in I} a_i v_i
 $$
 
-for $a_i \in k$, all but finitely many of which are zero.
+for $a_i \in k$, all but finitely many of which are zero. It is a $k$-vector space under addition and scalar multiplication on $V$.
