@@ -3,7 +3,7 @@
     "name": "free object --in a category",
     "type": "definition",
     "dependencies": {
-        "7AQ7Q586": "category",
+        "C": "7AQ7Q586:category",
         "1234": "faithful functor"
     },
     "definitions": {
