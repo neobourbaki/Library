@@ -1,10 +1,11 @@
 {
     "id": "2KC0FK3Z",
     "name": "adjoint representation",
-    "type": "definition",
     "dependencies": {
-        "3H8N6TE0": "Lie algebra",
-        "6DTG5YM7": "representation of a Lie algebra"
+        "g": "3H8N6TE0:Lie algebra"
+    },
+    "type": {
+        "6DTG5YM7": "representation of {g}"
     },
     "definitions": {
         "2KC0FK3Z_a": {
