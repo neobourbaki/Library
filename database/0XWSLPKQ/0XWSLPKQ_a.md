@@ -5,3 +5,5 @@ A *partial order* on a set $S$ is a relation $\leq$ such that
 - if $a \leq b$ and $b \leq a$, then $a = b$
 
 for $a, b, c \in S$.
+
+A set with a partial order is known as a *partially ordered set* or *poset* for short.
