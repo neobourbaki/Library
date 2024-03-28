@@ -1,0 +1,18 @@
+{
+    "id": "7INV0KLK",
+    "name": "product in a category",
+    "dependencies": {
+        "7AQ7Q586": "category"
+    },
+    "type": "definition",
+    "definitions": {
+        "7INV0KLK_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
