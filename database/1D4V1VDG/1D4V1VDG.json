@@ -2,7 +2,7 @@
     "id": "1D4V1VDG",
     "name": "multiplicative group --of a ring",
     "dependencies": {
-        "7R2CT98Y": "ring"
+        "R": "7R2CT98Y:ring"
     },
     "type": {
         "5PGIN6X2": "group"
