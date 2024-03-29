@@ -11,6 +11,12 @@
             "dependencies": {
             },
             "comment": ""
+        },
+        "63AS5IGZ_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "Peano axioms"
         }
     },
     "equivalences": {
