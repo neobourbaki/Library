@@ -1,12 +1,16 @@
 {
     "id": "AUE49P6F",
     "name": "Weyl's character formula",
-    "type": "theorem",
     "dependencies": {
-        "1IYIAGFB": "semisimple Lie algebra",
-        "7S2ZH0MJ": "irreducible representation --of a Lie algebra",
-        "62DKJFVQ": "character --of a representation"
+        "ℂ": "8A9M00AK:complex numbers",
+        "g": "1IYIAGFB:semisimple Lie algebra over {ℂ}",
+        "V": "7S2ZH0MJ:irreducible representation of {g}",
+        "62DKJFVQ": "character of a Lie algebra representation",
+        "h": "3KPRPA7U:Cartan subalgebra of {g}",
+        "2D5F8K66": "root system of {g} --with respect to {h}",
+        "350YVP4C": "Weyl group of {g} --with respect to {h}"
     },
+    "type": "theorem",
     "statements": {
         "AUE49P6F_1": {
             "language": "en",
