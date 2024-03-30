@@ -2,6 +2,7 @@
     "id": "4QZXI0AF",
     "name": "manifold",
     "dependencies": {
+        "n": "natural number"
     },
     "type": "definition",
     "definitions": {
@@ -11,7 +12,7 @@
                 "1KNNEI7L": "topological space",
                 "1234": "Hausdorff",
                 "2345": "second countable",
-                "2G8ZNB7E": "open subset --of Euclidean space",
+                "2G8ZNB7E": "open subset --of Euclidean {n}-space",
                 "8U8A9Z8E": "continuous map --of topological spaces"
             },
             "comment": "abstract definition"
