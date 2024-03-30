@@ -2,8 +2,8 @@
     "id": "4P80ZG3D",
     "name": "general linear group GL(V)",
     "dependencies": {
-        "4BCNPPIX": "field",
-        "2GM7AN7T": "vector space --over {0}"
+        "k": "4BCNPPIX:field",
+        "V": "2GM7AN7T:vector space over {k}"
     },
     "type": {
         "5PGIN6X2": "group"
@@ -12,7 +12,7 @@
         "4P80ZG3D_a": {
             "language": "en",
             "dependencies": {
-                "5BDJ54RG": "linear map --of {1} → {1}",
+                "5BDJ54RG": "linear map {V}→{V}",
                 "0CLV6SL7": "inverse matrix"
             },
             "comment": ""
@@ -28,8 +28,8 @@
         "RDL85FLK_c": {
             "language": "en",
             "dependencies": {
-                "44VYKHU7": "category of vector spaces --over {0}",
-                "4CPNB8RQ": "automorphism group --in {2}"
+                "Vec": "44VYKHU7:category of vector spaces over {k}",
+                "4CPNB8RQ": "automorphism group in {Vec}"
             },
             "comment": ""
         }
