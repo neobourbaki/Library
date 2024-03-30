@@ -1,10 +1,10 @@
 {
     "id": "2G8ZNB7E",
     "name": "open subset --of Euclidean space",
-    "type": "definition",
     "dependencies": {
         "4ZL3GXH5": "Euclidean space"
     },
+    "type": "definition",
     "definitions": {
         "2G8ZNB7E_a": {
             "language": "en",
