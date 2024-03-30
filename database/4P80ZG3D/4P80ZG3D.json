@@ -20,8 +20,8 @@
         "4P80ZG3D_b": {
             "language": "en",
             "dependencies": {
-                "93SVAXQP": "endomorphism ring --of {1}",
-                "1D4V1VDG": "multiplicative group --of {2}"
+                "End": "93SVAXQP:endomorphism ring of {V}",
+                "1D4V1VDG": "multiplicative group of {End}"
             },
             "comment": ""
         },
