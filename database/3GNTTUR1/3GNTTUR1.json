@@ -16,7 +16,7 @@
         "3GNTTUR1_b": {
             "language": "en",
             "dependencies": {
-                "1139FRZX": "homomorphism of rings",
+                "485YWHBH": "quotient ring of {R} mod {I}",
                 "854XXMYM": "integral domain"
             },
             "comment": ""
