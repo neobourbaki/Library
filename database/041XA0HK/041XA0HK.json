@@ -14,6 +14,14 @@
                 "5KH8646Q": "equivalence relation"
             },
             "comment": ""
+        },
+        "041XA0HK_b": {
+            "language": "en",
+            "dependencies": {
+                "S": "{R} - 0",
+                "72LR9IQC": "localization of {R} with respect to {S}"
+            },
+            "comment": ""
         }
     },
     "equivalences": {
