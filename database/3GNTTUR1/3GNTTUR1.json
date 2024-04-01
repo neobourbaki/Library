@@ -20,6 +20,13 @@
                 "854XXMYM": "integral domain"
             },
             "comment": ""
+        },
+        "3GNTTUR1_c": {
+            "language": "en",
+            "dependencies": {
+                "2ICDEY7D": "multiplicative set of {R}"
+            },
+            "comment": ""
         }
     },
     "equivalences": {
