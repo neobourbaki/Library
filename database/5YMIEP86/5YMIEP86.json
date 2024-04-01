@@ -2,16 +2,17 @@
     "id": "5YMIEP86",
     "name": "bimodule --over rings",
     "dependencies": {
-        "7R2CT98Y": "ring"
+        "R": "7R2CT98Y:ring",
+        "S": "7R2CT98Y:ring"
     },
     "type": {
-        "8UBME7WQ": "left module over {0}",
+        "8UBME7WQ": "left module over {R}"
     },
     "definitions": {
         "5YMIEP86_a": {
             "language": "en",
             "dependencies": {
-                "8TZK9FIS": "right module"
+                "8TZK9FIS": "right module over {S}"
             },
             "comment": ""
         }
