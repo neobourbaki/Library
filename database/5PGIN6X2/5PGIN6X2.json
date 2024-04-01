@@ -1,9 +1,9 @@
 {
     "id": "5PGIN6X2",
     "name": "group",
-    "type": "definition",
     "dependencies": {
     },
+    "type": "definition",
     "definitions": {
         "5PGIN6X2_a": {
             "language": "en",
