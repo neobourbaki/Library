@@ -18,8 +18,7 @@
         "041XA0HK_b": {
             "language": "en",
             "dependencies": {
-                "S": "{R} - 0",
-                "72LR9IQC": "localization of {R} with respect to {S}"
+                "72LR9IQC": "localization of {R}"
             },
             "comment": ""
         }
