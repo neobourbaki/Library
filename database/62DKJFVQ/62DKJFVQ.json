@@ -3,9 +3,9 @@
     "name": "character of a representation --of a complex semisimple Lie algebra",
     "dependencies": {
         "ℂ": "8A9M00AK:complex numbers",
-        "g": "1IYIAGFB:semisimple Lie algebra over {ℂ}",
+        "g": "1IYIAGFB:semisimple Lie algebra --over complex numbers",
         "h": "3KPRPA7U:Cartan subalgebra of {g}",
-        "6DTG5YM7": "representation of {g}"
+        "6DTG5YM7": "representation of {g} over {ℂ}"
     },
     "statements": {
         "62DKJFVQ_a": {
