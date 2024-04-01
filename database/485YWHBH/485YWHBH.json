@@ -19,6 +19,7 @@
         "485YWHBH_b": {
             "language": "en",
             "dependencies": {
+                "1GLXUU44": "quotient module"
             },
             "comment": ""
         }
