@@ -1,9 +1,10 @@
 {
     "id": "6H9U9EYG",
     "name": "fundamental groupoid --of a topological space",
-    "type": "definition",
     "dependencies": {
-        "1KNNEI7L": "topological space",
+        "1KNNEI7L": "topological space"
+    },
+    "type": {
         "7AQ7Q586": "category"
     },
     "definitions": {
