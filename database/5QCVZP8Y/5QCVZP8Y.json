@@ -2,8 +2,8 @@
     "id": "5QCVZP8Y",
     "name": "basis --of a vector space",
     "dependencies": {
-        "4BCNPPIX": "field",
-        "2GM7AN7T": "vector space --over {0}"
+        "k": "4BCNPPIX:field",
+        "V": "2GM7AN7T:vector space --over {k}"
     },
     "type": "definition",
     "definitions": {
@@ -24,7 +24,7 @@
         "5QCVZP8Y_c": {
             "language": "en",
             "dependencies": {
-                "7P1XLPWT": "free module --over {0}"
+                "7P1XLPWT": "free module --over {k}"
             },
             "comment": ""
         }
@@ -32,7 +32,7 @@
             "language": "en",
             "dependencies": {
                 "3B4QPTQD": "linear independence",
-                "2NQXZL7L": "linear span"
+                "2NQXZL7L": "linear span in {V}"
             },
             "comment": ""
         }
