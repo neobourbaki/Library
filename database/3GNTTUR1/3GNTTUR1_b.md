@@ -1,1 +1,1 @@
-An ideal $I$ of a commutative ring $R$ is *prime* if it is the kernel of a homomorphism $R \to S$ to an integral domain.
+An ideal $\mathfrak{p}$ of a commutative ring $R$ is *prime* if the quotient ring $R/\mathfrak{p}$ is an integral domain.
