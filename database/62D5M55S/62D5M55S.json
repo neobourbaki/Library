@@ -1,11 +1,11 @@
 {
     "id": "62D5M55S",
-    "name": "limit of a sequence --of real numbers",
-    "type": "definition",
+    "name": "limit of a sequence --in an ordered field",
     "dependencies": {
         "k": "7YQ2QQGH:ordered field",
         "68VSQXWU": "sequence --in {k}",
     },
+    "type": "definition",
     "statements": {
         "62D5M55S_a": {
             "language": "en",
