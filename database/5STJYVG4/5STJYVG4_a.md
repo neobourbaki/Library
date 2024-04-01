@@ -5,7 +5,7 @@ The *tensor product* of modules $M$ and $N$ over a commutative ring $R$ is a $R$
 $$
 \begin{array}{ccc}
  & & L \quad \\
- & f \nearrow & \uparrow{\tilde{f}} \\
+ & {}^{f} \nearrow & \uparrow{\tilde{f}} \\
 M \times N & \xrightarrow{\phi} & M \otimes N \\
 \end{array}
 $$
