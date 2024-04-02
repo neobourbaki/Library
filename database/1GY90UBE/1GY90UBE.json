@@ -3,7 +3,9 @@
     "name": "limit of function",
     "type": "definition",
     "dependencies": {
-        "6G2DYFBY": "metric space"
+        "M": "6G2DYFBY:metric space",
+        "N": "6G2DYFBY:metric space",
+        "asdf": "map {M}→{N}"
     },
     "definitions": {
         "1GY90UBE_a": {
