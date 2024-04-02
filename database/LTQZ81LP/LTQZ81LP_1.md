@@ -10,5 +10,5 @@ where
 - $M_{\lambda}$ is the Verma module associated to $\lambda$;
 - $W$ is the Weyl group, acting on $\mathfrak{h}^*$;
 - $\ell: W \to \mathbb{N}$ is the length function;
-- $w . \lambda := w(\lambda + \rho) - \rho$ is the shifted action;
+- $w . \lambda := w(\lambda + \rho) - \rho$ is the shifted action of $W$ on $\mathfrak{h}^*$;
 - $\rho$ is the half of the sum of the positive roots.
