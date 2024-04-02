@@ -4,10 +4,10 @@
     "dependencies": {
         "R": "7R2CT98Y:ring",
         "S": "7R2CT98Y:ring",
-        "M": "8UBME7WQ:module over {0}"
+        "M": "8UBME7WQ:module over {R}"
     },
     "type": {
-        "8UBME7WQ": "module over {1}"
+        "8UBME7WQ": "module over {S}"
     },
     "definitions": {
         "40VXD1B0_a": {
