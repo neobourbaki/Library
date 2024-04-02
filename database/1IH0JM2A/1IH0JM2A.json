@@ -2,9 +2,11 @@
     "id": "1IH0JM2A",
     "name": "subgroup --of a group",
     "dependencies": {
-        "G": "5PGIN6X2：group"
+        "G": "5PGIN6X2:group"
     },
-    "type": "definition",
+    "type": {
+        "5PGIN6X2": "group"
+    },
     "definitions": {
         "1IH0JM2A_a": {
             "language": "en",
