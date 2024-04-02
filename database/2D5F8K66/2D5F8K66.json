@@ -13,14 +13,14 @@
         "2D5F8K66_a": {
             "language": "en",
             "dependencies": {
-                "9EVZZ8HR": "dual vector space"
+                "9EVZZ8HR": "dual vector space of {h}"
             },
             "comment": ""
         },
         "2D5F8K66_b": {
             "language": "en",
             "dependencies": {
-                "2KC0FK3Z": "adjoint representation",
+                "2KC0FK3Z": "adjoint representation of {g}",
                 "521SC6P0": "weight / weight space"
             },
             "comment": ""
