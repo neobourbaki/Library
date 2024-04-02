@@ -1,4 +1,4 @@
-The *adjoint representation* of a Lie algebra $\mathfrak{g}$ is the vector space $\mathfrak{g}$, together with the action of $\mathfrak{g}$ given by the Lie bracket
+The *adjoint representation* of a Lie algebra $\mathfrak{g}$ is the vector space $\mathfrak{g}$, together with the *adjoint* action of $\mathfrak{g}$ given by the Lie bracket
 
 $$
 \begin{aligned}
