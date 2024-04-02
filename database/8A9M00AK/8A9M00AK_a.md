@@ -1,7 +1,6 @@
-A *complex number* $z$ is a pair of real numbers $(x, y)$.
+A *complex number* $z$ is a pair of real numbers $(x, y)$. The set of complex numbers becomes a field under addition and multiplication defined by
 
-- $(a, b) + (c, d) = (a+c, b+d)$
-- $(a, b) \cdot (c, d) = (ac-bd, ad + bc)$
+- $(x_1, y_1) + (x_2, y_2) = (x_1 + x_2, y_1 + y_2)$;
+- $(x_1, y_1) \cdot (x_2, y_2) = (x_1 x_2 - y_1 y_2 , x_1 y_2 + x_2 y_1)$.
 
-It is customary to write $z = x + iy$, where $i = (0, 1)$ with the property 
-$i^2=-1$.
+It is customary to write $z = x + iy$, where $i$ is the number $(0, 1)$.
