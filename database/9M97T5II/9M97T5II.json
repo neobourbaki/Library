@@ -2,6 +2,7 @@
     "id": "9M97T5II",
     "name": "n-simplex",
     "dependencies": {
+        "n": "natural number"
     },
     "type": {
         "1KNNEI7L": "topological space"
