@@ -1,6 +1,6 @@
 {
     "id": "28F9A81A",
-    "name": "special linear group",
+    "name": "special linear group SL_n",
     "dependencies": {
         "k": "67IMWPW4:commutative ring"
     },
