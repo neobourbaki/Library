@@ -1,1 +1,1 @@
-The *dimension* $\dim V$ of a vector space $V$ over a field $k$ is the number (cardinality) of elements in any basis of $V$.
+The *dimension* $\dim V$ of a vector space $V$ over a field $k$ is the number (cardinality) of elements in any basis of $V$. One says that $V$ is *infinite-dimensional* if $\dim V$ is not finite, and one regards the map $V \mapsto \dim V$ as a function from vector spaces to $\mathbb{N} \cup \\{\infty\\}$.
