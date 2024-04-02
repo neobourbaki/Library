@@ -3,14 +3,14 @@
     "name": "binary / n-ary operation --on a set",
     "type": "definition",
     "dependencies": {
-        "6WZ4C6XN": "set"
+        "S": "6WZ4C6XN:set"
     },
     "definitions": {
         "16AXGFEV_a": {
             "language": "en",
             "dependencies": {
-                "4CID84AD": "map --of sets",
-                "7CLVUDVP": "product --of sets"
+                "S×S": "7CLVUDVP:product {S}×{S}",
+                "4CID84AD": "map {S×S}→{S}"
             },
             "comment": ""
         }
