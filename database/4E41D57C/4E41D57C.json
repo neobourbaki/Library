@@ -17,7 +17,7 @@
         "4E41D57C_b": {
             "language": "en",
             "dependencies": {
-                "ℚ": "2RRHV29K": "rational numbers",
+                "ℚ": "2RRHV29K:rational numbers",
                 "7XM484KI": "subset of {ℚ}"
             },
             "comment": "Dedekind cuts"
@@ -25,7 +25,7 @@
         "4E41D57C_c": {
             "language": "en",
             "dependencies": {
-                "ℚ": "2RRHV29K": "rational numbers",
+                "ℚ": "2RRHV29K:rational numbers",
                 "0EG3ZRQD": "Cauchy sequence in {ℚ}",
                 "5KH8646Q": "equivalence relation"
             },
