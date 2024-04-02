@@ -2,10 +2,11 @@
     "id": "1139FRZX",
     "name": "homomorphism --of rings",
     "dependencies": {
-        "7R2CT98Y": "ring"
+        "R": "7R2CT98Y:ring",
+        "S": "7R2CT98Y:ring"
     },
     "type": {
-        "4CID84AD": "map --of {0}s"
+        "4CID84AD": "map {R}→{S}"
     },
     "definitions": {
         "1139FRZX_a": {
