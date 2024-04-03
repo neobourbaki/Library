@@ -3,11 +3,11 @@
     "name": "direct sum --of vector spaces",
     "dependencies": {
         "k": "4BCNPPIX:field",
-        "V": "2GM7AN7T:vector space over {k}",
-        "W": "2GM7AN7T:vector space over {k}"
+        "V": "2GM7AN7T:vector space --over {k}",
+        "W": "2GM7AN7T:vector space --over {k}"
     },
     "type": {
-        "V⊕W": "2GM7AN7T:vector space over {k}"
+        "2GM7AN7T": "vector space --over {k}"
     },
     "definitions": {
         "4L3L79QX_a": {
