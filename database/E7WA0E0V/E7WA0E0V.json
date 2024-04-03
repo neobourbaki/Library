@@ -1,6 +1,6 @@
 {
     "id": "E7WA0E0V",
-    "name": "Weyl's theorem on complete reducibility",
+    "name": "Weyl's theorem --on complete reducibility",
     "type": "theorem",
     "dependencies": {
         "1IYIAGFB": "semisimple Lie algebra --over complex numbers"
