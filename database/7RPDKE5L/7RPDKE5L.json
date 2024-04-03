@@ -3,12 +3,15 @@
     "name": "direct sum --of Lie algebra representations",
     "type": "definition",
     "dependencies": {
-        "6DTG5YM7": "representation --of a Lie algebra"
+        "g": "3H8N6TE0:Lie algebra",
+        "k": "4BCNPPIX:field",
+        "V": "6DTG5YM7:representation --of {g} over {k}"
     },
     "definitions": {
         "7RPDKE5L_a": {
             "language": "en",
             "dependencies": {
+                "4L3L79QX": "direct sum --of vector spaces"
             },
             "comment": ""
         }
