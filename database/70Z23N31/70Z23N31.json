@@ -3,7 +3,8 @@
     "name": "semisimple module --over a ring",
     "type": "definition",
     "dependencies": {
-        "8TZK9FIS": "left module --over a ring"
+        "R": "7R2CT98Y:ring",
+        "M": "8TZK9FIS:module --over {R}"
     },
     "definitions": {
         "70Z23N31_a": {
