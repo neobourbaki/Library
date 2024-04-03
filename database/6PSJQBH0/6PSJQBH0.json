@@ -10,6 +10,15 @@
         "6PSJQBH0_a": {
             "language": "en",
             "dependencies": {
+                "1D4V1VDG": "multiplicative group --of {R}"
+            },
+            "comment": ""
+        },
+        "6PSJQBH0_b": {
+            "language": "en",
+            "dependencies": {
+                "R[x]": "3GIVL4Y8:polynomial ring --over {R}",
+                "4GLNKBDV": "irreducible --in {R[x]}"
             },
             "comment": ""
         }
