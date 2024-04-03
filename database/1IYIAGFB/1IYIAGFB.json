@@ -2,7 +2,8 @@
     "id": "1IYIAGFB",
     "name": "semisimple Lie algebra",
     "dependencies": {
-        "3H8N6TE0": "Lie algebra"
+        "k": "8A9M00AK:complex numbers",
+        "g": "3H8N6TE0": "Lie algebra --over {k}"
     },
     "type": "definition",
     "definitions": {
@@ -17,7 +18,7 @@
         "1IYIAGFB_b": {
             "language": "en",
             "dependencies": {
-                "9YQXSSGI": "Killing form"
+                "9YQXSSGI": "Killing form --on {g}"
             },
             "comment": ""
         },
