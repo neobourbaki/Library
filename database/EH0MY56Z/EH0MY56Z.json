@@ -12,6 +12,20 @@
             "dependencies": {
             },
             "comment": ""
+        },
+        "EH0MY56Z_2": {
+            "language": "en",
+            "dependencies": {
+                "6PSJQBH0": "irreducible polynomial --over {C}"
+            },
+            "comment": ""
+        },
+        "EH0MY56Z_3": {
+            "language": "en",
+            "dependencies": {
+                "84JBL4G3": "algebraically closed field"
+            },
+            "comment": ""
         }
     },
     "proofs": {
