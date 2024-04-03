@@ -1,1 +1,1 @@
-(Weyl) Every finite-dimensional representation of a semisimple Lie algebra is semisimple (completely reducible).
+(Weyl) Every finite-dimensional representation of a semisimple Lie algebra over the complex numbers is semisimple (completely reducible).
