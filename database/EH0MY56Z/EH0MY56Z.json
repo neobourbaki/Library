@@ -2,8 +2,8 @@
     "id": "EH0MY56Z",
     "name": "Fundamental Theorem of Algebra",
     "dependencies": {
-        "8A9M00AK": "complex numbers",
-        "26S3FKEF": "polynomial over {0}"
+        "C": "8A9M00AK:complex numbers",
+        "26S3FKEF": "polynomial over {C}"
     },
     "type": "theorem",
     "statements": {
