@@ -15,6 +15,7 @@
         "E7WA0E0V_2": {
             "language": "en",
             "dependencies": {
+                "70Z23N31": "semisimple module --over a ring"
             },
             "comment": ""
         }
