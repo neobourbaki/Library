@@ -18,12 +18,19 @@
             },
             "comment": "as transformations on a set"
         },
-        "5PGIN6X2_b": {
+        "5PGIN6X2_c": {
             "language": "en",
             "dependencies": {
                 "4LUFWJMP": "monoid"
             },
             "comment": "as a monoid"
+        },
+        "5PGIN6X2_d": {
+            "language": "en",
+            "dependencies": {
+                "ASDF": "groupoid"
+            },
+            "comment": "as a groupoid"
         }
     },
     "equivalences": {
