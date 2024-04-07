@@ -3,7 +3,7 @@
     "name": "elliptic curve",
     "type": "definition",
     "dependencies": {
-        "4BCNPPIX": "field"
+        "k": "4BCNPPIX:field"
     },
     "definitions": {
         "5CQ915WC_a": {
