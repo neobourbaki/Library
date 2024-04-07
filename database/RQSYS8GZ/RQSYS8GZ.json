@@ -3,14 +3,14 @@
     "name": "module over a field is free",
     "type": "theorem",
     "dependencies": {
-        "4BCNPPIX": "field"
+        "k": "4BCNPPIX:field"
     },
     "statements": {
         "RQSYS8GZ_1": {
             "language": "en",
             "dependencies": {
-                "8UBME7WQ": "module --over {0}",
-                "7P1XLPWT": "free module --over {0}"
+                "8UBME7WQ": "module --over {k}",
+                "7P1XLPWT": "free module --over {k}"
             },
             "comment": ""
         }
