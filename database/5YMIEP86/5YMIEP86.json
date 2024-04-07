@@ -6,13 +6,13 @@
         "S": "7R2CT98Y:ring"
     },
     "type": {
-        "8UBME7WQ": "left module over {R}"
+        "8UBME7WQ": "left module over {R}",
+        "8TZK9FIS": "right module over {S}"
     },
     "definitions": {
         "5YMIEP86_a": {
             "language": "en",
             "dependencies": {
-                "8TZK9FIS": "right module over {S}"
             },
             "comment": ""
         }
