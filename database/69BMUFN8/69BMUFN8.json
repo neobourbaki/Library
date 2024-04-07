@@ -3,8 +3,8 @@
     "name": "homomorphism of Lie algebras",
     "dependencies": {
         "k": "4BCNPPIX:field",
-        "g": "3H8N6TE0:Lie algebra over {0}",
-        "h": "3H8N6TE0:Lie algebra over {0}",
+        "g": "3H8N6TE0:Lie algebra --over {k}",
+        "h": "3H8N6TE0:Lie algebra --over {k}",
     },
     "type": {
         "4CID84AD": "map {g}→{h}",
