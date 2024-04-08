@@ -1,10 +1,12 @@
 {
     "id": "51BAGP0Y",
     "name": "supremum / infimum",
-    "type": "definition",
     "dependencies": {
-        "9ZPPEFGG": "total order"
+        "S": "6WZ4C6XN:set",
+        "9ZPPEFGG": "total order --on {S}",
+        "7XM484KI": "subset --of {S}"
     },
+    "type": "definition",
     "definitions": {
         "51BAGP0Y_a": {
             "language": "en",
