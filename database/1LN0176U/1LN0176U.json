@@ -1,6 +1,6 @@
 {
     "id": "1LN0176U",
-    "name": "piecewise C^1 path",
+    "name": "piecewise C¹ path",
     "type": "definition",
     "dependencies": {
         "4737FZPD": "curve / path",
