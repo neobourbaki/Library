@@ -7,7 +7,7 @@
         "V": "7S2ZH0MJ:irreducible representation of {g} --over ℂ",
         "62DKJFVQ": "character of {V}",
         "h": "3KPRPA7U:Cartan subalgebra of {g}",
-        "2D5F8K66": "root system of {g} --with respect to {h}",
+        "2D5F8K66": "root system of {g}",
         "350YVP4C": "Weyl group of {g}"
     },
     "type": "theorem",
