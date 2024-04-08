@@ -3,7 +3,8 @@
     "name": "equivalence relation",
     "type": "definition",
     "dependencies": {
-        "5FLQREKQ": "relation"
+        "S": "6WZ4C6XN:set",
+        "5FLQREKQ": "relation --on {S}"
     },
     "definitions": {
         "5KH8646Q_a": {
