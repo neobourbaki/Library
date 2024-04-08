@@ -2,9 +2,9 @@
     "id": "AUE49P6F",
     "name": "Weyl's character formula",
     "dependencies": {
-        "8A9M00AK": "complex numbers",
+        "C": "8A9M00AK:complex numbers",
         "g": "1IYIAGFB:semisimple Lie algebra --over complex numbers",
-        "V": "7S2ZH0MJ:irreducible representation of {g}",
+        "V": "7S2ZH0MJ:irreducible representation of {g} over {C}",
         "62DKJFVQ": "character of {V}",
         "h": "3KPRPA7U:Cartan subalgebra of {g}",
         "2D5F8K66": "root system of {g} --with respect to {h}",
