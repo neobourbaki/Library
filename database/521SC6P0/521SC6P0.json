@@ -3,9 +3,9 @@
     "name": "weight / weight space --of a Lie algebra representation",
     "type": "definition",
     "dependencies": {
-        "1IYIAGFB": "semisimple Lie algebra --over complex numbers",
-        "6DTG5YM7": "representation of a Lie algebra",
-        "3KPRPA7U": "Cartan subalgebra"
+        "g": "1IYIAGFB:semisimple Lie algebra --over complex numbers",
+        "V": "6DTG5YM7:representation of a Lie algebra",
+        "h": "3KPRPA7U:Cartan subalgebra of {g}"
     },
     "definitions": {
         "521SC6P0_a": {
