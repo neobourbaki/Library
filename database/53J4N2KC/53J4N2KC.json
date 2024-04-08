@@ -11,6 +11,20 @@
                 "5PGIN6X2": "group"
             },
             "comment": ""
+        },
+        "53J4N2KC_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "53J4N2KC_c": {
+            "language": "en",
+            "dependencies": {
+                "Z": "0ZWU1HEL:ring of integers",
+                "8UBME7WQ": "module --over {Z}"
+            },
+            "comment": ""
         }
     },
     "equivalences": {
