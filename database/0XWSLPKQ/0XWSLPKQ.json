@@ -1,9 +1,11 @@
 {
     "id": "0XWSLPKQ",
     "name": "partial order",
-    "type": "definition",
     "dependencies": {
-        "5FLQREKQ": "relation"
+        "S": "6WZ4C6XN:set"
+    },
+    "type": {
+        "5FLQREKQ": "relation --on {S}"
     },
     "definitions": {
         "0XWSLPKQ": {
