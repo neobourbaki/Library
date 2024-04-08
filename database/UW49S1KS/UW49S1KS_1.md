@@ -4,4 +4,8 @@ $$
 A v_i = \lambda_i v_i \\;, \qquad i=1,\ldots,n
 $$
 
-with $\lambda_i \in \mathbb{R}$, and $\langle v_i, v_j \rangle = \delta_{ij}$. In other words, $A$ is diagonalizable by a unitary matrix: $A = UDU^{-1}$ where $D=\text{diag}(\lambda_1, \ldots, \lambda_n)$, and $U$ is composed of the $v_i$'s as its columns.
+with $\lambda_i \in \mathbb{R}$, and $\langle v_i, v_j \rangle = \delta_{ij}$. In other words, $A$ is diagonalizable by a unitary matrix: $A = U \Lambda U^{-1}$ where $\Lambda = \text{diag}(\lambda_1, \ldots, \lambda_n)$, and $U$ is composed of the $v_i$'s as its columns
+
+$$
+U = [v_1, \ldots, v_n].
+$$
