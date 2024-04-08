@@ -1,9 +1,10 @@
 {
     "id": "5KH8646Q",
     "name": "equivalence relation",
-    "type": "definition",
     "dependencies": {
-        "S": "6WZ4C6XN:set",
+        "S": "6WZ4C6XN:set"
+    },
+    "type": {
         "5FLQREKQ": "relation --on {S}"
     },
     "definitions": {
