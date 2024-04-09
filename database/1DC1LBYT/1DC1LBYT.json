@@ -3,7 +3,7 @@
     "name": "submodule --of a module over a ring",
     "dependencies": {
         "R": "7R2CT98Y:ring",
-        "M": "8UBME7WQ": "module --over {R}"
+        "M": "8UBME7WQ:module --over {R}"
     },
     "type": {
         "8UBME7WQ": "module --over {R}"
