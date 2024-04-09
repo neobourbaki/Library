@@ -5,7 +5,8 @@
         "8A9M00AK": "complex numbers",
         "g": "1IYIAGFB:semisimple Lie algebra --over complex numbers",
         "h": "3KPRPA7U:Cartan subalgebra --of {g}",
-        "b": "5FE9DKX2:Borel subalgebra --of {g}"
+        "b": "5FE9DKX2:Borel subalgebra --of {g}",
+        "lambda": "0G633VZJ": "weight --of a Lie algebra"
     },
     "type": {
         "6DTG5YM7": "representation of {g}"
