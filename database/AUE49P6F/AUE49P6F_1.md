@@ -6,8 +6,8 @@ $$
 
 where
 
-- $W$ is the Weyl group, acting on $\mathfrak{h}^*$;
-- $\Phi^+$ is the set of positive roots of the root system $\Phi \subset \mathfrak{h}^*$;
+- $W$ is the Weyl group of $\mathfrak{g}$, acting on $\mathfrak{h}^*$;
+- $\Phi^+$ is a set of positive roots of the root system $\Phi \subset \mathfrak{h}^*$;
 - $\rho$ is half of the sum of the positive roots;
 - $\lambda \in \mathfrak{h}^*$ is the highest weight of the representation with respect to $\Phi^+$;
 - $\varepsilon: W \to \\{\pm 1\\}$ is the sign homomorphism, with $\varepsilon(w)$ given by the determinant of $w \in W$ as a linear map $\mathfrak{h} \to \mathfrak{h}$.
