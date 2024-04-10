@@ -1,4 +1,4 @@
-A finite-dimensional Lie algebra over the field of complex numbers is *simple* if it is isomorphic to one of the following:
+A Lie algebra over the field $\mathbb{C}$ is *simple* if it is isomorphic to one of the following:
 
 - ($A_n$) $\mathfrak{sl}_{n+1}(\mathbb{C})$, $n \geq 1$
 - ($B_n$) $\mathfrak{so}_{2n+1}(\mathbb{C})$, $n \geq 2$
