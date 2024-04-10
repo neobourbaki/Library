@@ -4,7 +4,7 @@
     "type": "definition",
     "dependencies": {
         "C": "8A9M00AK:complex numbers",
-        "3H8N6TE0": "Lie algebra --over {C}"
+        "g": "3H8N6TE0:Lie algebra --over {C}"
     },
     "statements": {
         "8I8TQVCL_a": {
@@ -21,7 +21,8 @@
                 "1IRBEAFN": "Lie algebra sl_n",
                 "1234": "Lie algebra so_n",
                 "2345": "Lie algebra sp_2n",
-                "3456": "exceptional Lie algebra"
+                "2D5F8K66": "root system --of {g}",
+                "3456": "exceptional Lie algebras"
             },
             "comment": "classification by root system"
         }
