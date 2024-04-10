@@ -1,1 +1,1 @@
-A Lie algebra $\mathfrak{g}$ over a field $k$ is *semisimple* if the Killing form $\mathfrak{g} \times \mathfrak{g} \to k$ is non-degenerate.
+A Lie algebra $\mathfrak{g}$ over the field $\mathbb{C}$ is *semisimple* if the Killing form $\mathfrak{g} \times \mathfrak{g} \to \mathbb{C}$ is non-degenerate.
