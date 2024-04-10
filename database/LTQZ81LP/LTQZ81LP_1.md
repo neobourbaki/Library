@@ -1,4 +1,4 @@
-(Bernstein-Gelfand-Gelfand) Let $V$ be a finite-dimensional irreducible representation of a semisimple Lie algebra $\mathfrak{g}$ over the field $\mathbb{C}$. Let $\mathfrak{h} \subset \mathfrak{g}$ be a Cartan subalgebra, $\Phi^+$ a positive system of the root system $\Phi \subset \mathfrak{h}^*$. Then there is a resolution (exact sequence) of $V$ by (infinite-dimensional) representations of $\mathfrak{g}$:
+(Bernstein-Gelfand-Gelfand) Let $V$ be a finite-dimensional irreducible representation of a semisimple Lie algebra $\mathfrak{g}$ over the field $\mathbb{C}$. Let $\mathfrak{h} \subset \mathfrak{g}$ be a Cartan subalgebra, $\Phi^+$ a positive system of the root system $\Phi \subset \mathfrak{h}^*$. Then there is a resolution of $V$ by (infinite-dimensional) representations of $\mathfrak{g}$， namely an exact sequence
 
 $$
 0 \to \bigoplus_{w \in W, \ell(w)=n} M_{w . \lambda} \to \cdots \to \bigoplus_{w \in W, \ell(w)=1} M_{w . \lambda} \to M_{\lambda} \to V \to 0
