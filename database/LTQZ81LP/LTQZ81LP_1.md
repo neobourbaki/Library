@@ -9,7 +9,7 @@ where
 - $\lambda \in \mathfrak{h}^*$ is the highest weight of $V$ with respect to $\Phi^+$;
 - $M_{\lambda}$ is the Verma module associated to $\lambda$;
 - $W$ is the Weyl group, acting on $\mathfrak{h}^*$;
-- $\ell(w)$ is the minimal length of presentation of $w$ with respect to the simple roots;
+- $\ell: W \to \mathbb{N}$ is the length function, defined as the minimal length of presentation of $w$ in simple reflections $s_\alpha$;
 - $n = \max \ell(w)$;
 - $w . \lambda := w(\lambda + \rho) - \rho$ is the shifted action of $W$ on $\mathfrak{h}^*$;
 - $\rho$ is the half of the sum of the positive roots.
