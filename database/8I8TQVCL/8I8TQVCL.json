@@ -23,7 +23,7 @@
                 "2345": "Lie algebra sp_2n",
                 "3456": "exceptional Lie algebra"
             },
-            "comment": "classification"
+            "comment": "classification by root system"
         }
     },
     "equivalences": {
