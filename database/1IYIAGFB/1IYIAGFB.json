@@ -2,8 +2,8 @@
     "id": "1IYIAGFB",
     "name": "semisimple Lie algebra",
     "dependencies": {
-        "k": "8A9M00AK:complex numbers",
-        "g": "3H8N6TE0": "Lie algebra --over {k}"
+        "C": "8A9M00AK:complex numbers",
+        "g": "3H8N6TE0": "Lie algebra --over {C}"
     },
     "type": "definition",
     "definitions": {
