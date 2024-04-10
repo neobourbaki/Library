@@ -3,7 +3,7 @@
     "name": "limit of a sequence --in an ordered field",
     "dependencies": {
         "k": "7YQ2QQGH:ordered field",
-        "68VSQXWU": "sequence --in {k}",
+        "68VSQXWU": "sequence --in {k}"
     },
     "type": "definition",
     "statements": {
