@@ -1,6 +1,6 @@
 {
     "id": "LTFI8WQJ",
-    "name": "theorem of highest weight",
+    "name": "Highest weight theorem",
     "dependencies": {
         "g": "1IYIAGFB:semisimple Lie algebra --over complex numbers",
         "h": "3KPRPA7U:Cartan subalgebra --of {g}",
