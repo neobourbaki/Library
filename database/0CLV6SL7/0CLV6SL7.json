@@ -14,7 +14,7 @@
             "language": "en",
             "dependencies": {
                 "7RG754YE": "matrix multiplication",
-                "0SXI6DVV": "identity matrix --of order {n}"
+                "0SXI6DVV": "identity matrix --of order {n} over {k}"
             },
             "comment": ""
         },
