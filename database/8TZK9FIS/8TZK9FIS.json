@@ -1,9 +1,9 @@
 {
     "id": "8TZK9FIS",
-    "name": "right module over a ring",
+    "name": "right module --over a ring",
     "type": "definition",
     "dependencies": {
-        "7R2CT98Y": "ring"
+        "R:" "7R2CT98Y:ring"
     },
     "definitions": {
         "8TZK9FIS_a": {
@@ -16,7 +16,7 @@
         "8TZK9FIS_a": {
             "language": "en",
             "dependencies": {
-                "8UBME7WQ": "left module --over a ring"
+                "8UBME7WQ": "left module --over {R}"
             },
             "comment": ""
         }
