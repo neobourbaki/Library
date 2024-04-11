@@ -27,7 +27,7 @@
             "language": "en",
             "dependencies": {
                 "U": "7Z3IL1Y2:universal enveloping algebra of {g}",
-                "8UBME7WQ": "module over {U}"
+                "8UBME7WQ": "left module over {U}"
             },
             "comment": ""
         }
