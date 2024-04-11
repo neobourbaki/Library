@@ -2,9 +2,9 @@
     "id": "2D5F8K66",
     "name": "root system --of a complex semisimple Lie algebra",
     "dependencies": {
-        "ℂ": "8A9M00AK:complex numbers",
-        "g": "1IYIAGFB:semisimple Lie algebra over {ℂ}",
-        "h": "3KPRPA7U: Cartan subalgebra of {g}"
+        "C": "8A9M00AK:complex numbers",
+        "g": "1IYIAGFB:semisimple Lie algebra --over complex numbers",
+        "h": "3KPRPA7U:Cartan subalgebra of {g}"
     },
     "type": {
         "8W436KBY": "root system"
@@ -21,7 +21,7 @@
             "language": "en",
             "dependencies": {
                 "2KC0FK3Z": "adjoint representation of {g}",
-                "521SC6P0": "weight / weight space"
+                "521SC6P0": "weight"
             },
             "comment": ""
         }
