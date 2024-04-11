@@ -1,0 +1,21 @@
+{
+    "id": "012I4A6F",
+    "name": "lattice",
+    "dependencies": {
+        "4ZL3GXH5": "Euclidean space",
+    },
+    "type": {
+        "53J4N2KC": "abelian group"
+    },
+    "definitions": {
+        "012I4A6F_a": {
+            "language": "en",
+            "dependencies": {
+                "6G2AU6L4": "open ball"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }   
+}
