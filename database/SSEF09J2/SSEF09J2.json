@@ -1,0 +1,22 @@
+{
+    "id": "SSEF09J2",
+    "name": "root decomposition",
+    "dependencies": {
+        "C": "8A9M00AK:complex numbers",
+        "g": "1IYIAGFB:semisimple Lie algebra --over complex numbers",
+        "h": "3KPRPA7U:Cartan subalgebra --of {g}"
+    },
+    "type": "theorem",
+    "statements": {
+        "SSEF09J2_a": {
+            "language": "en",
+            "dependencies": {
+                "V": "2KC0FK3Z:adjoint representation",
+                "521SC6P0": "weight space --of {V}"
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+    }
+}
