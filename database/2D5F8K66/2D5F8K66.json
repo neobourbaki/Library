@@ -20,8 +20,8 @@
         "2D5F8K66_b": {
             "language": "en",
             "dependencies": {
-                "2KC0FK3Z": "adjoint representation of {g}",
-                "521SC6P0": "weight"
+                "V": "2KC0FK3Z:adjoint representation of {g}",
+                "521SC6P0": "weight of representation {V}"
             },
             "comment": ""
         }
