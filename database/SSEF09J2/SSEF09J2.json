@@ -12,7 +12,7 @@
         "SSEF09J2_a": {
             "language": "en",
             "dependencies": {
-                "V": "2KC0FK3Z:adjoint representation",
+                "V": "2KC0FK3Z:adjoint representation --of {g}",
                 "521SC6P0": "weight space --of {V}"
             },
             "comment": ""
