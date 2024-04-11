@@ -1,10 +1,10 @@
 {
     "id": "8TZK9FIS",
     "name": "right module --over a ring",
-    "type": "definition",
     "dependencies": {
         "R": "7R2CT98Y:ring"
     },
+    "type": "definition",
     "definitions": {
         "8TZK9FIS_a": {
             "language": "en",
