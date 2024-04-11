@@ -1,0 +1,1 @@
+Let $\mathfrak{g}$ be a semisimple Lie algebra over the field $\mathbb{C}$, and $\mathfrak{h} \subset \mathfrak{g}$ a Cartan subalgebra with root system $\Phi$. The *weight lattice* is the set of weights $w \in \mathfrak{h}^*$ such that $\langle \alpha, w^\vee \rangle \in \mathbb{Z}$ for all $\alpha \in \Phi$.
