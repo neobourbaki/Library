@@ -21,7 +21,7 @@
             "language": "en",
             "dependencies": {
                 "V": "2KC0FK3Z:adjoint representation of {g}",
-                "521SC6P0": "weight of representation {V}"
+                "521SC6P0": "weight of representation {V} --with respect to {h}"
             },
             "comment": ""
         }
