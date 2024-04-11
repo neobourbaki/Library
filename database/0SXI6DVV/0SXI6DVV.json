@@ -1,9 +1,12 @@
 {
     "id": "0SXI6DVV",
     "name": "identity matrix",
-    "type": "definition",
     "dependencies": {
-        "8M6CAY2R": "matrix"
+        "n": "63AS5IGZ:natural number",
+        "k": "67IMWPW4:commutative ring"
+    },
+    "type": {
+        "1JUES0F3": "matrix of order {n} --over {k}"
     },
     "definitions": {
         "0SXI6DVV_a": {
