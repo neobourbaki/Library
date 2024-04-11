@@ -1,0 +1,22 @@
+{
+    "id": "4S0Z7SV3",
+    "name": "weight lattice",
+    "dependencies": {
+        "C": "8A9M00AK:complex numbers",
+        "g": "1IYIAGFB:semisimple Lie algebra --over complex numbers",
+        "h": "3KPRPA7U:Cartan subalgebra --of {g}"
+    },
+    "type": {
+        "012I4A6F": "lattice"
+    },
+    "definitions": {
+        "4S0Z7SV3_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
