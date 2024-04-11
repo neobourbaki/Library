@@ -2,10 +2,10 @@
     "id": "62DKJFVQ",
     "name": "character of a representation --of a complex semisimple Lie algebra",
     "dependencies": {
-        "ℂ": "8A9M00AK:complex numbers",
+        "C": "8A9M00AK:complex numbers",
         "g": "1IYIAGFB:semisimple Lie algebra --over complex numbers",
         "h": "3KPRPA7U:Cartan subalgebra of {g}",
-        "6DTG5YM7": "representation of {g} over {ℂ}"
+        "6DTG5YM7": "representation of {g} over {C}"
     },
     "statements": {
         "62DKJFVQ_a": {
@@ -15,26 +15,28 @@
                 "8YNTJFQ9": "dimension --of a vector space"
             },
             "type": {
-                "4CID84AD": "map {h}→{ℂ}",
+                "4CID84AD": "map {h}→{C}",
             },
             "comment": ""
         },
         "62DKJFVQ_b": {
             "language": "en",
             "dependencies": {
-                "18ACACHZ": "group algebra",
                 "8YNTJFQ9": "dimension --of a vector space"
             },
+            "type": {
+                "18ACACHZ": "group algebra of {h} over {C}"
+            }
             "comment": ""
         },
         "62DKJFVQ_c": {
             "language": "en",
             "dependencies": {
-                "1234": "weight lattice",
+                "P": "4S0Z7SV3:weight lattice",
                 "8YNTJFQ9": "dimension --of a vector space"
             },
             "type": {
-                "18ACACHZ": "group algebra of {P} over {ℂ}"
+                "18ACACHZ": "group algebra of {P} over {C}"
             },
             "comment": ""
         },
@@ -44,7 +46,7 @@
                 "02I3P6L0": "character --of a group representation"
             },
             "type": {
-                "4CID84AD": "map {h}→{ℂ}",
+                "4CID84AD": "map {h}→{C}",
             },
             "comment": ""
         }
