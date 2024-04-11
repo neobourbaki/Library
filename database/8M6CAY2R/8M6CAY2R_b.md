@@ -1,4 +1,4 @@
-A $m \times n$ *matrix* over a commutative ring $R$ is an element of $R^n \times \cdots \times R^n$ ($m$ times), i.e., a $m$-tuple of $n$-tuples of elements of $R$:
+A $m \times n$ *matrix* over a ring $R$ is an element of $R^n \times \cdots \times R^n$ ($m$ times), i.e., a $m$-tuple of $n$-tuples of elements of $R$:
 
 $$
 A = [[a_{11}, a_{12}, \ldots a_{1n}], [a_{21}, a_{22}, \ldots a_{2n}], \ldots, [a_{m1}, a_{m2}, \ldots a_{mn}]].
