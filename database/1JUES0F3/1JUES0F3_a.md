@@ -1,1 +1,1 @@
-A *matrix of order* $n$ is an $n \times n$ matrix over a commutative ring $k$.
+A (square) *matrix of order* $n$ is an $n \times n$ matrix over a commutative ring $k$.
