@@ -9,9 +9,11 @@
         "68VSQXWU_a": {
             "language": "en",
             "dependencies": {
-                "ℕ": "63AS5IGZ:natural numbers",
-                "4CID84AD": "map {ℕ}→{S}"
+                "ℕ": "63AS5IGZ:natural numbers"
             },
+            "type": {
+                "4CID84AD": "map {ℕ}→{S}"
+            }
             "comment": ""
         }
     },
