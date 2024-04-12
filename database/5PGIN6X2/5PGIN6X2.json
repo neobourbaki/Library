@@ -3,7 +3,9 @@
     "name": "group",
     "dependencies": {
     },
-    "type": "definition",
+    "type": {
+        "6WZ4C6XN": "set"
+    },
     "definitions": {
         "5PGIN6X2_a": {
             "language": "en",
