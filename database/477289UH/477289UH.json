@@ -1,8 +1,8 @@
 {
     "id": "477289UH",
-    "name": "element of an object in a category",
+    "name": "element of a set",
     "dependencies": {
-        "7AQ7Q586": "category"
+        "6WZ4C6XN": "set"
     },
     "type": "definition",
     "definitions": {
