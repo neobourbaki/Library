@@ -1,6 +1,6 @@
 {
     "id": "482U6RA1",
-    "name": "algebra --over a field",
+    "name": "algebra --over a ring",
     "dependencies": {
         "R": "7R2CT98Y:ring"
     },
