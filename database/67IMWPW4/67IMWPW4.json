@@ -1,8 +1,10 @@
 {
     "id": "67IMWPW4",
     "name": "commutative ring",
-    "type": "definition",
     "dependencies": {
+    },
+    "type": {
+        "7R2CT98Y": "ring"
     },
     "definitions": {
         "67IMWPW4_a": {
