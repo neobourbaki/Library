@@ -1,14 +1,15 @@
 {
     "id": "53J4N2KC",
     "name": "abelian group",
-    "type": "definition",
     "dependencies": {
+    },
+    "type": {
+        "5PGIN6X2": "group"
     },
     "definitions": {
         "53J4N2KC_a": {
             "language": "en",
             "dependencies": {
-                "5PGIN6X2": "group"
             },
             "comment": ""
         },
