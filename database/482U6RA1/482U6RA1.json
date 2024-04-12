@@ -2,7 +2,7 @@
     "id": "482U6RA1",
     "name": "algebra --over a field",
     "dependencies": {
-        "R": "4BCNPPIX:field"
+        "R": "7R2CT98Y:ring"
     },
     "type": "definition",
     "definitions": {
