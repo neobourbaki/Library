@@ -7,7 +7,7 @@
         "4BCNPPIX_a": {
             "language": "en",
             "type": {
-                "R": "67IMWPW4:commutative ring"
+                "k": "67IMWPW4:commutative ring"
             },
             "dependencies": {
             },
@@ -16,10 +16,10 @@
         "4BCNPPIX_b": {
             "language": "en",
             "type": {
-                "R": "67IMWPW4:commutative ring"
+                "k": "67IMWPW4:commutative ring"
             },
             "dependencies": {
-                "1D4V1VDG": "multiplicative group --of {R}"
+                "1D4V1VDG": "multiplicative group --of {k}"
             },
             "comment": ""
         }
