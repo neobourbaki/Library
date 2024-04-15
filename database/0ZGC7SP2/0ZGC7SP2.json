@@ -1,8 +1,10 @@
 {
     "id": "0ZGC7SP2",
     "name": "opposite category",
-    "type": "definition",
     "dependencies": {
+        "7AQ7Q586": "category"
+    },
+    "type": {
         "7AQ7Q586": "category"
     },
     "definitions": {
