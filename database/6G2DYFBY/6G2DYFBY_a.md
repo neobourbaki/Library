@@ -1,4 +1,4 @@
-A *metric space* is a set $M$, together with a distance function $d: M \times M \to k$, $k$ a (totally) ordered field, such that
+A *metric space* is a set $M$, together with a distance function $d: M \times M \to k$ taking values in a (totally) ordered field $k$, such that
 
 - $d(x, y) \geq 0$, with equality only when $x = y$;
 - $d(x, y) = d(y, x)$;
