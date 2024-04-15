@@ -5,8 +5,9 @@
         "k": "4BCNPPIX:field",
         "V": "2GM7AN7T:vector space over {k}",
         "W": "2GM7AN7T:vector space over {k}",
-        "5BDJ54RG": "linear map {V}→{W}",
-        "5QCVZP8Y": "basis"
+        "f": "5BDJ54RG:linear map {V}→{W}",
+        "B_V": "5QCVZP8Y:basis of {V}",
+        "B_W": "5QCVZP8Y:basis of {W}"
     },
     "type": {
         "8M6CAY2R": "matrix --over {k}"
