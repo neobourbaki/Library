@@ -3,6 +3,9 @@
     "name": "field",
     "dependencies": {
     },
+    "type": {
+        "k": "67IMWPW4:commutative ring"
+    },
     "definitions": {
         "4BCNPPIX_a": {
             "language": "en",
