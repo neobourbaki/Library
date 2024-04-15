@@ -19,10 +19,10 @@
         "482U6RA1_b": {
             "language": "en",
             "type": {
-                "A": "7R2CT98Y:ring"
+                "S": "7R2CT98Y:ring"
             },
             "dependencies": {
-                "1139FRZX": "homomorphism {R}→{A} of rings"
+                "1139FRZX": "homomorphism {R}→{S} of rings"
             },
             "comment": ""
         }
