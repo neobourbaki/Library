@@ -1,6 +1,6 @@
 {
     "id": "4737FZPD",
-    "name": "curve / path",
+    "name": "curve / path --in a topological space",
     "dependencies": {
         "1KNNEI7L": "topological space",
         "4E41D57C": "real numbers"
