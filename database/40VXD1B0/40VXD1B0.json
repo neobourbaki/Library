@@ -3,7 +3,7 @@
     "name": "extension of scalars",
     "dependencies": {
         "R": "7R2CT98Y:ring",
-        "S": "7R2CT98Y:ring",
+        "S": "482U6RA1:algebra over {R}",
         "M": "8UBME7WQ:module over {R}"
     },
     "type": {
