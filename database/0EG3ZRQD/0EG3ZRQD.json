@@ -2,10 +2,11 @@
     "id": "0EG3ZRQD",
     "name": "Cauchy sequence --in a metric space",
     "dependencies": {
-        "M": "6G2DYFBY:metric space",
+        "M": "6G2DYFBY:metric space"
+    },
+    "type": {
         "68VSQXWU": "sequence in {M}"
     },
-    "type": "definition",
     "definitions": {
         "0EG3ZRQD_a": {
             "language": "en",
