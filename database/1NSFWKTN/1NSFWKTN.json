@@ -9,7 +9,7 @@
         "5QCVZP8Y": "basis"
     },
     "type": {
-        "8M6CAY2R": "matrix"
+        "8M6CAY2R": "matrix --over {k}"
     },
     "definitions": {
         "1NSFWKTN_a": {
