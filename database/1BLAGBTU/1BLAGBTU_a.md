@@ -5,7 +5,7 @@ Let $\mathcal{C}$ be a category with a faithful functor $U: \mathcal{C} \to \mat
 In other words, there is a bijection
 
 $$
-\mathrm{Mor}_{\mathcal{C}}(F_A, B) \cong \mathrm{Mor}_{\mathcal{Set}}(A, U(B))
+\mathrm{Mor}_{\mathcal{C}} (F_{A}, B) \cong \mathrm{Mor}_{\mathcal{Set}}(A, U(B))
 $$
 
 (that is, $A \mapsto F_A$ is the left adjoint to the functor $U$). The functor $U$ is often omitted if it is understood from context.
