@@ -1,0 +1,4 @@
+A ring $R$ is a *division ring* or a *skew field* if 
+
+- $1 \neq 0$;
+- every nonzero element $r \in R$ has a (multiplicative) inverse.
