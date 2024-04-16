@@ -29,10 +29,8 @@
         },
         "4BCNPPIX_d": {
             "language": "en",
-            "type": {
-                "0MSVL02A": "division ring"
-            },
             "dependencies": {
+                "0MSVL02A": "division ring"
             },
             "comment": ""
         }
