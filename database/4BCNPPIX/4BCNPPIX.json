@@ -26,6 +26,15 @@
                 "5DPZ7F9Z": "ideal --of {k}"
             },
             "comment": ""
+        },
+        "4BCNPPIX_d": {
+            "language": "en",
+            "type": {
+                "0MSVL02A": "division ring"
+            },
+            "dependencies": {
+            },
+            "comment": ""
         }
     },
     "equivalences": {
