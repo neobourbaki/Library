@@ -1,0 +1,20 @@
+{
+    "id": "0MSVL02A",
+    "name": "division ring / skew field",
+    "type": {
+        "7R2CT98Y": "ring"
+    },
+    "dependencies": {
+    },
+    "defintions": {
+        "0MSVL02A_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
+        
