@@ -1,8 +1,9 @@
 {
     "id": "1KNNEI7L",
-    "name": "topological space",
+    "name": "topology / topological space",
     "type": "definition",
     "dependencies": {
+        "6WZ4C6XN": "set"
     },
     "definitions": {
         "1KNNEI7L_a": {
