@@ -3,8 +3,8 @@
     "name": "localization of a module",
     "dependencies": {
         "R": "67IMWPW4:commutative ring",
-        "S": "2ICDEY7D:multiplicative set --of {R}",
-        "M": "8UBME7WQ:module --over {R}"
+        "M": "8UBME7WQ:module --over {R}",
+        "S": "2ICDEY7D:multiplicative set --of {R}"
     },
     "type": {
         "8UBME7WQ": "module --over {R}"
