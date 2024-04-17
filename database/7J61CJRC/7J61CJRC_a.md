@@ -1,1 +1,1 @@
-A (complex) *domain* is an open and connected subset of the complex plane $\mathbb{C}$.
+A *domain* of a Euclidean space $\mathbb{R}^n$ is an open and connected subset of $\mathbb{R}^n$.
