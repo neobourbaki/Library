@@ -3,6 +3,7 @@
     "name": "metric space",
     "type": "definition",
     "dependencies": {
+        "6WZ4C6XN": "set",
         "7YQ2QQGH": "ordered field"
     },
     "definitions": {
