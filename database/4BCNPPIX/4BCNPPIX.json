@@ -1,10 +1,10 @@
 {
     "id": "4BCNPPIX",
     "name": "field",
-    "dependencies": {
-    },
     "type": {
         "k": "67IMWPW4:commutative ring"
+    },
+    "dependencies": {
     },
     "definitions": {
         "4BCNPPIX_a": {
