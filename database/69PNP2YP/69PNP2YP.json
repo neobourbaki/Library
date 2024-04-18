@@ -1,8 +1,10 @@
 {
     "id": "69PNP2YP",
     "name": "full subcategory",
-    "type": "definition",
     "dependencies": {
+        "7AQ7Q586": "category"
+    },
+    "type": {
         "7AQ7Q586": "category"
     },
     "definitions": {
