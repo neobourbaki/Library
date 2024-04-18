@@ -4,8 +4,8 @@
     "type": "theorem",
     "dependencies": {
         "8A9M00AK": "complex numbers",
-        "1DUN1Q71": "holomorphic / analytic function --of a complex variable",
-        "2N67288B": "integral of a complex function along a path",
+        "75CUJWK5": "meromorphic function --of a complex variable",
+        "2N67288B": "integral of a complex function --along a path",
         "6B2A4HQ9": "residue",
         "2D1XWRF2": "winding number"
     },
