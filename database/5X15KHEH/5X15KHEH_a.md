@@ -15,4 +15,4 @@ $$
 \partial_n(\sigma) = \sum_{i=0}^n (-1)^i \sigma(x_0, \ldots, \hat{x}_i, \ldots, x_n)
 $$
 
-for each $\sigma: \Delta^n \to X$ (where $\hat{x}_i$ means the argument $x_i$ is omitted).
+for each $\sigma: \Delta^n \to X$ (where $\hat{x}_i$ means that the argument $x_i$ is omitted).
