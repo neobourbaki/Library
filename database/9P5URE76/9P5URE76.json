@@ -3,13 +3,14 @@
     "name": "accumulation point",
     "type": "definition",
     "dependencies": {
-        "4E41D57C": "real numbers"
+        "X": "6G2DYFBY:metric space",
+        "S": "7XM484KI:subset --of {X}"
     },
     "definitions": {
         "9P5URE76_a": {
             "language": "en",
             "dependencies": {
-                "3DJ3FN4S": "standard topology --of Euclidean space"
+                "6G2AU6L4": "open ball --of {X}"
             },
             "comment": ""
         }
