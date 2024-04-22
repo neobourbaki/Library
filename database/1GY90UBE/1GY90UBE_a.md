@@ -1,7 +1,13 @@
-Let $f: X \to Y$ be a map of metric spaces, and let $x_0 \in X$ and $y_0 \in Y$. We say
+Let $f: X \to Y$ be a map of metric spaces, and let $x_0 \in X$ and $y_0 \in Y$. We say that
 
 $$
-\lim_{x\to x_0} f(x) = y_0 \qquad \text{or} \qquad f(x) \to y_0 \quad \text{as} \quad x \to x_0
+\lim_{x\to x_0} f(x) = y_0
+$$
+
+or 
+
+$$
+f(x) \to y_0 \quad \text{as} \quad x \to x_0
 $$
 
 if for every $\epsilon > 0$, there exists $\delta$ such that 
