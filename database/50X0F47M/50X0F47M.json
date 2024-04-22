@@ -1,6 +1,6 @@
 {
     "id": "50X0F47M",
-    "name": "integral of step function",
+    "name": "integral of a step function",
     "dependencies": {
         "1BS8BVDE": "step function --of a real variable"
     },
