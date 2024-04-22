@@ -1,5 +1,4 @@
-An *ideal* of a commutative ring $R$ is the kernel of a homomorphism $\phi: R \to S$ of rings for some commutative ring $S$, i.e., 
+A (left) *ideal* of a ring $R$ is a subset $I \subset R$ such that
 
-$$
-I = \\{ r \in R \\; : \\; \phi(r) = 0 \\}.
-$$
+- $r + s \in I$ and $-r \in I$ for all $r, s \in I$;
+- $rs \in I$ for all $r \in R$ and $s \in I$.
