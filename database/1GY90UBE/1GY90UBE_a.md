@@ -16,4 +16,4 @@ $$
 |f(x) - y_0| < \epsilon
 $$
 
-for all $x \neq x_0$ such that $|x - x_0| < \delta$.
+for all $x \in X$ such that $x \neq x_0$ and $|x - x_0| < \delta$.
