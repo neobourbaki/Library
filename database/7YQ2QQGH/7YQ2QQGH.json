@@ -2,7 +2,7 @@
     "id": "7YQ2QQGH",
     "name": "ordered field",
     "type": {
-        "k": "4BCNPPIX:field",
+        "k": "4BCNPPIX:field"
     },
     "dependencies": {
         "9ZPPEFGG": "total order --on {k}"
