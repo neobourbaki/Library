@@ -1,10 +1,11 @@
 {
     "id": "7YQ2QQGH",
     "name": "ordered field",
-    "type": "definition",
+    "type": {
+        "k": "4BCNPPIX:field",
+    },
     "dependencies": {
-        "4BCNPPIX": "field",
-        "9ZPPEFGG": "total order"
+        "9ZPPEFGG": "total order --on {k}"
     },
     "definitions": {
         "7YQ2QQGH_a": {
