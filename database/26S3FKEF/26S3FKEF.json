@@ -3,7 +3,7 @@
     "name": "polynomial --over a ring",
     "dependencies": {
         "R": "67IMWPW4:commutative ring",
-        "n": "natural number"
+        "n": "63AS5IGZ:natural number"
     },
     "type": "definition",
     "definitions": {
