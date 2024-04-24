@@ -4,4 +4,4 @@ $$
 \sum_{n=n_0}^{\infty} x_n \qquad \text{or} \qquad \sum_{n \geq n_0} x_n
 $$
 
-where $x_n \in k$ for each $n \geq n_0$. Formally, it is nothing but a map $\\{n_0, n_0 + 1, \ldots \\} \to E$.
+where $x_n \in k$ for each $n \geq n_0$. Formally, it is nothing but a map $\\{n \in \mathbb{Z} \\; : \\; n \geq n_0 \\} \to k$, with $x_n$ denoting the image of $n$.
