@@ -3,7 +3,7 @@
     "name": "convergence --of a series",
     "type": "definition",
     "dependencies": {
-        "6Y9W1VMN": "series"
+        "6Y9W1VMN": "series --in a normed field"
     },
     "definitions": {
         "6Y14D2JD_a": {
