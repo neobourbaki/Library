@@ -1,0 +1,19 @@
+{
+    "id": "1QTR4G3Q",
+    "name": "normed field",
+    "type": {
+        "4BCNPPIX": "field"
+    },
+    "dependencies": {
+    },
+    "definitions": {
+        "1QTR4G3Q_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
