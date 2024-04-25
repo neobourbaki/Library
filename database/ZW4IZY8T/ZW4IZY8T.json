@@ -3,7 +3,8 @@
     "name": "associativity --of matrix multiplication",
     "type": "theorem",
     "dependencies": {
-        "8M6CAY2R": "matrix",
+        "k": "7R2CT98Y:ring",
+        "8M6CAY2R": "matrix --over {k}",
         "7RG754YE": "matrix multiplication"
     },
     "statements": {
