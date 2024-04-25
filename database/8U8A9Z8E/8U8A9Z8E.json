@@ -1,9 +1,12 @@
 {
     "id": "8U8A9Z8E",
     "name": "continuous map --of topological spaces",
-    "type": "definition",
     "dependencies": {
-        "1KNNEI7L": "topological space"
+        "X": "1KNNEI7L:topological space",
+        "Y": "1KNNEI7L:topological space"
+    },
+    "type": {
+        "4CID84AD": "map {X}\u2192{Y}"
     },
     "definitions": {
         "8U8A9Z8E_a": {
