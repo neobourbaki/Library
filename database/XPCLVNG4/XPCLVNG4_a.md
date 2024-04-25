@@ -4,4 +4,4 @@ $$
 \mathop{\mathrm{tr}}(AB) = \sum_{i} (AB)_{ii} = \sum_{i,j} A_{ij} B_{ji}
 $$
 
-and so is $\mathop{\mathrm{tr}}(BA)$.
+and so is $\mathop{\mathrm{tr}}(BA)$ under the hypothesis that the ring $k$ is commutative.
