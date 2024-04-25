@@ -1,4 +1,4 @@
-Each matrix can be realized as a linear map of vector spaces, and associativity follows from the associativity of composition of maps:
+Each matrix over a field $k$ can be realized as a linear map of $k$-vector spaces, and associativity follows from the associativity of composition of maps:
 
 $$
 (f \circ g) \circ h = f \circ (g \circ h).
@@ -17,3 +17,5 @@ $$
 $$
 
 for any $v$, hence $(AB)C=A(BC)$.
+
+If $k$ is a (commutative) ring, then replace "vector spaces" by "free modules" over $k$.
