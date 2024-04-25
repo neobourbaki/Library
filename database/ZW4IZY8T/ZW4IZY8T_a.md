@@ -18,4 +18,4 @@ $$
 
 for any $v$, hence $(AB)C=A(BC)$.
 
-If $k$ is a (commutative) ring, then replace "vector spaces" by "free modules" over $k$.
+If $k$ is a ring (commutative or not), then replace "vector spaces" by "free modules" over $k$.
