@@ -1,6 +1,6 @@
 {
     "id": "6G2AU6L4",
-    "name": "open ball --in Euclidean space",
+    "name": "open ball --in metric space",
     "type": "definition",
     "dependencies": {
         "6G2DYFBY": "metric space"
