@@ -1,0 +1,21 @@
+{
+    "id": "6MN6WEQ7",
+    "name": "subspace --of a vector space",
+    "dependencies": {
+        "k": "4BCNPPIX:field",
+        "V": "2GM7AN7T:vector space --over {k}"
+    },
+    "type": {
+        "7XM484KI": "subset --of {V}"
+    },
+    "definitions": {
+        "6MN6WEQ7": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
