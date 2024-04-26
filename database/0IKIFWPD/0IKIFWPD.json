@@ -1,16 +1,17 @@
 {
     "id": "0IKIFWPD",
     "name": "subspace --of a vector space",
-    "type": "definition",
     "dependencies": {
         "k": "4BCNPPIX:field",
         "V": "2GM7AN7T:vector space over {k}"
+    },
+    "type": {
+        "7XM484KI": "subset --of {V}"
     },
     "definitions": {
         "0IKIFWPD_a": {
             "language": "en",
             "dependencies": {
-                "7XM484KI": "subset of {V}"
             },
             "comment": ""
         },
