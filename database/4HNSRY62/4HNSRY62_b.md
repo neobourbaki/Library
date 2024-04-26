@@ -13,3 +13,5 @@ $$
 $$
 
 - $\det(I) = 1$.
+
+If $k$ is a commutative ring, replace "vector space" by "free module" over $k$.
