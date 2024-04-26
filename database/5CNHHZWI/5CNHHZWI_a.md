@@ -4,4 +4,4 @@ $$
 \sum_{i=1}^{n} a_i v_i
 $$
 
-for $a_i \in k$. It is a $k$-vector space under addition and scalar multiplication on $V$.
+for $a_i \in k$. It is a vector subspace of $V$.
