@@ -1,4 +1,4 @@
-Let $X$ and $Y$ be metric spaces, and $f: U \to Y$ be a function on a subset $U \subseteq X$. For an accumulation point $x_0$ of $U$, and a point $y_0 \in Y$, one says that
+Let $X$ and $Y$ be metric spaces, and $f: U \to Y$ be a function on a subset $U \subseteq X$. For $x_0 \in X$ an accumulation point of $U$, and a point $y_0 \in Y$, one says that
 
 $$
 \lim_{x\to x_0} f(x) = y_0
