@@ -3,8 +3,8 @@
     "name": "matrix of a linear map",
     "dependencies": {
         "k": "4BCNPPIX:field",
-        "V": "2GM7AN7T:vector space over {k}",
-        "W": "2GM7AN7T:vector space over {k}",
+        "V": "3ULU55NP:vector space --over {k}",
+        "W": "3ULU55NP:vector space --over {k}",
         "f": "5BDJ54RG:linear map {V}→{W}",
         "B_V": "5QCVZP8Y:basis of {V}",
         "B_W": "5QCVZP8Y:basis of {W}"
