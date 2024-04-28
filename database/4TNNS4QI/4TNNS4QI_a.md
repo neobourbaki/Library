@@ -1,5 +1,4 @@
-Let $\mathfrak{g}$ be a Lie algebra over a field $k$. A *Cartan subalgebra* of $\mathfrak{g}$ is a nilponent subalgebra $\mathfrak{h} \subseteq \mathfrak{g}$ that is equal to its own normalizer, i.e.,
+A *Cartan subalgebra* of a Lie algebra $\mathfrak{g}$ over a field $k$ is a subalgebra $\mathfrak{h} \subseteq \mathfrak{g}$ such that
 
-$$
-\mathfrak{n}(\mathfrak{h}) := \\{ X \in \mathfrak{g} \\; : \\; [X, H] \in H \text{ for all } H \in \mathfrak{h} \\} = \mathfrak{h}.
-$$
+- $\mathfrak{h}$ is nilponent;
+- the normalizer $\\{ X \in \mathfrak{g} \\,:\\, [X, \mathfrak{h}] \subseteq \mathfrak{h} \\}$ of $\mathfrak{h}$ is equal to $\mathfrak{h}$.
