@@ -9,7 +9,7 @@
         "77TC3F5G_a": {
             "language": "en",
             "dependencies": {
-                "7RPDKE5L": "direct sum --of Lie algebra representations",
+                "7RPDKE5L": "direct sum --of Lie algebra representations"
             },
             "comment": ""
         }
