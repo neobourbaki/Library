@@ -1,9 +1,12 @@
 {
     "id": "77TC3F5G",
     "name": "semisimple representation --of a Lie algebra",
-    "type": "definition",
     "dependencies": {
-        "6DTG5YM7": "representation --of a Lie algebra"
+        "k": "4BCNPPIX:field",
+        "g": "3H8N6TE0:Lie algebra --over {k}"
+    },
+    "type": {
+        "6DTG5YM7": "representation --of {g} over {k}"
     },
     "definitions": {
         "77TC3F5G_a": {
