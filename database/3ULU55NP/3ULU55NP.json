@@ -1,0 +1,26 @@
+{
+    "id": "3ULU55NP",
+    "name": "finite-dimensional vector space --over a field",
+    "dependencies": {
+        "k": "4BCNPPIX:field"
+    },
+    "type": {
+        "2GM7AN7T": "vector space --over a field"
+    },
+    "definitions": {
+        "3ULU55NP_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "3ULU55NP_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
