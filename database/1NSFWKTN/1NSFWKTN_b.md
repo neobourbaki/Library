@@ -8,4 +8,4 @@ k^n & \xrightarrow{A} & k^m
 \end{array}
 $$
 
-commute.
+commutes.
