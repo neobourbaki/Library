@@ -5,7 +5,9 @@
         "ℂ": "8A9M00AK:complex numbers",
         "g": "1IYIAGFB:semisimple Lie algebra --over complex numbers"
     },
-    "type": "definition",
+    "type": {
+        "774ENMU3": "subalgebra --of {g}"
+    },
     "definitions": {
         "3KPRPA7U_a": {
             "language": "en",
