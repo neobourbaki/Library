@@ -3,7 +3,7 @@
     "name": "representation of a Lie algebra",
     "dependencies": {
         "F": "4BCNPPIX:field",
-        "G": "3H8N6TE0:Lie algebra over {F}",
+        "g": "3H8N6TE0:Lie algebra --over {F}",
         "k": "4BCNPPIX:field"
     },
     "type": {
