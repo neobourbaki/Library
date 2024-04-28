@@ -5,18 +5,20 @@
         "k": "4BCNPPIX:field"
     },
     "type": {
-        "2GM7AN7T": "vector space --over a field"
+        "V": "2GM7AN7T": "vector space --over {k}"
     },
     "definitions": {
         "3ULU55NP_a": {
             "language": "en",
             "dependencies": {
+                "8YNTJFQ9": "dimension --of {V}"
             },
             "comment": ""
         },
         "3ULU55NP_b": {
             "language": "en",
             "dependencies": {
+                "5QCVZP8Y": "basis --of {V}"
             },
             "comment": ""
         }
