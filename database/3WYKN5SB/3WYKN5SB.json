@@ -3,7 +3,9 @@
     "name": "complex differentiable",
     "type": "definition",
     "dependencies": {
-        "8A9M00AK": "complex numbers"
+        "C": "8A9M00AK:complex numbers",
+        "U": "7J61CJRC:domain --of complex plane",
+        "4CID84AD": "function {C}\u2192{U}"
     },
     "definitions": {
         "3WYKN5SB_a": {
