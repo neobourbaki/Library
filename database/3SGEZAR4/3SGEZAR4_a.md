@@ -1,1 +1,1 @@
-Let $M$ be a module over a ring $R$, and let $S$ be a subring of $R$. Then the *restriction of scalars* of $M$ is the same underlying abelian group $M$, with the operation $S \times M \to M$ by restriction the scalars in $R \times M \to M$.
+Let $M$ be a module over a ring $R$, and let $S$ be a subring of $R$. Then the *restriction of scalars* of $M$ is the same underlying abelian group $M$, with the operation $S \times M \to M$ by restricting the scalars in $R \times M \to M$.
