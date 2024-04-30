@@ -1,0 +1,26 @@
+{
+    "id": "8UHL3T1V",
+    "name": "subring --of a ring",
+    "dependencies": {
+        "R": "7R2CT98Y:ring"
+    },
+    "type": {
+        "7R2CT98Y": "ring"
+    },
+    "definitions": {
+        "8UHL3T1V_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "8UHL3T1V_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
