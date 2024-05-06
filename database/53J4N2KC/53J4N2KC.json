@@ -22,7 +22,7 @@
         "53J4N2KC_c": {
             "language": "en",
             "dependencies": {
-                "Z": "0ZWU1HEL:ring of integers",
+                "Z": "0ZWU1HEL:ring Z --of integers",
                 "8UBME7WQ": "module --over {Z}"
             },
             "comment": ""
