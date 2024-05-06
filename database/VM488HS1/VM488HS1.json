@@ -1,6 +1,6 @@
 {
     "id": "VM488HS1",
-    "name": "operation on ellipitic curve is associative",
+    "name": "operation on elliptic curve --is associative",
     "type": "theorem",
     "dependencies": {
         "5CQ915WC": "elliptic curve"
