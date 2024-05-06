@@ -3,16 +3,16 @@
     "name": "exponential of a matrix",
     "dependencies": {
         "k": "4BCNPPIX:field",
-        "A": "8M6CAY2R:matrix --over {k}",
-        "7RG754YE": "matrix multiplication"
+        "A": "8M6CAY2R:matrix --over {k}"
     },
     "type": {
-        "8M6CAY2R": "matrix --over {k}",
+        "8M6CAY2R": "matrix --over {k}"
     },
     "definitions": {
         "4VRQIJ31_a": {
             "language": "en",
             "dependencies": {
+                "7RG754YE": "matrix multiplication",
                 "6Y14D2JD": "convergence in {k}"
             },
             "comment": ""
