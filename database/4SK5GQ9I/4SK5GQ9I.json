@@ -3,8 +3,8 @@
     "name": "Hermitian matrix",
     "type": "definition",
     "dependencies": {
-        "C": "8A9M00AK:complex numbers"
-        "8M6CAY2R": "matrix --over {C}",
+        "C": "8A9M00AK:complex numbers",
+        "8M6CAY2R": "matrix --over {C}"
     },
     "definitions": {
         "4SK5GQ9I_a": {
