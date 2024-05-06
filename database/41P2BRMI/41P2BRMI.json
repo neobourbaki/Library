@@ -1,6 +1,6 @@
 {
     "id": "41P2BRMI",
-    "name": "image --of a homomorphism of modules --over a ring",
+    "name": "image --of a homomorphism of modules",
     "dependencies": {
         "R": "ring",
         "M": "module --over {R}",
