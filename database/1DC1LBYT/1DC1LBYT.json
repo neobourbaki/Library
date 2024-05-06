@@ -20,7 +20,7 @@
             "language": "en",
             "dependencies": {
                 "Mod": "44VYKHU7:category of modules --over {R}",
-                "6JD5HWKL": "sub-object --in category {Mod}"
+                "6JD5HWKL": "sub-object of {M} --in category {Mod}"
             },
             "comment": ""
         }
