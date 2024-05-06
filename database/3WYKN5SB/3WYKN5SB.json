@@ -5,7 +5,7 @@
     "dependencies": {
         "C": "8A9M00AK:complex numbers",
         "U": "7J61CJRC:domain --of complex plane",
-        "4CID84AD": "function {C}\u2192{U}"
+        "4CID84AD": "function {U}\u2192{C}"
     },
     "definitions": {
         "3WYKN5SB_a": {
