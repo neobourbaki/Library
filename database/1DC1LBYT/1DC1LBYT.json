@@ -1,6 +1,6 @@
 {
     "id": "1DC1LBYT",
-    "name": "submodule --of a module over a ring",
+    "name": "submodule --of a module",
     "dependencies": {
         "R": "7R2CT98Y:ring",
         "M": "8UBME7WQ:module --over {R}"
