@@ -5,7 +5,7 @@
         "k": "4BCNPPIX:field"
     },
     "type": {
-        "V": "2GM7AN7T": "vector space --over {k}"
+        "V": "2GM7AN7T:vector space --over {k}"
     },
     "definitions": {
         "3ULU55NP_a": {
