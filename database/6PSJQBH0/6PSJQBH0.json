@@ -2,10 +2,11 @@
     "id": "6PSJQBH0",
     "name": "irreducible polynomial --over a ring",
     "dependencies": {
-        "R": "67IMWPW4:commutative ring",
+        "R": "67IMWPW4:commutative ring"
+    },
+    "type": {
         "26S3FKEF": "polynomial --over {R}"
     },
-    "type": "definition",
     "definitions": {
         "6PSJQBH0_a": {
             "language": "en",
