@@ -10,7 +10,6 @@
         "RLU2Z20C_1": {
             "language": "en",
             "dependencies": {
-                "6PSJQBH0": "irreducible polynomial --over {R}"
             },
             "comment": ""
         }
