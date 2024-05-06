@@ -3,7 +3,7 @@
     "name": "Fundamental Theorem of Algebra",
     "type": "theorem",
     "dependencies": {
-        "R": "4E41D57C:real numbers"
+        "R": "4E41D57C:real numbers",
         "26S3FKEF": "polynomial --over {R}"
     },
     "statements": {
