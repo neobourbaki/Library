@@ -3,14 +3,13 @@
     "name": "power series",
     "type": "definition",
     "dependencies": {
-        "4E41D57C": "real numbers",
-        "8A9M00AK": "complex numbers"
+        "R": "67IMWPW4:commutative ring"
     },
     "definitions": {
         "8B9KJ77W_a": {
             "language": "en",
             "dependencies": {
-                "6Y9W1VMN": "series"
+                "6Y9W1VMN": "series --in {R}"
             },
             "comment": ""
         }
