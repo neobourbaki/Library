@@ -1,15 +1,16 @@
 {
     "id": "627VC4TI",
     "name": "Laurent series",
-    "type": "definition",
     "dependencies": {
-        "8A9M00AK": "complex numbers"
+        "C": "8A9M00AK:complex numbers"
+    },
+    "type": {
+        "6Y9W1VMN": "series --in {C}"
     },
     "definitions": {
         "627VC4TI_a": {
             "language": "en",
             "dependencies": {
-                "6Y9W1VMN": "series"
             },
             "comment": ""
         }
