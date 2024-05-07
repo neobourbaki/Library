@@ -1,12 +1,10 @@
 {
     "id": "6Y9W1VMN",
-    "name": "power series",
+    "name": "series",
     "dependencies": {
         "R": "67IMWPW4:commutative ring"
     },
-    "type": {
-        "67IMWPW4": "commutative ring"
-    },
+    "type": "defintion",
     "definitions": {
         "6Y9W1VMN_a": {
             "language": "en",
