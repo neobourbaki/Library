@@ -31,14 +31,14 @@
             },
             "comment": "solution to f'=f"
         },
-        "671ZFMDA_a": {
+        "671ZFMDA_d": {
             "language": "en",
             "dependencies": {
                 "55S7L2VM": "number e",
                 "62D5M55S": "limit in {R}"
             },
             "comment": "repeated multiplication, extended to reals"
-        },
+        }
     },
     "equivalences": {
     }
