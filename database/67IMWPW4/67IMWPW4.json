@@ -3,23 +3,21 @@
     "name": "commutative ring",
     "dependencies": {
     },
+    "type": {
+        "7R2CT98Y": "ring"
+    },
     "definitions": {
         "67IMWPW4_a": {
             "language": "en",
             "dependencies": {
+                "53J4N2KC": "abelian group",
                 "16AXGFEV": "binary operation"
-            },
-            "type": {
-                "53J4N2KC": "abelian group"
             },
             "comment": ""
         },
         "67IMWPW4_b": {
             "language": "en",
             "dependencies": {
-            },
-            "type": {
-                "7R2CT98Y": "ring"
             },
             "comment": ""
         }
