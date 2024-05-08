@@ -19,7 +19,8 @@
         "671ZFMDA_b": {
             "language": "en",
             "dependencies": {
-                "8B9KJ77W": "power series"
+                "8B9KJ77W": "power series",
+                "6Y14D2JD": "convergence in {R}"
             },
             "comment": "power series"
         },
@@ -29,7 +30,15 @@
                 "ASDF": "existence and uniqueness --of solution to linear ODE"
             },
             "comment": "solution to f'=f"
-        }
+        },
+        "671ZFMDA_a": {
+            "language": "en",
+            "dependencies": {
+                "55S7L2VM": "number e",
+                "62D5M55S": "limit in {R}"
+            },
+            "comment": "inverse to log"
+        },
     },
     "equivalences": {
     }
