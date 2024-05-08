@@ -37,7 +37,7 @@
                 "55S7L2VM": "number e",
                 "62D5M55S": "limit in {R}"
             },
-            "comment": "inverse to log"
+            "comment": "repeated multiplication, extended to reals"
         },
     },
     "equivalences": {
