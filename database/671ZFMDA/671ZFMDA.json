@@ -1,9 +1,11 @@
 {
     "id": "671ZFMDA",
     "name": "exponential function --of a real variable",
-    "type": "definition",
     "dependencies": {
-        "4E41D57C": "real numbers"
+        "R": "4E41D57C:real numbers"
+    },
+    "type": {
+        "4CID84AD": "map {R}\u2192{R}"
     },
     "definitions": {
         "671ZFMDA_a": {
@@ -21,10 +23,10 @@
             },
             "comment": "power series"
         },
-        "671ZFMDA_a": {
+        "671ZFMDA_c": {
             "language": "en",
             "dependencies": {
-                "ASDF": "existence and uniqueness --of solution to ODE"
+                "ASDF": "existence and uniqueness --of solution to linear ODE"
             },
             "comment": "solution to f'=f"
         }
