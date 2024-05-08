@@ -1,9 +1,11 @@
 {
     "id": "32L43CYA",
     "name": "spectrum of a ring",
-    "type": "definition",
     "dependencies": {
-        "67IMWPW4": "commutative ring"
+        "R": "67IMWPW4:commutative ring"
+    },
+    "type": {
+        "0FRYJCML": "locally ringed space"
     },
     "definitions": {
         "32L43CYA_a": {
