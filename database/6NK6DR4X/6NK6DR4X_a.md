@@ -1,4 +1,4 @@
-Let $R$ be a commutative ring. Then the *localization* of $R$ at an element $s \in R$, denoted $R_s$, is the set of equivalence classes of expressions
+Let $R$ be a commutative ring. The *localization* of $R$ at an element $s \in R$, denoted $R_s$, is the set of equivalence classes of expressions
 
 $$
 \frac{r}{s^n}, \qquad r \in R, n \in \mathbb{N}
