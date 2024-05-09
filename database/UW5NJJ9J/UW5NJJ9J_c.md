@@ -1,4 +1,4 @@
-It follows from repeated integration of the bound on $f^{(n)}$. For the sake of definiteness, take $n=3$ and assume $a < b$. Since 
+It follows from repeated integration of the bound on $f^{(n+1)}$. For the sake of definiteness, take $n+1=3$ and assume $a < b$. Since 
 
 $$
 -M \leq f'''(x) \leq M \\; , \qquad a < x < b
@@ -30,10 +30,10 @@ $$
 
 which, along with the other inequality, is exactly what was to be demonstrated.
 
-This clearly generalizes to $f\in C^{n}$ for any $n$:
+This clearly generalizes to $f\in C^{n+1}$ for any $n \geq 0$:
 
 $$
-\left|f(b) - \sum_{k=0}^{n-1} \frac{f^{(k)}(a)}{k!}(b - a)^{k} \right| \leq \frac{M}{n!} |b - a|^{n},
+\left|f(b) - \sum_{k=0}^{n} \frac{f^{(k)}(a)}{k!}(b - a)^{k} \right| \leq \frac{M}{(n+1)!} |b - a|^{n+1},
 $$
 
 where the absolute value is inserted to account for the case $a > b$.
