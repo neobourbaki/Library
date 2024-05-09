@@ -9,7 +9,7 @@ f(b)=f(a)+\int_a^b & \underbrace{f'(x_1)} \\,dx_1 \\\\
 \end{aligned}
 $$
 
-and by evaluating the integrals of the constant terms, we obtain the identity
+and by evaluating the integrals of the constants $f(a), f'(a), \ldots$, we obtain the identity
 
 $$
 f(b) = f(a) + f'(a) (b-a) + f''(a)\frac{(b-a)^2}{2} +  \int_a^b\\! \int_{a}^{x_1}\\!\\! \int_{a}^{x_2} f'''(x_3)\\,dx_3 dx_2 dx_1
