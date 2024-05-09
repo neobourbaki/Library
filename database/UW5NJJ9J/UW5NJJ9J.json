@@ -15,9 +15,6 @@
             "comment": ""
         }
     },
-    "formula": [
-        "\\left| f(b) - \\sum_{k=0}^{n-1} \frac{f^{(k)}(a)}{k!}(b-a)^k | \\leq \frac{M}{n!}|b-a|^n"
-    ],
     "proofs": {
         "UW5NJJ9J_a": {
             "language": "en",
