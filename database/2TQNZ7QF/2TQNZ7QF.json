@@ -34,7 +34,15 @@
                 "4CPNB8RQ": "automorphism group --in {C}"
             },
             "comment": ""
-        }
+        },
+        "2TQNZ7QF_d": {
+            "language": "en",
+            "dependencies": {
+                "M": "S63HRXXC:matrix algebra --of order {n} over {R}",
+                "1D4V1VDG": "multiplicative group --of {M}"
+            },
+            "comment": ""
+        },
     },
     "equivalences": {
     }
