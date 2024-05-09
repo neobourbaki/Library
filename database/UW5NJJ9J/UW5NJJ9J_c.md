@@ -10,13 +10,13 @@ $$
 \int_{a}^{x_1} f'''(x) \\, dx \leq \int_{a}^{x_1} M \\, dx = M (x_1 - a)
 $$
 
-(the other inequality is similar). By the Fundamental Theorem of Calculus, we have 
+and by the Fundamental Theorem of Calculus, 
 
 $$
-f''(x_1) - f''(a) \leq  M (x_1 - a).
+f''(x_1) - f''(a) \leq  M (x_1 - a)
 $$
 
-We can now integrate both sides, regarded as functions of $x_1$, from $a$ to an arbitrary point $x_2 \in [a, b]$
+(the other inequality is similar). We can now integrate both sides, regarded as functions of $x_1$, from $a$ to an arbitrary point $x_2 \in [a, b]$
 
 $$
 f'(x_2)-f'(a) - f''(a) (x_2 - a) \leq M \frac{(x_2 - a)^2}{2}.
