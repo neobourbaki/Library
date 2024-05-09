@@ -2,16 +2,17 @@
     "id": "1IRBEAFN",
     "name": "Lie algebra sl_n",
     "dependencies": {
-        "k": "4BCNPPIX:field"
+        "k": "4BCNPPIX:field",
+        "n": "63AS5IGZ:natural number"
     },
     "type": {
         "3H8N6TE0": "Lie algebra over {k}"
-    }
+    },
     "definitions": {
         "1IRBEAFN_a": {
             "language": "en",
             "dependencies": {
-                "8M6CAY2R": "matrix over {k}",
+                "1JUES0F3": "matrix of order {n} --over {k}",
                 "1LTQ58M1": "trace",
                 "XPCLVNG4": "tr(AB) = tr(BA)",
                 "GC89J6ZA": "Lie algebra --of an associative algebra"
