@@ -37,10 +37,10 @@ $$
 \frac{M}{(n+1)!}|b-a|^{n+1}
 $$
 
-as claimed; the only calculation incolved is that, for $k = 1, \ldots, n+1$,
+as claimed; the only calculation involved is that, for each $k \geq 1$,
 
 $$
 \int_{a}^{b}\\! \int_{a}^{x_1}\\!\\!\\!\cdots\\! \int_{a}^{x_{k-1}} dx_k\cdots dx_2 dx_1 = \frac{(b-a)^k}{k!}
 $$
 
-which is the (signed) volume of a particular $k$-simplex.
+which is the (signed) volume of a (right-angled) $k$-simplex.
