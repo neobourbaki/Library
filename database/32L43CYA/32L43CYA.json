@@ -11,7 +11,8 @@
         "32L43CYA_a": {
             "language": "en",
             "dependencies": {
-                "3GNTTUR1": "prime ideal"
+                "3GNTTUR1": "prime ideal",
+                "6NK6DR4X": "localization at an element"
             },
             "comment": ""
         }
