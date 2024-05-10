@@ -25,7 +25,7 @@
         "98SB2AL0_c": {
             "language": "en",
             "dependencies": {
-                "8M50VAGG": "derivative --of a function of a single variable --in a normed field"
+                "8M50VAGG": "derivative of a function --of a single variable in a normed field"
             },
             "comment": ""
         }
