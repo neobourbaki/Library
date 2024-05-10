@@ -1,10 +1,11 @@
 {
     "id": "16AXGFEV",
     "name": "binary / n-ary operation --on a set",
-    "type": "definition",
     "dependencies": {
         "S": "6WZ4C6XN:set"
     },
+    "template": "binary operation on {S}",
+    "type": "definition",
     "definitions": {
         "16AXGFEV_a": {
             "language": "en",
