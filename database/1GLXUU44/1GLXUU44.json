@@ -6,6 +6,7 @@
         "M": "8UBME7WQ:module --over {R}",
         "N": "1DC1LBYT:submodule of {M}"
     },
+    "template": "quotient module of {M} modulo {N}",
     "type": {
         "8UBME7WQ": "module --over {R}"
     },
