@@ -2,11 +2,11 @@
     "id": "1DUN1Q71",
     "name": "holomorphic / analytic function of a complex variable",
     "dependencies": {
-        "ℂ": "8A9M00AK:complex numbers",
+        "C": "8A9M00AK:complex numbers",
         "U": "7J61CJRC:domain --of the complex plane"
     },
     "type": {
-        "4CID84AD": "map {U}→{ℂ}"
+        "4CID84AD": "map {U}→{C}"
     },
     "definitions": {
         "1DUN1Q71_a": {
@@ -19,7 +19,7 @@
         "1DUN1Q71_b": {
             "language": "en",
             "dependencies": {
-                "8B9KJ77W": "power series",
+                "8B9KJ77W": "power series --in {C}",
                 "6Y14D2JD": "convergence"
             },
             "comment": "locally represented by a power series"
