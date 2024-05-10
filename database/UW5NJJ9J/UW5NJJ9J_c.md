@@ -22,7 +22,7 @@ $$
 f'(x_2)-f'(a) - f''(a) (x_2 - a) \leq M \frac{(x_2 - a)^2}{2}.
 $$
 
-By the same token, we integrate the above (as functions of $x_2$) from $a$ to the endpoint $b$
+By the same token, we integrate the above (as functions of $x_2$) from $a$ to the endpoint $b$,
 
 $$
 f(b) - f(a) - f'(a) (b - a) - f''(a)\frac{(b -a)^2}{2} \leq M\frac{(b - a)^3}{3!}
@@ -30,7 +30,7 @@ $$
 
 which, along with the lower bound, is exactly what was to be demonstrated.
 
-This clearly generalizes to $f\in C^{n+1}$ for any $n \geq 0$:
+This clearly generalizes to $f\in C^{n+1}$ for any $n \geq 0$, namely,
 
 $$
 \left|f(b) - \sum_{k=0}^{n} \frac{f^{(k)}(a)}{k!}(b - a)^{k} \right| \leq \frac{M}{(n+1)!} |b - a|^{n+1},
