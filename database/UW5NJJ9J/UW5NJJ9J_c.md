@@ -7,7 +7,7 @@ $$
 and $f'''$ is continuous, we can integrate from $a$ to an arbitrary point $x_1 \in [a, b]$
 
 $$
-\int_{a}^{x_1} f'''(x) \\, dx \leq \int_{a}^{x_1} M \\, dx = M (x_1 - a)
+\int_{a}^{x_1} f'''(x) \\, dx \leq \int_{a}^{x_1} M \\, dx = M \cdot (x_1 - a)
 $$
 
 and by the Fundamental Theorem of Calculus, 
