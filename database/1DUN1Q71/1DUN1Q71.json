@@ -12,7 +12,7 @@
         "1DUN1Q71_a": {
             "language": "en",
             "dependencies": {
-                "3WYKN5SB": "complex-differentiable"
+                "3WYKN5SB": "differentiable function --of a complex variable"
             },
             "comment": ""
         },
