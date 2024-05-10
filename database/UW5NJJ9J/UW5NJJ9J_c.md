@@ -13,7 +13,7 @@ $$
 and by the Fundamental Theorem of Calculus, 
 
 $$
-f''(x_1) - f''(a) \leq  M (x_1 - a).
+f''(x_1) - f''(a) \leq  M \cdot (x_1 - a).
 $$
 
 (Similarly for the lower bound.) We can now integrate both sides, regarded as functions of $x_1$, from $a$ to an arbitrary point $x_2 \in [a, b]$
