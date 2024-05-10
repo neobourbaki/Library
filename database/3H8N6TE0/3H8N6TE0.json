@@ -9,8 +9,8 @@
         "3H8N6TE0_a": {
             "language": "en",
             "dependencies": {
-                "2GM7AN7T": "vector space over {k}",
-                "16AXGFEV": "binary operation",
+                "g": "2GM7AN7T:vector space --over {k}",
+                "16AXGFEV": "binary operation --on {g}",
                 "03LC586U": "bilinear"
             },
             "comment": ""
