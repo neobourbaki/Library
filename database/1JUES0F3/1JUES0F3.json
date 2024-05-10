@@ -1,6 +1,6 @@
 {
     "id": "1JUES0F3",
-    "name": "matrix of order n --over a commutative ring",
+    "name": "matrix --over a commutative ring",
     "dependencies": {
         "n": "63AS5IGZ:natural number",
         "k": "67IMWPW4:commutative ring"
