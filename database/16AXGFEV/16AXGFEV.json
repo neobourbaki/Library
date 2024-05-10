@@ -1,6 +1,6 @@
 {
     "id": "16AXGFEV",
-    "name": "binary / n-ary operation --on a set",
+    "name": "binary operation --on a set",
     "dependencies": {
         "S": "6WZ4C6XN:set"
     },
