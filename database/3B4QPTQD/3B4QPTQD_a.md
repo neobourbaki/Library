@@ -4,4 +4,4 @@ $$
 \sum_{i \in I} \alpha_i v_i = 0 \\;, \qquad \alpha_i \in k
 $$
 
-only when all the $\alpha_i = 0$. We also say the members of $S$ are *linearly independent*.
+only when all the $\alpha_i = 0$. By abuse of language, one also says that the members of $S$ are *linearly independent*.
