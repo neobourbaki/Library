@@ -2,9 +2,10 @@
     "id": "1JK1WRZD",
     "name": "local ring",
     "dependencies": {
+    },
+    "type": {
         "R": "67IMWPW4:commutative ring"
     },
-    "type": "definition",
     "definitions": {
         "1JK1WRZD_a": {
             "language": "en",
