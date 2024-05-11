@@ -5,6 +5,7 @@
         "R": "4E41D57C:real numbers",
         "n": "63AS5IGZ:natural number"
     },
+    "template": "Euclidean {n}-space",
     "type": {
         "6G2DYFBY": "metric space"
     },
