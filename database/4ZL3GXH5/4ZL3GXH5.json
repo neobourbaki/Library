@@ -6,12 +6,13 @@
         "n": "63AS5IGZ:natural number"
     },
     "type": {
-        "14V58VEZ": "{R}^{n}"
+        "6G2DYFBY": "metric space"
     },
     "definitions": {
         "4ZL3GXH5_a": {
             "language": "en",
             "dependencies": {
+                "14V58VEZ": "{R}^{n}"
             },
             "comment": ""
         }
