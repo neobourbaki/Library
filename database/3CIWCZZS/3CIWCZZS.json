@@ -1,9 +1,10 @@
 {
     "id": "3CIWCZZS",
     "name": "number pi",
-    "type": "definition",
     "dependencies": {
-        "4E41D57C": "real numbers"
+    },
+    "type": {
+        "4E41D57C": "real number"
     },
     "definitions": {
         "3CIWCZZS_a": {
