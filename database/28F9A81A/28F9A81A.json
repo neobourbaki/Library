@@ -2,8 +2,10 @@
     "id": "28F9A81A",
     "name": "special linear group SL_n",
     "dependencies": {
+        "n": "63AS5IGZ:natural numbers",
         "k": "67IMWPW4:commutative ring"
     },
+    "template": "special linear group SL_{n} over {k}",
     "type": {
         "5PGIN6X2": "group"
     },
