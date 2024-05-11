@@ -3,7 +3,9 @@
     "name": "integral of a vector-valued function --of a real variable",
     "type": "definition",
     "dependencies": {
-        "4ZL3GXH5": "Euclidean space"
+        "R": "4E41D57C:real numbers",
+        "I": "6NA8726A:interval",
+        "9JC74TZG": "continuous function --of a real variable"
     },
     "definitions": {
         "04RJ43R8_a": {
