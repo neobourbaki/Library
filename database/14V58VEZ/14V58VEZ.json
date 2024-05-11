@@ -5,7 +5,10 @@
         "n": "63AS5IGZ:natural number",
         "S": "6WZ4C6XN:set"
     },
-    "type": "definition",
+    "template": "{S}^{n}",
+    "type": {
+        "6WZ4C6XN": "set"
+    },
     "definitions": {
         "14V58VEZ_a": {
             "language": "en",
