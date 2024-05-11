@@ -19,7 +19,7 @@
             "language": "en",
             "dependencies": {
                 "Grp": "7642ZFGI:category of groups",
-                "6JD5HWKL": "sub-object --in {Grp}"
+                "6JD5HWKL": "sub-object of {G} --in {Grp}"
             },
             "comment": ""
         }
