@@ -1,6 +1,6 @@
 {
     "id": "44VYKHU7",
-    "name": "category of modules over a ring",
+    "name": "category of modules --over a ring",
     "dependencies": {
         "R": "67IMWPW4:commutative ring"
     },
