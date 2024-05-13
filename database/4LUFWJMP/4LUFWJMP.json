@@ -1,10 +1,10 @@
 {
     "id": "4LUFWJMP",
     "name": "monoid",
+    "dependencies": {
+    },
     "type": {
         "M": "6WZ4C6XN:set"
-    },
-    "dependencies": {
     },
     "definitions": {
         "4LUFWJMP_a": {
