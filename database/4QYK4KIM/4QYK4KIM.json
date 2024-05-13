@@ -1,9 +1,12 @@
 {
     "id": "4QYK4KIM",
     "name": "Lie algebra of a Lie group",
-    "type": "definition",
     "dependencies": {
-        "3L40KKYW": "Lie group"
+        "3L40KKYW": "Lie group",
+        "R": "4E41D57C:real numbers"
+    },
+    "type": {
+        "3H8N6TE0": "Lie algebra --over {R}"
     },
     "statements": {
         "4QYK4KIM_a": {
