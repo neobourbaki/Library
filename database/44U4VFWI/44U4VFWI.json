@@ -1,9 +1,11 @@
 {
     "id": "44U4VFWI",
     "name": "initial / terminal object --in a category",
-    "type": "definition",
     "dependencies": {
-        "7AQ7Q586": "category"
+        "C": "7AQ7Q586:category"
+    },
+    "type": {
+        "71ZFNGRI": "object --in {C}"
     },
     "definitions": {
         "44U4VFWI_a": {
