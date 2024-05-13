@@ -2,6 +2,7 @@
     "id": "6NA8726A",
     "name": "interval",
     "dependencies": {
+        "R": "4E41D57C:real numbers"
     },
     "type": {
         "7XM484KI": "subset --of {R}"
@@ -10,7 +11,6 @@
         "6NA8726A_a": {
             "language": "en",
             "dependencies": {
-                "R": "4E41D57C:real numbers"
             },
             "comment": ""
         }
