@@ -1,9 +1,12 @@
 {
     "id": "5FND0LD7",
-    "name": "subspace --of a topological space",
-    "type": "definition",
+    "name": "subspace topology",
     "dependencies": {
-        "1KNNEI7L": "topological space"
+        "X": "1KNNEI7L:topological space",
+        "S": "7XM484KI:subset --of {X}"
+    },
+    "type": {
+        "1KNNEI7L": "topology on {S}"
     },
     "definitions": {
         "5FND0LD7_a": {
