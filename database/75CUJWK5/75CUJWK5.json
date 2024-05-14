@@ -9,7 +9,7 @@
         "75CUJWK5_a": {
             "language": "en",
             "dependencies": {
-                "1DUN1Q71": "holomorphic / analytic function of a complex variable",
+                "1DUN1Q71": "holomorphic function --of a complex variable",
                 "1234": "pole"
             },
             "comment": "holomorphic except poles"
@@ -25,7 +25,7 @@
         "75CUJWK5_a": {
             "language": "en",
             "dependencies": {
-                "1DUN1Q71": "holomorphic / analytic function of a complex variable"
+                "1DUN1Q71": "holomorphic function --of a complex variable"
             },
             "comment": "quotient of holomorphic functions"
         },
