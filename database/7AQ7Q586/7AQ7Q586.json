@@ -1,14 +1,15 @@
 {
     "id": "7AQ7Q586",
     "name": "category",
-    "type": "definition",
     "dependencies": {
     },
+    "type": "definition",
     "definitions": {
         "7AQ7Q586_a": {
             "language": "en",
             "dependencies": {
                 "6WZ4C6XN": "set",
+                "7CLVUDVP": "product --of sets",
                 "4CID84AD": "map --of sets"
             },
             "comment": ""
