@@ -10,14 +10,14 @@
         "03LC586U_a": {
             "language": "en",
             "dependencies": {
-                "5BDJ54RG": "linearity"
+                "5BDJ54RG": "linear"
             },
             "comment": "expressed as vector spaces"
         },
         "03LC586U_b": {
             "language": "en",
             "dependencies": {
-                "5BDJ54RG": "linearity"
+                "5BDJ54RG": "linear"
             },
             "comment": "expressed as modules"
         }
