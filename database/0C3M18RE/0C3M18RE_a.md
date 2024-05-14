@@ -10,4 +10,4 @@ X \sqcup Y  & \xleftarrow{i_2} & Y
 \end{array}
 $$
 
-Dually, the *coproduct* of a family of objects $X_i$, $i \in I$, is defined by reversing all the arrows, and is denoted $\coprod_{i \in I} X_i$.
+Similarly, the *coproduct* of a family of objects $X_i$, $i \in I$ is defined, and is denoted $\coprod_{i \in I} X_i$.
