@@ -16,6 +16,13 @@
             "dependencies": {
             },
             "comment": ""
+        },
+        "0NXHN36T_a": {
+            "language": "en",
+            "dependencies": {
+                "4L3L79QX": "direct sum --of vector spaces"
+            },
+            "comment": ""
         }
     },
     "equivalences": {
