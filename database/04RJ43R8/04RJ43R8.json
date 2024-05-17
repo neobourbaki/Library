@@ -1,12 +1,13 @@
 {
     "id": "04RJ43R8",
     "name": "integral of a vector-valued function --of a real variable",
-    "type": "definition",
     "dependencies": {
         "R": "4E41D57C:real numbers",
         "I": "6NA8726A:interval",
-        "9JC74TZG": "continuous function --of a real variable"
+        "f": "9JC74TZG:continuous function on {I}"
     },
+    "template": "integral of {f}",
+    "type": "definition",
     "definitions": {
         "04RJ43R8_a": {
             "language": "en",
