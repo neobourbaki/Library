@@ -6,6 +6,7 @@
         "k": "67IMWPW4:commutative ring",
         "A": "1JUES0F3:matrix of order {n} --over {k}"
     },
+    "template": "inverse matrix of {A}",
     "type": {
         "1JUES0F3": "matrix of order {n} --over {k}"
     },
