@@ -6,8 +6,9 @@
         "k": "4BCNPPIX:field",
         "V": "5EEV302V:representation of {G} --over {k}"
     },
+    "template": "character of {V}",
     "type": {
-        "4CID84AD:function {G}→{k}"
+        "4CID84AD": "function {G}→{k}"
     },
     "definitions": {
         "02I3P6L0_a": {
