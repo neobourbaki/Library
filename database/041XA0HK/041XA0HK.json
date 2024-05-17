@@ -4,6 +4,7 @@
     "dependencies": {
         "R": "854XXMYM:integral domain"
     },
+    "template": "field of fractions of {R}",
     "type": {
         "4BCNPPIX": "field"
     },
