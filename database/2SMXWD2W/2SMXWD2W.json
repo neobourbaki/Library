@@ -1,11 +1,14 @@
 {
     "id": "2SMXWD2W",
     "name": "cohomology --of a topological space",
-    "type": "definition",
     "dependencies": {
         "X": "1KNNEI7L:topological space",
-        "R": "commutative ring",
+        "R": "67IMWPW4:commutative ring",
         "A": "8UBME7WQ:module --over {R}"
+    },
+    "template": "cohomology group of {X} over {A}",
+    "type": {
+        "8UBME7WQ": "module --over {R}"
     },
     "definitions": {
         "2SMXWD2W_a": {
