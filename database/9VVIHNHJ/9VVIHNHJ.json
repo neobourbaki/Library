@@ -1,0 +1,19 @@
+{
+    "id": "9VVIHNHJ",
+    "name": "finite group",
+    "type": {
+        "5PGIN6X2": "group"
+    },
+    "dependencies": {
+    },
+    "definitions": {
+        "9VVIHNHJ_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
