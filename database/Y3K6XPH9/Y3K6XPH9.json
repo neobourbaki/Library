@@ -3,11 +3,12 @@
     "name": "Poincaré duality",
     "type": "definition",
     "dependencies": {
-        "4QZXI0AF": "manifold",
+        "X": "4QZXI0AF:manifold",
         "3M0FUVI4": "compact",
         "3456": "orientation",
-        "5X15KHEH": "homology",
-        "2SMXWD2W": "cohomology"
+        "A": "53J4N2KC:abelian group",
+        "5X15KHEH": "homology of {X} with coefficients in {A}",
+        "2SMXWD2W": "cohomology of {X} with coefficients in {A}"
     },
     "statements": {
         "Y3K6XPH9_1": {
