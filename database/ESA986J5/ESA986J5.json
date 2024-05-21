@@ -3,8 +3,8 @@
     "name": "Liouville's theorem",
     "type": "theorem",
     "dependencies": {
-        "8A9M00AK": "complex numbers",
-        "1DUN1Q71": "holomorphic function"
+        "C": "8A9M00AK:complex numbers",
+        "1DUN1Q71": "holomorphic function --on {C}"
     },
     "statements": {
         "ESA986J5_1": {
