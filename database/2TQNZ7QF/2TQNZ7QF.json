@@ -5,6 +5,7 @@
         "R": "67IMWPW4:commutative ring",
         "n": "63AS5IGZ:natural number"
     },
+    "template": "GL_{n} over {R}"
     "type": {
         "5PGIN6X2": "group"
     },
