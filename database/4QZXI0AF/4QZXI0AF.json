@@ -4,7 +4,9 @@
     "dependencies": {
         "n": "natural number"
     },
-    "type": "definition",
+    "type": {
+        "1KNNEI7L": "topological space"
+    },
     "definitions": {
         "4QZXI0AF_a": {
             "lauguage": "en",
