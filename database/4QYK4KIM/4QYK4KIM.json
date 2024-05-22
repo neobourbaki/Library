@@ -2,8 +2,8 @@
     "id": "4QYK4KIM",
     "name": "Lie algebra of a Lie group",
     "dependencies": {
-        "3L40KKYW": "Lie group",
-        "R": "4E41D57C:real numbers"
+        "R": "4E41D57C:real numbers",
+        "3L40KKYW": "real Lie group"
     },
     "type": {
         "3H8N6TE0": "Lie algebra --over {R}"
