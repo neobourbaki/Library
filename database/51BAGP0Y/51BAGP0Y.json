@@ -2,12 +2,12 @@
     "id": "51BAGP0Y",
     "name": "supremum / infimum",
     "dependencies": {
-        "S": "9ZPPEFGG:total ordered set",
-        "T": "7XM484KI:subset --of {S}"
+        "T": "9ZPPEFGG:total ordered set",
+        "S": "7XM484KI:subset --of {T}"
     },
-    "template": "supremum of {T}",
+    "template": "supremum of {S}",
     "type": {
-        "477289UH": "element of {S}"
+        "477289UH": "element of {T}"
     },
     "definitions": {
         "51BAGP0Y_a": {
