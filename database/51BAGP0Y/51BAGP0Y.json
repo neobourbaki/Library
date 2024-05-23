@@ -2,11 +2,13 @@
     "id": "51BAGP0Y",
     "name": "supremum / infimum",
     "dependencies": {
-        "S": "6WZ4C6XN:set",
-        "9ZPPEFGG": "total order --on {S}",
-        "7XM484KI": "subset --of {S}"
+        "S": "9ZPPEFGG:total ordered set",
+        "T": "7XM484KI:subset --of {S}"
     },
-    "type": "definition",
+    "template": "supremum of {T}",
+    "type": {
+        "477289UH": "element of {S}"
+    },
     "definitions": {
         "51BAGP0Y_a": {
             "language": "en",
