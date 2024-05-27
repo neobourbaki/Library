@@ -2,8 +2,8 @@
     "id": "9GN39VRH",
     "name": "sesquilinear form",
     "dependencies": {
-        "ℂ": "8A9M00AK:complex numbers",
-        "V": "2GM7AN7T:vector space over {ℂ}"
+        "C": "8A9M00AK:complex numbers",
+        "V": "2GM7AN7T:vector space over {C}"
     },
     "type": "definition",
     "definitions": {
