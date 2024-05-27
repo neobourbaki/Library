@@ -15,7 +15,7 @@
         "2XSYP2D5_a": {
             "language": "en",
             "dependencies": {
-                "6UUA82LQ": "tensor product --of {V} and {W} as vector spaces"
+                "6UUA82LQ": "tensor product {V}⊗{W} --as vector spaces"
             },
             "comment": ""
         }
