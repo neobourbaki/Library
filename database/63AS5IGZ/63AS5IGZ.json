@@ -4,6 +4,8 @@
     "dependencies": {
     },
     "type": {
+        "4LUFWJMP": "monoid",
+        "2D7X3VKT": "semiring"
     },
     "definitions": {
         "63AS5IGZ_a": {
