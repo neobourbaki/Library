@@ -5,17 +5,17 @@
         "C": "8A9M00AK:complex numbers",
         "g": "1IYIAGFB:semisimple Lie algebra --over complex numbers",
         "h": "3KPRPA7U:Cartan subalgebra of {g}",
-        "6DTG5YM7": "representation of {g} over {C}"
+        "V": "6DTG5YM7:representation of {g} over {C}"
     },
+    "template": "character of {V} --with respect to {h}",
+    "type": {
+        "h^*": "9EVZZ8HR:dual vector space of {h}"
+    }
     "statements": {
         "62DKJFVQ_a": {
             "language": "en",
             "dependencies": {
-                "h^*": "9EVZZ8HR:dual vector space of {h}",
                 "8YNTJFQ9": "dimension --of a vector space"
-            },
-            "type": {
-                "4CID84AD": "map {h}→{C}",
             },
             "comment": ""
         },
@@ -26,7 +26,7 @@
             },
             "type": {
                 "18ACACHZ": "group algebra of {h} over {C}"
-            }
+            },
             "comment": ""
         },
         "62DKJFVQ_c": {
@@ -44,9 +44,6 @@
             "language": "en",
             "dependencies": {
                 "02I3P6L0": "character --of a group representation"
-            },
-            "type": {
-                "4CID84AD": "map {h}→{C}",
             },
             "comment": ""
         }
