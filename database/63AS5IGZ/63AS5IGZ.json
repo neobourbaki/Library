@@ -19,6 +19,12 @@
             "dependencies": {
             },
             "comment": "Peano axioms"
+        },
+        "63AS5IGZ_c": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "cardinality of sets"
         }
     },
     "equivalences": {
