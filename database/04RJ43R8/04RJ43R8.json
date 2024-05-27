@@ -3,7 +3,8 @@
     "name": "integral of a vector-valued function --of a real variable",
     "dependencies": {
         "I": "6NA8726A:interval",
-        "E": "4ZL3GXH5:Euclidean space",
+        "n": "63AS5IGZ:natural number",
+        "E": "4ZL3GXH5:Euclidean {n}-space",
         "f": "9JC74TZG:continuous {E}-valued function on {I}"
     },
     "template": "integral of {f}",
