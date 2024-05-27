@@ -9,8 +9,8 @@
     },
     "template": "character of {V} --with respect to {h}",
     "type": {
-        "h^*": "9EVZZ8HR:dual vector space of {h}"
-    }
+        "9EVZZ8HR": "dual vector space of {h}"
+    },
     "statements": {
         "62DKJFVQ_a": {
             "language": "en",
