@@ -1,4 +1,4 @@
-The *natural numbers* are the equivalence classes of finite sets:
+The *natural numbers* are the equivalence classes of finite sets (finite cardinalities):
 
 - 0 = (the class of) the empty set;
 - 1 = sets containing 1 element;
