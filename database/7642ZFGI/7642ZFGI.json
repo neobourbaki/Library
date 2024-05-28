@@ -1,8 +1,9 @@
 {
     "id": "7642ZFGI",
     "name": "category of groups",
-    "type": "definition",
     "dependencies": {
+    },
+    "type": {
         "7AQ7Q586": "category"
     },
     "definitions": {
