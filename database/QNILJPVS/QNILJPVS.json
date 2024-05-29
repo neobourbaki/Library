@@ -1,0 +1,19 @@
+{
+    "id": "QNILJPVS",
+    "name": "Lagrange's theorem",
+    "dependencies": {
+    },
+    "type": "theorem",
+    "statements": {
+        "QNILJPVS_1": {
+            "language": "en",
+            "dependencies": {
+                "5PGIN6X2": "group",
+                "1IH0JM2A": "subgroup --of a group"
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+    }
+}
