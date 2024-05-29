@@ -19,8 +19,9 @@
         "MLNETN0Q_a": {
             "language": "en",
             "dependencies": {
-                "1D4V1VDG": "multiplicative group",
-                "QNILJPVS": "Lagrange's theorem"
+                "Z/pZ": "66G8X7DK: integers modulo {p}",
+                "G": "1D4V1VDG:multiplicative group --of {Z/pZ}",
+                "QNILJPVS": "Lagrange's theorem for {G}"
             },
             "comment": ""
         }
