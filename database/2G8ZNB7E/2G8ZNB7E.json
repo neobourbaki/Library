@@ -2,21 +2,23 @@
     "id": "2G8ZNB7E",
     "name": "open subset --of Euclidean space",
     "dependencies": {
-        "4ZL3GXH5": "Euclidean space"
+        "E": "4ZL3GXH5:Euclidean space"
     },
-    "type": "definition",
+    "type": {
+        "7XM484KI": "subset of {E}"
+    },
     "definitions": {
         "2G8ZNB7E_a": {
             "language": "en",
             "dependencies": {
-                "6G2AU6L4": "open ball"
+                "6G2AU6L4": "open ball --in {E}"
             },
             "comment": ""
         },
         "2G8ZNB7E_b": {
             "language": "en",
             "dependencies": {
-                "6G2AU6L4": "open ball"
+                "6G2AU6L4": "open ball --in {E}"
             },
             "comment": ""
         },
