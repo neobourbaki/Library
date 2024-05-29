@@ -6,7 +6,7 @@
     "type": {
         "4LUFWJMP": "monoid"
     },
-    "dependencies": {
+    "definitions": {
         "2D7X3VKT_a": {
             "language": "en",
             "dependencies": {
