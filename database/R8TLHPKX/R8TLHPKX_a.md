@@ -14,7 +14,7 @@ $$
 where
 
 $$
-E := \sum_i x_i \partial_i + \frac{n}{2}.
+E := \sum_i x_i \partial_i + \frac{n}{2}
 $$
 
 is the (shifted) Euler operator. Next,
