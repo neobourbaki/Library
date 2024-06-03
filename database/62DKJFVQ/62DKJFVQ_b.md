@@ -4,4 +4,4 @@ $$
 \chi_V = \sum_{\mu \in \mathfrak{h}^*} \dim(V_{\mu}) \\, e^{\mu} 
 $$
 
-where $V_{\mu} = \\{ v \in V \\, : \\, \pi(X)v = \langle \mu, X\rangle v \\; \text{for all} \\; X \in \mathfrak{h} \\}$ is the weight space of weight $\mu$, and $e^{\mu} \in \mathbb{C}\mathfrak{h}^*$ is the basis element for $\mu$.
+where $V_{\mu} := \\{ v \in V \\, : \\, \pi(X)v = \langle \mu, X\rangle v \\; \text{for all} \\; X \in \mathfrak{h} \\}$ is the weight space of weight $\mu$, and $e^{\mu} \in \mathbb{C}\mathfrak{h}^*$ is the basis element for $\mu$.
