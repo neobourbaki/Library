@@ -5,4 +5,4 @@ Let $\mathfrak{g}$ be a semisimple Lie algebra over the field $\mathbb{C}$ of co
 
 where $V \oplus W$ (and $V \otimes W$, resp.) is the direct sum (tensor product, resp.) of representations $V$ and $W$.
 
-In particular, for finite-dimensional (or $\mathfrak{h}$-finite) representations, the equality may be interpreted as equality of (complex) numbers.
+In particular, for finite-dimensional or $\mathfrak{h}$-finite representations, the equality may be interpreted as equality of (complex) numbers.
