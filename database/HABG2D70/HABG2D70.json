@@ -3,9 +3,9 @@
     "name": "",
     "type": "theorem",
     "dependencies": {
-        "1IRBEAFN": "Lie algebra 𝔰𝔩ₙ",
-        "3KPRPA7U": "Cartan subalgebra",
-        "2D5F8K66": "root system"
+        "sl_n": "1IRBEAFN:Lie algebra 𝔰𝔩ₙ",
+        "h": "3KPRPA7U:Cartan subalgebra --of {sl_n}",
+        "2D5F8K66": "root system of {sl_n} --with respect to {h}"
     },
     "statements": {
         "HABG2D70_1": {
