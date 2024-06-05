@@ -1,10 +1,11 @@
 {
     "id": "8I8TQVCL",
     "name": "simple Lie algebra --over complex numbers",
-    "type": "definition",
     "dependencies": {
-        "C": "8A9M00AK:complex numbers",
-        "g": "3H8N6TE0:Lie algebra --over {C}"
+        "C": "8A9M00AK:complex numbers"
+    },
+    "type": {
+        "15G7SJ9G": "simple Lie algebra --over {C}"
     },
     "statements": {
         "8I8TQVCL_a": {
@@ -18,11 +19,11 @@
         "8I8TQVCL_b": {
             "language": "en",
             "dependencies": {
-                "1IRBEAFN": "Lie algebra sl_n",
-                "1234": "Lie algebra so_n",
-                "2345": "Lie algebra sp_2n",
+                "1IRBEAFN": "Lie algebra sl_n({C})",
+                "1234": "Lie algebra so_n({C})",
+                "2345": "Lie algebra sp_2n({C})",
                 "2D5F8K66": "root system --of {g}",
-                "3456": "exceptional Lie algebras"
+                "3456": "exceptional Lie algebras over {C}"
             },
             "comment": "classification by root system"
         }
