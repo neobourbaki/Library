@@ -5,8 +5,9 @@
         "R": "7R2CT98Y:ring",
         "M": "8UBME7WQ:module --over {R}",
         "N": "8UBME7WQ:module --over {R}",
-        "3TA01A9S": "homomorphism {M}→{N}"
+        "f": "3TA01A9S:homomorphism {M}→{N}"
     },
+    "template": "kernel of {f}",
     "type": {
         "1DC1LBYT": "submodule --of {M}"
     },
@@ -21,7 +22,7 @@
             "language": "en",
             "dependencies": {
                 "Mod": "44VYKHU7:category of modules over {R}",
-                "2LX3Q9WD": "kernel in {Mod}"
+                "2LX3Q9WD": "kernel of {f} in {Mod}"
             },
             "comment": ""
         }
