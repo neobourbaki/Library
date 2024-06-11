@@ -17,8 +17,8 @@
         "8G2N9B2B_a": {
             "language": "en",
             "dependencies": {
-                "6W16LKYH": "functor",
-                "9R7U60UZ": "category of rings"
+                "C": "9R7U60UZ:category of rings",
+                "9VB50IBV": "sheaf on {X} in {C}"
             },
             "comment": ""
         },
