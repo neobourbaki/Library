@@ -2,7 +2,7 @@
     "id": "8G2N9B2B",
     "name": "sheaf of rings --on a topological space",
     "dependencies": {
-        "1KNNEI7L": "topological space"
+        "X": "1KNNEI7L:topological space"
     },
     "type": "definition",
     "definitions": {
