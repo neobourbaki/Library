@@ -13,7 +13,15 @@
                 "1139FRZX": "homomorphism of rings"
             },
             "comment": ""
-        }
+        },
+        "8G2N9B2B_a": {
+            "language": "en",
+            "dependencies": {
+                "6W16LKYH": "functor",
+                "9R7U60UZ": "category of rings"
+            },
+            "comment": ""
+        },
     },
     "equivalences": {
     }
