@@ -1,8 +1,8 @@
 {
     "id": "3RNBY9DF",
-    "name": "scheme over a field",
+    "name": "scheme over a commutative ring",
     "dependencies": {
-        "k": "4BCNPPIX:field"
+        "R": "67IMWPW4:commutative ring",
     },
     "type": {
         "015CQHZ7": "scheme"
@@ -11,7 +11,16 @@
         "3RNBY9DF_a": {
             "language": "en",
             "dependencies": {
-                "32L43CYA": "spectrum of {k}"
+                "32L43CYA": "spectrum of {R}"
+            },
+            "comment": ""
+        },
+        "3RNBY9DF_b": {
+            "language": "en",
+            "dependencies": {
+                "482U6RA1": "algebra --over {R}",
+                "32L43CYA": "spectrum of a ring",
+                "5GF68309": "stalk --of a sheaf",
             },
             "comment": ""
         }
