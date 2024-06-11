@@ -1,0 +1,21 @@
+{
+    "id": "3RNBY9DF",
+    "name": "scheme over a field",
+    "dependencies": {
+        "k": "4BCNPPIX:field"
+    },
+    "type": {
+        "015CQHZ7": "scheme"
+    },
+    "definitions": {
+        "3RNBY9DF_a": {
+            "language": "en",
+            "dependencies": {
+                "32L43CYA": "spectrum of {k}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
