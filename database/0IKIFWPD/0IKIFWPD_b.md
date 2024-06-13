@@ -4,4 +4,4 @@ $$
 v = \sum_{i \in I} \alpha_i v_i
 $$
 
-where $\alpha_i \in k$, all but finitely many of which is zero.
+where $\alpha_i \in k$, all but finitely many of which are zero.
