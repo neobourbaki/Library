@@ -1,4 +1,4 @@
-For $n \in \mathbb{N}$, a *vector* over a field $k$ is a $n$-tuple of elements of $k$,
+For $n \in \mathbb{N}$, a *vector* over a division ring $k$ is a $n$-tuple of elements of $k$,
 
 $$
 v = [a_1, \ldots, a_n] \in k^n
