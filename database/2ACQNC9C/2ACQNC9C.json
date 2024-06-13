@@ -2,7 +2,7 @@
     "id": "2ACQNC9C",
     "name": "projective n-space",
     "dependencies": {
-        "63AS5IGZ": "natural number"
+        "n": "63AS5IGZ:natural number"
     },
     "template": "projective {n}-space",
     "type": "definition",
