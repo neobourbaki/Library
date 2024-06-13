@@ -1,8 +1,8 @@
 {
     "id": "2GM7AN7T",
-    "name": "vector space --over a field",
+    "name": "vector space --over a division ring",
     "dependencies": {
-        "k": "4BCNPPIX:field"
+        "k": "0MSVL02A:division ring"
     },
     "type": "definition",
     "definitions": {
