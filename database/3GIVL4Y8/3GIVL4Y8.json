@@ -1,9 +1,11 @@
 {
     "id": "3GIVL4Y8",
     "name": "polynomial ring",
-    "type": "definition",
     "dependencies": {
-        "R": "67IMWPW4:commutative ring"
+        "R": "67IMWPW4:commutative ring",
+    },
+    "type": {
+        "0NJKG2T0": "algebra --over {R}"
     },
     "definitions": {
         "3GIVL4Y8_a": {
@@ -19,5 +21,7 @@
             },
             "comment": ""
         }
+    },
+    "equivalences": {
     }
 }
