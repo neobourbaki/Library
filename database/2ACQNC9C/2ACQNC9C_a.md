@@ -6,4 +6,7 @@ A *projective* $n$-*space* consists of
 - ....
 - a set of $(n-1)$-*planes*
 
-and *incidence relations* among them.
+and *incidence relations* among them, such that
+
+- for any two distinct points, there is a unique line incident on both;
+- 
