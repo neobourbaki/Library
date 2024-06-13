@@ -12,6 +12,8 @@ and *incidence relations* among them, such that
 - a 2-plane is incident on at least three points;
 - ...
 
+and
+
 - for any two distinct points, there is a unique line incident on both;
 - for any three distinct points that are not *colinear*, there is unique 2-plane incident on all three;
 - ...
