@@ -1,4 +1,4 @@
-The (real) *projective plane* is the quotient space of the manifold $\mathbb{R}^3 - \\{0\\}$ by the action of a group
+The (real) *projective plane* is the quotient space of the manifold $\mathbb{R}^3 - \\{0\\}$ by the action of the group $\mathbb{R}^*$,
 
 $$
 \mathbb{P}^3 = (\mathbb{R}^3 - \\{0\\}) / \mathbb{R}^*.
