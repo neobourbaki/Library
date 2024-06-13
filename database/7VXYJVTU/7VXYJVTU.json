@@ -1,8 +1,8 @@
 {
     "id": "7VXYJVTU",
-    "name": "projective space --over a field",
+    "name": "projective space --over a division ring",
     "dependencies": {
-        "k": "4BCNPPIX：field",
+        "k": "0MSVL02A：division ring",
         "n": "63AS5IGZ:natural number"
     },
     "template": "projective {n}-space --over {k}",
