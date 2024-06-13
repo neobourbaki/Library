@@ -1,1 +1,1 @@
-A *vector space* over a division ring $k$ is a module over $k$.
+A *vector space* over a division ring $k$ is a (left) module over $k$.
