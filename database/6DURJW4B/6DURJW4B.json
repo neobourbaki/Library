@@ -1,8 +1,13 @@
 {
     "id": "6DURJW4B",
     "name": "real projective plane",
-    "type": "definition",
     "dependencies": {
+        "R": "4E41D57C:real numbers"
+    },
+    "type": {
+        "2ACQNC9C": "projective 2-space",
+        "4QZXI0AF": "manifold",
+        "8MZK0C77": "algebraic variety --over {R}"
     },
     "definitions": {
         "6DURJW4B_a": {
