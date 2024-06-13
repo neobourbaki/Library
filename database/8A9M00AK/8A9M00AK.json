@@ -2,22 +2,22 @@
     "id": "8A9M00AK",
     "name": "complex numbers",
     "dependencies": {
+        "R": "4E41D57C:real numbers"
     },
     "type": {
-        "1QTR4G3Q": "normed field"
+        "1QTR4G3Q": "normed field",
+        "482U6RA1": "algebra --over {R}"
     },
     "definitions": {
         "8A9M00AK_a": {
             "language": "en",
             "dependencies": {
-                "R": "4E41D57C:real numbers"
             },
             "comment": "as pairs of real numbers"
         },
         "8A9M00AK_b": {
             "language": "en",
             "dependencies": {
-                "R": "4E41D57C:real numbers",
                 "R[x]": "3GIVL4Y8:polynomial ring --over {R}",
                 "485YWHBH": "quotient ring --of R[x]"
             },
