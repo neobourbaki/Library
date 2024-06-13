@@ -1,7 +1,7 @@
-The *linear span* of a set of vectors $v_i$, $i \in I$, in a vector space $V$ over a field $k$ is the set of (finite) *linear combinations*
+The *linear span* of a set of vectors $v_i$, $i \in I$, in a vector space $V$ over a division ring $k$ is the set of (finite) *linear combinations*
 
 $$
 \sum_{i \in I} a_i v_i
 $$
 
-for $a_i \in k$, all but finitely many of which are zero. It is a $k$-vector space under addition and scalar multiplication on $V$.
+for $a_i \in k$, all but finitely many of which are zero. It is a $k$-vector space under the addition and the scalar multiplication on $V$.
