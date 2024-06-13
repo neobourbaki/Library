@@ -8,6 +8,10 @@ A *projective* $n$-*space* consists of
 
 and *incidence relations* among them, such that
 
+- a line is incident on at least two points;
+- a 2-plane is incident on at least three points;
+- ...
+
 - for any two distinct points, there is a unique line incident on both;
 - for any three distinct points that are not *colinear*, there is unique 2-plane incident on all three;
 - ...
