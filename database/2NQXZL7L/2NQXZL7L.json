@@ -20,7 +20,7 @@
         "2NQXZL7L_b": {
             "language": "en",
             "dependencies": {
-                "7P1XLPWT": "free module over {k}"
+                "7P1XLPWT": "free module on {S} over {k}"
             },
             "comment": ""
         }
