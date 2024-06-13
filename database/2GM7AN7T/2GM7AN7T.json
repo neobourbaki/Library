@@ -4,7 +4,9 @@
     "dependencies": {
         "k": "0MSVL02A:division ring"
     },
-    "type": "definition",
+    "type": {
+        "8UBME7WQ": "module over {k}"
+    },
     "definitions": {
         "2GM7AN7T_a": {
             "language": "en",
@@ -16,9 +18,6 @@
         "2GM7AN7T_b": {
             "language": "en",
             "dependencies": {
-            },
-            "type": {
-                "8UBME7WQ": "module over {k}"
             },
             "comment": ""
         },
