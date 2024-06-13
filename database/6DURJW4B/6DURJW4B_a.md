@@ -4,4 +4,4 @@ The (real) *projective plane* is the extension of the Euclidean plane (plane of 
 - $p$ is a point at infinity, and $L$ is a line in the equivalence class for $p$;
 - $p$ is a point at infinity, and $L$ is the line at infinity.
 
-One may regard the line as the set of all points incident on it, and use the set-theoretic notation $p \in L$.
+One may regard the line as the set of all points incident on it, and use the set notation $p \in L$ to denote incidence.
