@@ -5,6 +5,7 @@
         "R": "67IMWPW4:commutative ring",
     },
     "type": {
+        "67IMWPW4": "commutative ring",
         "0NJKG2T0": "algebra --over {R}"
     },
     "definitions": {
