@@ -21,7 +21,14 @@
                 "8UBME7WQ": "module over {k}"
             },
             "comment": ""
-        }
+        },
+        "2GM7AN7T_c": {
+            "language": "en",
+            "dependencies": {
+                "14V58VEZ": "n-tuple in {k}"
+            },
+            "comment": ""
+        },
     },
     "equivalences": {
     }
