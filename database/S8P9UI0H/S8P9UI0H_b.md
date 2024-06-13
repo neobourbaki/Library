@@ -12,4 +12,4 @@ $$
 
 at any $x\in I$. It follows that $g$ is constant, by an application of the mean value theorem.
 
-In the case that $f'$ fails to exist at one or both endpoints of $I$, we may use a continuity argument.
+In the case that $f'$ fails to exist at one or both endpoints of $I$, one may argue by taking limits there.
