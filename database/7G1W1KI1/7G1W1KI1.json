@@ -1,0 +1,20 @@
+{
+    "id": "7G1W1KI1",
+    "name": "quarternions",
+    "dependencies": {
+    },
+    "type": {
+        "0MSVL02A": "division ring"
+    },
+    "definitions": {
+        "7G1W1KI1_a": {
+            "language": "en",
+            "dependencies": {
+                "4E41D57C": "real numbers"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
