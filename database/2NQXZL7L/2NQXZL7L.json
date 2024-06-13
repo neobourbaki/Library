@@ -16,13 +16,6 @@
             "dependencies": {
             },
             "comment": ""
-        },
-        "2NQXZL7L_b": {
-            "language": "en",
-            "dependencies": {
-                "7P1XLPWT": "free module on {S} over {k}"
-            },
-            "comment": ""
         }
     },
     "equivalences": {
