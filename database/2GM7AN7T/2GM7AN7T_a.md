@@ -1,4 +1,4 @@
-A *vector space* over a field $k$ is an abelian group $(V, +)$, together with a map $k \times V \to V$, $(\alpha, v) \mapsto \alpha v$ (called *scalar multiplication*), satisfying
+A *vector space* over a division ring $k$ is an abelian group $(V, +)$, together with a map $k \times V \to V$, $(\alpha, v) \mapsto \alpha v$ (called *scalar multiplication*), satisfying
 
 - $\alpha (v + w) = \alpha v + \alpha w$
 - $(\alpha + \beta) v = \alpha v + \beta v$
