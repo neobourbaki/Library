@@ -26,7 +26,7 @@
             },
             "comment": "integral"
         },
-        "3CIWCZZS_a": {
+        "3CIWCZZS_d": {
             "language": "en",
             "dependencies": {
                 "1234": "sin(x)"
