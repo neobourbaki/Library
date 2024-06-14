@@ -2,7 +2,7 @@
     "id": "5QCVZP8Y",
     "name": "basis --of a vector space",
     "dependencies": {
-        "k": "4BCNPPIX:field",
+        "k": "0MSVL02A:division ring",
         "V": "2GM7AN7T:vector space --over {k}"
     },
     "type": "definition",
