@@ -2,7 +2,8 @@
     "id": "0EG3ZRQD",
     "name": "Cauchy sequence --in a metric space",
     "dependencies": {
-        "M": "6G2DYFBY:metric space"
+        "k": "7YQ2QQGH:ordered field",
+        "M": "6G2DYFBY:metric space --over {k}"
     },
     "type": {
         "68VSQXWU": "sequence in {M}"
