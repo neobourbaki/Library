@@ -1,11 +1,11 @@
 {
     "id": "6G2DYFBY",
     "name": "metric space",
-    "type": "definition",
     "dependencies": {
-        "6WZ4C6XN": "set",
-        "7YQ2QQGH": "ordered field"
+        "k": "7YQ2QQGH:ordered field"
     },
+    "template": "metric space over {k}",
+    "type": "definition",
     "definitions": {
         "6G2DYFBY_a": {
             "language": "en",
