@@ -1,10 +1,12 @@
 {
     "id": "8YNTJFQ9",
     "name": "dimension --of a vector space",
-    "type": "definition",
     "dependencies": {
-        "k": "4BCNPPIX:field",
+        "k": "0MSVL02A:division ring",
         "V": "2GM7AN7T:vector space over {k}"
+    },
+    "type": {
+        "4V7ZN5AD": "cardinal number"
     },
     "definitions": {
         "8YNTJFQ9_a": {
