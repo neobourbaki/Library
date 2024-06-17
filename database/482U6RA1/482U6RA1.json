@@ -4,6 +4,7 @@
     "dependencies": {
         "R": "7R2CT98Y:ring"
     },
+    "template": "algebra over {R}",
     "type": {
         "S": "7R2CT98Y:ring",
         "8UBME7WQ": "module over {R}"
