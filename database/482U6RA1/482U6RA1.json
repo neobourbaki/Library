@@ -12,8 +12,7 @@
         "482U6RA1_a": {
             "language": "en",
             "dependencies": {
-                "03LC586U": "bilinear",
-                "7R2CT98Y": "ring"
+                "03LC586U": "bilinear"
             },
             "comment": ""
         },
