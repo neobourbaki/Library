@@ -9,4 +9,4 @@ $$
 \mathcal{F}(U) \to \prod_i \mathcal{F}(U \cap U_i)
 $$
 
-is injective; i.e., for $f_i \in \mathcal{F}(U_i)$ that agree on intersections, there is a unique $f \in \mathcal{F}(\bigcup_i U_i)$ that is defined by *gluing* the $f_i$'s along the intersections.
+is injective; i.e., for $f_i \in \mathcal{F}(U_i)$ that agree on intersections, there is a unique $f \in \mathcal{F}(U)$ that is defined by *gluing* the $f_i$'s along the intersections.
