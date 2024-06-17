@@ -4,12 +4,13 @@
     "dependencies": {
         "R": "7R2CT98Y:ring"
     },
+    "type": {
+        "S": "7R2CT98Y:ring",
+        "8UBME7WQ": "module over {R}"
+    },
     "definitions": {
         "482U6RA1_a": {
             "language": "en",
-            "type": {
-                "8UBME7WQ": "module over {R}"
-            },
             "dependencies": {
                 "03LC586U": "bilinear",
                 "7R2CT98Y": "ring"
@@ -18,9 +19,6 @@
         },
         "482U6RA1_b": {
             "language": "en",
-            "type": {
-                "S": "7R2CT98Y:ring"
-            },
             "dependencies": {
                 "1139FRZX": "homomorphism {R}→{S} of rings"
             },
