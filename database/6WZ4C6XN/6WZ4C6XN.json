@@ -2,9 +2,10 @@
     "id": "6WZ4C6XN",
     "name": "set",
     "dependencies": {
-        "477289UH": "element of a set"
+        "element": "elements"
     },
-    "type": "undefined",
+    "template": "set of {element}s"
+    "type": "definition",
     "definitions": {
         "6WZ4C6XN_a": {
             "language": "en",
