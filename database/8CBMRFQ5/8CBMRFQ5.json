@@ -1,10 +1,12 @@
 {
     "id": "8CBMRFQ5",
     "name": "category of abelian groups",
-    "type": "definition",
     "dependencies": {
-        "7AQ7Q586": "category",
-        "53J4N2KC": "abelian group"
+        "obj": "53J4N2KC:abelian group",
+        "mor": "7Y0E21ED:homomorphism of groups"
+    },
+    "type": {
+        "7AQ7Q586": "category of {obj}s and {mor}s"
     },
     "definitions": {
         "8CBMRFQ5_a": {
