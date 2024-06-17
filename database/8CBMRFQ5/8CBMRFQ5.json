@@ -14,6 +14,14 @@
             "dependencies": {
             },
             "comment": ""
+        },
+        "8CBMRFQ5_b": {
+            "language": "en",
+            "dependencies": {
+                "Grp": "7642ZFGI:category of groups",
+                "69PNP2YP": "full subcategory"
+            },
+            "comment": ""
         }
     },
     "equivalences": {
