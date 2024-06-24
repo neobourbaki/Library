@@ -17,11 +17,11 @@
         "8G2N9B2B_b": {
             "language": "en",
             "dependencies": {
-                "C": "9R7U60UZ:category of rings",
-                "9VB50IBV": "sheaf on {X} in {C}"
+                "Ring": "9R7U60UZ:category of rings",
+                "9VB50IBV": "sheaf on {X} in {Ring}"
             },
             "comment": ""
-        },
+        }
     },
     "equivalences": {
     }
