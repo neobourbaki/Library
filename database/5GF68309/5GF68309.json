@@ -1,6 +1,6 @@
 {
     "id": "5GF68309",
-    "name": "stalk --of a sheaf",
+    "name": "stalk --of a sheaf of rings",
     "dependencies": {
         "X": "1KNNEI7L:topological space",
         "F": "8G2N9B2B:sheaf of rings --on {X}"
