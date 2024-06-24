@@ -19,9 +19,10 @@
             "language": "en",
             "dependencies": {
                 "Alg": "6B87KF3K:category of {R}-algebras",
-                "9VB50IBV": "sheaf on {X} in {Alg}",
+                "O": "9VB50IBV:sheaf on {X} in {Alg}",
                 "32L43CYA": "spectrum of a ring",
-                "5GF68309": "stalk --of a sheaf of rings on {X}"
+                "5GF68309": "stalk --of {O}",
+                "1JK1WRZD": "local ring"
             },
             "comment": ""
         }
