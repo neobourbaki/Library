@@ -21,7 +21,7 @@
                 "Alg": "6B87KF3K:category of {R}-algebras",
                 "9VB50IBV": "sheaf on {X} in {Alg}",
                 "32L43CYA": "spectrum of a ring",
-                "5GF68309": "stalk --of a sheaf"
+                "5GF68309": "stalk --of a sheaf of rings on {X}"
             },
             "comment": ""
         }
