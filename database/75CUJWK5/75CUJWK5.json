@@ -1,9 +1,12 @@
 {
     "id": "75CUJWK5",
     "name": "meromorphic function --of a complex variable",
-    "type": "definition",
     "dependencies": {
-        "8A9M00AK": "complex numbers"
+        "U": "7J61CJRC:domain --of the complex plane",
+        "C": "8A9M00AK:complex numbers"
+    },
+    "type": {
+        "4CID84AD": "map {U}→{C}"
     },
     "statements": {
         "75CUJWK5_a": {
