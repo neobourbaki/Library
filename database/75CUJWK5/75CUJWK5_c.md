@@ -4,4 +4,4 @@ $$
 f(z) = g(z) / h(z)
 $$
 
-for all $z \in U$ such that $h(z) \neq 0$.
+for all $z \in U \setminus Z$.
