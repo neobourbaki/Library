@@ -3,7 +3,9 @@
     "name": "Taylor's theorem --for holomorphic functions",
     "type": "theorem",
     "dependencies": {
-        "1DUN1Q71": "holomorphic / analytic functions"
+        "U": "7J61CJRC:domain --of the complex plane",
+        "C": "8A9M00AK:complex numbers",
+        "f": "1DUN1Q71:holomorphic function {U}→{C}"
     },
     "statements": {
         "S8YT4BY5_1": {
