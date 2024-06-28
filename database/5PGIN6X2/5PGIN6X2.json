@@ -4,13 +4,13 @@
     "dependencies": {
     },
     "type": {
-        "6WZ4C6XN": "set"
     },
     "definitions": {
         "5PGIN6X2_a": {
             "language": "en",
             "dependencies": {
-                "16AXGFEV": "binary operation"
+                "G": "6WZ4C6XN:set",
+                "m": "16AXGFEV:binary operation --on {G}"
             },
             "comment": "abstract"
         },
