@@ -19,6 +19,8 @@
         "5PGIN6X2_b": {
             "language": "en",
             "dependencies": {
+                "X": "6WZ4C6XN:set",
+                "3HLCRTQW": "bijective map {X}→{X}"
             },
             "comment": "as transformations on a set"
         },
