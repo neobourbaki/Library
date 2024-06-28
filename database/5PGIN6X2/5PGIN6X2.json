@@ -4,6 +4,8 @@
     "dependencies": {
     },
     "type": {
+        "4LUFWJMP": "monoid",
+        "75BT39WI": "groupoid"
     },
     "definitions": {
         "5PGIN6X2_a": {
@@ -23,14 +25,12 @@
         "5PGIN6X2_c": {
             "language": "en",
             "dependencies": {
-                "4LUFWJMP": "monoid"
             },
             "comment": "as a monoid"
         },
         "5PGIN6X2_d": {
             "language": "en",
             "dependencies": {
-                "75BT39WI": "groupoid"
             },
             "comment": "as a groupoid"
         }
