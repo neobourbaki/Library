@@ -1,1 +1,1 @@
-A group $G$ is *finite* is the number of elements in $G$ is finite.
+A group $G$ is *finite* is the set of elements in $G$ is finite.
