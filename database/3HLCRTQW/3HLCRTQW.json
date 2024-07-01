@@ -2,9 +2,12 @@
     "id": "3HLCRTQW",
     "name": "bijective / invertible map",
     "dependencies": {
-        "4CID84AD": "map --of sets"
+        "X": "6WZ4C6XN:set",
+        "Y": "6WZ4C6XN:set"
     },
-    "type": "definition",
+    "type": {
+        "4CID84AD": "map {X}\u2192{Y}"
+    },
     "definitions": {
         "3HLCRTQW_a": {
             "language": "en",
@@ -15,7 +18,7 @@
         "3HLCRTQW_b": {
             "language": "en",
             "dependencies": {
-                "1234": "injective",
+                "83R3LTWK": "injective",
                 "2345": "surjective"
             },
             "comment": ""
