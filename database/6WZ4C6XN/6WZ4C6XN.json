@@ -4,7 +4,7 @@
     "dependencies": {
         "element": "elements"
     },
-    "template": "set of {element}s"
+    "template": "set of {element}s",
     "type": "definition",
     "definitions": {
         "6WZ4C6XN_a": {
