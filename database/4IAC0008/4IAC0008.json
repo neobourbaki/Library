@@ -11,6 +11,7 @@
         "4IAC0008": {
             "language": "en",
             "dependencies": {
+                "37YMGB24": "finite set"
             },
             "comment": ""
         }
