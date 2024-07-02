@@ -2,7 +2,7 @@
     "id": "QNILJPVS",
     "name": "Lagrange's theorem",
     "dependencies": {
-        "G": "5PGIN6X2:group",
+        "G": "9VVIHNHJ:finite group",
         "H": "1IH0JM2A:subgroup of {G}"
     },
     "type": "theorem",
