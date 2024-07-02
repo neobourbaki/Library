@@ -31,13 +31,13 @@ $$
 f(b) = \sum_{k=0}^{n}\frac{f^{(k)}(a)}{k!} (b-a)^k +  \int_{a}^{b}\\! \int_{a}^{x_1}\\!\\!\\!\\!\cdots\\! \int_{a}^{x_{n}} f^{(n+1)}(x_{n+1})\\,dx_{n+1} \cdots dx_2 dx_1
 $$
 
-where the $(n+1)$-fold iterated integral is simply bounded by
+where the $(n+1)$-fold iterated integral is trivially bounded by
 
 $$
 \frac{M}{(n+1)!}|b-a|^{n+1}
 $$
 
-as claimed; the only calculation involved is that, for each $k \geq 1$,
+which is what was to be proved; the only calculation involved is that, for each $k \geq 1$,
 
 $$
 \int_{a}^{b}\\! \int_{a}^{x_1}\\!\\!\\!\cdots\\! \int_{a}^{x_{k-1}} dx_k\cdots dx_2 dx_1 = \frac{(b-a)^k}{k!}
