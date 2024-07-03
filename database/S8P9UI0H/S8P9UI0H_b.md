@@ -6,10 +6,17 @@ $$
 
 with $a$ fixed. By continuity of $f'$, the function $g$ is well-defined, and we are to show $g(b)=g(a)$. Indeed, by another Fundamental Theorem of Calculus, the integral is differentiable with respect to the upper limit, and
 
+
 $$
-g'(x) = f'(x) - \frac{d}{dx}\int_a^x f'(t)\\,dt = f'(x) - f'(x) = 0
+\frac{d}{dx}\int_a^x f'(t)\\,dt = f'(x) 
 $$
 
-at any $x\in I$. It follows that $g$ is constant, by an application of the mean value theorem.
+which implies that
+
+$$
+g'(x) = f'(x) - f'(x) = 0
+$$
+
+for all $x\in I$. It follows that $g$ is constant, by an application of the mean value theorem. Indeed, $ g(b) = g(a) + g'(\xi) (b - a)$ for some $\xi$ between $a$ and $b$, hence $g(b) = g(a)$. 
 
 In the case that $f'$ fails to exist at one or both endpoints of $I$, one may argue by taking limits there.
