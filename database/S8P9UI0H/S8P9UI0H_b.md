@@ -11,7 +11,7 @@ $$
 \frac{d}{dx}\int_a^x f'(t)\\,dt = f'(x) 
 $$
 
-which implies that
+which makes
 
 $$
 g'(x) = f'(x) - f'(x) = 0
