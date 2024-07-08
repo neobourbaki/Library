@@ -4,4 +4,4 @@ $$
 \sum_{n \geq n_0} a_n (x - x_0)^n
 $$
 
-for each $x \in R$, with coefficients $a_n \in R$.
+for each $x \in R$, with coefficients $a_n \in R$; in other words, a series in which the terms are powers of $x - x_0$.
