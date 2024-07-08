@@ -2,7 +2,7 @@
     "id": "96HKJ000",
     "name": "category of algebras --over a ring",
     "dependencies": {
-        "R": "7R2CT98Y:ring"
+        "S": "7R2CT98Y:ring"
     },
     "type": {
         "7AQ7Q586": "category"
