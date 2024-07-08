@@ -4,4 +4,4 @@ $$
 v = \sum_{i=n}^{\infty} \alpha_i v_i
 $$
 
-for some $\alpha_i \in k$. If no finite $n$ exists, $V$ is said to be *infinite-dimensional*, and $\dim V = \infty$.
+for some $\alpha_i \in k$. If no finite $n$ exists, $V$ is said to be *infinite-dimensional*, and $\dim V = \infty$ by convention.
