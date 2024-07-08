@@ -1,6 +1,6 @@
 {
     "id": "6Y9W1VMN",
-    "name": "series",
+    "name": "series --in a commutative ring",
     "dependencies": {
         "R": "67IMWPW4:commutative ring"
     },
