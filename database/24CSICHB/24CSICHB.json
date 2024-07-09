@@ -1,0 +1,20 @@
+{
+    "id": "24CSICHB",
+    "name": "smooth manifold",
+    "dependencies": {
+        "n": "63AS5IGZ:natural number"
+    },
+    "type": {
+        "4QZXI0AF": "manifold"
+    },
+    "definitions": {
+        "24CSICHB_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
