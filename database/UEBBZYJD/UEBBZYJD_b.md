@@ -7,7 +7,7 @@ $$
 up to order $\epsilon^2$. Using the expansion of the $n \times n$ determinant, we have
 
 $$
-\det(I + \epsilon X) = 1 + \epsilon \mathrm{tr}(X) + O(\epsilon^2)
+\det(I + \epsilon X) = 1 + \epsilon \, \mathrm{tr}(X) + O(\epsilon^2)
 $$
 
 thus $\mathrm{tr}(X) = 0$.
