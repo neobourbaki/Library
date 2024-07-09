@@ -11,6 +11,7 @@
         "3L40KKYW_a": {
             "language": "en",
             "dependencies": {
+                "1718FSGD": "smooth map"
             },
             "comment": ""
         }
