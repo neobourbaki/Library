@@ -6,8 +6,9 @@ $$
 
 up to order $\epsilon^2$. Using the expansion of the $n \times n$ determinant, we have
 
-$$
-\det(I + \epsilon X) = 1 + \epsilon \, \mathrm{tr}(X) + O(\epsilon^2)
-$$
+\begin{aligned}
+\det(I + \epsilon X) &= (1 + \epsilon \\, X_{11}) (1 + \epsilon \\, X_{22}) \cdots (1 + \epsilon \\, X_{nn}) + O(\epsilon^2)
+ &= 1 + \epsilon \\,, \mathrm{tr}(X) + O(\epsilon^2)
+\end{aligned}
 
 thus $\mathrm{tr}(X) = 0$.
