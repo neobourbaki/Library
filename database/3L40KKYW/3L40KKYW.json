@@ -1,9 +1,10 @@
 {
     "id": "3L40KKYW",
     "name": "Lie group",
-    "type": "definition",
     "dependencies": {
-        "1234": "smooth manifold",
+    },
+    "type": {
+        "24CSICHB": "smooth manifold",
         "5PGIN6X2": "group"
     },
     "definitions": {
