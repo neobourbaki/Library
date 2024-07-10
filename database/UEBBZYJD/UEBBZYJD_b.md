@@ -1,4 +1,4 @@
-The Lie algebra of $\mathrm{SL}_n(\mathbf{K})$ is, by definition, the set of matrices $X \in M_n(\mathbf{K})$ such that
+The Lie algebra of $\mathrm{SL}_n(\mathbf{K})$ consists of matrices $X \in M_n(\mathbf{K})$ such that
 
 $$
 I + \epsilon X \in \mathrm{SL}_n(\mathbf{K}) = \\{ M \in M_n(\mathbf{K}) \\; : \\; \det(M) = 1 \\}
