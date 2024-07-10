@@ -4,4 +4,4 @@ $$
 e^X \in \mathrm{SL}_n(\mathbf{K}) := \\{M \in M_n(\mathbf{K}) \\, : \\, \det M = 1 \\}.
 $$
 
-By the identity that $\det(e^X) = e^{\mathop{\mathrm{tr}}(X)}$, it follows that $\mathop{\mathrm{tr}}(X)=0$.
+It follows from the identity $\det(e^X) = e^{\mathop{\mathrm{tr}}(X)}$ that $\mathop{\mathrm{tr}}(X)=0$.
