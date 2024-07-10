@@ -1,6 +1,6 @@
 {
     "id": "UEBBZYJD",
-    "name": "",
+    "name": "Lie algebra of SL_n(K)",
     "type": "theorem",
     "dependencies": {
         "175GH983": "Lie algebra --of a matrix group",
