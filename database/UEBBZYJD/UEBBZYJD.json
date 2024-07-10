@@ -21,6 +21,12 @@
                 "FWDLB0GQ": "det(e^X) = e^tr(X)"
             },
             "comment": ""
+        },
+        "UEBBZYJD_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
         }
     }
 }            
