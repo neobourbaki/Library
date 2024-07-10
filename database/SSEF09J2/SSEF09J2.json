@@ -1,6 +1,6 @@
 {
     "id": "SSEF09J2",
-    "name": "root decomposition",
+    "name": "root decomposition of a semisimple Lie algebra over C",
     "dependencies": {
         "C": "8A9M00AK:complex numbers",
         "g": "1IYIAGFB:semisimple Lie algebra --over complex numbers",
