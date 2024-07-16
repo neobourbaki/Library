@@ -7,7 +7,8 @@
     },
     "template": "GL_{n} over {R}"
     "type": {
-        "5PGIN6X2": "group"
+        "5PGIN6X2": "group",
+        "1234": "algebraic group --over {R}"
     },
     "definitions": {
         "2TQNZ7QF_a": {
