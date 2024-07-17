@@ -3,17 +3,18 @@
     "name": "determinant-trace identity",
     "dependencies": {
         "ℂ": "8A9M00AK:complex numbers",
-        "A": "8M6CAY2R:matrix --over {ℂ}"
+        "n": "63AS5IGZ:natural number",
+        "A": "1JUES0F3:matrix of order {n} --over {ℂ}"
     },
     "type": "theorem",
     "statements": {
         "FWDLB0GQ_1": {
             "language": "en",
             "dependencies": {
-                "4VRQIJ31": "exponential of a matrix",
+                "4VRQIJ31": "exponential of matrix",
                 "4HNSRY62": "determinant",
-                "1LTQ58M1": "trace",
-                "4SUT68SF": "exponential of {ℂ}"
+                "1LTQ58M1": "trace of {A}",
+                "4SUT68SF": "exponential of complex number"
             },
             "comment": ""
         }
