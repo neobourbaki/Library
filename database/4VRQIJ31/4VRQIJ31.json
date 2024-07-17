@@ -3,7 +3,8 @@
     "name": "exponential of a matrix",
     "dependencies": {
         "k": "4BCNPPIX:field",
-        "A": "8M6CAY2R:matrix --over {k}"
+        "n": "63AS5IGZ:natural number",
+        "A": "1JUES0F3:matrix of order {n} --over {k}"
     },
     "type": {
         "8M6CAY2R": "matrix --over {k}"
