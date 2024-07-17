@@ -1,11 +1,11 @@
 {
     "id": "ESA986J5",
     "name": "Liouville's theorem",
-    "type": "theorem",
     "dependencies": {
         "C": "8A9M00AK:complex numbers",
         "1DUN1Q71": "holomorphic function --on {C}"
     },
+    "type": "theorem",
     "statements": {
         "ESA986J5_1": {
             "language": "en",
