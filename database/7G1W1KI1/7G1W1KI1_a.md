@@ -1,4 +1,4 @@
-A *quarternion* is of the form
+A *quaternion* is of the form
 
 $$
 q = a + bi + cj + dk
