@@ -2,4 +2,4 @@
 
 * $\mathbb{R}$,
 * $\mathbb{C}$ of complex numbers, and
-* $\mathbb{H}$ of quarternions.
+* $\mathbb{H}$ of quaternions.
