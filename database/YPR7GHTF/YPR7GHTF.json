@@ -3,14 +3,14 @@
     "name": "",
     "type": "theorem",
     "dependencies": {
-        "8A9M00AK": "complex numbers",
-        "1234": "sin(z)",
-        "1DUN1Q71": "holomorphic / analytic function of a complex variable"
     },
     "statements": {
         "YPR7GHTF_1": {
             "language": "en",
             "dependencies": {
+                "8A9M00AK": "complex numbers",
+                "1234": "sin(z)",
+                "1DUN1Q71": "holomorphic / analytic function of a complex variable"
             },
             "comment": ""
         }
