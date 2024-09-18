@@ -4,4 +4,4 @@ $$
 [x, y] := x \cdot y - y \cdot x
 $$
 
-where $\cdot$ is the multiplciation in $A$.
+where $\cdot$ is the multiplication in $A$.
