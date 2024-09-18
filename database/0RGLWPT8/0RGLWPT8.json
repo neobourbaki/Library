@@ -3,7 +3,8 @@
     "name": "quotient object --in a category",
     "type": "definition",
     "dependencies": {
-        "7AQ7Q586": "category"
+        "C": "7AQ7Q586:category",
+        "A": "object of {C}"
     },
     "definitions": {
         "0RGLWPT8_a": {
