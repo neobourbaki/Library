@@ -1,4 +1,4 @@
-The $n \times n$ *identity matrix* over a field $k$ is a matrix that satisfies
+The *identity matrix* of order $n$ over a commutative ring $k$ is a matrix $I$ that satisfies
 
 $$
 AI = IA = A
