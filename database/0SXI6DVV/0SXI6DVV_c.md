@@ -1,1 +1,1 @@
-The $n\times n$ *identity matrix* $I$ over a field $k$ is the matrix for the identity linear map $k^n \to k^n$.
+The *identity matrix* of order $n$ over a commutative ring $k$ is the matrix for the identity linear map $k^n \to k^n$.
