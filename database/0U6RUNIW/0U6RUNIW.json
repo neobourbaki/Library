@@ -3,7 +3,8 @@
     "name": "inverse path",
     "type": "definition",
     "dependencies": {
-        "4737FZPD": "path"
+        "X": "topological space",
+        "4737FZPD": "path in {X}"
     },
     "definition": {
         "0U6RUNIW_a": {
