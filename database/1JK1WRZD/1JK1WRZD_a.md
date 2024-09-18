@@ -1,1 +1,1 @@
-A commutative ring is *local* if it has only one maximal ideal.
+A commutative ring is *local* if it has a unique maximal ideal.
