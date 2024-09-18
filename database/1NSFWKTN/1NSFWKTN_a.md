@@ -4,4 +4,4 @@ $$
 L(v_i) = \sum_j a_{ij} w_j
 $$
 
-for all $i$.
+for each $i$.
