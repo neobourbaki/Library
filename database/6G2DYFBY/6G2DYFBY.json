@@ -7,7 +7,7 @@
     "type": {
         "M": "set"
     },
-    "template": "metric space over {k}",
+    "template": "metric space --over {k}",
     "definitions": {
         "6G2DYFBY_a": {
             "language": "en",
