@@ -1,9 +1,12 @@
 {
     "id": "6G2AU6L4",
     "name": "open ball --in metric space",
-    "type": "definition",
     "dependencies": {
-        "6G2DYFBY": "metric space"
+        "k": "ordered field",
+        "M": "6G2DYFBY:metric space --over {k}"
+    },
+    "type": {
+        "asdf": "subset of {M}"
     },
     "definitions": {
         "6G2AU6L4_a": {
