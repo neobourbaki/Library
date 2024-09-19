@@ -1,9 +1,13 @@
 {
     "id": "6B2A4HQ9",
     "name": "residue --of a meromorphic function",
-    "type": "definition",
     "dependencies": {
-        "75CUJWK5": "meromorphic function"
+        "U": "domain",
+        "75CUJWK5": "meromorphic function --on {U}",
+        "z_0": "point of {U}"
+    },
+    "type": {
+        "asdf": "complex number"
     },
     "definitions": {
         "6B2A4HQ9": {
