@@ -1,6 +1,6 @@
 {
     "id": "8NTXUGXG",
-    "name": "tensor product of right module with a left module",
+    "name": "tensor product --of a right module with a left module",
     "dependencies": {
         "R": "7R2CT98Y:ring",
         "N": "8UBME7WQ:left module --over {R}",
