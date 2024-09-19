@@ -1,1 +1,1 @@
-The *category of matrices* over a ring $R$ consist of integers $n \in \mathbb{N}$ as the objects, and the set of all $m \times n$ matrices over $R$ as the morphisms from $n$ to $m$, with matrix multiplication as the composition.
+The *category of matrices* over a ring $R$ consist of integers $n \in \mathbb{N}$ as the objects, the set of all $m \times n$ matrices over $R$ as the morphisms from $n$ to $m$, and matrix multiplication as the composition.
