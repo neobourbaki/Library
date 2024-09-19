@@ -19,7 +19,16 @@
         "4SUT68SF_b": {
             "language": "en",
             "dependencies": {
-                "671ZFMDA": "exponential of a real number"
+                "671ZFMDA": "exponential of a real number",
+                "asdf": "sine of a real number",
+                "sdfg": "cosine of a real number"
+            },
+            "comment": ""
+        },
+        "4SUT68SF_c": {
+            "language": "en",
+            "dependencies": {
+                "asdf": "solution to a differential equation"
             },
             "comment": ""
         }
