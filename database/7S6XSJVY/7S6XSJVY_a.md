@@ -1,1 +1,1 @@
-Let $f: M \to N$ be a homomorphism of modules over a ring $R$, and let $M^*$ and $N^*$ be the duals of $M$ and $N$ with respect to a $R$-module $P$, i.e., $M^* = \mathrm{Hom}_{R}(M, P)$ and $N^* = \mathrm{Hom}_{R}(N, P)$. Then the *dual* of $f$ is a homomorphism $f^*: N^* \to M^*$ given by $f^*(\phi) = \phi \circ f$.
+Let $f: M \to N$ be a homomorphism of modules over a ring $R$, and let $P$ be a $R$-module. Then the *dual* of $f$ (with respect to $P$) is the homomorphism $f^*: \mathrm{Hom}_{R}(N, P) \to \mathrm{Hom}_{R}(M, P)$ given by $f^*(\phi) = \phi \circ f$.
