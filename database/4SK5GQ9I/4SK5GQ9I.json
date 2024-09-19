@@ -4,7 +4,8 @@
     "type": "definition",
     "dependencies": {
         "C": "8A9M00AK:complex numbers",
-        "8M6CAY2R": "matrix --over {C}"
+        "n": "natural number",
+        "8M6CAY2R": "matrix of order {n} --over {C}"
     },
     "definitions": {
         "4SK5GQ9I_a": {
