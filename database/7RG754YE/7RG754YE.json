@@ -1,11 +1,11 @@
 {
     "id": "7RG754YE",
     "name": "matrix multiplication",
-    "type": "definition",
     "dependencies": {
         "k": "7R2CT98Y:ring",
         "8M6CAY2R": "matrix --over {k}"
     },
+    "type": "definition",
     "statements": {
         "7RG754YE_a": {
             "language": "en",
