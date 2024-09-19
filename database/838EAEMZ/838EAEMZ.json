@@ -2,11 +2,11 @@
     "id": "838EAEMZ",
     "name": "Lie algebra gl(V)",
     "dependencies": {
-        "4BCNPPIX": "field",
-        "2GM7AN7T": "vector space --over {0}"
+        "k": "4BCNPPIX:field",
+        "V": "2GM7AN7T:vector space --over {k}"
     },
     "type": {
-        "3H8N6TE0": "Lie algebra --over {0}"
+        "3H8N6TE0": "Lie algebra --over {k}"
     },
     "definitions": {
         "838EAEMZ_a": {
