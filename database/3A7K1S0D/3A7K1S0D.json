@@ -1,6 +1,6 @@
 {
     "id": "3A7K1S0D",
-    "name": "connected set --of Euclidean space",
+    "name": "connected open set --of Euclidean space",
     "dependencies": {
         "n": "natural number",
         "E": "Euclidean {n}-space"
