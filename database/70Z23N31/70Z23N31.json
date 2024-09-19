@@ -1,9 +1,10 @@
 {
     "id": "70Z23N31",
     "name": "semisimple module --over a ring",
-    "type": "definition",
     "dependencies": {
-        "R": "7R2CT98Y:ring",
+        "R": "7R2CT98Y:ring"
+    },
+    "type": {
         "M": "8TZK9FIS:module --over {R}"
     },
     "definitions": {
