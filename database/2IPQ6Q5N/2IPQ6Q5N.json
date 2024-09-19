@@ -3,13 +3,13 @@
     "name": "closed path / loop",
     "type": "definition",
     "dependencies": {
-        "1KNNEI7L": "topological space"
+        "X": "1KNNEI7L:topological space"
     },
     "definitions": {
         "2IPQ6Q5N_a": {
             "language": "en",
             "dependencies": {
-                "4737FZPD": "curve / path"
+                "4737FZPD": "curve/path in {X}"
             },
             "comment": ""
         },
