@@ -2,10 +2,11 @@
     "id": "3GNTTUR1",
     "name": "prime ideal",
     "dependencies": {
-        "R": "67IMWPW4:commutative ring",
+        "R": "67IMWPW4:commutative ring"
+    },
+    "type": {
         "I": "5DPZ7F9Z:ideal of {R}"
     },
-    "type": "definition",
     "definitions": {
         "3GNTTUR1_a": {
             "language": "en",
