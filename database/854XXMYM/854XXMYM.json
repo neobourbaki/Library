@@ -1,8 +1,9 @@
 {
     "id": "854XXMYM",
     "name": "integral domain",
-    "type": "definition",
     "dependencies": {
+    },
+    "type": {
         "67IMWPW4": "commutative ring"
     },
     "definitions": {
