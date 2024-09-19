@@ -1,9 +1,11 @@
 {
     "id": "3EFEFC0N",
     "name": "abelian Lie algebra",
-    "type": "definition",
     "dependencies": {
-        "3H8N6TE0": "Lie algebra"
+        "k": "field",
+    },
+    "type": {
+        "3H8N6TE0": "Lie algebra --over {k}"
     },
     "definitions": {
         "3EFEFC0N": {
