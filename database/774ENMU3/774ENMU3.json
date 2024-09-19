@@ -6,7 +6,8 @@
         "g": "3H8N6TE0:Lie algebra --over {k}"
     },
     "type": {
-        "3H8N6TE0": "Lie algebra --over {k}"
+        "3H8N6TE0": "Lie algebra --over {k}",
+        "7XM484KI": "subset --of {g}"
     },
     "definitions": {
         "774ENMU3_a": {
