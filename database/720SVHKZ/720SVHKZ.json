@@ -1,9 +1,13 @@
 {
     "id": "720SVHKZ",
     "name": "continuous map --of metric spaces",
-    "type": "definition",
     "dependencies": {
-        "6G2DYFBY": "metric space"
+        "k": "ordered field",
+        "X": "6G2DYFBY:metric space --over {k}",
+        "Y": "6G2DYFBY:metric space --over {k}"
+    },
+    "type": {
+        "asdf": "map {X} {Y}"
     },
     "definitions": {
         "720SVHKZ_a": {
