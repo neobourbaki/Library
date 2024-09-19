@@ -3,9 +3,15 @@
     "name": "matrix multiplication",
     "dependencies": {
         "k": "7R2CT98Y:ring",
-        "8M6CAY2R": "matrix --over {k}"
+        "m": "natural number",
+        "n": "natural number",
+        "p": "natural number",
+        "A": "8M6CAY2R:{m}×{n} matrix --over {k}",
+        "B": "8M6CAY2R:{n}×{p} matrix --over {k}"
     },
-    "type": "definition",
+    "type": {
+        "8M6CAY2R:{m}×{p} matrix --over {k}"
+    },
     "statements": {
         "7RG754YE_a": {
             "language": "en",
