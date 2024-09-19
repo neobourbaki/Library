@@ -4,8 +4,10 @@
     "dependencies": {
         "k": "7YQ2QQGH:ordered field"
     },
+    "type": {
+        "M": "set"
+    },
     "template": "metric space over {k}",
-    "type": "definition",
     "definitions": {
         "6G2DYFBY_a": {
             "language": "en",
