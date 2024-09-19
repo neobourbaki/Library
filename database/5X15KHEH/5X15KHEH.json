@@ -1,6 +1,6 @@
 {
     "id": "5X15KHEH",
-    "name": "singular homology --of a topological space",
+    "name": "homology --of a topological space",
     "dependencies": {
         "X": "1KNNEI7L:topological space",
         "R": "67IMWPW4:commutative ring",
@@ -20,7 +20,7 @@
                 "41P2BRMI": "image",
                 "1GLXUU44": "quotient module"
             },
-            "comment": ""
+            "comment": "singular homology"
         }
     },
     "equivalences": {
