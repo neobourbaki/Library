@@ -1,1 +1,6 @@
-The (real) *projective plane* is the set of lines through a fixed point in the Euclidean 3-space, called the *points*. A *line* in the projective plane is a plane through the fixed point. The *incidence relation* of points and lines is defined by the incidence relation of lines and planes in the 3-space.
+The (real) *projective plane* consists of
+
+- the set of lines through a fixed point $O$ in the Euclidean 3-space, called the *points*;
+- the set of (2-dimensional) planes through $O$, called the *lines*,
+
+with the *incidence relation* of the points and the lines defined by the incidence relation in the 3-space.
