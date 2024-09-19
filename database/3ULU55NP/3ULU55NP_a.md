@@ -1,1 +1,1 @@
-A vector space $V$ over a field $k$ is *finite-dimensional* if its dimension is finite.
+A vector space $V$ over a division ring $k$ is *finite-dimensional* if its dimension is finite.
