@@ -5,7 +5,7 @@
         "k": "67IMWPW4:commutative ring",
         "n": "63AS5IGZ:natural number"
     },
-    "template": "GL_{n} over {k}"
+    "template": "GL_{n}({k})"
     "type": {
         "5PGIN6X2": "group",
         "1234": "algebraic group --over {k}"
