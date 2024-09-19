@@ -4,7 +4,7 @@
     "dependencies": {
         "R": "67IMWPW4:commutative ring"
     },
-    "template": "category of modules over {R}$,
+    "template": "category of modules over {R}",
     "type": {
         "7AQ7Q586": "category"
     },
