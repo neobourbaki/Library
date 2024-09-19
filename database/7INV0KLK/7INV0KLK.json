@@ -2,10 +2,10 @@
     "id": "7INV0KLK",
     "name": "product in a category",
     "dependencies": {
-        "7AQ7Q586": "category"
+        "C": "7AQ7Q586:category"
     },
     "type": {
-        "7AQ7Q586": "category".object
+        "7AQ7Q586.object": "object of {C}"
     },
     "definitions": {
         "7INV0KLK_a": {
