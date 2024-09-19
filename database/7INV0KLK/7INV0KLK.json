@@ -4,7 +4,9 @@
     "dependencies": {
         "7AQ7Q586": "category"
     },
-    "type": "definition",
+    "type": {
+        "7AQ7Q586": "category".object
+    },
     "definitions": {
         "7INV0KLK_a": {
             "language": "en",
