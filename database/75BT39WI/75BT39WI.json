@@ -1,15 +1,16 @@
 {
     "id": "75BT39WI",
     "name": "groupoid",
-    "type": "definition",
     "dependencies": {
+    },
+    "type": {
+        "G": "7AQ7Q586:category"
     },
     "definitions": {
         "75BT39WI": {
             "language": "en",
             "dependencies": {
-                "7AQ7Q586": "category",
-                "46G4T8KT": "isomorphism"
+                "46G4T8KT": "isomorphism in {G}"
             },
             "comment": ""
         }
