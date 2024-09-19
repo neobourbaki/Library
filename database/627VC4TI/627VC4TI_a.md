@@ -1,4 +1,4 @@
-A *Laurent series* centered at $z_0 \in \mathbb{C}$ is a series in $\mathbb{C}$ of the form
+A *Laurent series* centered at $z_0 \in \mathbb{C}$ is a (formal) series in $\mathbb{C}$ of the form
 
 $$
 \sum_{n = n_0}^{\infty} a_n (z - z_0)^n
