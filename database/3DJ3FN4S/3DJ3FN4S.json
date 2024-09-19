@@ -1,10 +1,12 @@
 {
     "id": "3DJ3FN4S",
     "name": "standard topology --of Euclidean space",
-    "type": "theorem",
     "dependencies": {
-        "1KNNEI7L": "topological space",
-        "4ZL3GXH5": "Euclidean space"
+        "n": "natural number",
+        "E": "4ZL3GXH5:Euclidean {n}-space"
+    },
+    "type": {
+        "1KNNEI7L": "topology on {E}"
     },
     "definitions": {
         "3DJ3FN4S_a": {
