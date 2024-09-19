@@ -15,8 +15,8 @@
             "language": "en",
             "dependencies": {
                 "1JUES0F3": "matrix of order {n} --over {k}",
-                "0CLV6SL7": "invertible matrix over {k}",
-                "7RG754YE": "matrix multiplication --over {k}"
+                "0CLV6SL7": "invertible matrix --over {k}",
+                "7RG754YE": "matrix multiplication"
             },
             "comment": ""
         },
