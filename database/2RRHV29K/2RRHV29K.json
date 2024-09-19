@@ -2,7 +2,7 @@
     "id": "2RRHV29K",
     "name": "rational numbers",
     "dependencies": {
-        "0ZWU1HEL": "integers"
+        "Z": "0ZWU1HEL:integers"
     },
     "type": {
         "7YQ2QQGH": "ordered field"
@@ -11,7 +11,7 @@
         "2RRHV29K_a": {
             "language": "en",
             "dependencies": {
-                "041XA0HK": "field of fractions"
+                "041XA0HK": "field of fractions of {Z}"
             },
             "comment": ""
         }
