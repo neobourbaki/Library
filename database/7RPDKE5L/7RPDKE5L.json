@@ -1,10 +1,14 @@
 {
     "id": "7RPDKE5L",
     "name": "direct sum --of Lie algebra representations",
-    "type": "definition",
     "dependencies": {
         "g": "3H8N6TE0:Lie algebra",
         "k": "4BCNPPIX:field",
+        "V_1": "6DTG5YM7:representation --of {g} over {k}",
+        "V_2": "6DTG5YM7:representation --of {g} over {k}"
+    },
+    "template": "direct sum of {V_1} and {V_1}",
+    "type": {
         "6DTG5YM7": "representation --of {g} over {k}"
     },
     "definitions": {
