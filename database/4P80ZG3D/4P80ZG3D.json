@@ -2,7 +2,7 @@
     "id": "4P80ZG3D",
     "name": "general linear group GL(V)",
     "dependencies": {
-        "k": "4BCNPPIX:field",
+        "k": "0MSVL02A:division ring",
         "V": "3ULU55NP:finite-dimensional vector space --over {k}"
     },
     "template": "GL({V})",
