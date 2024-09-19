@@ -2,7 +2,7 @@
     "id": "6G2AU6L4",
     "name": "open ball --in metric space",
     "dependencies": {
-        "k": "ordered field",
+        "k": "7YQ2QQGH:ordered field",
         "M": "6G2DYFBY:metric space --over {k}"
     },
     "type": {
