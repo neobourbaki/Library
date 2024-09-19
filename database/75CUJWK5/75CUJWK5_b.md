@@ -4,5 +4,4 @@ $$
 f(z) = \sum_{n = n_0}^\infty a_n (z-z_0)^n
 $$
 
-for all $z \in U$ with $0 < |z-z_0| < r$. One writes $f(z_0) = \infty$ for $z_0 \in Z$, and regards $f$ as a function from $U$ to $\hat{\mathbb{C}} = \mathbb{C} \cup \\{\infty\\}$.
-
+for all $z \in U$ with $0 < |z-z_0| < r$. One writes $f(z_0) = \infty$ if the series has negative powers, and regards $f$ as a function from $U$ to $\hat{\mathbb{C}} = \mathbb{C} \cup \\{\infty\\}$.
