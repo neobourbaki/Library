@@ -5,7 +5,9 @@
         "k": "1QTR4G3Q:normed field",
         "68VSQXWU": "sequence --in {k}"
     },
-    "type": "definition",
+    "type": {
+        "asdf": "element of {k}"
+    },
     "statements": {
         "62D5M55S_a": {
             "language": "en",
