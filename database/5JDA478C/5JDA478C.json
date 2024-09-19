@@ -2,9 +2,10 @@
     "id": "5JDA478C",
     "name": "simply-connectedness --of a topological space",
     "dependencies": {
-        "1KNNEI7L": "topological space"
     },
-    "type": "definition",
+    "type": {
+        "X": "1KNNEI7L:topological space"
+    },
     "definitions": {
         "5JDA478C_a": {
             "language": "en",
