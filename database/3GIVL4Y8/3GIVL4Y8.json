@@ -2,8 +2,7 @@
     "id": "3GIVL4Y8",
     "name": "polynomial ring",
     "dependencies": {
-        "R": "67IMWPW4:commutative ring",
-        "n": "63AS5IGZ:natural number"
+        "R": "67IMWPW4:commutative ring"
     },
     "type": {
         "67IMWPW4": "commutative ring",
