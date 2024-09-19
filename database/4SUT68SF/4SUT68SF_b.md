@@ -1,4 +1,4 @@
-The *exponential function* $\exp: \mathbb{C} \to \mathbb{C}$ is given by
+Let $z = x + iy$ be a complex number. The *exponential* of $z$ is given by
 
 $$
 \exp(x+iy) := e^{x} (\cos y + i \sin y).
