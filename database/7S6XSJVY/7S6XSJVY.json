@@ -2,7 +2,11 @@
     "id": "7S6XSJVY",
     "name": "dual of a homomorphism of modules",
     "dependencies": {
-        "3TA01A9S": "homomorphism of modules --over a ring"
+        "R": "ring",
+        "M": "module --over {R}",
+        "N": "module --over {R}",
+        "f": "TA01A9S:homomorphism {M}->{N}",
+        "P": "module --over {R}"
     },
     "type": {
         "3TA01A9S": "homomorphism of modules --over a ring"
