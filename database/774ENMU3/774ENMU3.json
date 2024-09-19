@@ -19,8 +19,8 @@
         "774ENMU3_b": {
             "language": "en",
             "dependencies": {
-                "64IIX7JQ": "category of Lie algebras",
-                "6JD5HWKL": "sub-object --in a category"
+                "C": "64IIX7JQ:category of Lie algebras",
+                "6JD5HWKL": "sub-object of {g} --in {C}"
             },
             "comment": ""
         }
