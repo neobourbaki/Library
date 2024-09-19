@@ -1,6 +1,6 @@
 {
     "id": "5X15KHEH",
-    "name": "homology --of a topological space",
+    "name": "singular homology --of a topological space",
     "dependencies": {
         "X": "1KNNEI7L:topological space",
         "R": "67IMWPW4:commutative ring",
