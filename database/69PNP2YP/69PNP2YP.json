@@ -2,7 +2,8 @@
     "id": "69PNP2YP",
     "name": "full subcategory",
     "dependencies": {
-        "7AQ7Q586": "category"
+        "C": "7AQ7Q586:category",
+        "asdf": "subset of objects of {A}"
     },
     "type": {
         "7AQ7Q586": "category"
