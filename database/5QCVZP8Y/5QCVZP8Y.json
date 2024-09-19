@@ -5,7 +5,9 @@
         "k": "0MSVL02A:division ring",
         "V": "2GM7AN7T:vector space --over {k}"
     },
-    "type": "definition",
+    "type": {
+        "asdf": "subset of {V}"
+    },
     "definitions": {
         "5QCVZP8Y_a": {
             "language": "en",
