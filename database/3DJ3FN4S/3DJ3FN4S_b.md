@@ -4,4 +4,4 @@ $$
 B(x_0, r) = \\{ x \in \mathbb{R}^n \\; : \\; |x - x_0| < r \\}
 $$
 
-for all $x_0 \in \mathbb{R}^n$ and all $r \in \mathbb{R}_{> 0}$.
+for all $x_0 \in \mathbb{Q}^n$ and all $r \in \mathbb{Q}_{> 0}$.
