@@ -1,6 +1,6 @@
 {
     "id": "837UM6FI",
-    "name": "Taylor series --of a function",
+    "name": "Taylor series --of a function --of a single variable in a normed field",
     "dependencies": {
         "K": "1QTR4G3Q:normed field",
         "U": "38Z73IC0:open subset --of {K}",
