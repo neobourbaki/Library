@@ -1,4 +1,4 @@
-The *linear span* of a set of vectors $v_1, \ldots, v_n$ in a vector space $V$ over a field $k$ is the set of *linear combinations*
+The *linear span* of a (finite) set of vectors $v_1, \ldots, v_n$ in a vector space $V$ over a field $k$ is the set of *linear combinations*
 
 $$
 \sum_{i=1}^{n} a_i v_i
