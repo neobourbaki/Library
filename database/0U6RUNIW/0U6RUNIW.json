@@ -1,9 +1,11 @@
 {
     "id": "0U6RUNIW",
     "name": "inverse path",
-    "type": "definition",
     "dependencies": {
         "X": "topological space",
+        "4737FZPD": "path in {X}"
+    },
+    "type": {
         "4737FZPD": "path in {X}"
     },
     "definition": {
