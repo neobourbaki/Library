@@ -18,6 +18,7 @@
         "2SMUHNVL_b": {
             "language": "en",
             "dependencies": {
+                "4TNNS4QI": "Cartan subalgebra --of {g}"
             },
             "comment": ""
         }
