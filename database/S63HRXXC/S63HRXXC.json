@@ -3,10 +3,13 @@
     "name": "matrix algebra",
     "type": "theorem",
     "dependencies": {
-        "8M6CAY2R": "matrix --over a commutative ring",
-        "7RG754YE": "matrix multiplication",
-        "482U6RA1": "algebra --over a ring"
+        "R": "7R2CT98Y:ring",
+        "8M6CAY2R": "matrix --over {R}",
+        "7RG754YE": "matrix multiplication"
     },
+    "type": {
+        "482U6RA1": "algebra --over {R}"
+    }
     "statements": {
         "S63HRXXC_1": {
             "language": "en",
