@@ -1,5 +1,5 @@
 {
-    "id": "S63HRXXC",
+    "id": "0TRS03M6",
     "name": "matrix algebra",
     "type": "theorem",
     "dependencies": {
@@ -10,19 +10,10 @@
     "type": {
         "482U6RA1": "algebra --over {R}"
     },
-    "statements": {
+    "definitions": {
         "S63HRXXC_1": {
             "language": "en",
             "dependencies": {
-            },
-            "comment": ""
-        }
-    },
-    "proofs": {
-        "S63HRXXC_a": {
-            "language": "en",
-            "dependencies": {
-                "ZW4IZY8T": "associativity"
             },
             "comment": ""
         }
