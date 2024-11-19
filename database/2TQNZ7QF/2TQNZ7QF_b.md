@@ -1,7 +1,5 @@
-The *general linear group* $\mathrm{GL}_n(k)$ over a commutative ring $k$ is the group of $n\times n$ matrices over $k$ whose determinant is invertible in $k$, i.e.,
+The *general linear group* $\mathrm{GL}_n(R)$ over a ring $k$ is the group of $n\times n$ matrices over $R$ whose determinant is invertible in $R$, i.e.,
 
 $$
-\mathrm{GL}_n(k) := \\{ A \in M_n(k) \\; : \\; \det(A) \in k^* \\},
+\mathrm{GL}_n(R) := \\{ A \in M_n(R) \\; : \\; \det(A) \in R^* \\}.
 $$
-
-under matrix multiplication.
