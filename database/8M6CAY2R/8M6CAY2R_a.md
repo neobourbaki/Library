@@ -1,4 +1,4 @@
-A $m\times n$ *matrix* is a tuple of $mn$ elements $A=\{a_{ij}\}_{i,j}$ from a set $S$ (called the *entries* of $A$) indexed by $1 \leq i \leq m$ and $1 \leq j \leq n$, conventionally arranged as
+A $m\times n$ *matrix* is a tuple of $mn$ elements $A = \\{a_{ij}\\}_{i,j}$ from a set $S$ (called the *entries* of $A$) indexed by $1 \leq i \leq m$ and $1 \leq j \leq n$, conventionally arranged as
 
 $$
 A = \begin{pmatrix} 
