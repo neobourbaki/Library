@@ -1,0 +1,22 @@
+{
+    "id": "83ZU2PTV",
+    "name": "derivative of a function of several variables",
+    "dependencies": {
+        "R": "4E41D57C:real numbers",
+        "U": "2G8ZNB7E:open set of Euclidean space",
+        "f": "4CID84AD:map {U}\u2192{R}"
+    },
+    "type": {
+    },
+    "definitions": {
+        "83ZU2PTV_a": {
+            "language": "en",
+            "dependencies": {
+                "5BDJ54RG": "linear map"
+            },
+            "comments": ""
+        }
+    },
+    "equivalences": {
+    }
+}
