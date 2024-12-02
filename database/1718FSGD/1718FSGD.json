@@ -12,6 +12,7 @@
         "1718FSGD_a": {
             "language": "en",
             "dependencies": {
+                "83ZU2PTV": "differentiable"
             },
             "comment": ""
         }
