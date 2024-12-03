@@ -5,12 +5,12 @@
         "n": "63AS5IGZ:natural number"
     },
     "type": {
-        "4QZXI0AF": "manifold"
     },
     "definitions": {
         "24CSICHB_a": {
             "language": "en",
             "dependencies": {
+                "4QZXI0AF": "topological manifold",
                 "83ZU2PTV": "differentiable"
             },
             "comment": ""
