@@ -22,6 +22,14 @@
                 "83ZU2PTV": "differentiable"
             },
             "comment": ""
+        },
+        "24CSICHB_c": {
+            "language": "en",
+            "dependencies": {
+                "2G8ZNB7E": "open subset --of Euclidean space",
+                "83ZU2PTV": "differentiable"
+            },
+            "comment": ""
         }
     },
     "equivalences": {
