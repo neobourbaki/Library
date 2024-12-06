@@ -1,1 +1,1 @@
-Let $X$ be a smooth manifold. Then the *tangent space* of $X$ at a point $x \in X$ is the equivalence class of curves $\gamma: [-1, 1] \to X$ with $\gamma(0) = x$, under the relation that $\gamma_1 \sim \gamma_2$ if and only if $\gamma'_1(0) = \gamma'_2(0)$.
+Let $X$ be a smooth manifold. Then the *tangent space* of $X$ at a point $x \in X$ is the set of equivalence classes of curves $\gamma: [-1, 1] \to X$ with $\gamma(0) = x$, under the relation that $\gamma_1 \sim \gamma_2$ if and only if $\gamma'_1(0) = \gamma'_2(0)$.
