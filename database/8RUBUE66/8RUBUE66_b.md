@@ -3,3 +3,5 @@ Let $X \subset \mathbb{R}^N$ be a smooth $n$-manifold, and $\phi: V \to \mathbb{
 $$
 \frac{\partial \phi}{\partial x_i} \\; , \\; i=1, \ldots, n.
 $$
+
+where $x_i$ is the $i$-th coordinate of $V \subset \mathbb{R}^n$.
