@@ -18,7 +18,14 @@
             },
             "comment": ""
         },
-        "8RUBUE66_a": {
+        "8RUBUE66_b": {
+            "language": "en",
+            "dependencies": {
+                "5BDJ54RG": "linear map --of vector spaces"
+            },
+            "comment": ""
+        },
+        "8RUBUE66_c": {
             "language": "en",
             "dependencies": {
                 "83ZU2PTV": "derivative --of a function of several variables"
