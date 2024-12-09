@@ -4,4 +4,4 @@ $$
 \frac{\partial \phi}{\partial x_i} (x^*) \in \mathbb{R}^N \\; , \\; i=1, \ldots, n.
 $$
 
-where $x_i$ is the $i$-th coordinate of $V$. The tangent space is independent of the choice of the parametrization $\phi$.
+where $x_i$ is the $i$-th coordinate of $V$. The tangent space is then independent of the choice of the parametrization $\phi$.
