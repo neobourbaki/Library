@@ -1,7 +1,7 @@
 Let $f: U \to \mathbb{R}^m$ be a function on an open set $U \subseteq \mathbb{R}^n$. We say that $f$ is *differentiable at* $x^* \in U$ if there exists a linear map $L: \mathbb{R}^n \to \mathbb{R}^m$, called the *derivative of* $f$ *at* $x^* \in U$, such that
 
 $$
-f(x + h) - f(x_0) - L(h) = O(|h|^2)
+f(x^* + h) - f(x^*) - L(h) = O(|h|^2)
 $$
 
 for $h \in \mathbb{R^n}$ as $h \to 0$. The *partial derivatives* of $f$ (at $x^*$) are the components of $L$, in the standard basis:
