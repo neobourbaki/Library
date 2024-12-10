@@ -8,9 +8,9 @@ for $h \in \mathbb{R^n}$ as $h \to 0$. The *partial derivatives* of $f$ (at $x^*
 
 $$
 L = \begin{bmatrix}
-\frac{\partial f_1}{\partial x_1}(x^*) & \frac{\partial f_1}{\partial x_2}(x^*) & \cdots $ \frac{\partial f_1}{\partial x_n}(x^*)  \\
-\frac{\partial f_2}{\partial x_1}(x^*) & \frac{\partial f_2}{\partial x_2}(x^*) & \cdots $ \frac{\partial f_2}{\partial x_n}(x^*)  \\
-\vdots & & \ddots & \\
+\frac{\partial f_1}{\partial x_1}(x^*) & \frac{\partial f_1}{\partial x_2}(x^*) & \cdots $ \frac{\partial f_1}{\partial x_n}(x^*)  \\\\
+\frac{\partial f_2}{\partial x_1}(x^*) & \frac{\partial f_2}{\partial x_2}(x^*) & \cdots $ \frac{\partial f_2}{\partial x_n}(x^*)  \\\\
+\vdots & & \ddots & \\\\
 
 \frac{\partial f_m}{\partial x_1}(x^*) & \frac{\partial f_m}{\partial x_2}(x^*) & \cdots $ \frac{\partial f_m}{\partial x_n}(x^*) 
 \end{bmatrix}
