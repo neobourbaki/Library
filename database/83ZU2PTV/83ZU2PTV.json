@@ -15,6 +15,14 @@
                 "5BDJ54RG": "linear map"
             },
             "comments": ""
+        },
+        "83ZU2PTV_b": {
+            "language": "en",
+            "dependencies": {
+                "98SB2AL0": "derivative --of a function of a single variable",
+                "720SVHKZ": "continuous function --of metric spaces"
+            },
+            "comments": ""
         }
     },
     "equivalences": {
