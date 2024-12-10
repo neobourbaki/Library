@@ -14,7 +14,6 @@ L = \begin{bmatrix}
 
 \frac{\partial f_m}{\partial x_1}(x^*) & \frac{\partial f_m}{\partial x_2}(x^*) & \cdots $ \frac{\partial f_m}{\partial x_n}(x^*) 
 \end{bmatrix}
-]
 $$
 
 We say that $f$ is *differentiable* if $f$ is differentiable at all $x^* \in U$, and the *partial derivatives* $\frac{\partial f_i}{\partial x_j}$, $i=1, \ldots, m$, $j=1, \ldots, n$, are functions $U \to \mathbb{R}$, taking $x^* \mapsto \frac{\partial f}{\partial x_i}(x^*)$.
