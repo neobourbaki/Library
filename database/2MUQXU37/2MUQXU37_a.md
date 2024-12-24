@@ -1,13 +1,13 @@
 A *vector field* $X$ on a smooth $n$-manifold $M$ is locally given by an expression
 
 $$
-X = \sum_{i=1}^n f^{\alpha}_i (x) \frac{\partial}{\partial x_i}
+X = \sum_{i=1}^n \alpha_i (x) \frac{\partial}{\partial x_i}
 $$
 
-on each local coordinate chart $(U_{\alpha}, x_i)$, such that for any pair of $(U_{\alpha}, x_i)$ and $(U_{\beta}, y_j)$, the functions $f^{\alpha}_i$ and $g^{\beta}_j$ are related by
+on each local coordinate chart $(U_{\alpha}, x_i)$, such that for any pair of $(U_{\alpha}, x_i)$ and $(U_{\beta}, y_j)$, the functions $\alpha_i$ and $\beta_j$ are related by
 
 $$
-f^{\alpha}_i = \sum_{j=1}^{n} g^{\beta}_j \frac{\partial x_i}{\partial y_j}
+\alpha_i = \sum_{j=1}^{n} \beta_j \frac{\partial x_i}{\partial y_j}
 $$
 
-as suggested by the notation.
+on the overlap $U_\alpha \cap U_\beta$ as suggested by the notation.
