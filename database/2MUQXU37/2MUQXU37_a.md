@@ -10,4 +10,4 @@ $$
 \alpha_i = \sum_{j=1}^{n} \beta_j \frac{\partial x_i}{\partial y_j}
 $$
 
-on the overlap $U_\alpha \cap U_\beta$ (as suggested by the notation).
+on the overlap $U_\alpha \cap U_\beta$ (as suggested by the notation). One would denote it $X \in \Gamma(M, TM)$, or $X \in \mathscr{X}(M)$.
