@@ -4,7 +4,7 @@
     "dependencies": {
         "k": "4BCNPPIX:field",
         "V": "2GM7AN7T:vector space over {k}",
-        "5BDJ54RG": "linear map {V}→{V}"
+        "L": "5BDJ54RG:linear map {V}→{V}"
     },
     "type": {
         "477289UH": "element of {k}"
@@ -13,7 +13,7 @@
         "9TPP1VUX_a": {
             "language": "en",
             "dependencies": {
-                "1NSFWKTN": "matrix of a linear map",
+                "1NSFWKTN": "matrix of {L}",
                 "X0HE74DM": "independence of basis"
             },
             "comment": ""
