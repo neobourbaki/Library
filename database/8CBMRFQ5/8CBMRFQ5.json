@@ -19,7 +19,8 @@
             "language": "en",
             "dependencies": {
                 "Grp": "7642ZFGI:category of groups",
-                "69PNP2YP": "full subcategory of {Grp}"
+                "Ab": "53J4N2KC:abelian groups",
+                "69PNP2YP": "full subcategory of {Grp} on {Ab}"
             },
             "comment": ""
         }
