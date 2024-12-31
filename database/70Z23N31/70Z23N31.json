@@ -5,7 +5,7 @@
         "R": "7R2CT98Y:ring"
     },
     "type": {
-        "M": "8TZK9FIS:module --over {R}"
+        "M": "8TZK9FIS:left module --over {R}"
     },
     "definitions": {
         "70Z23N31_a": {
