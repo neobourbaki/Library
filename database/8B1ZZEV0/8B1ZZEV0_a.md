@@ -1,4 +1,4 @@
-Let $\mathfrak{g}$ be a semisimple Lie algebra over the field $\mathbb{C}$, $\mathfrak{h} \subset \mathfrak{g}$ a Cartan subalgebra, and $\mathfrak{b}$ a Borel subalgebra containing $\mathfrak{h}$. The *Verma module* associated to a weight $\lambda \in \mathfrak{h}^*$ is a representation of $\mathfrak{g}$ of highest weight $\lambda$ defined by extension of scalar
+Let $\mathfrak{g}$ be a semisimple Lie algebra over the field $\mathbb{C}$ of complex numbers, $\mathfrak{h} \subset \mathfrak{g}$ a Cartan subalgebra, and $\mathfrak{b}$ a Borel subalgebra containing $\mathfrak{h}$. The *Verma module* associated to a weight $\lambda \in \mathfrak{h}^*$ is a representation of $\mathfrak{g}$ of highest weight $\lambda$ defined by extension of scalar
 
 $$
 M_{\lambda} = U(\mathfrak{g}) \otimes_{U(\mathfrak{b})} \mathbb{C}_{\lambda}
