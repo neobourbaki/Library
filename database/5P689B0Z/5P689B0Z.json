@@ -16,7 +16,23 @@
                 "0NXHN36T": "direct sum --of vector subspaces"
             },
             "comment": ""
-        }
+        },
+        "5P689B0Z_b": {
+            "language": "en",
+            "dependencies": {
+                "5QCVZP8Y": "basis --of {V}",
+                "1NSFWKTN": "matrix of {f}"
+            },
+            "comment": ""
+        },
+        "5P689B0Z_c": {
+            "language": "en",
+            "dependencies": {
+                "3GIVL4Y8": "polynomial ring --over {k}",
+                "70Z23N31": "semisimple module --over a ring"
+            },
+            "comment": ""
+        },
     },
     "equivalences": {
     }
