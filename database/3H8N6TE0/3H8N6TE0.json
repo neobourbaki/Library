@@ -1,6 +1,6 @@
 {
     "id": "3H8N6TE0",
-    "name": "Lie algebra",
+    "name": "Lie algebra --over a field",
     "dependencies": {
         "k": "4BCNPPIX:field"
     },
