@@ -1,0 +1,23 @@
+{
+    "id": "5P689B0Z",
+    "name": "semisimple linear endomorphism",
+    "dependencies": {
+        "k": "4BCNPPIX:field",
+        "V": "2GM7AN7T:vector space --over {k}"
+    },
+    "type": {
+        "f": "93SVAXQP:endomorphism --of {V}"
+    },
+    "definitions": {
+        "5P689B0Z_a": {
+            "language": "en",
+            "dependencies": {
+                "0IKIFWPD": "subspace --of {V}",
+                "0NXHN36T": "direct sum --of vector subspaces"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
