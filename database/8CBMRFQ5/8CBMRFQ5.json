@@ -2,16 +2,16 @@
     "id": "8CBMRFQ5",
     "name": "category of abelian groups",
     "dependencies": {
-        "obj": "53J4N2KC:abelian group",
-        "mor": "7Y0E21ED:homomorphism of groups"
     },
     "type": {
-        "7AQ7Q586": "category of {obj}s and {mor}s"
+        "7AQ7Q586": "category"
     },
     "definitions": {
         "8CBMRFQ5_a": {
             "language": "en",
             "dependencies": {
+                "53J4N2KC": "abelian group",
+                "7Y0E21ED": "homomorphism of groups"
             },
             "comment": ""
         },
