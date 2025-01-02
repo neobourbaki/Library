@@ -4,4 +4,4 @@ $$
 [X, Y] = \lim_{\epsilon \to 0} \frac{\exp(\epsilon X) \exp(\epsilon Y) \exp(-\epsilon X) \exp(-\epsilon Y) - 1}{\epsilon^2}.
 $$
 
-where $\exp: \mathfrak{g} \to G$ is the exponential map.
+where $\exp$ is the exponential map.
