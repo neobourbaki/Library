@@ -5,12 +5,13 @@
         "R": "7R2CT98Y:ring"
     },
     "type": {
-        "1IH0JM2A": "subgroup --of {R}"
+        "7XM484KI": "subset --of {R}",
     },
     "definitions": {
         "5DPZ7F9Z_a": {
             "language": "en",
             "dependencies": {
+                "1IH0JM2A": "subgroup --of {R}"
             },
             "comment": ""
         },
