@@ -1,6 +1,6 @@
 {
     "id": "5P689B0Z",
-    "name": "semisimple linear endomorphism",
+    "name": "semisimple linear map",
     "dependencies": {
         "k": "4BCNPPIX:field",
         "V": "2GM7AN7T:vector space --over {k}"
