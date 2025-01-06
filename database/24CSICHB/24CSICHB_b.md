@@ -7,4 +7,4 @@ $$
 \varphi_j \circ \varphi_i^{-1}: \varphi_i(U_i \cap U_j) \to \varphi_j(U_i \cap U_j)
 $$
 
-is smooth (infinitely differentiable) with a smooth inverse.
+is smooth (infinitely differentiable).
