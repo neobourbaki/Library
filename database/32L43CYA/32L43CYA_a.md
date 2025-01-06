@@ -14,4 +14,4 @@ $$
 \mathcal{O}_{X}(D_f) := R_{f}
 $$
 
-i.e. localization of the ring $R$ with respect to the multiplicative set $\{1, f, f^2, \ldots \}$.
+i.e. localization of the ring $R$ with respect to the multiplicative set $\\{1, f, f^2, \ldots \\}$.
