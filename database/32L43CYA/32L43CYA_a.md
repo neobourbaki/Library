@@ -5,7 +5,7 @@ The *spectrum* of a ring $R$ is a locally ringed space:
 - the *structure sheaf* $\mathcal{O}_{X}$ is determined by the sections over *distinguished* open sets: for $f \in R$, let
 
 $$
-D_f := \\{ \mathfrak{p} \in \mathrm{Spec}(R) \\; : \\; f \notin \mathfrak{p} \\}
+D_f := \\{ \mathfrak{p} \in \mathrm{Spec}(R) \\; : \\; f \notin \mathfrak{p} \\} \subseteq X
 $$
 
 and
@@ -14,4 +14,4 @@ $$
 \mathcal{O}_{X}(D_f) := R_{f}
 $$
 
-i.e. localizing the ring $R$ at the element $f$.
+i.e. localization of the ring $R$ at the element $f$.
