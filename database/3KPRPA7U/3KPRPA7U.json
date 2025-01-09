@@ -1,6 +1,6 @@
 {
     "id": "3KPRPA7U",
-    "name": "Cartan subalgebra --of a semisimple Lie algebra",
+    "name": "Cartan subalgebra --of a complex semisimple Lie algebra",
     "dependencies": {
         "ℂ": "8A9M00AK:complex numbers",
         "g": "1IYIAGFB:semisimple Lie algebra --over {C}"
