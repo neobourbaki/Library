@@ -4,4 +4,4 @@ $$
 \sum_{i \in I} \alpha_i v_i = 0 \\;, \qquad \alpha_i \in k
 $$
 
-(all but finitely many of $\alpha_i$ are 0) only when all the $\alpha_i = 0$. By abuse of language, one also says that the vectors $v_i$'s in $S$ are *linearly independent*.
+(all but finitely many of $\alpha_i$ are 0) only when all the $\alpha_i = 0$. By abuse of language, one also speaks of the vectors $v_i$'s as being *linearly independent*.
