@@ -8,7 +8,7 @@ $$
 D_f := \\{ \mathfrak{p} \in \mathrm{Spec}(R) \\; : \\; f \notin \mathfrak{p} \\} \subseteq X
 $$
 
-and
+and put
 
 $$
 \mathcal{O}_{X}(D_f) := R_{f}
