@@ -16,4 +16,4 @@ X &\mapsto \mathrm{ad}_X
 \end{aligned}
 $$
 
-is a Lie algebra homoomorphism
+is a Lie algebra homomorphism.
