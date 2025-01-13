@@ -7,7 +7,7 @@ $$
 \end{aligned}
 $$
 
-In other words, the map
+In other words, the action is given by the Lie algebra homomorphism
 
 $$
 \begin{aligned}
@@ -15,5 +15,3 @@ $$
 X &\mapsto \mathrm{ad}_X
 \end{aligned}
 $$
-
-is a Lie algebra homomorphism.
