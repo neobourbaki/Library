@@ -6,3 +6,14 @@ $$
 (X, Y) &\mapsto \mathrm{ad}_{X}(Y) := [X, Y]
 \end{aligned}
 $$
+
+In other words, the map
+
+$$
+\begin{aligned}
+\mathrm{ad}: \mathfrak{g} &\to \End(\mathfrak{g})_L \\\\
+X \mapsto \mathrm{ad}_X
+\end{aligned}
+$$
+
+is a Lie algebra homoomorphism
