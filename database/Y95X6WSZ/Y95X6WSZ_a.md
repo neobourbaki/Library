@@ -11,3 +11,11 @@ $$
 $$
 
 yielding that $d\sin(x) = \cos(x) dx$.
+
+Similarly, we have
+
+$$
+\cos(x+dx) = \cos(x)\cos(dx) - \sin(x)\sin(dx) = \cos(x) - \sin(x) dx
+$$
+
+or $d\cos(x) = - \sin(x) dx$.
