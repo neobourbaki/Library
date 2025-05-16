@@ -1,6 +1,6 @@
 {
     "id": "1GY90UBE",
-    "name": "limit of function",
+    "name": "limit of a map of metric spaces",
     "dependencies": {
         "X": "6G2DYFBY:metric space",
         "Y": "6G2DYFBY:metric space",
