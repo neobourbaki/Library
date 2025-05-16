@@ -1,0 +1,25 @@
+{
+    "id": "Y95X6WSZ",
+    "name": "derivative of sine and cosine",
+    "dependencies": {
+        "6Q393G4T": "sine --of a real number",
+        "6N4I8SQI": "cosine --of a real number"
+    },
+    "statements": {
+        "Y95X6WSZ_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "Y95X6WSZ_a": {
+            "language": "en",
+            "dependencies": {
+                "GDJVUW0Y": "sum of angles formula"
+            }
+            "comment": "infinitesimal"
+        }
+    }
+}
