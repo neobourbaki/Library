@@ -17,7 +17,8 @@
         "Y95X6WSZ_a": {
             "language": "en",
             "dependencies": {
-                "GDJVUW0Y": "sum of angles formula"
+                "GDJVUW0Y": "sum of angles formula",
+                "V1Z263TG": "sin(dx)=dx"
             },
             "comment": "infinitesimal"
         }
