@@ -10,6 +10,13 @@
             "dependencies": {
             },
             "comment": "geometry"
+        },
+        "6N4I8SQI_b": {
+            "language": "en",
+            "dependencies": {
+                "6Q393G4T": "sine --of a real number"
+            },
+            "comment": "geometry"
         }
     },
     "equivalences": {
