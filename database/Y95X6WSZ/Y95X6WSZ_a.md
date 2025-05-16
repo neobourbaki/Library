@@ -1,4 +1,4 @@
-*Proof.* Applying the sum-of-angles formula,
+Applying the sum-of-angles formula,
 
 $$
 \sin(x+dx) = \sin(x) \cos(dx) + \cos(x) \sin(dx)
