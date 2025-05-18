@@ -19,6 +19,18 @@
             "dependencies": {
             },
             "comment": "geometry"
+        },
+        "GDJVUW0Y_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "matrices"
+        },
+        "GDJVUW0Y_c": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "complex numbers"
         }
     }
 }
