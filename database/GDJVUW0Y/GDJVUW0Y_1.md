@@ -1,7 +1,7 @@
 For real numbers $x, y \in \mathbb{R}$,
 
 $$
-\sin(x+y) = \sin(x)\cos(y) + \sin(y)\cos(x)
+\sin(x+y) = \sin(x)\cos(y) + \cos(x)\sin(y)
 $$
 
 $$
