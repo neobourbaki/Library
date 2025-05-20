@@ -1,4 +1,4 @@
-For any $x, y \in \mathbb{R}$ (or $\mathbb{C}$, or $\mathbb{H}$),
+For any real or complex numbers $x, y$,
 
 $$
 e^{x+y} = e^x e^y.
