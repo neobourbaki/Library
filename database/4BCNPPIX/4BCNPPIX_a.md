@@ -6,7 +6,7 @@ A *field* $k$ is a set with two binary operations, addition $+$ and multiplicati
 - (identity) there exists $0 \in k$ such that $a+0=a$ for all $a$
 - (inverse) for every $a \in k$, there exists an additive inverse, denoted $-a$, such that $a+(-a)=0$
 
-(multiplicaiton)
+(multiplication)
 - (commutativity) $a \cdot b = b \cdot a$
 - (associativity) $(a \cdot b) \cdot c = a \cdot (b \cdot c)$
 - (distributivity over addition) $a\cdot (b + c) = a \cdot b + a \cdot c$
