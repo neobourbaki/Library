@@ -4,12 +4,12 @@
     "type": "theorem",
     "dependencies": {
         "k": "0MSVL02A:division ring",
+        "M": "8UBME7WQ:module --over {k}",
     },
     "statements": {
         "RQSYS8GZ_1": {
             "language": "en",
             "dependencies": {
-                "8UBME7WQ": "module --over {k}",
                 "7P1XLPWT": "free module --over {k}"
             },
             "comment": ""
