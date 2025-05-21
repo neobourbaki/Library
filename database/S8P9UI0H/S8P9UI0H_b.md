@@ -17,4 +17,4 @@ $$
 g'(x) = f'(x) - f'(x) = 0
 $$
 
-for all $x\in I$. It follows that $g$ is constant, by an application of the mean value theorem. Indeed, $g(b) - g(a) = g'(\xi) (b - a)$ for some $\xi$ between $a$ and $b$, hence $g(b) = g(a)$. 
+for all $x\in I$. It follows that $g$ is constant, by an application of the mean value theorem. Indeed, $g(b) - g(a) = g'(\xi) (b - a)$ for some $\xi$ between $a$ and $b$, hence is zero. 
