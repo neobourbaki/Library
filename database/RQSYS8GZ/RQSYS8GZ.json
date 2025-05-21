@@ -1,9 +1,9 @@
 {
     "id": "RQSYS8GZ",
-    "name": "module over a field is free",
+    "name": "module over a division ring is free",
     "type": "theorem",
     "dependencies": {
-        "k": "4BCNPPIX:field"
+        "k": "0MSVL02A:division ring",
     },
     "statements": {
         "RQSYS8GZ_1": {
