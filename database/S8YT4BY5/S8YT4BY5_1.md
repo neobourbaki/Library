@@ -4,4 +4,4 @@ $$
 f(z) = \sum_{n=0}^\infty \frac{f^{(n)}(z_0)}{n!}(z - z_0)^n
 $$
 
-of $f$ at $z_0 \in U$ converges to $f$ on any disk $D := \\{z \in \mathbb{C}\\,:\\, |z - z_0| < R \\}$ is contained in $U$.
+of $f$ at $z_0 \in U$ converges to $f$ on a disk $D := \\{z \in \mathbb{C}\\,:\\, |z - z_0| < R \\}$ of radius $r > 0$ that is contained in $U$.
