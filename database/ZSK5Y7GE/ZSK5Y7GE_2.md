@@ -3,3 +3,5 @@
 $$
 \int_{a}^{b+\epsilon} f(t) \\, dt = \int_{a}^{b} f(t) \\, dt + f(b) \epsilon + o(\epsilon)
 $$
+
+for $a, b \in I$.
