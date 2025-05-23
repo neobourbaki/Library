@@ -25,6 +25,12 @@
         "98SB2AL0_c": {
             "language": "en",
             "dependencies": {
+            },
+            "comment": "little o"
+        },
+        "98SB2AL0_d": {
+            "language": "en",
+            "dependencies": {
                 "8M50VAGG": "derivative of a function --of a single variable in a normed field"
             },
             "comment": ""
