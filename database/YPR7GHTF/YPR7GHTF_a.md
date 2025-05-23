@@ -12,4 +12,4 @@ $$
 \lim_{y \to 0} (iy)^n \sin \frac{1}{iy} = \lim_{y \to 0} (iy)^n \frac{e^{1/y} - e^{-1/y}}{2i}
 $$
 
-which is $\infty$ up to some constant (of $\pm i$). Therefore, $z=0$ is not a removable singularity of $f(z)$, by a theorem of Riemann.
+which is $\infty$ up to some constant (of $\pm i$). Therefore, $f(z)$ can not be (analytically) continued to $z = 0$.
