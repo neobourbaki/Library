@@ -4,7 +4,7 @@ $$
 \sum_{n=0}^\infty \frac{f^{(n)}(z_0)}{n!}(z - z_0)^n
 $$
 
-of $f$ at $z_0 \in U$ converges to $f$ on any, hence the largest, disk $D_{z_0}(R) = \\{z \in \mathbb{C}\\,:\\, |z - z_0| < R \\}$ contained in $U$, i.e., 
+of $f$ at $z_0 \in U$ converges to $f$ on any, hence the largest, disk $D_{z_0}(R) := \\{z \in \mathbb{C}\\,:\\, |z - z_0| < R \\}$ contained in $U$, i.e., 
 
 $$
 \sum_{n=0}^\infty \frac{f^{(n)}(z_0)}{n!}(z - z_0)^n = f(z)
