@@ -1,7 +1,7 @@
 We shall examine the limit of $f(z)$ as $z$ approaches 0 along different directions. Along the real axis ($z = x$),
 
 $$
-\lim_{x \to 0} x^n \sin \frac{1}{x} = 0 \\qquad n > 1
+\lim_{x \to 0} x^n \sin \frac{1}{x} = 0 \\qquad n \geq 1
 $$
 
 and along the imaginary axis ($z = iy$),
